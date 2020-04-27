@@ -14,8 +14,10 @@
 Dette området inneholder følgende:
 
 - [Om universell utforming i NAV](/)
-- [Sjekklister](/)
-- [Teknikker](/)
+- [Tema](/)
+    - [Bilder](/)
+    - [Lenker](/)
+    - [Skjema](/)
 - [Verktøykasse](/)
 
 ## Kontakt

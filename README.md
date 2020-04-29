@@ -18,9 +18,7 @@ Dette området inneholder følgende:
 - [Tema](/tema)
     - [Bilder](/tema/bilder)
     - [Skjema](/tema/skjema)
-- [Verktøykasse](/verktøy)
-    - [Manuelle verktøy](/verktøy/manuelle.md)
-    - [Automatiske verktøy](/verktøy/automatiske.md)
+- [Verktøykasse](verktøykasse.md)
 
 ## Kontakt
 

@@ -13,8 +13,8 @@
 
 Dette området inneholder følgende:
 
-- [Om universell utforming i NAV](om-uu-i-nav.md)
-- [Tilgjengelighetspolicy][uu-policy.md]
+- [Om universell utforming i NAV](/om-uu-i-nav.md)
+- [Tilgjengelighetspolicy][/uu-policy.md]
 - [Tema](/tema)
     - [Bilder](/tema/bilder)
     - [Skjema](/tema/skjema)

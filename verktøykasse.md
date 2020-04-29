@@ -44,23 +44,27 @@
 
 ## Automatisk testing
 
+>Advarsel
+>
+>Det er viktig å være klar over at automatisk testing vanligvis bare avdekker ~30% av feil, og at man helst bør kombinere disse med både brukertester og manuelle ekspertevalueringer i tillegg.
+
 ### Linting
 
-- Vue ESLint
-- JSX ESLint
-- JSX TSLint
-- Angular Codelyzer
+- [**Vue ESLint**](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue.
+- [**JSX ESLint**](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements.
+- [**JSX TSLint**](https://github.com/joaovieira/tslint-react-a11y#readme) - JSX a11y lint rules for TSLint.
+- [**Angular Codelyzer**](https://github.com/mgechev/codelyzer#readme) - A set of tslint rules for static code analysis of Angular TypeScript projects.
 
 ### Enhetstester
 
-- Jest Axe
+- [**Jest Axe**](https://github.com/nickcolley/jest-axe) - Custom Jest matcher for aXe for testing accessibility.
 
 ### Ende-til-ende
 
-- axe-core
+- [**axe-core**](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing https://www.deque.com/axe/
 
 ### CI/CD
 
-- Pa11y
+- [**Pa11y**](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal. It runs accessibility tests on your pages via the command line or Node.js, so you can automate your testing process.
 
 Takk til Kristoffer Nordström for denne flotte oversikten i [hans artikkel på Kode24.no](https://www.kode24.no/kodenytt/5-verktoy-for-bedre-tilgjengelighet/72149017).

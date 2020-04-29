@@ -13,7 +13,7 @@
 
 Dette området inneholder følgende:
 
-- [Om universell utforming i NAV](/om-universell-utforming-i-nav.md)
+- [Om universell utforming i NAV](/om-uu-i-nav.md)
 - [Tema](/tema)
     - [Bilder](/tema/bilder)
     - [Skjema](/tema/skjema)

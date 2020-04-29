@@ -44,7 +44,7 @@
 
 ## Automatisk testing
 
->**Advarsel**
+>#### Advarsel
 >
 >Det er viktig å være klar over at automatisk testing vanligvis bare avdekker ~30% av feil, og at man helst bør kombinere disse med både brukertester og manuelle ekspertevalueringer i tillegg.
 

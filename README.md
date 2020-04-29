@@ -13,12 +13,13 @@
 
 Dette området inneholder følgende:
 
-- [Om universell utforming i NAV](/)
-- [Tema](/)
-    - [Bilder](/)
-    - [Lenker](/)
-    - [Skjema](/)
-- [Verktøykasse](/)
+- [Om universell utforming i NAV](/om-universell-utforming-i-nav.md)
+- [Tema](/tema)
+    - [Bilder](/tema/bilder)
+    - [Skjema](/tema/skjema)
+- [Verktøykasse](/verktøy)
+    - [Manuelle verktøy](/verktøy/manuelle.md)
+    - [Automatiske verktøy](/verktøy/automatiske.md)
 
 ## Kontakt
 

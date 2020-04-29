@@ -18,7 +18,7 @@ Begrepet «bilde» favner i denne konteksten både fotografier, illustrasjoner, 
 
 Bilder som ikke er meningsbærende (for eksempel bare til pynt eller overflødig) skal ikke ha noe alt-text, men <strong>husk</strong> å gi dem et tomt alt-attributt:
 
-|**Gjør:**|**Ikke gjør:**|
+|**✅ Gjør:**|**🚫 Ikke gjør:**|
 |:-|:-|
 |`<img src="pynt.jpg" alt="" />`|`<img src="pynt.jpg" />`|
 

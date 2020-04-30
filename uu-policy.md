@@ -11,3 +11,5 @@ Alle nettsider, digitale tjenester eller dokumenter som er bygd eller vesentlig 
 Fra samme dato skal også hver tjeneste ha en tilgjengelighetserklæring, som informerer over eventuelle feil knyttet til tilgjengelighet, samt informasjon om mulige alternativer og når feilen skal rettes. Erklæringene oppdateres minst én gang i året, minst én gang i kvartal for løsninger som oppdateres én gang i måneden eller hyppigere. NAV bruker NAV bruker fellesløsningen fra Digitaliseringsdirektoratet.
 
 I tillegg skal brukerne ha en tydelig mulighet til å si ifra om eventuelle andre feil de finner, og ha mulighet til å få tilbakemelding på feilen de har meldt inn. Dette innebærer at feilene sorteres (per i dag av førstelinje), rutes til teamene og at innmelder (hvis hun ønsker) får et svar i løpet av 3 uker.
+
+Osv...

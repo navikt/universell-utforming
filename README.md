@@ -22,3 +22,4 @@ I følge Verdens helseorganisasjon lever omtrent [15 prosent av verdens befolkni
 |Tale|Ikke-verbal|Laryngitt|Sterk aksent|
 
 ...
+

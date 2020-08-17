@@ -1,0 +1,13 @@
+name: Master
+on:
+  push:
+    branches: master
+jobs:
+  ci:
+    name: Trigger build & deploy @ webapp-repo
+    runs-on: ubuntu-latest
+    steps:
+      - uses: peter-evans/repository-dispatch@v1.1.1
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          event-type: new-content

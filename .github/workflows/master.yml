@@ -9,5 +9,6 @@ jobs:
     steps:
       - uses: peter-evans/repository-dispatch@v1.1.1
         with:
+          repository: navikt/uu
           token: ${{ secrets.ACCESS_TOKEN }}
           event-type: new-content

@@ -1,6 +1,6 @@
 # Universell utforming i NAV IT
 
-Å leve med nedsatt funksjonsevne fører ofte med seg utfordringer i dagliglivet, deriblant bruk av teknologi. Defor skal alle digitale løsninger vi bygger i NAV være universelt utformet slik at de aller fleste kan klare seg selv.
+<p class="typo-ingress">Å leve med nedsatt funksjonsevne fører ofte med seg utfordringer i dagliglivet, deriblant bruk av teknologi. Defor skal alle digitale løsninger vi bygger i NAV være universelt utformet slik at de aller fleste kan klare seg selv.</p>
 
 ## Nødvendig for noen, bra for alle
 

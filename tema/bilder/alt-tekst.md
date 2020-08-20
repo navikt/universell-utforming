@@ -22,6 +22,22 @@ Bilder som ikke er meningsbærende (for eksempel bare til pynt eller overflødig
 |:-|:-|
 |`<img src="pynt.jpg" alt="" />`|`<img src="pynt.jpg" />`|
 
+### Kodeblokk test
+
+```jsx
+<Input
+    id="min-input"
+    label={
+        <div style={{display: 'flex'}}>
+            Fødselsnummer
+            <Hjelpetekst>
+                Innholdet vil vises når brukeren klikker på knappen.
+            </Hjelpetekst>
+        </div>
+    }
+/>
+```
+
 Skjermlesere trenger et tomt alt-attributt for å vite at de skal ignorere bildet. For bilder uten alt-attributt er det fare for at skjermlesere leser opp kilde-attributtet i stedet.
 
 ## Er bildet «meningsbærende»?

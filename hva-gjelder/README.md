@@ -18,5 +18,7 @@ NAV stiller krav til universell utforming i alt vi gjør. Forskriften for univer
 - [x] [Tilgjengelighetserklæring]() er skrevet.
 - [x] [Tilbakemeldingsfunksjon]() fungerer og endringsrutiner er etablert.
 
+[Hvordan få det til?]()
+
 ## Hvem er ansvarlig for unviersell utforming i våre løsninger?
 Det er teamene som lager og forvalter løsningene som i praksis er ansvarlig for UU i løsningene. Mer om [ansvarsfordeling for UU i NAV]()

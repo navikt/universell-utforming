@@ -12,7 +12,7 @@ NAV stiller krav til universell utforming i alt vi gjør. Forskriften for univer
   
 ## Hva må jeg oppnå for å være i tråd med minimumskravene?
 
-- [x] Løsningen tilfredsstiller [lovpålagt minimumsnivå]().
+- [x] Løsningen tilfredsstiller [lovpålagt minimumsnivå (uu.difi.no)](https://uu.difi.no/krav-og-regelverk/kva-seier-forskrifta).
 - [x] WCAG-Feil på nivå A og AA er rettet opp og blir fortløpende rettet.
 - [x] Avvik fra WCAG 2.1 AA er begrunnet skriftlig.
 - [x] [Tilgjengelighetserklæring]() er skrevet.

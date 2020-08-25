@@ -4,7 +4,7 @@
   
 ## Er det de samme kravene for alle våre tjenester?
 
-NAV stiller krav til universell utforming i alt vi gjør. Forskriften for universell utforming av IKT gjelder per i dag bare for innbygertjenester, men de er like viktige internt. [Mer om de forskjellige lovverkene og fristene]().
+NAV stiller krav til universell utforming i alt vi gjør. Forskriften for universell utforming av IKT gjelder per i dag bare for innbygertjenester, men de er like viktige internt. [Mer om de forskjellige lovverkene og fristene](/hva-gjelder/lovverk.md).
 
 * **Innbyggertjenester**: Alle digitale tjenester og kontaktpunkter skal følge Forskrift om universell utforming av IKT og ha en Tilgjengelighetserklæring. Dette er minimumskravene, vi skal jobbe med virkelig inkluderende tjenester, og tenke på kryssdiskriminering og corner-cases når vi utvikler tjenester. 
 * **Interne systemer**: Nye løsninger skal fungere sammen med hjelpeteknologi og være i tråd med forskriften, og eldre løsninger oppgraderes der mulig.

@@ -14,3 +14,19 @@ Dette er minimumskrav, som sikrer et basisnivå av tilgjengelighet. Det anbefale
 ### Hvilke frister gjelder?
 Forskriften har vært i kraft siden 1. juli 2014, og alle løsninger som ble utviklet, kjøpt eller betydelig oppdatert fra denne datoen er omfattet.
 Fra 1. januar 2021 må all nettinnhold rettet mot allmenheten være i tråd med kravene. Husk at dette også gjelder alle våre PDF-er, som skjemaer eller artikler som vi legger ut på nettet.
+
+## Kommende lovgiving (1): Nye krav som følge av EUs Web Accessibility Direktiv (WAD) - 2021
+
+EUs Web Accessibility Direktiv blir for tiden tatt inn i Norsk lovverk.
+
+Norge er forsinket og det er usikker hvilke frister som settes og hvordan noen enkelte krav i direktivet blir tolket. Det er blant annet ikke avklart om en del kravene bare kommer til å gjelde offentlig sektor, det offentlige pluss større private aktører eller alle, både private og offentlige aktører.
+
+### Hvilke krav stilles?
+Det blir en oppdatering fra WCAG 2.0 til WCAG 2.1. I tillegg blir noen krav fra WCAG 2.0 som er unntatt per i dag, tatt med inn i forskriften.
+
+Det stilles krav til en tilgjengelighetserklæring og en tilbakemeldingsfunksjon for uu-feil. Vi jobber sammen med Tilsynet for universell utforming og noen andre etater på en felles løsning for erklæringen.
+
+Kravene kommer også til å omfatte intranett, ekstranett og apper.
+
+### Hvilke frister gjelder?
+Det jobbes mot å ha de samme fristene som i dagens lovgiving, det vil si at kravene gjelder fra 1. januar 2021.

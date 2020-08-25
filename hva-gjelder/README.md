@@ -15,7 +15,7 @@ NAV stiller krav til universell utforming i alt vi gjør. Forskriften for univer
 - [x] Løsningen tilfredsstiller [lovpålagt minimumsnivå (uu.difi.no)](https://uu.difi.no/krav-og-regelverk/kva-seier-forskrifta).
 - [x] WCAG-Feil på nivå A og AA er rettet opp og blir fortløpende rettet.
 - [x] Avvik fra WCAG 2.1 AA er begrunnet skriftlig.
-- [x] [Tilgjengelighetserklæring]() er skrevet.
+- [ ] [Tilgjengelighetserklæring]() er skrevet.
 - [x] [Tilbakemeldingsfunksjon]() fungerer og endringsrutiner er etablert.
 
 [Hvordan få det til?]()

@@ -15,8 +15,30 @@ Disse punktene utgjør universell-utformings-delen av NAVs risikovurdering, og e
 - [ ] Teamet har dialog med UU-teamet.
 
 ## WCAG-sjekk
+Oppfyller dere WCAG-kravene (WCAG 2.0 på nivå A og AA), møter dere aktuelle lovkrav. 
 
+### Automatisert testing
+Basistesting som kan finne circa 20-30 prosent av mulige feil.
+
+- [ ] Automatisert testing er en [del av byggeprosessen](https://github.com/navikt/uu-testing)
+- [ ] Teamet benytter [anbefalte verktøy]()
+
+### Manuell testing
+For å avdekke og evaluere punktene automatisert testing ikke kan dekke.
+
+- [ ] [Manuell sjekk av sidene]() er del av rutinene
+- [ ] [Manuell testing med hjelpemidler]() er en del av rutinene
 
 ## Brukerinvolvering
+Slik sikrer dere at løsningen møter reelle brukerbehov og -forutsetninger.
 
+### Innsiktsarbeid
+
+- [ ] Innsiktsarbeid involverer personer med forskjellige bakgrunn og funksjonsevne.
+- [ ] Teamet går gjennom spesifikke utfordringer forskjellige brukergrupper kan møte i løsningen.
+
+### Testing med brukere
+
+- [ ] Brukertesting med reelle brukere er gjennomført.
+- [ ] Tester sammen med personer som bruker hjelpemidler er gjennomført, for eksempel gjennom ["test min løsning"]()
 

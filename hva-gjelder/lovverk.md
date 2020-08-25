@@ -29,4 +29,16 @@ Det stilles krav til en tilgjengelighetserklæring og en tilbakemeldingsfunksjon
 Kravene kommer også til å omfatte intranett, ekstranett og apper.
 
 ### Hvilke frister gjelder?
-Det jobbes mot å ha de samme fristene som i dagens lovgiving, det vil si at kravene gjelder fra 1. januar 2021.
+Planen var å ha de samme fristene som i dagens lovgiving, det vil si at kravene gjelder fra 1. januar 2021. Arbeidet er forsinket, og det er uklart når WAD blir del av norsk lovverk.
+
+## Kommende lovgiving (2): EUs tilgjengelighetsdirektiv (European Accessibility Act) - 2022 / 2025
+
+EUs direktiv om tilgjengelighetskrav for produkter og tjenester (EU 2019/882) ble vedtatt og publisert i Official Journal 7. juni 2019. Direktivet er EØS-relevant og skal derfor inn i norsk rett. Kulturdepartementet holder i dette arbeidet.
+
+### Hvilke krav stilles?
+Direktivet omfatter en rekke forskjellige typer varer og tjenester, herunder E-handel, finansielle tjenester og audiovisuelle medietjenester.
+
+Ikke enda tydelig hvordan disse kravene kommer til å treffe NAV i detalj, men det blir mer fokus på hele tjenester og 
+
+### Hvilke frister gjelder?
+Direktivet skal tas inn i Norsk lovverk innen 28. juni 2022. Kravene gjelder hovedsakelig fra 28. juni 2025.

@@ -1,28 +1,9 @@
 # Universell utforming i NAV IT
 
-<p class="typo-ingress">Å leve med nedsatt funksjonsevne fører ofte med seg utfordringer i dagliglivet, deriblant bruk av teknologi. Defor skal alle digitale løsninger vi bygger i NAV være universelt utformet slik at de aller fleste kan klare seg selv.</p>
+<p class="typo-ingress">Tjenester til befolkningen må fungere for alle som trenger dem. Gjør vi dette, er vi med på å skape et inkluderende samfunn, der folk i størst mulig grad kan leve sine liv uten hjelp.</p>
 
-## Nødvendig for noen, bra for alle
-
-I følge Verdens helseorganisasjon lever omtrent [15 prosent av verdens befolkning](https://www.who.int/disabilities/world_report/2011/report/en/) med en eller annen form for permanent nedsatt funksjonsevne. Samtidig kan vi alle oppleve å få midlertidig nedsatt funksjonsevne som følge av f.eks. uhell eller sykdom. Det betyr at tilpasninger som er nødvendig for noen, kan være bra for alle i blant.
-
-<alertstripe type="info">
-    <h4>Eksempler</h4>
-    <ul>
-        <li>Tekstede videoer er bra for hørselshemmede og bra for en pendler på toget.</li>
-        <li>God lesbarhet er ikke bare nødvendig for sterkt synshemmede, det er også fint for de som «bare» har glemt lesebrillene hjemme.</li>
-        <li>At nettsidene kan brukes med tastaturet er bra både for en med nedsatt motorikk og en med senebetennelse.</li>
+<p><ul>
+    <li>[Hva gjelder?](http://google.com)</li>
+    <li>[Hvordan få det til?](http://google.com)</li>
     </ul>
-</alertstripe>
-
-## Eksempler på funksjonshemninger
-
-| |Permanent|Midlertidig|Situasjonsbetinget
-|-|-|-|-|
-|Bevegelse|Èn arm|Brukket arm|Nybakt mor/far|
-|Syn|Blind|Glemt briller|Uoppmerksom sjåfør|
-|Hørsel|Døv|Øreinfeksjon|Bartender|
-|Tale|Ikke-verbal|Laryngitt|Sterk aksent|
-
-...
-
+</p>

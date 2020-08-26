@@ -21,4 +21,4 @@ NAV stiller krav til universell utforming i alt vi gjør. Forskriften for univer
 [Hvordan få det til?]()
 
 ## Hvem er ansvarlig for unviersell utforming i våre løsninger?
-Det er teamene som lager og forvalter løsningene som i praksis er ansvarlig for UU i løsningene. Mer om [ansvarsfordeling for UU i NAV]()
+Det er teamene som lager og forvalter løsningene som i praksis er ansvarlig for UU i løsningene. Mer om [ansvarsfordeling for UU i NAV](/hva-gjelder/ansvarsfordeling.md)

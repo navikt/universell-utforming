@@ -1,4 +1,4 @@
-# Anbefalte verktøy for automatisert UU-testing
+# Anbefalte verktøy for automatisert WCAG-sjekk
 
 Vi anbefaler verktøyene:  
 - SortSite 

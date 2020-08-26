@@ -42,7 +42,7 @@ Planen var å ha de samme fristene som i dagens lovgiving, det vil si at kravene
 ### Hvilke krav stilles?
 Direktivet omfatter en rekke forskjellige typer varer og tjenester, herunder E-handel, finansielle tjenester og audiovisuelle medietjenester.
 
-Ikke enda tydelig hvordan disse kravene kommer til å treffe NAV i detalj, men det blir mer fokus på hele tjenester og 
+Ikke enda tydelig hvordan disse kravene kommer til å treffe NAV i detalj, men det blir mer fokus på hele tjenester. 
 
 ### Hvilke frister gjelder?
 Direktivet skal tas inn i Norsk lovverk innen 28. juni 2022. Kravene gjelder hovedsakelig fra 28. juni 2025.

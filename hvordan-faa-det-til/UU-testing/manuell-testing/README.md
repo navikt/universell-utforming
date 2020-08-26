@@ -24,7 +24,16 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 - [Kodekvalitet]()
 - ...
 / er det hensiktsmessig med en side per tema? Eller bedre å slå sammen, slik at man slipper å klikke for mye frem og tilbake når man tester?/
-/ hvor bør vi ta inn det å teste selv med hjelpemidler? /
+
+### Teste selv med hjelpemidler
+Du kan teste selv med hjelpemidler som skjermleser eller skjermforstørrer. Hvis du ikke bruker verktøyene i hverdagen, blir det ikke helt hvordan en reell bruker opplever løsningen, men du kan finne en god del feil.
+
+- [Hvordan bruke skjermlesere for testing]()
+- [Hovrdan bruke skjermforstørrere for testing]()
+- ...flere?
+
+Du finner også en rekke simuleringsverktøy (både digitalt og analogt) i [Empatilaben]() i 1 UG i Fyrstikkalleen. 
+
 
 ## Ønsker du å lære mer og hvordan Tilsynet tester?
 Tilsynets testprosedyrer for evaluering av nettløsninger er anerkjent i EU, og er en god kilde om du ønsker å vite hvordan Tilsynet tolker kravene.  Lenkene fører deg til Tilsynets veiledningssider.

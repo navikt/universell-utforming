@@ -1,5 +1,7 @@
 # Lovviging og frister
 
+/illustrasjon tidslinje/
+
 ## Dagens lovgiving: Fra 1. januar 2021 må all ekstern nettinnhold være universelt utformet
 
 I Norge gjelder [Forskriften om universell utforming av IKT](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732), med hjemmel i [Likestillings- og Diskrimineringsloven](https://lovdata.no/dokument/NL/lov/2017-06-16-51?q=likestilling).

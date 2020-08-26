@@ -22,4 +22,4 @@ Per i dag [WCAG 2.0](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden) ni
 [Hvordan få det til?]()
 
 ## Hvem er ansvarlig for unviersell utforming i våre løsninger?
-Det er teamene som lager og forvalter løsningene som i praksis er ansvarlig for UU i løsningene. Mer om [ansvarsfordeling for UU i NAV](/hva-gjelder/ansvarsfordeling.md)
+Det er teamene som lager og forvalter løsningene som i praksis er ansvarlig for UU i løsningene. Mer om [ansvarsfordeling for UU i NAV](/hva-gjelder/ansvarsfordeling.md).

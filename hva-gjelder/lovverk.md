@@ -1,6 +1,6 @@
 # Lovviging og frister
 
-## Innbyggerløsninger
+## Innbyggertjenester
 
 /illustrasjon tidslinje/
 
@@ -49,5 +49,13 @@ Ikke enda tydelig hvordan disse kravene kommer til å treffe NAV i detalj, men d
 #### Hvilke frister gjelder?
 Direktivet skal tas inn i Norsk lovverk innen 28. juni 2022. Kravene gjelder hovedsakelig fra 28. juni 2025.
 
-## Interne løsninger
-....
+## Interne systemer
+Interne systemer er per i dag ikke enda omfattet av Forskriften for universell utforming av IKT.
+Her gjelder det istedenfor [rett til individuell tilrettelegging](https://lovdata.no/dokument/NL/lov/2017-06-16-51/KAPITTEL_3#shareModal). Individuelle tilpasninger er i realiteten vanskelig å oppnå, og blir ofte nedprioritert med hensyn til kostnader og merarbeid. Dette medfører at NAV-ansatte ikke (lenger) kan utføre arbeidet sitt hvis systemene ikke fungerer med deres hjelpemidler.
+
+Derfor stiller vi de samme kravene til nye interne systemer. Eksisterende interne systemer skal oppdateres så fort som mulig.
+
+## Løsninger NAV kjøper
+Vi stiller de samme kravene for løsninger vi kjøper som for egenutviklete løsninger. Dette kan være programvare som installeres internt, eller eksterne løsninger som skyløsninger. 
+
+Skulle det ved avtaleinngåelse finnes mangler i forhold til NAVs tilgjengelighetsstandard, er leverandør ansvarlig for å få feilene rettet. Leverandør må legge frem en plan for å fikse feil og mangler innen en avtalt frist, og de må dokumentere at de har nødvendig kompetanse og ressurser til å ordne dette. 

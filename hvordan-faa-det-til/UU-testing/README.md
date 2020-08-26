@@ -18,6 +18,6 @@ Gi designsystemteamet og uu-teamet fortløpende tilbakemeldinger om du oppdager 
 
 **Automatiserte testverktøy** kan finne mange relevante WCAG-brudd. Likevel dekker dem bare circa 20-30 prosent av eventuelle feil, resten krever **manuell test**, gjerne også med hjelpemiddelteknologi. Husk også å **teste med reelle brukere**, både med og uten hjelpemiddel, for å se om løsningen virkelig fungerer.
 
-- [Anbefalte verktøy for automatisert test]()
-- [Veileder for manuell testing]()
+- [Anbefalte verktøy for automatisert WCAG-sjekk]()
+- [Veileder for manuell WCAG-sjekk]()
 - [Brukertesting med personer med hjelpemidler]()

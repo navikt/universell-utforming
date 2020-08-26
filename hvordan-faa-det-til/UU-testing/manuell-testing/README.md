@@ -1,4 +1,4 @@
-# Manuell WCAG-testing
+# Manuell WCAG-sjekk
 
 Testverktøyene tester kun en liten prosentdel av WCAG 2.1. Du må derfor sjekke endel ting manuelt. Listene nedenfor er laget som et hjelpemiddel for de som er litt erfarne innen fagfeltet. De inneholder derfor kun forenklede tester, uten detaljerte teststeg. Dette er gjort på grunn av at det skal gå raskt. Det er også ulike måter å teste dette.   
  
@@ -9,7 +9,7 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 - [Hvordan teste universell utforming av ditt nettsted](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted)
 
 
-## Dette må du alltid sjekke manuelt
+## Dette må du alltid teste manuelt
 
 - [Tastaturnavigasjon]()
 - [Forstørring og responsiv design]()

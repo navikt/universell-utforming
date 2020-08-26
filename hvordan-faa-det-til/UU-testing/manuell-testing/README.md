@@ -23,7 +23,7 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 - [Språk]()
 - [Kodekvalitet]()
 - ...
-/ er det hensiktsmessig med en side per tema? Eller bedre å slå sammen?/
+/ er det hensiktsmessig med en side per tema? Eller bedre å slå sammen, slik at man slipper å klikke for mye frem og tilbake når man tester?/
 / hvor bør vi ta inn det å teste selv med hjelpemidler? /
 
 ## Ønsker du å lære mer og hvordan Tilsynet tester?

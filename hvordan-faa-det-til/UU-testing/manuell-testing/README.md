@@ -26,7 +26,7 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 / er det hensiktsmessig med en side per tema? Eller bedre å slå sammen, slik at man slipper å klikke for mye frem og tilbake når man tester?/
 
 ### Teste selv med hjelpemidler
-Du kan teste selv med hjelpemidler som skjermleser eller skjermforstørrer. Hvis du ikke bruker verktøyene i hverdagen, blir det ikke helt hvordan en reell bruker opplever løsningen, men du kan finne en god del feil.
+Du kan teste selv med hjelpemidler som skjermleser eller skjermforstørrer. Hvis du ikke bruker verktøyene i hverdagen, blir det ikke helt hvordan en reell bruker opplever løsningen, men du kan oppdage en god del feil eller vanskeligheter.
 
 - [Hvordan bruke skjermlesere for testing]()
 - [Hovrdan bruke skjermforstørrere for testing]()

@@ -27,8 +27,7 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 / hvor bør vi ta inn det å teste selv med hjelpemidler? /
 
 ## Ønsker du å lære mer og hvordan Tilsynet tester?
-Tilsynets testprosedyrer for evaluering av nettløsninger er anerkjent i EU, og er en god kilde om du ønsker å vite hvordan Tilsynet tolker kravene.  
-Lenkene fører deg til Tilsynets veiledningssider.
+Tilsynets testprosedyrer for evaluering av nettløsninger er anerkjent i EU, og er en god kilde om du ønsker å vite hvordan Tilsynet tolker kravene.  Lenkene fører deg til Tilsynets veiledningssider.
 
 - [Om testprosedyrene og indikatorer for universell utforming av nettsteder](https://uu.difi.no/krav-og-regelverk/testprosedyrar-nettstader/om-testprosedyrar-og-indikatorar-universell-utforming-av-nettstader)
 - [Laste ned tilsynets testindikatorer.](https://uu.difi.no/krav-og-regelverk/testprosedyrar-nettstader)

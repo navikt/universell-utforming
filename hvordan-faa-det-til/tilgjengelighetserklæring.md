@@ -11,4 +11,4 @@ Tilgjengelighetserklæringen skal ha:
 
 I sammenheng med tilgjengelighetserklæringen skal løsningen også ha en [tilbakemeldingskanal](/hvordan-faa-det-til/tilbakemeldingskanal) der bruker kan melde inn flere UU-feil.
 
-NAV er med i dette arbeidet. Hvis du har innspill eller spørsmål, ta gjerne kontakt på uu@nav.no, eller på NAV-intern slack-kanal #nav-uu.
+NAV er med i arbeidet rundt en sentral løsning. Hvis du har innspill eller spørsmål, ta gjerne kontakt på uu@nav.no, eller på NAV-intern slack-kanal #nav-uu.

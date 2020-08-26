@@ -3,7 +3,7 @@
 ## Suksessfaktorer
 Disse punktene utgjør universell-utformings-delen av NAVs risikovurdering, og er suksessfaktorer for å oppnå god UU.
 
-- [ ] Teamet bruker Designsystemet.
+- [ ] Teamet bruker [Designsystemet](https://design.nav.no/).
 - [ ] Teamet har en felles forståelse av UU og ønsker å levere universelt utformete løsninger.
 - [ ] Design-for-alle-mindset er med i alle faser av arbeidet.
 - [ ] Teamet har minst en UU-Champ.

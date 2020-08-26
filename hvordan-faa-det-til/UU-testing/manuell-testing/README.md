@@ -28,7 +28,7 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 ### Teste selv med hjelpemidler og simulatorer
 Du kan teste selv med hjelpemidler som skjermleser eller skjermforstørrer. Hvis du ikke bruker verktøyene i hverdagen, blir det ikke helt hvordan en reell bruker opplever løsningen, men du kan oppdage en god del feil eller vanskeligheter.
 
-På [verktøysiden] finner du informasjon om forskjellige hjelpemiddel og nettleser-plug-ins. 
+På [verktøysiden](/hvordan-faa-det-til/UU-testing/verktøykasse.md) finner du informasjon om forskjellige hjelpemiddel og nettleser-plug-ins. 
 Du kan også prøve en rekke simuleringsverktøy (både digitalt og analogt) i [Empatilaben] i 1 UG i Fyrstikkalleen. 
 
 

@@ -12,7 +12,7 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 
 Du kan også kontakte uu-teamet for spørsmål. Skriv til oss på uu@nav.no eller i NAV-intern slack-kanal #nav-uu.
 
-## Temaer for manuell WCAG-sjekk
+## Dette må du alltid sjekke manuelt
 
 - [Tastaturnavigasjon]()
 - [Forstørring og responsiv design]()

@@ -17,5 +17,13 @@ Du kan også kontakte uu-teamet for spørsmål. Skriv til oss på uu@nav.no elle
 - [Tastaturnavigasjon]()
 - [Forstørring og responsiv design]()
 - [Fargekontrast]()
+- [Overskrifter]()
+- [Lenker]()
+- [Bilder]()
+- [Skjema]()
+- [Søkefunksjon]()
+- [Sidetitler]()
+- [Språk]()
+- [Kodekvalitet]()
 - ...
 / er det hensiktsmessig med en side per tema? Eller bedre å slå sammen?/

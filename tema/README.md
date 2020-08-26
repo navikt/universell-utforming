@@ -1,3 +1,0 @@
-# Tema
-
-Startside for Tema-området...

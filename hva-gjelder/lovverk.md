@@ -59,3 +59,5 @@ Derfor stiller vi de samme kravene til nye interne systemer. Eksisterende intern
 Vi stiller de samme kravene for løsninger vi kjøper som for egenutviklete løsninger. Dette kan være programvare som installeres internt, eller eksterne løsninger som skyløsninger. 
 
 Skulle det ved avtaleinngåelse finnes mangler i forhold til NAVs tilgjengelighetsstandard, er leverandør ansvarlig for å få feilene rettet. Leverandør må legge frem en plan for å fikse feil og mangler innen en avtalt frist, og de må dokumentere at de har nødvendig kompetanse og ressurser til å ordne dette. 
+
+[Kravliste for bruk i anskaffelser](/hva-gjelder/krav-til-anskaffelser.md)

@@ -22,12 +22,12 @@ Oppfyller dere WCAG-kravene (WCAG 2.0 på nivå A og AA), møter dere aktuelle l
 Basistesting som kan finne circa 20-30 prosent av mulige feil.
 
 - [ ] Automatisert testing er en [del av byggeprosessen](https://github.com/navikt/uu-testing)
-- [ ] Teamet benytter [anbefalte verktøy]
+- [ ] Teamet benytter [anbefalte verktøy](/hvordan-faa-det-til/UU-testing/automatisert-test/README.md)
 
 ### Manuell testing
 For å avdekke og evaluere punktene automatisert testing ikke kan dekke.
 
-- [ ] [Manuell WCAG-sjekk av sidene] er del av rutinene
+- [ ] [Manuell WCAG-sjekk av sidene](hvordan-faa-det-til/UU-testing/manuell-testing/README.md) er del av rutinene
 - [ ] [Manuell testing med hjelpemidler] er en del av rutinene
 
 ## Brukerinvolvering

@@ -2,16 +2,9 @@
 
 ## Hvordan tester jeg?
 
-**Automatiserte testverktøy** kan finne mange relevante WCAG-brudd.
-
-Likevel dekker dem bare circa 20-30 prosent av eventuelle feil, resten krever **manuell test**, gjerne også med hjelpemiddelteknologi.  
-
-Husk også å **teste med reelle brukere**, både med og uten hjelpemiddel, for å se om løsningen virkelig fungerer.
-
-
-- [Anbefalte verktøy for automatisert WCAG-sjekk]
-- [Veileder for manuell WCAG-sjekk](hvordan-faa-det-til/UU-testing/manuell-testing/README.md)
-- [Brukertesting med personer med hjelpemidler]
+- [Anbefalte verktøy for automatisert WCAG-sjekk] kan finne mange relevante WCAG-brudd, men dekker bare circa 20-30 prosent av eventuelle feil.
+- [Veileder for manuell WCAG-sjekk](hvordan-faa-det-til/UU-testing/manuell-testing/README.md) kan avdekke resten av WCAG-feilene.
+- [Brukertesting med personer med hjelpemidler] er viktig for å avdekke at løsningen virkelig fungerer.
 
 -------------
 

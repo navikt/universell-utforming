@@ -2,7 +2,8 @@
 
 **Juridisk ansvarlig** er alltid øverste NAV-leder, det vil si arbeids- og velferdsdirektøren.
 
-**Produktteam** er betegnelsen på de som utvikler eller forvalter en gitt løsning. Det er disse teamene som internt står ansvarlige for å sikre universell utforming og tilgjengelighet i «sin» løsning. Teamene skal sikre universell utforming på et så høyt nivå som mulig, ut fra sine vurderinger. En eventuell utsettelse eller nedprioritering har konsekvenser både juridisk og for brukeropplevelsen. Teamene må veie dette mot andre hensyn og krav. 
+**Produktteam** 
+Produktteam er betegnelsen på de som utvikler eller forvalter en gitt løsning. Det er disse teamene som internt står ansvarlige for å sikre universell utforming og tilgjengelighet i «sin» løsning. Teamene skal sikre universell utforming på et så høyt nivå som mulig, ut fra sine vurderinger. En eventuell utsettelse eller nedprioritering har konsekvenser både juridisk og for brukeropplevelsen. Teamene må veie dette mot andre hensyn og krav. 
 
 **Designsystemet** er et fagteam ansvarlig for å sikre at tilgjengelighetsstandarden følges i alle komponenter og templates de distribuerer til produktteamene. Dette gjelder både design og kode.
 

@@ -8,7 +8,7 @@ NAV stiller krav til universell utforming i alt vi gjør. Forskriften for univer
 
 * **Innbyggertjenester**:  Alle digitale tjenester og kontaktpunkter skal følge Forskrift om universell utforming av IKT og ha en Tilgjengelighetserklæring. Dette er minimumskravene, vi skal jobbe med virkelig inkluderende tjenester, og tenke på kryssdiskriminering og corner-cases når vi utvikler tjenester. 
 * **Interne systemer**:  Nye løsninger skal fungere sammen med hjelpeteknologi og være i tråd med forskriften, og eldre løsninger oppgraderes der mulig.
-* **Løsninger NAV kjøper**:  Skal være i tråd med forskriften.
+* **Løsninger NAV kjøper**:  Skal være i tråd med forskriften. ([Kravliste for bruk i anskaffelser](/hva-gjelder/krav-til-anskaffelser.md))
   
 ## Hva må jeg oppnå for å være i tråd med minimumskravene?
 

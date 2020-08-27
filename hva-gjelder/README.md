@@ -19,7 +19,7 @@ Per i dag [WCAG 2.0](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden) ni
 - [ ] [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet.
 - [ ] [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert.
 
-[Hvordan få det til?]()
+[Hvordan få det til?](/hvordan-faa-det-til/README.md)
 
 ## Hvem er ansvarlig for unviersell utforming i våre løsninger?
 Det er teamene som lager og forvalter løsningene som i praksis er ansvarlig for UU i løsningene. Mer om [ansvarsfordeling for UU i NAV](/hva-gjelder/ansvarsfordeling.md).

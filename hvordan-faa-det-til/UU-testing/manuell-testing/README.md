@@ -1,6 +1,8 @@
 # Manuell WCAG-sjekk
 
 Testverktøyene tester kun en liten prosentdel av WCAG 2.1. Du må derfor sjekke en del manuelt. Listene nedenfor er laget som et hjelpemiddel for de som er litt erfarne innen fagfeltet. De inneholder derfor kun forenklede tester, uten detaljerte teststeg. Dette er gjort på grunn av at det skal gå raskt. Det er også ulike måter å teste dette.   
+
+Kjør gjerne en [automatisert WCAG-test] først.
  
 ## Uerfaren?  
 
@@ -11,17 +13,17 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 
 ## Dette må du alltid teste manuelt
 
-- [Tastaturnavigasjon]()
-- [Forstørring og responsiv design]()
-- [Fargekontrast]()
-- [Overskrifter]()
-- [Lenker]()
-- [Bilder]()
-- [Skjema]()
-- [Søkefunksjon]()
-- [Sidetitler]()
-- [Språk]()
-- [Kodekvalitet]()
+- [Tastaturnavigasjon]
+- [Forstørring og responsiv design]
+- [Fargekontrast]
+- [Overskrifter]
+- [Lenker]
+- [Bilder]
+- [Skjema]
+- [Søkefunksjon]
+- [Sidetitler]
+- [Språk]
+- [Kodekvalitet]
 - ...
 / er det hensiktsmessig med en side per tema? Eller bedre å slå sammen, slik at man slipper å klikke for mye frem og tilbake når man tester?/
 

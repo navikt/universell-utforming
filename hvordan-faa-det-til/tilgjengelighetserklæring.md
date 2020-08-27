@@ -2,7 +2,7 @@
 
 Hver løsning skal ha en tilgjengelighetserklæring, som viser hvor godt løsningen møter WCAG-kravene. Brukerne skal lett kunne få en oversikt over hva som eventuelt ikke fungerer, hvorfor og hvilke alternativer de har. [Mer informasjon på Tilsynets sider](https://uu.difi.no/nyhet/2020/07/tilgjengelegheitserklaering).
 
-/video fra tilsynet /
+[![Tilgjengelighetserklæring](https://github.com/karinaldw/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/tilgjengelighetserklaring.png)](https://www.youtube.com/watch?v=Qz8MxUovp9I&feature=emb_imp_woyt "Tilgjengelighetserklæring")
 
 Tilsynet i Digitaliseringsdirektoratet jobber med en sentral løsning for tilgjengelighetserklæringen.
 

@@ -8,6 +8,8 @@
 - [Veileder for manuell WCAG-sjekk](hvordan-faa-det-til/UU-testing/manuell-testing/README.md)
 - [Brukertesting med personer med hjelpemidler]
 
+-------------
+
 ### Gode rutiner for suksess
 
 #### Gjør UU-testing til en naturlig del av utviklingsprosessen

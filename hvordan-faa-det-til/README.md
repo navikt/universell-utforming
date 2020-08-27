@@ -41,5 +41,5 @@ Slik sikrer dere at løsningen møter reelle brukerbehov og -forutsetninger.
 ### Testing med brukere
 
 - [ ] Brukertesting med reelle brukere er gjennomført.
-- [ ] Tester sammen med personer som bruker hjelpemidler er gjennomført, for eksempel gjennom ["test min løsning"]
+- [ ] Tester sammen med personer som bruker hjelpemidler er gjennomført, for eksempel gjennom ["test min løsning"](/hvordan-faa-det-til/UU-testing/brukertesting/test-min-løsning.md)
 

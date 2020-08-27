@@ -19,4 +19,4 @@ Det er også ikke alltid de tester det de i dokumentasjonen sier at de tester.
 
 Bruk verktøyene med omhu. Vi har tatt en nærmere titt på SortSite, ARC Toolkit og W3C sitt verktøy.  Vår erfaring viser at det kan lønne seg å bruke en kombinasjon av verktøy, siden de ikke kjører de samme testene.
  
-[-- lenken til vår oversikt ]()
+[-- lenken til vår oversikt ]

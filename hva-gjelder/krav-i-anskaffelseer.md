@@ -20,5 +20,3 @@ Trenger du bistand til å fortstå og følge opp kravene før, underveis og ette
 [^2]  http://www.w3.org/TR/ATAG20/
 
  Henvisninger til standarder skal forstås som standarden eller tilsvarende.
- 
- Here's a simple footnote,[^1] and here's a longer one.[^bignote]

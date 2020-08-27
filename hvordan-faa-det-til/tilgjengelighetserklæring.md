@@ -1,6 +1,6 @@
 # Tilgjengelighetserklæring
 
-Hver løsning skal ha en tilgjengelighetserklæring, som viser hvor godt løsningen møter WCAG-kravene. Brukerne skal lett kunne få en oversikt over hva som eventuelt ikke fungerer, hvorfor og hvilke alternativer de har. [Mer informasjon på Tilsynets sider](https://uu.difi.no/krav-og-regelverk/eus-webdirektiv-wad).
+Hver løsning skal ha en tilgjengelighetserklæring, som viser hvor godt løsningen møter WCAG-kravene. Brukerne skal lett kunne få en oversikt over hva som eventuelt ikke fungerer, hvorfor og hvilke alternativer de har. [Mer informasjon på Tilsynets sider](https://uu.difi.no/nyhet/2020/07/tilgjengelegheitserklaering).
 
 /video fra tilsynet /
 

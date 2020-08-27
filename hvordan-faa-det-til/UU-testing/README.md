@@ -1,5 +1,13 @@
 # UU-testing
 
+## Hvordan tester jeg?
+
+**Automatiserte testverktøy** kan finne mange relevante WCAG-brudd. Likevel dekker dem bare circa 20-30 prosent av eventuelle feil, resten krever **manuell test**, gjerne også med hjelpemiddelteknologi. Husk også å **teste med reelle brukere**, både med og uten hjelpemiddel, for å se om løsningen virkelig fungerer.
+
+- [Anbefalte verktøy for automatisert WCAG-sjekk]
+- [Veileder for manuell WCAG-sjekk](hvordan-faa-det-til/UU-testing/manuell-testing/README.md)
+- [Brukertesting med personer med hjelpemidler]
+
 ## Gode rutiner for suksess
 
 ### Gjør UU-testing til en naturlig del av utviklingsprosessen
@@ -13,11 +21,3 @@ Utviklere dere egne komponenter må de testes nøye slik at vi er sikre på at U
 #### Ingen systemer er feilfri 
 Gi designsystemteamet og uu-teamet fortløpende tilbakemeldinger om du oppdager feil eller om du har forslag til forbedringer. Vi er også interessert i å få kjennskap til alle nye komponenter som ikke finnes i designsystemet. 
 [Gi tilbakemelding eller innspill til Designsystemet](https://github.com/navikt/designsystemet/issues).
-
-## Hvordan tester jeg?
-
-**Automatiserte testverktøy** kan finne mange relevante WCAG-brudd. Likevel dekker dem bare circa 20-30 prosent av eventuelle feil, resten krever **manuell test**, gjerne også med hjelpemiddelteknologi. Husk også å **teste med reelle brukere**, både med og uten hjelpemiddel, for å se om løsningen virkelig fungerer.
-
-- [Anbefalte verktøy for automatisert WCAG-sjekk]
-- [Veileder for manuell WCAG-sjekk](hvordan-faa-det-til/UU-testing/manuell-testing/README.md)
-- [Brukertesting med personer med hjelpemidler]

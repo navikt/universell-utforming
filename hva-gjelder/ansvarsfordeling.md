@@ -9,7 +9,7 @@ Produtkteam er betegnelsen på de som utvikler eller forvalter en gitt løsning.
 ## Designsystemet 
 Designsystemet er et fagteam ansvarlig for å sikre at tilgjengelighetsstandarden følges i alle komponenter og templates de distribuerer til produktteamene. Dette gjelder både design og kode.
 
-##Anskaffelsesteam
+## Anskaffelsesteam
 Anskaffelsesteam gjennomfører anskaffelser til NAV. De står ansvarlig internt for å ha sikret at løsninger er i tråd med tilgjengelighetsstandarden i NAV, og at avtaler og andre relevante dokumenter ivaretar dette.
 
 ## Team for universell utforming (UU-team)

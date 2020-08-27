@@ -4,5 +4,5 @@
 
 * [Hva gjelder?](/hva-gjelder/README.md)
 * [Hvordan få det til?](/hvordan-faa-det-til/README.md)
-* [Lære mer om universell utforming]
+* [Lære mer om universell utforming](/lære-mer/README.md)
 

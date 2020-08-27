@@ -13,7 +13,7 @@ Disse punktene utgjør universell-utformings-delen av NAVs risikovurdering, og e
 - [ ] UU blir tidlig og kontinuerlig evaluert.
 - [ ] Teamet  har satt opp rutiner for å lage tilgjengelighetserklæring og for å ta inn brukertilbakemeldinger.
 - [ ] Teamet har dialog med UU-teamet.
-- [ ] I anskaffelser: Det stilles [tydelige krav til leverandør]. Eventuelle brudd blir fulgt opp.
+- [ ] I anskaffelser: Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelseer.md). Eventuelle brudd blir fulgt opp.
 
 ## WCAG-sjekk
 Oppfyller dere WCAG-kravene (WCAG 2.0 på nivå A og AA), møter dere aktuelle lovkrav. 

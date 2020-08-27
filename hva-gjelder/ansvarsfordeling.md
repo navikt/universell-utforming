@@ -1,6 +1,6 @@
 # Ansvarsfordeling for UU i NAV
 
-## Juridisk ansvarlig 
+**Juridisk ansvarlig** <br />
 Juridisk ansvarlig er alltid øverste NAV-leder, det vil si arbeids- og velferdsdirektøren.
 
 ## Produktteam

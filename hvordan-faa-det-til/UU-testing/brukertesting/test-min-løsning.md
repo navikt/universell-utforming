@@ -10,7 +10,9 @@ VIP-brukerne må bruke mye energi for å gjennomføre testene, så vi har begren
 * kl 10 til 11.30 VIP-bruker 1
 * kl 12 til 13.30 VIP-bruker 2
 
-:warning: *På grunn av korona-situasjonen er vi dessverre nødt å avlyse test min løsning ut 2020. Vi starter opp igjen når smittesituasjonen tillater det.*
+<alertstripe type="advarsel">
+  På grunn av korona-situasjonen er vi dessverre nødt å avlyse test min løsning ut 2020. Vi starter opp igjen når smittesituasjonen tillater det.
+</alertstripe>
 
 ## Eksterne testdeltakere med forskjellige funksjonsnedsettelser og utfordringer
 UU-Teamet har inngått samarbeid med Digjobb-ressurser (se http://www.digjobb.no) som har litt forskjellige utfordringer/funksjonsnedsettelser og som bruker mye spennende og avanserte, tekniske hjelpemidler. Det jobbes også med å etablere samarbeid med interesseorganisasjoner m.m. som Norges Handikapforbund og Norges Blindeforbund. Dette regner vi med å ha på plass på nyåret.

@@ -1,6 +1,8 @@
 # Verktøykasse
 
-VIKTIG! Før du tar i bruk noen av verktøyene nedenfor, må du huske at sikkerhet og personvern SKAL ivaretas. Sørg derfor for at du tester på testmiljøer og lignende som har fiktiv testdata. En av grunnene til dette er at noen av utvidelsene til nettlesere KAN sende data til servere utenfor NAV.
+<alertstripe type="advarsel">
+    <strong>VIKTIG!</strong> Før du tar i bruk noen av verktøyene nedenfor, må du huske at sikkerhet og personvern SKAL ivaretas. Sørg derfor for at du tester på testmiljøer og lignende som har fiktiv testdata. En av grunnene til dette er at noen av utvidelsene til nettlesere KAN sende data til servere utenfor NAV.
+</alertstripe>
 
 ## Tastatur
 Det er svært viktig at alt fungerer bare med tastatur. Test dette jevnlig. WAI har laget en [veileder om hvordan elementer bør oppføre seg når man bruker tastatur](https://webaim.org/techniques/keyboard/).

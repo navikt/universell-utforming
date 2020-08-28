@@ -7,3 +7,4 @@
 * [Hvordan få det til?](/hvordan-faa-det-til/)
 * [Lære mer om universell utforming](/lære-mer/)
 
+Lager min egen branch og prøver å sette den til default... Ikke publiser denne.

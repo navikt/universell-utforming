@@ -1,5 +1,13 @@
 # Verktøykasse
 
+VIKTIG! Før du tar i bruk noen av verktøyene nedenfor, må du huske at sikkerhet og personvern SKAL ivaretas. Sørg derfor for at du tester på testmiljøer og lignende som har fiktiv testdata. En av grunnene til dette er at noen av utvidelsene til nettlesere KAN sende data til servere utenfor NAV.
+
+## Tastatur
+Det er svært viktig at alt fungerer bare med tastatur. Test dette jevnlig. WAI har laget en [veileder om hvordan elementer bør oppføre seg når man bruker tastatur](https://webaim.org/techniques/keyboard/).
+
+## Før- og etter-sider
+W3C har laget noen før- og etter-sider. Sidene ser ganske like ut, men "før"-sidene har en rekke uu-feil, som er fikset i "etter"-sidene. Test gjerne verktøyene på disse sidene: https://www.w3.org/WAI/demos/bad/. 
+
 ## Skjermlesere
 
 - [**Voice over**](https://webaim.org/articles/voiceover/) - Gratis innebygd skjermleser på Mac og iPhone.

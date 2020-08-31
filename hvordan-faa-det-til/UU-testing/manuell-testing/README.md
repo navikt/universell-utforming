@@ -13,7 +13,7 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 
 ## Dette må du alltid teste manuelt
 
-- [Tastaturnavigasjon](/hvordan-faa-det-til/manuell-testing/tastaturnavigsjon.md)
+- [Tastaturnavigasjon](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/tastaturnavigasjon/)
 - [Forstørring og responsiv design]
 - [Fargekontrast]
 - [Overskrifter]

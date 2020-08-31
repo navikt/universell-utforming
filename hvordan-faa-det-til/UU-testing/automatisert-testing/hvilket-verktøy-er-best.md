@@ -1,5 +1,5 @@
-<h1>Hvilket verktøy er best? </h1>
-<h2>Bilder</h2>
+# Hvilket verktøy er best?
+## Bilder
 
 <table>
     <thead>

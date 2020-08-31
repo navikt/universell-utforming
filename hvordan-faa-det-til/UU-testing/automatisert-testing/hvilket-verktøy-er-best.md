@@ -1,6 +1,4 @@
-import 'nav-frontend-tabell-style';
-
-<table className="tabell">
+<table>
     <thead>
         <tr>
             <th>ID</th>

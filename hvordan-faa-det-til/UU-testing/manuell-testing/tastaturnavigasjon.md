@@ -1,7 +1,7 @@
 # Tastaturnavigasjon
 
 ## Teststeg
-Dette her er stegene du må teste manuelt for å sikre god tastaturnavigasjon:
+Dette må du teste manuelt sikre god tastaturnavigasjon:
 
 1. Får alle lenker, knapper, skjema-elementer osv. tydelig fokusmarkering,
 2. Er fokusmarkeringen i tråd med NAVs designsystem?

@@ -12,21 +12,21 @@
     </thead>
     <tbody>
         <tr>
-            <td></td>
+            <td>:heavy_check_mark:<</td>
             <td> :heavy_check_mark:</td>
-            <td> :heavy_check_mark:</td>
+            <td> </td>
             <td>Alt-teksten skal ikke være et filnavn</td>
         </tr>
         <tr>
-            <td> </td>
+            <td>:heavy_check_mark:< </td>
             <td>:heavy_check_mark:</td>
             <td>:heavy_check_mark:</td>
             <td>AREA element må ha et ALT Attribute </td>
         </tr>
         <tr>
+            <td>:heavy_check_mark:<</td>
+            <td> :heavy_check_mark:</td>
             <td></td>
-            <td> :heavy_check_mark:</td>
-            <td> :heavy_check_mark:</td>
             <td>IMG elementer må ha en ALT Attribute</td>
         </tr>
         <tr>
@@ -37,22 +37,22 @@
 ALT Attribute</td>
         </tr>
         <tr>
-            <td></td>
             <td>:heavy_check_mark:</td>
+            <td></td>
             <td></td>
             <td>ALT-tekst skal ikke bruke ASCII ART 
 (inkludert smileys)</td>
         </tr>
         <tr>
-            <td></td>
             <td>:heavy_check_mark:</td>
             <td></td>
+            <td>:heavy_check_mark:</td>
             <td>BUTTON elements som bare inneholder 
 IMG skal ha et ALT attribute for bildet</td>
         </tr>
         <tr>
-            <td></td>
             <td>:heavy_check_mark:</td>
+            <td></td>
             <td></td>
             <td>Alt-teksten er lik lenketeksten</td>
         </tr>

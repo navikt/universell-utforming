@@ -12,12 +12,12 @@ NAV stiller krav til universell utforming i alt vi gjør. Forskriften for univer
   
 ## Hva må jeg oppnå for å være i tråd med minimumskravene?
 
-- [ ] Løsningen testes fortløpende opp mot [lovpålagt minimumsnivå (uu.difi.no)](https://uu.difi.no/krav-og-regelverk/kva-seier-forskrifta). 
+1. Løsningen testes fortløpende opp mot [lovpålagt minimumsnivå (uu.difi.no)](https://uu.difi.no/krav-og-regelverk/kva-seier-forskrifta). 
 Per i dag [WCAG 2.0](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden) nivå A og AA, etter innføring av [Web Accessibility Direktivet](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21) WCAG 2.1 på nivå A og AA.
-- [ ] WCAG-Feil på nivå A og AA blir fortløpende rettet.
-- [ ] Eventuelle avvik fra WCAG-kravene er begrunnet skriftlig.
-- [ ] [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet.
-- [ ] [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert.
+2. WCAG-Feil på nivå A og AA blir fortløpende rettet.
+3. Eventuelle avvik fra WCAG-kravene er begrunnet skriftlig.
+4. [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet.
+5. [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert.
 
 [Hvordan få det til?](/hvordan-faa-det-til/README.md)
 

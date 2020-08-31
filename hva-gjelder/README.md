@@ -1,6 +1,6 @@
 # Hva gjelder?
 
-<p> NAV skal bidra til et inkluderende samfunn, og alt vi lager skal fungere for alle som trenger det! Vi stiller derfor høye krav til løsninger vi lager eller kjøper.<p>
+NAV skal bidra til et inkluderende samfunn, og alt vi lager skal fungere for alle som trenger det! Vi stiller derfor høye krav til løsninger vi lager eller kjøper.
   
 ## Er det de samme kravene for alle våre tjenester?
 

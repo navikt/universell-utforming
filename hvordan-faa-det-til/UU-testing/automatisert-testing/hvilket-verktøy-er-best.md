@@ -56,6 +56,5 @@ IMG skal ha et ALT attribute for bildet</td>
             <td></td>
             <td></td>
         </tr>
-    
-    </tbody>
+  
 </table>

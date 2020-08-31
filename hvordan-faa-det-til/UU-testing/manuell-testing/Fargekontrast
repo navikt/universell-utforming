@@ -1,16 +1,19 @@
 # Fargekontrast
 
 ## Teststeg
-Dette her er stegene du må teste manuelt for å sikre god tastaturnavigasjon:
+NAV har som mål å levere tjenester som har kontrastnivå på AAA-nivå. Designsystemet er stadig i forbedringer. 
 
-1. bla
-2. blabla
-3. ...
+Vær obs på følgende: 
+Ingen av våre verktøy sjekker kontrastnivå opp mot. WCAG 1.4.6 (AAA), altså om kontrast mellom tekst og bakgrunn er på 7:1. Dette må du teste manuelt eller med andre verktøy.  
+
+ 
+Inaktive funksjoner – brukes ikke da de ofte har svært lav kontrast og ikke sees av alle. Er det noe vi ønsker å kommunisere må disse komponentene være tilgjengelig for alle.
+1. Er det tilstrekkelig kontrast mellom tekst og bakgrunn? 
+
+
 
 ## Automatisert testing
-Dette her testes av våre anbefalte automatiserte verktøy på tastaturnavigasjon, så du må ikke teste dette manuelt i tillegg.
-
-(tabell/ punktliste)..
+* Snook.ca (https://snook.ca/technical/colour_contrast/colour.html#fg=FFFFFF,bg=000000)
 
 ## Andre ressurser
 - tastaturnavigasjon på tilsynssidene...

@@ -1,4 +1,4 @@
-# Anbefalte verktøy for automatisert WCAG-sjekk
+# Automatisert WCAG-sjekk
 
 Vi anbefaler verktøyene:  
 - SortSite 

@@ -12,19 +12,19 @@
     </thead>
     <tbody>
         <tr>
-            <td>:heavy_check_mark:<</td>
+            <td>:heavy_check_mark:</td>
             <td> :heavy_check_mark:</td>
             <td> </td>
             <td>Alt-teksten skal ikke være et filnavn</td>
         </tr>
         <tr>
-            <td>:heavy_check_mark:< </td>
+            <td>:heavy_check_mark:</td>
             <td>:heavy_check_mark:</td>
             <td>:heavy_check_mark:</td>
             <td>AREA element må ha et ALT Attribute </td>
         </tr>
         <tr>
-            <td>:heavy_check_mark:<</td>
+            <td>:heavy_check_mark:</td>
             <td> :heavy_check_mark:</td>
             <td></td>
             <td>IMG elementer må ha en ALT Attribute</td>

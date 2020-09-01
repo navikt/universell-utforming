@@ -16,7 +16,7 @@ Dekorasjon = Innhold som kun har et estetisk formål, som ikke inneholder inform
 * Har bilder som kommuniserer innhold eller funksjonalitet en alternativ tekstbeskrivelse? 
 * Er alt-teksten på samme språk som hovedinnholdet på siden? 
 
-3. Er dekorativ grafikk er kodet korrekt og på den måten skjult for skjermleserne? 
+### 3. Er dekorativ grafikk er kodet korrekt og på den måten skjult for skjermleserne? 
 f.eks. : et bakgrunnsbilde med CSS, eller er de kodet med alt="", role="presentation" eller lignende  
   
 ### 4.Bilder med kompleksinformasjon  

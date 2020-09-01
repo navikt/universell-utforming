@@ -146,7 +146,7 @@ Dette må du alltid teste manuelt:
 		<td></td>
 	</tr>
 	<tr>						
-		<td>Skrollee </td>
+		<td>Skrolle</td>
 		<td>
 			<ul>
 				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> - skroll vertikalt</li>

@@ -62,10 +62,10 @@ IMG skal ha et ALT attribute for bildet</td>
 <table>
     <thead>
         <tr>
+            <th>Reglene som testes</th>
             <th>SortSite</th>
             <th>ARCToolkit</th>
             <th>W3C</th>
-            <th>Reglene som testes</th>
         </tr>
     </thead>
     <tbody>

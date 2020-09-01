@@ -27,11 +27,11 @@
             <th>IMG elementer må ha en ALT Attribute</td>
             <td>✅</td>
             <td>✅</td>
-            <td></td>
+            <td>✅</td>
         </tr>
         <tr>
             <th>Input TYPE = IMAGE må ha et beskrivende ALT Attribute</td>
-            <td></td>
+            <td>✅</td>
             <td>✅</td>
             <td>✅</td>
         </tr>

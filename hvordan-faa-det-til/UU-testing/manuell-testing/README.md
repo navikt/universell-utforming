@@ -14,18 +14,17 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 ## Dette må du alltid teste manuelt
 
 - [Tastaturnavigasjon](/hvordan-faa-det-til/UU-testing/manuell-testing/tastaturnavigasjon.md)
-- [Forstørring og responsiv design]
-- [Fargekontrast](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/fargekontrast/)
-- [Overskrifter](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/overskrifter/)
-- [Lenker](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/lenker/)
-- [Bilder](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/bilder/)
-- [Skjema]
-- [Søkefunksjon]
-- [Sidetitler](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/sidetitler/)
-- [Språk]
-- [Kodekvalitet](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/kodekvalitet/)
-- ...
-/ er det hensiktsmessig med en side per tema? Eller bedre å slå sammen, slik at man slipper å klikke for mye frem og tilbake når man tester?/
+- [Forstørring og responsiv design](/hvordan-faa-det-til/UU-testing/manuell-testing/forstørring.md)
+- [Fargekontrast](/hvordan-faa-det-til/UU-testing/manuell-testing/fargekontrast.md)
+- [Overskrifter](/hvordan-faa-det-til/UU-testing/manuell-testing/overskrifter.md)
+- [Lenker](/hvordan-faa-det-til/UU-testing/manuell-testing/fargekontrast.md)
+- [Bilder](/hvordan-faa-det-til/UU-testing/manuell-testing/bilder.md)
+- [Skjema](/hvordan-faa-det-til/UU-testing/manuell-testing/skjema.md)
+- [Søkefunksjon](/hvordan-faa-det-til/UU-testing/manuell-testing/søkefunksjon.md)
+- [Sidetitler](/hvordan-faa-det-til/UU-testing/manuell-testing/sidetitler.md)
+- [Språk](/hvordan-faa-det-til/UU-testing/manuell-testing/språk.md)
+- [Kodekvalitet](/hvordan-faa-det-til/UU-testing/manuell-testing/kodekvalitet.md)
+
 
 ### Teste selv med hjelpemidler og simulatorer
 Du kan teste selv med hjelpemidler som skjermleser eller skjermforstørrer. Hvis du ikke bruker verktøyene i hverdagen, blir det ikke helt hvordan en reell bruker opplever løsningen, men du kan oppdage en god del feil eller vanskeligheter.

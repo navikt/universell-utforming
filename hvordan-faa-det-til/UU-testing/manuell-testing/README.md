@@ -15,15 +15,15 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 
 - [Tastaturnavigasjon]()
 - [Forstørring og responsiv design]
-- [Fargekontrast]
-- [Overskrifter]
-- [Lenker]
-- [Bilder]
+- [Fargekontrast](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/fargekontrast/)
+- [Overskrifter](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/overskrifter/)
+- [Lenker](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/lenker/)
+- [Bilder](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/bilder/)
 - [Skjema]
 - [Søkefunksjon]
-- [Sidetitler]
+- [Sidetitler](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/sidetitler/)
 - [Språk]
-- [Kodekvalitet]
+- [Kodekvalitet](https://navikt.github.io/uu/hvordan-faa-det-til/UU-testing/manuell-testing/kodekvalitet/)
 - ...
 / er det hensiktsmessig med en side per tema? Eller bedre å slå sammen, slik at man slipper å klikke for mye frem og tilbake når man tester?/
 

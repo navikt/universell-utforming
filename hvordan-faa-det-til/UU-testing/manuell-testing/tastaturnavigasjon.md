@@ -14,4 +14,4 @@ Dette må du alltid teste manuelt:
 
 
 ## Andre ressurser
-* [Lær mer om tastaturnavigasjon på Tilsynets veiledningssider.. ](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#tastaturnavigering)
+* [Lær mer om hvordan teste tastaturnavigasjon på Tilsynets veiledningssider.. ](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#tastaturnavigering)

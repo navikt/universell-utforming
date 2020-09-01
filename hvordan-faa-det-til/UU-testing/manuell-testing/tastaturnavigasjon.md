@@ -162,7 +162,7 @@ Dette må du alltid teste manuelt:
 
 ## Automatisert testing
 Automatiserte verktøy kan mest vise tab-rekkefølgen, slik at man selv kan se om det samsvarer med den visuelle rekkefølgen, som ARC toolkit:
-
+![Tabrekkefølge med ARC toolkit](/hvordan-faa-det-til/UU-testing/manuell-testing/tabrekkefolge.png)
 
 ## Andre ressurser
 * [Lær mer om hvordan teste tastaturnavigasjon på Tilsynets veiledningssider.. ](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#tastaturnavigering)

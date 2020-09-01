@@ -59,7 +59,7 @@ IMG skal ha et ALT attribute for bildet</td>
 
 
 
-<table align="left">
+<table>
     <thead>
         <tr>
             <th>SortSite</th>
@@ -70,43 +70,43 @@ IMG skal ha et ALT attribute for bildet</td>
     </thead>
     <tbody>
         <tr>
-            <th>Alt-teksten skal ikke være et filnavn</td>
+            <th align="left">Alt-teksten skal ikke være et filnavn</td>
             <td>✅</td>
             <td>✅</td>
             <td></td>     
         </tr>
         <tr>
-            <th>AREA element må ha et ALT Attribute </td>
+            <th align="left">AREA element må ha et ALT Attribute </td>
             <td>:heavy_check_mark:</td>
             <td>:heavy_check_mark:</td>
             <td>:heavy_check_mark:</td>
         </tr>
         <tr>
-            <th>IMG elementer må ha en ALT Attribute</td>
+            <th align="left">IMG elementer må ha en ALT Attribute</td>
             <td>:heavy_check_mark:</td>
             <td>:heavy_check_mark:</td>
             <td></td>
         </tr>
         <tr>
-            <th>Input TYPE = IMAGE må ha et beskrivende ALT Attribute</td>
+            <th align="left">Input TYPE = IMAGE må ha et beskrivende ALT Attribute</td>
             <td></td>
             <td>:heavy_check_mark:</td>
             <td>:heavy_check_mark:</td>
         </tr>
         <tr>
-            <th>ALT-tekst skal ikke bruke ASCII ART (inkludert smileys)</td>
+            <th align="left">ALT-tekst skal ikke bruke ASCII ART (inkludert smileys)</td>
             <td>:heavy_check_mark:</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <th>BUTTON elements som bare inneholder IMG skal ha et ALT attribute for bildet</td>
+            <th align="left">BUTTON elements som bare inneholder IMG skal ha et ALT attribute for bildet</td>
             <td>:heavy_check_mark:</td>
             <td></td>
             <td>:heavy_check_mark:</td>
         </tr>
         <tr>
-            <th>Alt-teksten er lik lenketeksten</td>
+            <th align="left">Alt-teksten er lik lenketeksten</td>
             <td>:heavy_check_mark:</td>
             <td></td>
             <td></td>

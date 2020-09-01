@@ -159,7 +159,8 @@ Dette må du alltid teste manuelt:
 		</td>
 	</tr>
 </tbody></table>
-Tabellen er oversatt fra [WebAIMs side om tastaturnavigasjon](https://webaim.org/techniques/keyboard/).
+
+Tabellen er oversatt fra [WebAIMs side om tastaturnavigasjon](https://webaim.org/techniques/keyboard/). 
 
 ## Automatisert testing
 Automatiserte verktøy kan mest vise tab-rekkefølgen, slik at man selv kan se om det samsvarer med den visuelle rekkefølgen, som ARC toolkit:

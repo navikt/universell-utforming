@@ -7,8 +7,9 @@ Dette må du alltid teste manuelt:
 * Finnes det bilder på siden du tester?
 * Er bildene på siden kun dekorasjon, eller blir de brukt til å kommunisere innhold eller funksjonalitet?  
 
-Med bilder menes: Foto, ikoner, illustrasjoner, grafer, dekorativ grafikk og tegninger 
-Dekorasjon = Innhold som kun har et estetisk formål, som ikke inneholder informasjon eller funksjonalitet. 
+**Med bilder menes:** Foto, ikoner, illustrasjoner, grafer, dekorativ grafikk og tegninger.
+
+**Dekorasjon:**  Innhold som kun har et estetisk formål, som ikke inneholder informasjon eller funksjonalitet. 
 
 
 ### 2. Finnes det en alternativ tekst for meningsbærende bilder?

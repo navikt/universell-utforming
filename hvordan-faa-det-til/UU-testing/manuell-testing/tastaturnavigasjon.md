@@ -165,5 +165,5 @@ Automatiserte verktøy kan mest vise tab-rekkefølgen, slik at man selv kan se o
 ![Tabrekkefølge med ARC toolkit](/hvordan-faa-det-til/UU-testing/manuell-testing/tabrekkefolge.png)
 
 ## Andre ressurser
-* [Lær mer om hvordan teste tastaturnavigasjon på Tilsynets veiledningssider](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#tastaturnavigering)
+* [Lær mer om hvordan teste tastaturnavigasjon på Tilsynets veiledningssider](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/tastaturnavigasjon)
 * [WebAIMs veileder for tastatur](https://webaim.org/techniques/keyboard/)

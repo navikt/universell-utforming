@@ -161,7 +161,8 @@ Dette må du alltid teste manuelt:
 </tbody></table>
 
 ## Automatisert testing
-Noen verktøy kan teste tastaturrekkefølge og at lenkene ikke er brudd, som for eksempel AxePro eller ARC toolkit. Resten må testes manuelt.
+Automatiserte verktøy kan mest vise tab-rekkefølgen, slik at man selv kan se om det samsvarer med den visuelle rekkefølgen, som ARC toolkit:
+
 
 ## Andre ressurser
 * [Lær mer om hvordan teste tastaturnavigasjon på Tilsynets veiledningssider.. ](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#tastaturnavigering)

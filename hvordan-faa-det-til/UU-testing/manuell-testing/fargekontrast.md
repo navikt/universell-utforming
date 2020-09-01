@@ -5,7 +5,7 @@ God kontrast mellom tekst og bakgrunn er særlig viktig for brukere med nedsatt 
 
 ## Teststeg
 
-1. Har du brukt [designsystemet og NAV frontend(https://design.nav.no/resources/colors)]?
+1. Har du brukt [designsystemet og NAV frontend](https://design.nav.no/resources/colors)?
 2. Er det tilstrekkelig kontrast mellom tekst og bakgrunn? (kan stort sett testes automatisert, se nedenfor under "automatisert testing")
 3. Er klikkbare elementer markert med mer enn bare farge?
 4. Er brukeren avhengig av å kunne se farge (eller form) for å forstå innholdet? Refereres det for eksempel til "den blåe knappen" eller "bildet til høyre"? Gjelder også diagrammer som baserer seg på farge. Se [Tilsynets veileder for farge](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/bruk-av-farger).

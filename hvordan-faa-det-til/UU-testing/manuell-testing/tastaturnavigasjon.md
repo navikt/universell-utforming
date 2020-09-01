@@ -161,8 +161,8 @@ Dette må du alltid teste manuelt:
 </tbody></table>
 
 ## Automatisert testing
-
+Noen verktøy kan teste tastaturrekkefølge og at lenkene ikke er brudd, som for eksempel AxePro eller ARC toolkit. Resten må testes manuelt.
 
 ## Andre ressurser
 * [Lær mer om hvordan teste tastaturnavigasjon på Tilsynets veiledningssider.. ](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#tastaturnavigering)
-* [WebAIMs veileder for tastatur
+* [WebAIMs veileder for tastatur](https://webaim.org/techniques/keyboard/)

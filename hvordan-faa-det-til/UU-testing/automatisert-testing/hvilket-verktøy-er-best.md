@@ -12,9 +12,9 @@
     </thead>
     <tbody>
         <tr>
-            <td>:heavy_check_mark:</td>
-            <td> :heavy_check_mark:</td>
-            <td> </td>
+            <td>✅</td>
+            <td>✅</td>
+            <td></td>
             <td>Alt-teksten skal ikke være et filnavn</td>
         </tr>
         <tr>
@@ -25,7 +25,7 @@
         </tr>
         <tr>
             <td>:heavy_check_mark:</td>
-            <td> :heavy_check_mark:</td>
+            <td>:heavy_check_mark:</td>
             <td></td>
             <td>IMG elementer må ha en ALT Attribute</td>
         </tr>
@@ -33,15 +33,13 @@
             <td></td>
             <td>:heavy_check_mark:</td>
             <td>:heavy_check_mark:</td>
-            <td>Input TYPE = IMAGE må ha et beskrivende
-ALT Attribute</td>
+            <td>Input TYPE = IMAGE må ha et beskrivende ALT Attribute</td>
         </tr>
         <tr>
             <td>:heavy_check_mark:</td>
             <td></td>
             <td></td>
-            <td>ALT-tekst skal ikke bruke ASCII ART 
-(inkludert smileys)</td>
+            <td>ALT-tekst skal ikke bruke ASCII ART (inkludert smileys)</td>
         </tr>
         <tr>
             <td>:heavy_check_mark:</td>

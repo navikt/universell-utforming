@@ -8,7 +8,7 @@ Dette må du alltid teste manuelt:
 
 1. Får alle lenker, knapper, skjema-elementer osv. tydelig fokusmarkering?
 2. Er fokusmarkeringen i tråd med NAVs designsystem? Den skal være som på [design.nav.no](https://design.nav.no/).
-3. Er det mulig å bruke siden kun med tastatur?  Se om du kan nå og betjene alle interaktive elementer som knapper, lenker og menyer.
+3. Er det mulig å bruke siden kun med tastatur?  Se om du kan nå og betjene alle interaktive elementer som knapper, lenker og menyer. Du skal hverken "sitte fast" eller oppleve at fokuset flytter seg uforventet.
 4. Er tastaturrekkefølgen den samme som den visuelle rekkefølgen på innholdet? (se også lengre ned under "automatisert testing")
 5. Får du tilgang til alt innhold og alle funksjoner, med kun bruk av tastatur, dersom du forstørrer siden til 200%? 
 6. Har siden snarveislenkene «til hovedmeny» , «til hovedinnhold», og "til toppen" og fungerer de som de skal?  

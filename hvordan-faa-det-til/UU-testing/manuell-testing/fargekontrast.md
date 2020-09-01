@@ -19,5 +19,5 @@ Det finnes utrolig mange verktøy. Denne har
 * [  Snook.ca] (https://snook.ca/technical/colour_contrast/colour.html#fg=FFFFFF,bg=000000)
 
 ## Andre ressurser
-* [Lær mer om hvordan teste farger og kontraster på Tilsynets veiledningssider..](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#farger-og-kontrast
+* [Lær mer om hvordan teste farger og kontraster på Tilsynets veiledningssider..](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#farger-og-kontrast)
 * [Om kontrast (Tilsynets veiledningsside)] (https://uu.difi.no/krav-og-regelverk/losningsforslag-web/kontrast)

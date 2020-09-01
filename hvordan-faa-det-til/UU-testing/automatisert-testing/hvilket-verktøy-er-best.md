@@ -55,3 +55,41 @@
         </tr>
   
 </table>
+
+## Struktur
+
+<table>
+    <thead>
+        <tr>
+            <th>Reglene som testes</th>
+            <th>SortSite</th>
+            <th>ARCToolkit</th>
+            <th>W3C</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Sidetittel - Nettsiden har en <title> som beskriver den aktuelle sidens emne eller formål.</td>
+            <td>✅</td>
+            <td></td>
+            <td>✅</td>     
+        </tr>
+        <tr>
+            <th>Line break - <br> skal ikke benyttes for å formatere avsnitt (<p>)</td>
+            <td></td>
+            <td>✅</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Språk - Siden ma ha lang-attribute (lang=....)</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <th>Kodefeil (markup errors)</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td></td>
+        </tr>
+</table>

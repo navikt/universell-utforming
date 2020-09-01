@@ -6,9 +6,3 @@
 * [Hva gjelder?](/hva-gjelder/)
 * [Hvordan få det til?](/hvordan-faa-det-til/)
 * [Lære mer om universell utforming](/lære-mer/)
-
-`inline code test`
-
-```
-code block test
-```

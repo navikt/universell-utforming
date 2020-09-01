@@ -59,7 +59,7 @@ IMG skal ha et ALT attribute for bildet</td>
 
 
 
-<table>
+<table align="left">
     <thead>
         <tr>
             <th>SortSite</th>

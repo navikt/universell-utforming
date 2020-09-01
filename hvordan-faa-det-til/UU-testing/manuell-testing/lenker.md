@@ -14,6 +14,6 @@ Dette må du alltid teste manuelt:
 
 
 ## Andre ressurser
-* [Lær mer om lenker på Tilsynets veiledningssider.. ](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#lenker)
+* [Lær mer om hvordan teste lenker på Tilsynets veiledningssider.. ](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#lenker)
 
 

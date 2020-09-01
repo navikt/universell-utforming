@@ -66,27 +66,27 @@ Dette må du alltid teste manuelt:
 				<li><span class="keycap">Spacebar</span> - expander</li>
 			</ul>
 		</td>
-		<td>Du kan også filterer ved å taste bokstaver, men oppførseln varierer avhengig av nettleser. Noen vil filtrerer mens du taster, som autocomplete. You can also filter by typing letters, but this behavior varies by browser. Some will filter as you type, like autocomplete. Andre vil bare sorterer basert på første bokstav, som for eksemepl i en liste med Norske fylker, da vil taste <span class="keycap">V</span> then <span class="keycap">I</span> ta deg til <strong>V</strong>iken, eller det kan ta deg til <strong>Vestfold og Telemark/strong> and then <strong>I</strong>nlandet.</td>
+		<td>Du kan også filterer ved å taste bokstaver, men oppførseln varierer avhengig av nettleser. Noen vil filtrerer mens du taster, som autocomplete. You can also filter by typing letters, but this behavior varies by browser. Some will filter as you type, like autocomplete. Andre vil bare sorterer basert på første bokstav, som for eksemepl i en liste med Norske fylker, da vil taste <span class="keycap">V</span> then <span class="keycap">I</span> ta deg til <strong>V</strong>iken, eller det kan ta deg til <strong>Vestfold og Telemark/strong> and then <strong>I</strong>nnlandet.</td>
 	</tr>
 	<tr>
 		<td>Autocomplete</td>
 		<td>
 			<ul>
-				<li>Type to begin filtering</li>
-				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> - navigate to an option</li>
-				<li><span class="keycap">Enter</span> - select an option</li>
+				<li>Tast for å starte filtering</li>
+				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> - naviger til en opsjon</li>
+				<li><span class="keycap">Enter</span> - velg en opsjon</li>
 			</ul>
 		</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>Dialog</td>
-		<td><span class="keycap">Esc</span> - close</td>
+		<td><span class="keycap">Esc</span> - steng</td>
 		<td>
 			<ul>
-				<li>Modal dialogs should maintain keyboard focus.</li>
-				<li>Non-modal dialogs should close automatically when they lose focus.</li>
-				<li>When a dialog closes, focus should usually return to the element that opened the dialog.</li>
+				<li>Modabokser bør få tastaturfokus.</li>
+				<li>Dialoger som ikker modalbokser bør stenges automatisk når de mister fokus.</li>
+				<li>Når en dialog stenges, bør fokuset til vanlig gå tilbake til elementet som åpnet dialogen.</li>
 			</ul>
 		</td>
 	</tr>
@@ -94,14 +94,14 @@ Dette må du alltid teste manuelt:
 		<td>Slider</td>
 		<td>
 			<ul>
-				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> or <span class="keycap">←</span>/<span class="keycap">→</span> - increase or decrease slider value</li>
-				<li><span class="keycap">Home</span>/<span class="keycap">End</span> - beginning or end</li>
+				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> or <span class="keycap">←</span>/<span class="keycap">→</span> - øke eller redusere slider-verdi</li>
+				<li><span class="keycap">Home</span>/<span class="keycap">End</span> - Start eller slutt</li>
 			</ul>								
 		</td>
 		<td>
 			<ul>
-				<li>For double-sliders (to set a range), <span class="keycap">Tab</span>/<span class="keycap">Shift</span> + <span class="keycap">Tab</span> should toggle between each end.</li>
-				<li>In some sliders <span class="keycap">PageUp</span>/<span class="keycap">PageDown</span> can move by a larger increment (e.g., by 10).</li>
+				<li>For double-sliders (for å definere et område/range), <span class="keycap">Tab</span>/<span class="keycap">Shift</span> + <span class="keycap">Tab</span> burde toggle mellom ekstremverdiene</li>
+				<li>I noen sliders kan <span class="keycap">PageUp</span>/<span class="keycap">PageDown</span> øke /redusere verdien i større bolker (for eksempel med 10).</li>
 			</ul>								
 		</td>
 	</tr>
@@ -109,14 +109,14 @@ Dette må du alltid teste manuelt:
 		<td>Menu bar</td>
 		<td>
 			<ul>
-				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> - Previous/next menu option</li>
-				<li><span class="keycap">Enter</span> - expand the menu (optional) and select an option.</li>
-				<li><span class="keycap">←</span>/<span class="keycap">→</span> - expand/collapse submenu</li>
+				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> - Forrige/neste meny-opsjon</li>
+				<li><span class="keycap">Enter</span> - ekspander menyen (opsjonal) og velg en opsjon.</li>
+				<li><span class="keycap">←</span>/<span class="keycap">→</span> - ekspander/kollaps submeny</li>
 			</ul>
 		</td>
 		<td>
 			<ul>
-				<li>Not all menus should have these controls. Simpler menus should usually rely on <span class="keycap">Tab</span>/<span class="keycap">Enter</span>.</li>
+				<li>Ikke alle menyer burde ha disse controls. Enklere menyer burde vanligvis fungere med <span class="keycap">Tab</span>/<span class="keycap">Enter</span>.</li>
 			</ul>
 		</td>
 	</tr>
@@ -124,34 +124,34 @@ Dette må du alltid teste manuelt:
 		<td>Tab panel</td>
 		<td>
 			<ul>
-				<li><span class="keycap">Tab</span> - once to navigate into the group of tabs and once to navigate out of the group of tabs</li>
-				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> or <span class="keycap">←</span>/<span class="keycap">→</span> - previous/next tab.</li>									
+				<li><span class="keycap">Tab</span> - når man navigerer inn i tab-gruppen og når man navigerer ut av tab-gruppen</li>
+				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> eller <span class="keycap">←</span>/<span class="keycap">→</span> - forrige/neste tab.</li>									
 			</ul>
 		</td>
 		<td>
 			<ul>
-				<li>This is for 'application' tabs that change without loading a new page. If a menu looks like a group of tabs, but is actually a group of links to different pages, <span class="keycap">Tab</span> and <span class="keycap">Enter</span> are more appropriate.</li>
-				<li>The tab content should update automatically when pressing the arrow keys. You should not hit Enter to activate the tab.</li>
+				<li>Dette her gjelder for "application"-tabs som endrere seg uten at siden lastes på nytt. Når en meny ser ut som en tab-liste, men er egentlig en lenkeliste til forskjellige sider, er <span class="keycap">Tab</span> og <span class="keycap">Enter</span> bedre valget.</li>
+				<li>Tab-innholdet bør oppdaters automatisk når piltastene trykkes. Du burde ikke bruke Enter for å aktivere tab-en.</li>
 			</ul>
 		</td>
 	</tr>
 	<tr>
-		<td>'Tree' menu</td>
+		<td>'Tre'-meny</td>
 		<td>
 			<ul>
-				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> - Navigate Previous/next menu option</li>
-				<li><span class="keycap">←</span>/<span class="keycap">→</span> - expand/collapse submenu, move up/down one level.</li>
+				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> - Naviger til forrige/neste opsjon</li>
+				<li><span class="keycap">←</span>/<span class="keycap">→</span> - Ekspander/kollaps submeny, gå opp/ned et nivå.</li>
 			</ul>
 		</td>
 		<td></td>
 	</tr>
 	<tr>						
-		<td>Scroll </td>
+		<td>Skrollee </td>
 		<td>
 			<ul>
-				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> - scroll vertically</li>
-				<li><span class="keycap">←</span>/<span class="keycap">→</span> - scroll horizontally</li>
-				<li><span class="keycap">Spacebar</span>/<span class="keycap">Shift</span> + <span class="keycap">Spacebar</span> - scroll by page</li>
+				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> - skroll vertikalt</li>
+				<li><span class="keycap">←</span>/<span class="keycap">→</span> - skroll horisontalt</li>
+				<li><span class="keycap">Spacebar</span>/<span class="keycap">Shift</span> + <span class="keycap">Spacebar</span> - skroll by page</li>
 			</ul>
 		</td>
 		<td>

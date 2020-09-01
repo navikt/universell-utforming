@@ -1,4 +1,4 @@
-# Overskrifter
+# Språk på siden
 
 ## Teststeg
 Dette må du alltid teste manuelt:

@@ -151,11 +151,11 @@ Dette må du alltid teste manuelt:
 			<ul>
 				<li><span class="keycap">↑</span>/<span class="keycap">↓</span> - skroll vertikalt</li>
 				<li><span class="keycap">←</span>/<span class="keycap">→</span> - skroll horisontalt</li>
-				<li><span class="keycap">Spacebar</span>/<span class="keycap">Shift</span> + <span class="keycap">Spacebar</span> - skroll by page</li>
+				<li><span class="keycap">Spacebar</span> / <span class="keycap">Shift</span> + <span class="keycap">Spacebar</span> - skroll ned omtrent en vindustørrelse</li>
 			</ul>
 		</td>
 		<td>
-			<p>Minimize horizontal scrolling.</p>
+			<p>Minimer horisontal skrolling.</p>
 		</td>
 	</tr>
 </tbody></table>
@@ -165,3 +165,4 @@ Dette må du alltid teste manuelt:
 
 ## Andre ressurser
 * [Lær mer om hvordan teste tastaturnavigasjon på Tilsynets veiledningssider.. ](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#tastaturnavigering)
+* [WebAIMs veileder for tastatur

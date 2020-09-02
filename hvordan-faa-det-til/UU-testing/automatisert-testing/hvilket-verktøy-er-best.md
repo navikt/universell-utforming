@@ -74,7 +74,7 @@
             <td>✅</td>     
         </tr>
         <tr>
-            <th>Line break - ```<br>``` skal ikke benyttes for å formatere avsnitt (```<p>```)</td>
+            <th>Line break - <br> skal ikke benyttes for å formatere avsnitt (<p>)</td>
             <td></td>
             <td>✅</td>
             <td></td>
@@ -138,7 +138,7 @@
     </thead>
     <tbody>
         <tr>
-            <th>Finnes det tomme overskriftstagger på siden(```<h*></h*>```)?</td>
+            <th>Finnes det tomme overskriftstagger på siden(<h*></h*>)?</td>
             <td>✅</td>
             <td>✅</td>
             <td>✅</td>     
@@ -156,13 +156,13 @@
             <td>✅</td>
         </tr>
         <tr>
-            <th>Det brukes HTML-overskrifter (```<h*>v). Det brukes ikke CSS til å formattere ikke-overskrifter til å se ut som overskrifter.</td>
+            <th>Det brukes HTML-overskrifter (<h*>). Det brukes ikke CSS til å formattere ikke-overskrifter til å se ut som overskrifter.</td>
             <td>✅</td>
             <td></td>
             <td>v</td>
         </tr>
         <tr>
-            <th>Alenestående end-tag ("str```y end tag"</td>
+            <th>Alenestående end-tag ("stray end tag"</td>
             <td>✅</td>
             <td></td>
             <td></td>

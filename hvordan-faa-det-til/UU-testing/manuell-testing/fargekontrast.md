@@ -17,7 +17,7 @@ Inaktive funksjoner bør unngås da de ofte har svært lav kontrast og ikke sees
 
 
 ## Automatisert testing
-De fleste automatiserte verktøyene tester for fargekontrast. 
+De fleste automatiserte verktøyene tester for fargekontrast. Se gjerne [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md) der vi viser hva SortSite, ARC Toolkit og W3C tester. 
 
 Noen rene kontrastsjekkere:
 * [Color Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/)

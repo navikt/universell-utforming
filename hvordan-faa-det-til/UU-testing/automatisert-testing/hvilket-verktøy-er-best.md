@@ -1,3 +1,5 @@
+OBS! Denne siden er under arbeid og ikke fullstendig. Du finner oversikten til nå på [NAV-intern Confluence-side](https://confluence.adeo.no/display/MEBO/Automatisert+testing).
+
 # Hvilket verktøy er best?
 ## Bilder
 

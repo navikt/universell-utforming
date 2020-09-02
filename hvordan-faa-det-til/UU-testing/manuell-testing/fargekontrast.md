@@ -1,4 +1,4 @@
-# Fargekontrast
+# Farge og kontrast
 
 ## Hvorfor det er viktig
 God kontrast mellom tekst og bakgrunn er særlig viktig for brukere med nedsatt syn, lesevansker og nedsatt kognisjon, og for alle brukere under krevende lysforhold. I tillegg er det viktig at farge ikke er den eneste måten å formidle informasjon på med tanke på nedsatt fargesyn. (kilde: [uu.difi.no](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#farger-og-kontrast))
@@ -12,6 +12,8 @@ God kontrast mellom tekst og bakgrunn er særlig viktig for brukere med nedsatt 
 
 ### Vær obs på følgende: 
 NAV har som mål å levere tjenester som har kontrastnivå på AAA-nivå. Designsystemet er stadig i forbedringer. Til nå er kontrasten godkjent når den møter kontrastforhold 4,5:1 (AA-nivå i WCAG). Bruk gjerne høyere kontrast. Du finner kontrastforhold mot forskjellige farger i detaljevisningen av fargene på https://design.nav.no/resources/colors.
+
+![Fargekontrastene på designsystemfarger](/hvordan-faa-det-til/UU-testing/manuell-testing/kontrast.png)
 
 Inaktive funksjoner bør unngås da de ofte har svært lav kontrast og ikke sees av alle. Er det noe vi ønsker å kommunisere må disse komponentene være tilgjengelig for alle. Se også https://design.nav.no/accessibility/disabled
 

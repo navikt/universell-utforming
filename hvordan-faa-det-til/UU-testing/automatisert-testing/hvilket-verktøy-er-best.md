@@ -74,7 +74,7 @@
             <td>✅</td>     
         </tr>
         <tr>
-            <th>Line break - "<code><br /></code>" skal ikke benyttes for å formatere avsnitt (<p>)</td>
+            <th>Line break - "<pre><br /></pre>" skal ikke benyttes for å formatere avsnitt (<p>)</td>
             <td></td>
             <td>✅</td>
             <td></td>

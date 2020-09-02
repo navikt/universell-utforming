@@ -163,7 +163,9 @@ Dette må du alltid teste manuelt:
 Tabellen er oversatt fra [WebAIMs side om tastaturnavigasjon](https://webaim.org/techniques/keyboard/). 
 
 ## Verktøy du kan bruke
-Automatiserte verktøy kan mest vise tab-rekkefølgen, slik at man selv kan se om det samsvarer med den visuelle rekkefølgen, som ARC toolkit:
+Automatiserte verktøy kan mest vise tab-rekkefølgen, slik at man selv kan se om det samsvarer med den visuelle rekkefølgen. Se gjerne [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md) der vi viser hva SortSite, ARC Toolkit og W3C tester. 
+
+Her som eksempel hvordan ARC toolkit viser tab-rekkefølgen:
 ![Tabrekkefølge med ARC toolkit](/hvordan-faa-det-til/UU-testing/manuell-testing/tabrekkefolge.png)
 
 ## Andre ressurser

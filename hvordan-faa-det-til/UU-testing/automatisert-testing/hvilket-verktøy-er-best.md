@@ -168,3 +168,59 @@
             <td></td>
         </tr>
 </table>
+
+## Tabeller
+
+<table>
+    <thead>
+        <tr>
+            <th>Reglene som testes</th>
+            <th>SortSite</th>
+            <th>ARCToolkit</th>
+            <th>W3C</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Komplekse tabeller, krever manuell verifisering(</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td></td>     
+        </tr>
+        <tr>
+            <th>Layout-tabeller skal ikke ha SUMMARY eller CAPTION</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Tabeller som mangler overskrifer (<th>) er mest sannsynligvis kodet feil.</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>role='presentation' har blir brukt i en tabell med <th>. Krever manuel verifisering.</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>HEADERS-attributet referer til en table header-ID som ikke eksiterer</td>
+            <td>✅</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Bruk av tomrom for å skape kolonner resulerer i at skjermlesere leser kolonner i feil rekkefølge.</td>
+            <td>✅</td>
+            <td></td>
+            <td>✅</td>
+        </tr>
+        <tr>
+    <th>"<code><td></code>" skal ikke ha scope="row" eller scope="col"</td>
+            <td>✅</td>
+            <td></td>
+            <td></td>
+        </tr>
+</table>

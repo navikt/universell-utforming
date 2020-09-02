@@ -24,5 +24,5 @@ For å se Overskriftshirarki og -rekkefølge kan du bruke forskjellige verktøy,
 
 
 ## Andre ressurser
-* [Lær mer om hvordan teste overskrifter på Tilsynets veiledningssider.. ](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#overskrifter)
+* [Lær mer om hvordan teste overskrifter på Tilsynets veiledningssider](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#overskrifter)
 

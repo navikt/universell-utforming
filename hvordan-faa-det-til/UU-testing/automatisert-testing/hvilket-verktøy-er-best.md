@@ -224,3 +224,41 @@
             <td></td>
         </tr>
 </table>
+
+## Innhold
+
+<table>
+    <thead>
+        <tr>
+            <th>Reglene som testes</th>
+            <th>SortSite</th>
+            <th>ARCToolkit</th>
+            <th>W3C</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Siden inneholder et LANGattribute(</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>     
+        </tr>
+        <tr>
+            <th>Er teksten på siden skrevet på et annet språk enn det som står i lang attributet? (må verifiseres)</td>
+            <td></td>
+            <td></td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <th>Sidens title skal ikke være tom</td>
+            <td></td>
+            <td></td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <th>Innhold som er i et annet språk bør være i en SPAN eller DIV med et LANG attribute .</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+</table>

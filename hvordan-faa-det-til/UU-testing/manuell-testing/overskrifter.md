@@ -18,7 +18,9 @@ Det er en del testregler på overskrifter som dekkes av automatiserte verktøy, 
 
 For å se Overskriftshirarki og -rekkefølge kan du bruke forskjellige verktøy, som for eksempel [Web Developer Toolbar for Chrome (lenke til download)](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=no):
 
+![WebDeveloperToolbar](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/webdevelopertoolbar.png)
 
+![Document Outline fra WebDeveloperToolbar](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/docoutline.png)
 
 
 ## Andre ressurser

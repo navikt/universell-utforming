@@ -1,5 +1,8 @@
 # Lenker
 
+## Hvorfor det er viktig
+
+
 ## Teststeg
 Dette må du alltid teste manuelt:
 

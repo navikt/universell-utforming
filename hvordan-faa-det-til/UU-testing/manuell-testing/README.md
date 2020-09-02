@@ -15,7 +15,7 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 
 - [Tastaturnavigasjon](/hvordan-faa-det-til/UU-testing/manuell-testing/tastaturnavigasjon.md)
 - [Forstørring og responsiv design](/hvordan-faa-det-til/UU-testing/manuell-testing/forstørring.md)
-- [Fargekontrast](/hvordan-faa-det-til/UU-testing/manuell-testing/fargekontrast.md)
+- [Farge og kontrast](/hvordan-faa-det-til/UU-testing/manuell-testing/fargekontrast.md)
 - [Overskrifter](/hvordan-faa-det-til/UU-testing/manuell-testing/overskrifter.md)
 - [Lenker](/hvordan-faa-det-til/UU-testing/manuell-testing/fargekontrast.md)
 - [Bilder](/hvordan-faa-det-til/UU-testing/manuell-testing/bilder.md)

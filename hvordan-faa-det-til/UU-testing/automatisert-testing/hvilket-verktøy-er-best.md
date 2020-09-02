@@ -53,7 +53,6 @@
             <td></td>
             <td></td>
         </tr>
-  
 </table>
 
 ## Struktur
@@ -120,6 +119,50 @@
         </tr>
         <tr>
             <th>Alt-teksten skal ikke inneholder farger. Antagelse: SortSite sjekker kun engelske ord (f.eks red, blue..)</td>
+            <td>✅</td>
+            <td></td>
+            <td></td>
+        </tr>
+</table>
+
+## Overskrifter
+
+<table>
+    <thead>
+        <tr>
+            <th>Reglene som testes</th>
+            <th>SortSite</th>
+            <th>ARCToolkit</th>
+            <th>W3C</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Finnes det tomme overskriftstagger på siden( <h*></h*>)?</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>     
+        </tr>
+        <tr>
+            <th>Har overskriftsnivåene korrekt rekkefølge?</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Overskrifter skal ikke inne holde andre overskrifter</td>
+            <td></td>
+            <td></td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <th>Det brukes HTML-overskrifter (<h*>). Det brukes ikke CSS til å formattere ikke-overskrifter til å se ut som overskrifter.</td>
+            <td>✅</td>
+            <td></td>
+            <td>v</td>
+        </tr>
+        <tr>
+            <th>Alenestående end-tag ("stray end tag"</td>
             <td>✅</td>
             <td></td>
             <td></td>

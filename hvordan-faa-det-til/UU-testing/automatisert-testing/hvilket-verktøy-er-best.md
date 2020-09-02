@@ -93,3 +93,35 @@
             <td></td>
         </tr>
 </table>
+
+## Farger / Kontrast
+
+<table>
+    <thead>
+        <tr>
+            <th>Reglene som testes</th>
+            <th>SortSite</th>
+            <th>ARCToolkit</th>
+            <th>W3C</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Tekst og bakgrunn har god nok kontrastn (4,5:1, nivå AA).</td>
+            <td></td>
+            <td>✅</td>
+            <td></td>     
+        </tr>
+        <tr>
+            <th>Tekst og bakgrunn har en kontrast på 7:1 (nivå AAA)</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Alt-teksten skal ikke inneholder farger. Antagelse: SortSite sjekker kun engelske ord (f.eks red, blue..)</td>
+            <td>✅</td>
+            <td></td>
+            <td></td>
+        </tr>
+</table>

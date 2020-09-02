@@ -1,7 +1,13 @@
 # Lenker
 
 ## Hvorfor det er viktig
+Mange mennesker orienterer seg på nettsider gjennom å skanne overskrifter og lenker. De vil raskt kunne se om de er på riktig side, eller hvilken lenke som eventuelt kan være riktig vei videre til ønsket innhold. Skjermleserbrukere tar ofte opp lenkelister, som viser alle lenker på siden. Her et eksempel med VoiceOver på MAC på nav.no:
 
+![Lenkeliste nav.no](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/lenkeliste1.png)
+
+Og et eksempel fra VG: 
+
+![Lenkeliste vg.no](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/lenkeliste2.png)
 
 ## Teststeg
 Dette må du alltid teste manuelt:

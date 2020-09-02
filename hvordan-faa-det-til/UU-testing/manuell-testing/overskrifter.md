@@ -20,8 +20,11 @@ For å se Overskriftshirarki og -rekkefølge kan du bruke forskjellige verktøy,
 
 ![WebDeveloperToolbar](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/webdevelopertoolbar.png)
 
+Document Outline Web Developer Toobar genererer:
 ![Document Outline fra WebDeveloperToolbar](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/docoutline.png)
 
+Hvis du bare ønsker å se hva som er en overkrift på siden og med hvilket nivå, kan du også bruke ARC toolkit. Husk at du på denne måten ikke kan sjekke om overskriftene er på riktig nivå, siden du ikke ser rekkefølgen og hirarkiet.
+![ARC overskrifter](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/headings-arc.png)
 
 ## Andre ressurser
 * [Lær mer om hvordan teste overskrifter på Tilsynets veiledningssider](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#overskrifter)

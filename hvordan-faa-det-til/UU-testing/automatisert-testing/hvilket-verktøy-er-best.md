@@ -159,7 +159,7 @@
             <th>Det brukes HTML-overskrifter (<h*>). Det brukes ikke CSS til å formattere ikke-overskrifter til å se ut som overskrifter.</td>
             <td>✅</td>
             <td></td>
-            <td>v</td>
+            <td></td>
         </tr>
         <tr>
             <th>Alenestående end-tag ("stray end tag"</td>

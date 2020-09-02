@@ -14,7 +14,7 @@ Dette må du alltid teste manuelt:
 6. Har siden snarveislenkene «til hovedmeny» , «til hovedinnhold», og "til toppen" og fungerer de som de skal?  
 
 ### Slik bør siden fungere med bare tastatur
-For å navigere med bare tastatur brukes det som oftest en kombinasjon av noen enkelte taster som tab, space og enter. Se gjerne hvordan enkelte elementer bør fungere på [WebAIMs side om tastaturnavigasjon](https://webaim.org/techniques/keyboard/). 
+For å navigere med bare tastatur brukes det som oftest en kombinasjon av noen enkelte taster som tab, space og enter. Se gjerne hvordan enkelte elementer bør fungere på [WebAIMs side om tastaturnavigasjon](https://webaim.org/techniques/keyboard/#testing). 
 
 ## Verktøy du kan bruke
 Automatiserte verktøy kan mest vise tab-rekkefølgen, slik at man selv kan se om det samsvarer med den visuelle rekkefølgen. Se gjerne [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md) der vi viser hva SortSite, ARC Toolkit og W3C tester. 

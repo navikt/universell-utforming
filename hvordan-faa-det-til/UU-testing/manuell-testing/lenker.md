@@ -5,9 +5,6 @@ Mange mennesker orienterer seg på nettsider gjennom å skanne overskrifter og l
 
 ![Lenkeliste nav.no](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/lenkeliste1.png)
 
-Og et eksempel fra VG: 
-
-![Lenkeliste vg.no](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/lenkeliste2.png)
 
 ## Teststeg
 Dette må du alltid teste manuelt:
@@ -17,7 +14,7 @@ Dette må du alltid teste manuelt:
   - Er det lett å forstå at lenken er klikkbar?
   - Er lenker i tekst understreket eller skiller de seg fra annen tekst med mer enn bare farge (for eksempel ikoner)?
 - Sjekk at fokusmarkering ved hover og mouse over  er tydelig og i henhold til designsystemet.
-2. Kommer det tydelig frem av lenketeksten hva som kommer til å skje når du trykker på den? 
+2. Kommer det tydelig frem av lenketeksten hva som kommer til å skje når du trykker på den? Unngå "Les mer" og liknende.
 3. Fungerer lenken? 
 4. Når du trykker på lenken, er det samsvar mellom lenketeksten og overskriften på siden du kommer til? 
 

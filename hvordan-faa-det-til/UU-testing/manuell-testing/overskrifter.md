@@ -8,14 +8,17 @@ Overskrifter gjør det lettere å orientere seg på siden. Mange brukere "skanne
 ## Teststeg
 Dette må du alltid teste manuelt:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Er innholdet på siden organisert ved hjelp av overskrifter, og der passende med underoverskrifter? 
+2. Er all tekst som ser ut som overskrifter også kodet med overskriftstag (<h*>) 
+3. Dersom en overskrift er del av et visuelt overskriftshierarki, må du sjekke om den er kodet med samme nivå som den visuelle overskriften. Det vil si er overskrift som visuelt på nivå to også kodet som nivå 2? Det bør ikke hoppes over overskriftsnivåer.
+4. Beskriver overskriftene innholdet på siden? Sjekk både overskrifter og ledetekster i skjema og tabeller.  
 
-## Automatisert testing
+## Verktøy du kan bruke
+Det er en del testregler på overskrifter som dekkes av automatiserte verktøy, se også [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md) der vi viser hva SortSite, ARC Toolkit og W3C tester.
+
+For å se Overskriftshirarki og -rekkefølge kan du bruke forskjellige verktøy, som for eksempel [Web Developer Toolbar for Chrome (lenke til download)](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=no):
+
+
 
 
 ## Andre ressurser

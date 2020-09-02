@@ -18,7 +18,7 @@ Dette må du alltid teste manuelt:
 3. Fungerer lenken? 
 4. Når du trykker på lenken, er det samsvar mellom lenketeksten og overskriften på siden du kommer til? 
 
-## Automatisert testing
+## Verktøy du kan bruke
 Verktøy som ARC toolkit kan vise hva som er kodet som lenke, så det blir lettere å se hva som burde være tydelig klikkbar:
 
 ![Lenkemarkering i ARC toolkit](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/arc-lenke.png)

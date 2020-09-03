@@ -19,6 +19,7 @@ Vær obs når det skjer kontekstendringer
 
 7. Når et skjemaelement får fokus: Skjer det  kontekstendring? (forventet resultat: nei)
 8. Ved utfyllelse av skjema: Skjer det automatisk kontekstendring (Unntak: Ok, dersom brukeren blir varslet om det før bruk av komponenten)(forventet resultat: nei)
+
 ## Verktøy du kan bruke
 * [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md)
 

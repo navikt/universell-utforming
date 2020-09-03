@@ -16,7 +16,7 @@
     <tbody>
         <tr>
             <th>Alt-teksten skal ikke være et filnavn</th>
-            <td>✅</td>
+            <td>&#10003;</td>
             <td>✅</td>
             <td></td>     
         </tr>

@@ -12,8 +12,7 @@ Ellers er tastaturnavigasjon noe som stort sett må testes manuelt:
 2. Er fokusmarkeringen i tråd med NAVs designsystem? Den skal være som på [design.nav.no](https://design.nav.no/).
 3. Er det mulig å bruke siden kun med tastatur?  Se om du kan nå og betjene alle interaktive elementer som knapper, lenker, nedtrekkslister, datovelgere og menyer. Du skal hverken "sitte fast" eller oppleve at fokuset flytter seg uforventet.
 4. Er tastaturrekkefølgen den samme som den visuelle rekkefølgen på innholdet? (se også lengre ned under "Verktøy du kan bruke")
-5. Får du tilgang til alt innhold og alle funksjoner, med kun bruk av tastatur, dersom du forstørrer siden til 200% / 400%? 
-6. Har siden snarveislenkene «til hovedmeny» , «til hovedinnhold», og "til toppen" og fungerer de som de skal? De skal være de første elementene som får fokus på siden (bortsett fra "til toppen"), fokus skal være i tråd med designsystemet, og de skal lede til riktig sted på siden.
+5. Har siden snarveislenkene «til hovedmeny» , «til hovedinnhold», og "til toppen" og fungerer de som de skal? De skal være de første elementene som får fokus på siden (bortsett fra "til toppen"), fokus skal være i tråd med designsystemet, og de skal lede til riktig sted på siden.
 
 ### Slik bør siden fungere med bare tastatur
 For å navigere med bare tastatur brukes det som oftest en kombinasjon av noen enkelte taster som tab, space og enter. Se gjerne hvordan enkelte elementer bør fungere på [WebAIMs side om tastaturnavigasjon](https://webaim.org/techniques/keyboard/#testing). 

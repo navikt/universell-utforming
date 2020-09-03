@@ -1,6 +1,12 @@
-# Bilder
+# Bilder, illustrasjoner og ikoner
+
+## Hvorfor det er viktig
+Å kommunisere et budskap i form av noe annet enn kun tekst kan gi en god brukeropplevelse for de fleste, være det kan være spesielt nyttig for dyslektikere og for personer som har norsk som andrespråk. Gjennom bilder kan man få en bekreftelse på at man har forstått budskapet i teksten. 
+Det er likevel viktig å huske at ikke alle kan se bildene, og at noen kan ha utfordringer med å forstå (komplekse) bilder og illustrasjoner. Bilder med bevegelser og animasjoner kan distrahere, og blinkende bilder kan utløse epileptiske anfall.
 
 ## Teststeg
+Automatiserte testverktøy kan sjekke at det finnes et tekstalternativ for bildet, en såkalt alt-tag ( alt=»illustrasjosbilde av...»), men kun du kan sjekke kvaliteten på beskrivelsen.  
+
 Dette må du alltid teste manuelt:
 
 ### 1. Identifiser: 
@@ -38,7 +44,7 @@ Teksten skal enten ligge på samme side, eller man kan legge inn en lenke som ta
 
 
 ## Automatisert testing
-* Automatiserte testverktøy kan sjekke at det finnes en Alt-tag ( Alt=»illustrasjosbilde av...»), men kun du kan sjekke kvaliteten på beskrivelsen.  
+* 
 
 
 ## Andre ressurser

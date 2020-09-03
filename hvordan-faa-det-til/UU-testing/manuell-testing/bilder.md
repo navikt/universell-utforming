@@ -24,26 +24,21 @@ Dette må du alltid teste manuelt:
 * Er alt-teksten på samme språk som hovedinnholdet på siden? 
 
 ### 3. Er dekorativ grafikk er kodet korrekt og på den måten skjult for skjermleserne? 
-f.eks. : et bakgrunnsbilde med CSS, eller er de kodet med alt="", role="presentation" eller lignende  
+For eksempel et bakgrunnsbilde med CSS, eller er de kodet med alt="", role="presentation" eller lignende.
   
 ### 4.Bilder med kompleksinformasjon  
-f.eks.:  grafer, tabeller og bilder med tekst. 
+For eksempel grafer, tabeller og bilder med tekst. 
 
-Har bilder med kompleks informasjon, en utfyllende alternativtekst?  
+Har bilder med kompleks informasjon, en utfyllende alternativ tekst?  
 Teksten skal enten ligge på samme side, eller man kan legge inn en lenke som tar deg til en side hvor man kan nå tekstbeskrivelsen  
 
-
-
 ### 5. Bilder med lenker: 
-
 * Har bilder med lenker en tydelig fokusmarkering ved tastaturnavigasjon og når du fører muspekeren over bildet? 
-
 * Er alt-teksten beskrivende for siden du kommer til? 
-
 * Åpner lenken en ny fane, vindu eller et program? I såfall må du sjekke om du har fått  informasjon om dette før du trykker på lenken. 
 
 
-## Automatisert testing
+## Verktøy du kan bruke
 * 
 
 

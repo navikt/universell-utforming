@@ -50,7 +50,7 @@ Bruk alt-tekst som beskriver motivet i bildet OG en tekst med detaljert informas
 * Åpner lenken en ny fane, vindu eller et program? I såfall må du sjekke om du har fått informasjon om dette før du trykker på lenken. 
 
 ## Verktøy du kan bruke
-* ARC toolkit kan vise hvilke bilder som er kodet med <img>
+* ARC toolkit kan vise hvilke bilder som er kodet med &lt;img&gt;
 
 ## Andre ressurser
 * [Lær mer om hvordan teste bilder på Tilsynets veiledningssider.](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#bilder)

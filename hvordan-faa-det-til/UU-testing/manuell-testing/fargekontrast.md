@@ -4,6 +4,9 @@
 God kontrast mellom tekst og bakgrunn er særlig viktig for brukere med nedsatt syn, lesevansker og nedsatt kognisjon, og for alle brukere under krevende lysforhold. I tillegg er det viktig at farge ikke er den eneste måten å formidle informasjon på med tanke på nedsatt fargesyn. (kilde: [uu.difi.no](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#farger-og-kontrast))
 
 ## Teststeg
+De fleste automatiserte verktøyene tester for fargekontrast. Se gjerne [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md) der vi viser hva SortSite, ARC Toolkit og W3C kodejsekker tester.
+
+En del må likevel testes manuelt:
 
 1. Har du brukt [designsystemet og NAV frontend](https://design.nav.no/resources/colors)?
 2. Er det tilstrekkelig kontrast mellom tekst og bakgrunn? (kan stort sett testes automatisert, se nedenfor under "automatisert testing")
@@ -17,10 +20,7 @@ NAV har som mål å levere tjenester som har kontrastnivå på AAA-nivå. Design
 
 Inaktive funksjoner bør unngås da de ofte har svært lav kontrast og ikke sees av alle. Er det noe vi ønsker å kommunisere må disse komponentene være tilgjengelig for alle. Se også https://design.nav.no/accessibility/disabled
 
-
-## Automatisert testing
-De fleste automatiserte verktøyene tester for fargekontrast. Se gjerne [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md) der vi viser hva SortSite, ARC Toolkit og W3C tester. 
-
+## Verktøy du kan bruke
 Noen rene kontrastsjekkere:
 * [Color Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/)
 * [Snook.ca](https://snook.ca/technical/colour_contrast/colour.html#fg=FFFFFF,bg=000000)

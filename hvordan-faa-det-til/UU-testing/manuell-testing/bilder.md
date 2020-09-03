@@ -20,12 +20,14 @@ Dette må du alltid teste manuelt:
 ### 2. Finnes det en alternativ tekst for meningsbærende bilder?
 1. Alt-teksten skal være et reelt alternativ for personer som ikke ser. 
 
-  a) ![meningsbærende bilde](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/alt-xxl.png) 
+  * ![meningsbærende bilde](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/alt-xxl.png) 
   
   alt="Kim Daniel Skogstad i en XXL-butikk, kledd i XXL-genser"
-OBS! Hvis bildet formidler samme informasjon som (HTML-)tekst i nærheten, skal alt-teksten være tom, for å unngå at samme informasjon gis to ganger.
 
-  b) ![meningsbærende bilde med tekst ved siden av](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/alt-ringchat.png). 
+
+  * OBS! Hvis bildet formidler samme informasjon som (HTML-)tekst i nærheten, skal alt-teksten være tom, for å unngå at samme informasjon gis to ganger.
+
+![meningsbærende bilde med tekst ved siden av](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/alt-ringchat.png). 
 
 Her viser bildet en dame på telefon foran en laptop, som skal vise at man kan ringe eller chatte. Samme informasjon står som ren tekst rett ved siden av bildet ("Ring eller chat med oss om økonomi"). Å gjenta dette kan oppfattes som støy, og gir ikke noen nyttig ekstra-informasjon. Bildet skal derfor ha et tomt alt-attributt.
 

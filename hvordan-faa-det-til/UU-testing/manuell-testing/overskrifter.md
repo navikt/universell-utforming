@@ -3,7 +3,7 @@
 ## Hvorfor det er viktig
 Overskrifter gjør det lettere å orientere seg på siden. Mange brukere "skanner" siden etter overskrifter og lenker, for å se om de er på riktig side og finner svar på det de lurer på. Riktig koding på overskriftene er spesielt viktig for brukere av opplesningsverktøy, både for orientering og navigering på siden.
 
-Slik her ser en overskriftsliste i skjermleseren VoiceOver ut på en side på nav.no:
+Slik ser en overskriftsliste i skjermleseren VoiceOver ut på en side på nav.no:
 
 ![Overskriftsliste fra VoiceOver på nav-side](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/overskriftsliste.png)
 

@@ -27,3 +27,4 @@ Vær obs når det skjer kontekstendringer
 * Kontekstendringer - suksesskriterie [3.2.1 Fokus](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden/321-fokus-niva) og 
 [3.2.2 Inndata](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden/322-inndata-niva)
 * [Lær mer om hvordan teste skjema på Tilsynets veiledningssider.](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#skjema)
+

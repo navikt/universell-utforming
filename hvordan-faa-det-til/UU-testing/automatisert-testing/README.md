@@ -9,6 +9,8 @@ Vi anbefaler verktøyene:
 
 /skal vi legge inn undersider med kort veiledning per verktøy?/
 
+[Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md) - sammenlikning av reglene SortSite, ARC toolkit og W3Cs kodesjekker tester.
+
 ## Andre verktøy 
 Du kan bruke andre verktøy, men da må du sette deg inn i hva verktøyet tester og ikke tester. [Noen mulige verktøy](/hvordan-faa-det-til/uu-testing/verktøykasse.md).
  

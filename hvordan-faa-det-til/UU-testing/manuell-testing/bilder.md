@@ -44,7 +44,6 @@ Teksten skal enten ligge på samme side, eller man kan legge inn en lenke som ta
 
 ## Andre ressurser
 * [Lær mer om hvordan teste bilder på Tilsynets veiledningssider.. ](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#bilder)
-
-
+* [Informasjonsside om alternative tekster på Designsystem-sidene](https://design.nav.no/accessibility/alt-text)
 
 

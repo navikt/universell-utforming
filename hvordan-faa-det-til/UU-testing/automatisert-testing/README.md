@@ -1,5 +1,9 @@
 # Automatisert WCAG-sjekk
 
+Automatisert testing er en god basis for en WCAG-sjekk. Men husk at det fleste WCAG-krav krever en manuell evaluering, se gjerne vår [veileder for manuell testing](/hvordan-faa-det-til/UU-testing/manuell-testing/).
+
+Automatiserte verktøy kan likevel luke ut mange tunge feil og sikre et absolutt minimumsnivå av teknisk tilgjengelighet.
+
 Vi anbefaler verktøyene:  
 - SortSite 
 - ARC Toolkit  
@@ -17,7 +21,4 @@ Vår erfaring er at verktøyene på markedet har ulike styrker og svakheter. Vi 
   
 Det er også ikke alltid de tester det de i dokumentasjonen sier at de tester.  
 
-Bruk verktøyene med omhu. Vi har tatt en nærmere titt på SortSite, ARC Toolkit og W3C sitt verktøy.  Vår erfaring viser at det kan lønne seg å bruke en kombinasjon av verktøy, siden de ikke kjører de samme testene.
- 
-[Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md) - sammenlikning av reglene SortSite, ARC toolkit og W3Cs kodesjekker tester.
-
+Bruk verktøyene med omhu. Vi har tatt en nærmere titt på SortSite, ARC Toolkit og W3C sitt verktøy - se [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md).  Vår erfaring viser at det kan lønne seg å bruke en kombinasjon av verktøy, siden de ikke kjører de samme testene.

@@ -21,11 +21,9 @@ Dette må du alltid teste manuelt:
 1. Alt-teksten skal være et reelt alternativ for personer som ikke ser. 
 
   * alt="Kim Daniel Skogstad i en XXL-butikk, kledd i XXL-genser" ![meningsbærende bilde](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/alt-xxl.png) 
-  * OBS! Hvis bildet formidler samme informasjon som (HTML-)tekst i nærheten, skal alt-teksten være tom, for å unngå at samme informasjon gis to ganger.
+  * OBS! Hvis bildet formidler samme informasjon som (HTML-)tekst i nærheten, skal alt-teksten være tom, for å unngå at samme informasjon gis to ganger. Her viser bildet en dame på telefon foran en laptop, som skal vise at man kan ringe eller chatte. Samme informasjon står som ren tekst rett ved siden av bildet ("Ring eller chat med oss om økonomi"). Å gjenta dette kan oppfattes som støy, og gir ikke noen nyttig ekstra-informasjon. Bildet skal derfor ha et tomt alt-attributt.
 
 ![meningsbærende bilde med tekst ved siden av](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/alt-ringchat.png). 
-
-Her viser bildet en dame på telefon foran en laptop, som skal vise at man kan ringe eller chatte. Samme informasjon står som ren tekst rett ved siden av bildet ("Ring eller chat med oss om økonomi"). Å gjenta dette kan oppfattes som støy, og gir ikke noen nyttig ekstra-informasjon. Bildet skal derfor ha et tomt alt-attributt.
 
 2.  Bilder av text skal ha en alt-tekst som inkluderer teksten i bildet, hvis ikke samme tekst står i HTML-teksten rett ved siden av bildet. Bilder av tekst bør unngås, men vi bruker det for eksempel i logoen.
 3. Har bilder som kommuniserer innhold eller funksjonalitet en alternativ tekstbeskrivelse? For eksempel innlogging i ID-porten eller forstørrelsesglass for søk.

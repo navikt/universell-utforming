@@ -14,7 +14,7 @@ Verktøy som ARC toolkit kan vise hva som er kodet som lenke, så det blir lette
     - Er det lett å forstå at lenken er klikkbar?
     - Er lenker i tekst understreket eller skiller de seg fra annen tekst med mer enn bare farge (for eksempel ikoner)?
   - Sjekk at fokusmarkering ved hover og mouse over  er tydelig og i henhold til designsystemet.
-2. Kommer det tydelig frem av lenketeksten hva som kommer til å skje når du trykker på den? Unngå "Les mer" og liknende.
+2. Kommer det tydelig frem av lenketeksten hva som kommer til å skje når du trykker på den? Unngå "Les mer" og liknende. 
 3. Fungerer lenken? 
 4. Når du trykker på lenken, er det samsvar mellom lenketeksten og overskriften på siden du kommer til? 
 

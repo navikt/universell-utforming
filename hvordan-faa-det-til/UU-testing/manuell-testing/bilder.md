@@ -37,15 +37,19 @@ For eksempel grafer, tabeller og bilder med tekst.
 
 Bruk alt-tekst som beskriver motivet i bildet OG en tekst med detaljert informasjon om innholdet i motivet. Teksten skal enten ligge på samme side, eller man kan legge inn en lenke som tar deg til en side hvor man kan nå tekstbeskrivelsen. I noen tilfeller er det best å tilby visning som tabell. 
 
-- alt="Tar du for eksempel 2 uker ferie i foreldrepengerperioden, forskyves sluttdatoen med 2 uker. Skjematisk illustrasjon" ![Illustrasjon om foreldrepengeplanlegging](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/alt-foreldrepengerplanlegging.png)
-- Eksempel på en graf som alternativ bør kunne vises som tabell. alt="Oversikt over arbeidsledige og ledige stillinger de siste 13 måneder." ![Graf over ledighet](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/alt-ledighet.png)
+- alt="Tar du for eksempel 2 uker ferie i foreldrepengerperioden, forskyves sluttdatoen med 2 uker. Skjematisk illustrasjon" 
+
+![Illustrasjon om foreldrepengeplanlegging](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/alt-foreldrepengerplanlegging.png)
+- Eksempel på en graf som alternativ bør kunne vises som tabell. alt="Oversikt over arbeidsledige og ledige stillinger de siste 13 måneder." 
+
+![Graf over ledighet](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/alt-ledighet.png)
 
 
 
 ### 5. Bilder med lenker: 
-* Har bilder med lenker en tydelig fokusmarkering ved tastaturnavigasjon og når du fører muspekeren over bildet? 
+* Har bilder med lenker en tydelig markering ved tastaturnavigasjon og når du fører muspekeren over bildet? 
 * Er alt-teksten beskrivende for siden du kommer til? 
-* Åpner lenken en ny fane, vindu eller et program? I såfall må du sjekke om du har fått  informasjon om dette før du trykker på lenken. 
+* Åpner lenken en ny fane, vindu eller et program? I såfall må du sjekke om du har fått informasjon om dette før du trykker på lenken. 
 
 
 ## Verktøy du kan bruke

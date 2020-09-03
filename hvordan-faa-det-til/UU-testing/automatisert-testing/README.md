@@ -1,6 +1,6 @@
 # Automatisert WCAG-sjekk
 
-Automatisert testing er en god basis for en WCAG-sjekk. Men husk at det fleste WCAG-krav krever en manuell evaluering, se gjerne vår [veileder for manuell testing](/hvordan-faa-det-til/UU-testing/manuell-testing/).
+Automatisert testing er en god basis for en WCAG-sjekk. Men husk at det fleste WCAG-kravene krever en manuell evaluering, se gjerne vår [veileder for manuell testing](/hvordan-faa-det-til/UU-testing/manuell-testing/).
 
 Automatiserte verktøy kan likevel luke ut mange tunge feil og sikre et absolutt minimumsnivå av teknisk tilgjengelighet.
 

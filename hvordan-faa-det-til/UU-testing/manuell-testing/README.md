@@ -18,7 +18,7 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 - [Farge og kontrast](/hvordan-faa-det-til/UU-testing/manuell-testing/fargekontrast.md)
 - [Overskrifter](/hvordan-faa-det-til/UU-testing/manuell-testing/overskrifter.md)
 - [Lenker](/hvordan-faa-det-til/UU-testing/manuell-testing/lenker.md)
-- [Bilder](/hvordan-faa-det-til/UU-testing/manuell-testing/bilder.md)
+- [Bilder, illustrasjoner og ikoner](/hvordan-faa-det-til/UU-testing/manuell-testing/bilder.md)
 - [Skjema](/hvordan-faa-det-til/UU-testing/manuell-testing/skjema.md)
 - [Søkefunksjon](/hvordan-faa-det-til/UU-testing/manuell-testing/søkefunksjon.md)
 - [Sidetitler](/hvordan-faa-det-til/UU-testing/manuell-testing/sidetitler.md)

@@ -7,6 +7,7 @@ Universell utforming skal sikre at tjenester, produkter og omgivelser kan brukes
 <iframe width="560" height="315" src="https://youtu.be/zl53ownJU1c" title="Tilsynets video om Unviersell utforming" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 Alle møter vi på komplekse utfordringer gjennom et langt liv. Ulike hendelser kan skape et mylder av ulike livssituasjoner. Mange av de trenger man hjelp til å håndtere. Står man i en stressende situasjon uten inntekt, men med forsørgeransvar, skaper det svært mange bekymringer. Har man i tillegg nedsatt funksjonsevne – medfødt, gjennom sykdom, skade eller ulykke, så kan livet noen ganger bli for stort. Da skal man hvertfall ikke oppleve diskriminering gjennom digitale barrierer.
 
 Alle brukere har behov for at tjenestene våre er enkle, forståelige og kan betjenes med de dingsene eller hjelpemidlene de er avhengig av. Universell utforming bidrar til å fjerne, eller redusere, de utfordringene i hverdagen som kan være ukjente for de fleste av oss, men som likevel rammer så alt for mange.

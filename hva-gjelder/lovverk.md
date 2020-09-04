@@ -1,8 +1,6 @@
 # Lovviging og frister
 
-## Innbyggertjenester
-
-/illustrasjon tidslinje/
+## Innbyggertjenester ("eksterne flater")
 
 ### Dagens lovgiving: Fra 1. januar 2021 må all ekstern nettinnhold være universelt utformet
 

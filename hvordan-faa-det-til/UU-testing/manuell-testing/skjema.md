@@ -1,7 +1,7 @@
 # Skjema
 
 ## Hvorfor det er viktig
-Tilgjengelige skjema gir økt brukervennlighet for alle, men er spesielt viktig for brukere som benytter skjermlesere eller tastaturnavigasjon, og brukere med motoriske eller kognitive funksjonsnedsettelser.[kilde: uu.difi.no](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/skjema)
+Tilgjengelige skjema gir økt brukervennlighet for alle, men er spesielt viktig for brukere som benytter skjermlesere eller tastaturnavigasjon, og brukere med motoriske eller kognitive funksjonsnedsettelser (kilde: [uu.difi.no](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/skjema)).
 
 ## Teststeg
 

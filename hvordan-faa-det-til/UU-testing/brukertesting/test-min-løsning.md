@@ -23,6 +23,7 @@ Noen eksempler fra dagens "VIP-brukere":
 * Mann, ca 20 år, har ikke språk, rullestolbruker, bruker blikket til å styre alt i hverdagen, bruker Facebook og Messenger m.fl.
 
 ![Bilde av testdeltaker og observatører](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/brukertesting/IMG_7863%20(2).jpg)
+
 Gjennomføring av en av de første "Test min løsning" hvor Siv-Anne, som bruker øyestyring, testet forbedringer av nav.no. Nå gjennomføres testene slik at observatørene sitter i et eget rom.
 
 ## Hvorfor tilbyr vi dette?

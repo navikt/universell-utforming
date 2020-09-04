@@ -1,4 +1,4 @@
-# Lovviging og frister
+# Lovgiving og frister
 
 ## Innbyggertjenester ("eksterne flater")
 

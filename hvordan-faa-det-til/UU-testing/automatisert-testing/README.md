@@ -11,8 +11,6 @@ Vi anbefaler verktøyene:
 - Axe Tools (Deque)  
 - SiteImprove
 
-/skal vi legge inn undersider med kort veiledning per verktøy?/
-
 ## Andre verktøy 
 Du kan bruke andre verktøy, men da må du sette deg inn i hva verktøyet tester og ikke tester. [Noen mulige verktøy](/hvordan-faa-det-til/uu-testing/verktøykasse.md).
  

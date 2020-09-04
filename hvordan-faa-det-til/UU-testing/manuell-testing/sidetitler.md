@@ -11,3 +11,4 @@
 * [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md)
 
 ## Andre ressurser
+* [Lær mer om hvordan teste sidetitler på Tilsynets veiledningssider.](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#sidetitler)

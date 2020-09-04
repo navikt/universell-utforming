@@ -4,7 +4,7 @@
 
 
 ## Suksessfaktorer
-Disse punktene utgjør universell-utformings-delen av [NAVs risikovurdering (NAV-intern lenke](https://navno.sharepoint.com/sites/intranett-it/SitePages/Risikovurderinger.aspx), og er suksessfaktorer for å oppnå god UU.
+Disse punktene utgjør universell-utformings-delen av [NAVs risikovurdering (NAV-intern lenke)](https://navno.sharepoint.com/sites/intranett-it/SitePages/Risikovurderinger.aspx), og er suksessfaktorer for å oppnå god UU.
 
 1. Teamet bruker [Designsystemet](https://design.nav.no/).
 2. Teamet har en felles forståelse av UU og ønsker å levere universelt utformete løsninger.
@@ -18,7 +18,7 @@ Disse punktene utgjør universell-utformings-delen av [NAVs risikovurdering (NAV
 11. I anskaffelser: Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelseer.md). Eventuelle brudd blir fulgt opp.
 
 ## WCAG-sjekk
-Oppfyller dere WCAG-kravene (WCAG 2.0 på nivå A og AA), møter dere aktuelle lovkrav. 
+Oppfyller dere [WCAG-kravene](https://uu.difi.no/krav-og-regelverk) (WCAG 2.0 på nivå A og AA), møter dere aktuelle lovkrav. 
 
 ### Automatisert testing
 Basistesting som kan finne circa 20-30 prosent av mulige feil.
@@ -30,7 +30,7 @@ Basistesting som kan finne circa 20-30 prosent av mulige feil.
 For å avdekke og evaluere punktene automatisert testing ikke kan dekke.
 
 * [Manuell WCAG-sjekk av sidene](hvordan-faa-det-til/UU-testing/manuell-testing/README.md) er del av rutinene
-* [Manuell testing med hjelpemidler] er en del av rutinene
+* [Manuell testing med hjelpemidler](/hvordan-faa-det-til/UU-testing/manuell-testing/) er en del av rutinene
 
 ## Brukerinvolvering
 Slik sikrer dere at løsningen møter reelle brukerbehov og -forutsetninger.

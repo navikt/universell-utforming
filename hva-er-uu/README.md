@@ -2,7 +2,7 @@
 
 <alertstripe type="advarsel">Siden er under arbeid. Se gjerne [Tilsynets informasjon om universell utforming](https://uu.difi.no/kva-er-universell-utforming).</alertstripe>
 
-Universell utforming skal sikre at tjenester, produkter og omgivelser kan brukes av alle, uavhengig av funksjonsevne.
+<p class="typo-ingress">Universell utforming skal sikre at tjenester, produkter og omgivelser kan brukes av alle, uavhengig av funksjonsevne.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zl53ownJU1c" title="Tilsynets video om Unviersell utforming" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

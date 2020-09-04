@@ -1,5 +1,8 @@
 # Hvordan få det til?
 
+<p class="typo-ingress">Det er mange veier å sikre universell utforming. Vi ønsker å gi dere én mulig vei å gå, og dele det vi ser skaper suksess. Hvis dere har andre rutiner eller tipps, ta gjerne kontakt med oss (uu@nav.no eller NAV-intern slack-kanal #nav-uu).</p>
+
+
 ## Suksessfaktorer
 Disse punktene utgjør universell-utformings-delen av [NAVs risikovurdering (NAV-intern lenke](https://navno.sharepoint.com/sites/intranett-it/SitePages/Risikovurderinger.aspx), og er suksessfaktorer for å oppnå god UU.
 

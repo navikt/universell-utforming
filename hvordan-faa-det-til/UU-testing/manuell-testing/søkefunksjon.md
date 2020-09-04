@@ -1,1 +1,3 @@
+# Søkefunksjon
 
+Informasjon kommer snart.

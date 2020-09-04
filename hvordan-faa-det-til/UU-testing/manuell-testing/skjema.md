@@ -21,7 +21,7 @@ Vær obs når det skjer kontekstendringer
 8. Ved utfyllelse av skjema: Skjer det automatisk kontekstendring (Unntak: Ok, dersom brukeren blir varslet om det før bruk av komponenten)(forventet resultat: nei)
 
 ## Verktøy du kan bruke
-
+kommer
 
 ## Andre ressurser
 * Kontekstendringer - suksesskriterie [3.2.1 Fokus](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden/321-fokus-niva) og 

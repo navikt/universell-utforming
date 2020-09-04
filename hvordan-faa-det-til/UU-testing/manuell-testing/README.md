@@ -2,7 +2,7 @@
 
 Testverktøyene tester kun en liten prosentdel av WCAG 2.1. Du må derfor sjekke en del manuelt. Listene nedenfor er laget som et hjelpemiddel for de som er litt erfarne innen fagfeltet. De inneholder derfor kun forenklede tester, uten detaljerte teststeg. Dette er gjort på grunn av at det skal gå raskt. Det er også ulike måter å teste dette.   
 
-Kjør gjerne en [automatisert WCAG-test] først.
+Kjør gjerne en [automatisert WCAG-test](/hvordan-faa-det-til/UU-testing/automatisert-testing/) først.
  
 ## Uerfaren?  
 

@@ -10,7 +10,7 @@ NAV stiller krav til universell utforming i alt vi gjør. Forskriften for univer
 
 Alle digitale tjenester og kontaktpunkter skal følge Forskrift om universell utforming av IKT og ha en Tilgjengelighetserklæring. Dette er minimumskravene. Vi skal jobbe med virkelig inkluderende tjenester, og tenke på kryssdiskriminering og corner-cases når vi utvikler tjenester. 
 
-<alertstripe type="advarsel">OBS! Fra 1. januar 2021 er alle våre innbyggertjenester omfattet av gjeldende lovverk, også eldre løsninger og PDF-er. Det føres tilsyn på området, som kan føre til dårlig medieomtale og høye dagbøter. Løsninger som ikke rekker å være i tråd med kravene innen 2021, må søke om dispensasjon.</alertstripe>
+<alertstripe type="advarsel">OBS! Fra 1. januar 2021 er alle våre innbyggertjenester omfattet av gjeldende lovverk, også eldre løsninger og PDF-er. Det føres tilsyn på området, som kan føre til dårlig medieomtale og høye dagbøter. Løsninger som ikke rekker å være i tråd med kravene innen 2021, må søke om dispensasjon.</alertstripe><br/>
 
 ### Interne systemer
 

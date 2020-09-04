@@ -20,7 +20,7 @@ UU-Teamet har inngått samarbeid med Digjobb-ressurser (se http://www.digjobb.no
 Noen eksempler fra dagens "VIP-brukere":
 * Kvinne, ca 20 år, har ikke språk og liten bevegelse i kroppen, rullestolbruker, bruker blikket til å styre alt i hverdagen. Har blant annet skrevet barnebok.
 * Mann, ca 25 år, har veldig begrenset språk, rullestolbruker, bruker spesialtastatur og spesialmus. Liker å lage musikk.
-* Mann, ca 20 år, har ikke språk, rullestolbruker, bruker blikket til å styre alt i hverdagen, bruker Facebook og Messenger m.fl.
+* Mann, ca 20 år, har ikke språk, rullestolbruker, bruker blikket til å styre alt i hverdagen, bruker blant annet Facebook og Messenger
 
 ![Bilde av testdeltaker og observatører](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/brukertesting/IMG_7863%20(2).jpg)
 

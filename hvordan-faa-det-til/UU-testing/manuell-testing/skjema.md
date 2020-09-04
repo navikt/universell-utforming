@@ -1,11 +1,11 @@
 # Skjema
 
 ## Hvorfor det er viktig
-[Les hvorfor dette er viktig på Tilsynets veiledningssider](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/skjema)
+Tilgjengelige skjema gir økt brukervennlighet for alle, men er spesielt viktig for brukere som benytter skjermlesere eller tastaturnavigasjon, og brukere med motoriske eller kognitive funksjonsnedsettelser.[kilde: uu.difi.no](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/skjema)
 
 ## Teststeg
 
-Automatiserte testverktøy kan teste nokså mye når det kommer til skjema, men det er fortsatt endel ting du må alltid teste manuelt.
+Automatiserte testverktøy kan teste nokså mye når det kommer til skjema, se også [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md). Det er fortsatt endel ting du må alltid teste manuelt:
 
 1. Beskriver label (ledeteksten) formålet med skjemafeltet? 
 2. Er labelelementet koblet korrekt med skjemafelet?
@@ -21,7 +21,7 @@ Vær obs når det skjer kontekstendringer
 8. Ved utfyllelse av skjema: Skjer det automatisk kontekstendring (Unntak: Ok, dersom brukeren blir varslet om det før bruk av komponenten)(forventet resultat: nei)
 
 ## Verktøy du kan bruke
-* [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md)
+
 
 ## Andre ressurser
 * Kontekstendringer - suksesskriterie [3.2.1 Fokus](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden/321-fokus-niva) og 

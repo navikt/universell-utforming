@@ -1,6 +1,6 @@
 # Hvordan få det til?
 
-<p class="typo-ingress">Det er mange veier å sikre universell utforming. Vi ønsker å gi dere én mulig vei å gå, og dele det vi ser skaper suksess. Hvis dere har andre rutiner eller tipps, ta gjerne kontakt med oss (uu@nav.no eller NAV-intern slack-kanal #nav-uu).</p>
+<p class="typo-ingress">Det finnes mange måter å sikre universell utforming. Vi ønsker å gi dere én mulig vei å gå, og dele det vi ser skaper suksess. Hvis dere har andre rutiner eller tipps, ta gjerne kontakt med oss (uu@nav.no eller NAV-intern slack-kanal #nav-uu).</p>
 
 
 ## Suksessfaktorer

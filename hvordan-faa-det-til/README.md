@@ -7,7 +7,7 @@ Disse punktene utgjør universell-utformings-delen av [NAVs risikovurdering (NAV
 2. Teamet har en felles forståelse av UU og ønsker å levere universelt utformete løsninger.
 3. Design-for-alle-mindset er med i alle faser av arbeidet.
 4. Teamet har minst en UU-Champ.
-5. Teamet jobber tverrfaglig med UU. Se også våre [tips etter rolle i team]
+5. Teamet jobber tverrfaglig med UU. Se også våre [tips etter rolle i team](/hvordan-faa-det-til/tips-etter-rolle/)
 7. Teamet har tilgang til nødvendige ressurser, inkludert tid, budsjett, testbrukere, hjelpemidler og verktøy.
 8. UU blir tidlig og kontinuerlig evaluert.
 9. Teamet  har satt opp rutiner for å lage [tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) og for å ta inn [brukertilbakemeldinger](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md).

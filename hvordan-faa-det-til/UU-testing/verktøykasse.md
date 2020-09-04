@@ -54,7 +54,7 @@ W3C har laget noen før- og etter-sider. Sidene ser ganske like ut, men "før"-s
 
 ## Automatisk testing
 
-<alertstripe type="advarsel">Det er viktig å være klar over at automatisk testing vanligvis bare avdekker ~30% av feil, og at man helst bør kombinere disse med både brukertester og manuelle ekspertevalueringer i tillegg.</alertstripe>
+<div><alertstripe type="advarsel">Det er viktig å være klar over at automatisk testing vanligvis bare avdekker ~30% av feil, og at man helst bør kombinere disse med både brukertester og manuelle ekspertevalueringer i tillegg.</alertstripe></div>
 
 ### Linting
 

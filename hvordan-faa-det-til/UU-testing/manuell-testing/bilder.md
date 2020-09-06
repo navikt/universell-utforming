@@ -9,7 +9,7 @@ Automatiserte testverktøy kan sjekke at det finnes et tekstalternativ for bilde
 
 Dette må du alltid teste manuelt:
 
-### 1. Identifiser: 
+### 1. Identifiser
 * Finnes det bilder på siden du tester?
 * Er bildene på siden kun dekorasjon, eller blir de brukt til å kommunisere innhold eller funksjonalitet?  
 
@@ -32,7 +32,7 @@ Dette må du alltid teste manuelt:
 ### 3. Er dekorativ grafikk er kodet korrekt og på den måten skjult for skjermleserne? 
 For eksempel et bakgrunnsbilde med CSS, eller er de kodet med alt="", role="presentation" eller lignende.
   
-### 4.Bilder med kompleks informasjon  
+### 4. Bilder med kompleks informasjon  
 For eksempel grafer, tabeller og bilder med tekst. 
 
 Bruk alt-tekst som beskriver motivet i bildet OG en tekst med detaljert informasjon om innholdet i motivet. Teksten skal enten ligge på samme side, eller man kan legge inn en lenke som tar deg til en side hvor man kan nå tekstbeskrivelsen. I noen tilfeller er det best å tilby visning som tabell. 

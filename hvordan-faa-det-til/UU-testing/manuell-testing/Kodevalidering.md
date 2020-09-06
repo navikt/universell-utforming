@@ -1,5 +1,8 @@
 # Kodevalidering
 
+## Hvorfor det er viktig
+kommer
+
 ## Teststeg
 
 Kodevalidering bør du gjøre med testverktøy.
@@ -11,10 +14,10 @@ Sørg for å ajekke:
 4. At ingen elementer har identisk verdi på id-attributtet.
 
 
-## Automatisert testing
-
+## Verktøy du kan bruke
+kommer
 
 ## Andre ressurser
-* [Lær mer om hvordan teste kodekvalitet på Tilsynets veiledningssider.. ](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#kodevalidering)
+* [Lær mer om hvordan teste kodekvalitet på Tilsynets veiledningssider.](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#kodevalidering)
 
 

@@ -19,6 +19,6 @@ Det finnes mange forskjellige kode-validatorer. Du kan for eksempel bruke [W3Cs 
 ![Sjekk av Alene med barn-siden med W3Cs kodevalidator](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/w3c-kodesjekker.png)
 
 ## Andre ressurser
-* [Lær mer om hvordan teste kodekvalitet på Tilsynets veiledningssider.](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#kodevalidering)
+* [Lær mer om hvordan teste kodekvalitet på Tilsynets veiledningssider.](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/kodestandarder-og-validering)
 
 

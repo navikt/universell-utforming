@@ -5,7 +5,7 @@
 Det er likevel viktig å huske at ikke alle kan se bildene, enten på grunn av dårlig syn eller dårlig nettverk. Noen kan også ha utfordringer med å forstå (komplekse) bilder og illustrasjoner. Bilder med bevegelser og animasjoner kan distrahere, og blinkende bilder kan utløse epileptiske anfall.
 
 ## Teststeg
-Automatiserte testverktøy kan sjekke at det finnes et tekstalternativ for bildet, en såkalt alt-tag ( alt=»illustrasjosbilde av...»), men kun du kan sjekke kvaliteten på beskrivelsen.  
+Automatiserte testverktøy kan sjekke at det finnes et tekstalternativ for bildet, en såkalt alt-tag ( alt="illustrasjosbilde av..."), men kun du kan sjekke kvaliteten på beskrivelsen.  
 
 Dette må du alltid teste manuelt:
 

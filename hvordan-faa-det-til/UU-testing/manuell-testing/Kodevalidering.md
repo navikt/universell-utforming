@@ -6,7 +6,7 @@ Korrekt kode er viktig for å sikre at nettsiden fungerer riktig med ulike nettl
 ## Teststeg
 Kodevalidering bør du gjøre med testverktøy. Se vår oversikt [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md) forå se en sammenlikning på hva SortSite, ARC toolkit og W3Cs kodevalidator dekker.
 
-Sørg for å ajekke:
+Sørg for å sjekke:
 1. At alle elementer er nøstet korrekt.
 2. At alle elementer startes og avsluttes korrekt.
 3. At ingen elementer har duplikate attributt.

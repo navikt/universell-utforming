@@ -12,13 +12,14 @@ Automatiserte testverktøy kan teste nokså mye når det kommer til skjema, se o
 4. Hvis et skjemafelt krever spesielt format: Er formatet spesifisert? Dette gjelder for eksempel dato, personnummer, telefon eller liknende.
 5. Får brukerne mulighet til å bekrefte, kontrollere og/eller endre sine data i skjema med viktig formål? Dette kan for eksempel løses gjennom en oppsummeringsside som viser alt som er fylt ut, og der man kan gå tilbake og rette eventuelle feil.
 6. Blir obligatoriske felt tydelig merket, og er markeringen forklart? Eller er alterntivt valgfrie felt markert? Se våre [retningslinjer på design.nav.no](https://design.nav.no/components/input/accessibility) 
-7. Sjekk at farge ikke brukes som eneste virkemiddel for å formidle informasjon; for eksempel atn feil ikke bare markeres med farge.
+7. Sjekk at farge ikke brukes som eneste virkemiddel for å formidle informasjon; for eksempel at feil ikke bare markeres med farge.
+8. Sjekk at lengden på input-felt speiler forventet input. For eksempel 11-siffer lang inputfelt for fødselsnummer. Se veiledning på [siden om input-felt](https://design.nav.no/components/input#lengde)
 
 
 Vær obs når det skjer kontekstendringer
 
-8. Når et skjemaelement får fokus: Skjer det  kontekstendring? (forventet resultat: nei)
-9. Ved utfyllelse av skjema: Skjer det automatisk kontekstendring (Unntak: Ok, dersom brukeren blir varslet om det før bruk av komponenten)(forventet resultat: nei)
+9. Når et skjemaelement får fokus: Skjer det  kontekstendring? (forventet resultat: nei)
+10. Ved utfyllelse av skjema: Skjer det automatisk kontekstendring (Unntak: Ok, dersom brukeren blir varslet om det før bruk av komponenten)(forventet resultat: nei)
 
 ## Verktøy du kan bruke
 Kjør gjerne automatiserte test først. Utover det kan for eksempel ARC toolkit identifisere skjemaelement og hvordan de er kodet:

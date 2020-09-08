@@ -12,7 +12,7 @@ Automatiserte testverktøy kan teste nokså mye når det kommer til skjema, se o
 3. Hvis en inndatafeil blir oppdaget automatisk: Får brukeren en tekstlig beskrivelse av feilen og hvor feilen oppstår? Se gjerne [mønster for skjemavalidering i NAV](https://design.nav.no/patterns/form-validation)
 4. Hvis et skjemafelt krever spesielt format: Er formatet spesifisert? Dette gjelder for eksempel dato, personnummer, telefon eller liknende.
 5. Hvis bruker fyller ut skjemaet feil: Får brukeren en feilmelding med konkrete forslag til løsning?
-6. Får brukerne mulighet til å bekrefte, kontrollere og/eller endre sine data i skjema med viktig formål? 
+6. Får brukerne mulighet til å bekrefte, kontrollere og/eller endre sine data i skjema med viktig formål? Dette kan for eksempel løses gjennom en oppsummeringsside som viser alt som er fylt ut, og der man kan gå tilbake og rette eventuelle feil.
 7. Blir obligatoriske felt tydelig merket, og er markeringen forklart?
 
 

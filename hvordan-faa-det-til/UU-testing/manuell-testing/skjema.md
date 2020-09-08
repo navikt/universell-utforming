@@ -13,6 +13,7 @@ Automatiserte testverktøy kan teste nokså mye når det kommer til skjema, se o
 4. Hvis et skjemafelt krever spesielt format: Er formatet spesifisert? Dette gjelder for eksempel dato, personnummer, telefon eller liknende.
 5. Hvis bruker fyller ut skjemaet feil: Får brukeren en feilmelding med konkrete forslag til løsning?
 6. Får brukerne mulighet til å bekrefte, kontrollere og/eller endre sine data i skjema med viktig formål? 
+7. Blir obligatoriske felt tydelig merket, og er markeringen forklart?
 
 
 Vær obs når det skjer kontekstendringer

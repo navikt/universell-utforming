@@ -29,7 +29,7 @@ Basistesting som kan finne circa 20-30 prosent av mulige feil.
 ### Manuell testing
 For å avdekke og evaluere punktene automatisert testing ikke kan dekke.
 
-* [Manuell WCAG-sjekk av sidene](hvordan-faa-det-til/UU-testing/manuell-testing/README.md) er del av rutinene
+* [Manuell WCAG-sjekk av sidene](/hvordan-faa-det-til/UU-testing/manuell-testing/) er del av rutinene
 * [Manuell testing med hjelpemidler](/hvordan-faa-det-til/UU-testing/manuell-testing/) er en del av rutinene
 
 ## Brukerinvolvering

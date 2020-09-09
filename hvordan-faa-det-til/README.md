@@ -13,7 +13,7 @@ Disse punktene utgjør universell-utformings-delen av [NAVs risikovurdering (NAV
 5. Teamet jobber tverrfaglig med UU. Se også våre [tips etter rolle i team](/hvordan-faa-det-til/tips-etter-rolle/)
 7. Teamet har tilgang til nødvendige ressurser, inkludert tid, budsjett, testbrukere, hjelpemidler og verktøy.
 8. UU blir tidlig og kontinuerlig evaluert.
-9. Teamet  har satt opp rutiner for å lage [tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) og for å ta inn [brukertilbakemeldinger](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md).
+9. Teamet  har satt opp rutiner for å lage [tilgjengelighetserklæring](/hva-gjelder/tilgjengelighetserklæring.md) og for å ta inn [brukertilbakemeldinger](/hva-gjelder/tilbakemeldingsfunksjon.md).
 10. Teamet har dialog med UU-teamet.
 11. I anskaffelser: Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelseer.md). Eventuelle brudd blir fulgt opp.
 

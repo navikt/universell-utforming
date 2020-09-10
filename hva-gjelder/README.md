@@ -1,5 +1,7 @@
 # Hva gjelder?
 
+Ut 2020 gjelder 
+NAV lager løsninger på en slik måte at alle som bor i Norge kan bruke dem, uten å falle utenfor i vårt digitale samfunn. Løsninger som ikke er gode nok, som ikke følger det nåværende WCAG 2.0 regelverket,
 NAV skal bidra til et inkluderende samfunn, og alt vi lager skal fungere for alle som trenger det! Vi stiller derfor høye krav til løsninger vi lager eller kjøper.
   
 ## Er det de samme kravene for alle våre tjenester?
@@ -28,6 +30,8 @@ Per i dag [WCAG 2.0](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden) ni
 3. Eventuelle avvik fra WCAG-kravene er begrunnet skriftlig.
 4. [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet.
 5. [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert.
+
+Fra 2021 må alle NAVs digitale løsninger rettet mot befolkningen, følge nye og skjerpede krav til universell utforming. Dette gjelder også eldre løsninger som ble utviklet før 2014, alle PDF-baserte skjemaer og alle andre dokumenter som er deler av den digitale brukerreisen. Løsningene som ikke rekker å oppdateres i tråd med kravene innen 1. januar 2021, må søke om dispensasjon. I tillegg sier en kommende oppdatering av forskriften at alle tjenester skal ha en offentlig erklæring på at de er kodet etter regelverket og testet for dette.
 
 [Hvordan få det til?](/hvordan-faa-det-til/README.md)
 

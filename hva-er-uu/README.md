@@ -1,6 +1,4 @@
-# Hva er universell utforming?
-
-<alertstripe type="advarsel">Siden er under arbeid. Se gjerne [Tilsynets informasjon om universell utforming](https://uu.difi.no/kva-er-universell-utforming).</alertstripe>
+# Hva er egentlig universell utforming?
 
 <p class="typo-ingress">Universell utforming skal sikre at tjenester, produkter og omgivelser kan brukes av alle, uavhengig av funksjonsevne.</p>
 

@@ -6,7 +6,7 @@ Dette er så viktig at universell utforming (UU) er nedfelt i lovverket. Univers
 
 Disse sidene er hovedsakelig tenkt for utviklingsteam i NAV. Målet er å gi dere verktøy for å sikre UU i det dere jobber med, og fokus er på Forskriften for Universell Utforming av IKT. Vi håper at innholdet kan være nyttig for flere, og er takknemlig for innspill og forbedringsforslag.
 
-* [Hva gjelder - lovverk i dag og fremover?](/hva-gjelder/)
+* [Hva gjelder](/hva-gjelder/) - lovverk i dag og fremover?
 * [Hvordan få det til?](/hvordan-faa-det-til/)
 * [Hva er egentlig universell utforming?](/hva-er-uu/)
 * [Lære mer om universell utforming](/lære-mer/)

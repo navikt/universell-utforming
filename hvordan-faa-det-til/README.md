@@ -1,9 +1,7 @@
 # Hvordan få det til?
-
 <p class="typo-ingress">Det finnes mange måter å sikre universell utforming. Vi ønsker å gi dere én mulig vei å gå, og dele det vi ser skaper suksess. Hvis dere har andre rutiner eller tipps, ta gjerne kontakt med oss (uu@nav.no eller NAV-intern slack-kanal #nav-uu).</p>
 
-
-## Suksessfaktorer
+## Risikovurdering
 Disse punktene utgjør universell-utformings-delen av [NAVs risikovurdering (NAV-intern lenke)](https://navno.sharepoint.com/sites/intranett-it/SitePages/Risikovurderinger.aspx), og er suksessfaktorer for å oppnå god UU.
 
 1. Teamet bruker [Designsystemet](https://design.nav.no/).
@@ -16,6 +14,13 @@ Disse punktene utgjør universell-utformings-delen av [NAVs risikovurdering (NAV
 9. Teamet  har satt opp rutiner for å lage [tilgjengelighetserklæring](/hva-gjelder/tilgjengelighetserklæring.md) og for å ta inn [brukertilbakemeldinger](/hva-gjelder/tilbakemeldingsfunksjon.md).
 10. Teamet har dialog med UU-teamet.
 11. I anskaffelser: Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelseer.md). Eventuelle brudd blir fulgt opp.
+
+Her kommer UU-skolen underlenker:
+* [Hva gjelder](/hva-gjelder/) - lovverk i dag og fremover?
+* [Hvordan få det til?](/hvordan-faa-det-til/)
+* [Hva er egentlig universell utforming?](/hva-er-uu/)
+* [Lære mer om universell utforming](/lære-mer/)
+
 
 ## WCAG-sjekk
 Oppfyller dere [WCAG-kravene](https://uu.difi.no/krav-og-regelverk) (WCAG 2.0 på nivå A og AA), møter dere aktuelle lovkrav. 

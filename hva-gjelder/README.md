@@ -24,7 +24,7 @@ Digitaliseringsdirektoratet fører [tilsyn](https://uu.difi.no/tilsyn) med områ
 NAV skal bidra til et inkluderende samfunn, og alt vi lager skal fungere for alle som trenger det! Vi stiller derfor høye krav til løsninger vi lager eller kjøper.
 
 ### Innbyggertjenester
-Forskriften for universell utforming av IKT gjelder per i dag bare for innbyggertjenester, men de er like viktige internt. [Mer om de forskjellige lovverkene og fristene](/hva-gjelder/lovverk.md). 
+Forskriften for universell utforming av IKT gjelder per i dag bare for innbyggertjenester, men de er like viktige internt.
 
 Lovverket over er minimumskrav, som sikrer et basisnivå av tilgjengelighet. Men selv om alle teknisk og designmessig kan bruke noe, er det ikke alltid brukeropplevelsen er god. Skal vi få til virkelig inkluderende tjenester, må vi tenke på mer enn bare WCAG og forskriften. Vi anbefaler derfor å sikre UU gjennom brukerinnsikt, brukertesting og aktivt jobb med språk. Vi bør se på hele brukerreiser og kartlegge opplevelsen brukere med mer sammensatte behov, slik at vi unngår kryssdiskriminering når vi utvikler tjenester.
 

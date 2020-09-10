@@ -35,5 +35,5 @@ Interne systemer er per i dag ikke enda omfattet av Forskriften for universell u
 
 Løsninger NAV kjøper skal være i tråd med forskriften, se ([Kravliste for bruk i anskaffelser](/hva-gjelder/krav-til-anskaffelser.md)). Dette kan være programvare som installeres internt, eller eksterne løsninger som skyløsninger. I tillegg må NAV som tjenesteleverandør sørge for at alle tjenester får en tilgjengelighetserklæring på at de er kodet etter regelverket og testet for dette. Skulle det ved avtaleinngåelse finnes mangler i forhold til NAVs tilgjengelighetsstandard, er leverandør ansvarlig for å få feilene rettet. Leverandør må legge frem en plan for å fikse feil og mangler innen en avtalt frist, og de må dokumentere at de har nødvendig kompetanse og ressurser til å ordne dette. Det er lurt å stille krav til at leverandørene alltid skal levere på UU ift. gjeldende lovverk.
 
-## Hvem er ansvarlig for unviersell utforming i våre løsninger?
+## Hvem er ansvarlig for universell utforming i NAVs løsninger?
 Det er teamene som lager og forvalter løsningene som i praksis er ansvarlig for UU i løsningene. Mer om [ansvarsfordeling for UU i NAV](/hva-gjelder/ansvarsfordeling.md) og [Hvordan få det til?](/hvordan-faa-det-til/README.md).

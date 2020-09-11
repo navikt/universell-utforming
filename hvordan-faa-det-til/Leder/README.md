@@ -1,15 +1,14 @@
-# Team-lead/PO Leder
+# Team-lead/PO-Eier
 <p class="typo-ingress">Du som leder et team eller er ansvarlig for et PO, har et særlig UU-ansvar. Det at ledere løfter inkludering og minner om lovkrav, har en stor effekt på resultatet.</p>
 
 Den største feilen som gjøres i forhold til UU, er å "ta det senere". Dersom UU blir fokus sent i en prosess, er det fort mye som har blitt kodet feil (ulovlig) og må gjøres på nytt - og mye som er glemt. Da blir det fort dyrt og ressurskrevende å skulle sikre god brukskvalitet for alle. 
 
-Det er heller ikke slik at alle i et team kan alt om alt. Kanskje er det designere og utviklere på teamet som ønsker kursing - eller kanskje ønsker teamet heller å kjøpe inn ekstern hjelp for å kvalitetssikre UU. Du som leder kan løfte UU som verdi, og kjempe for at teamet får tid og budsjett til å levere en løsning de kan være stolte av. 
+Det er heller ikke slik at alle i et team kan alt om alt. Kanskje er det designere og utviklere på teamet som ønsker kursing - eller kanskje ønsker teamet heller å kjøpe inn ekstern hjelp for å kvalitetssikre UU. Som leder bør du kjempe for at teamet får tid og budsjett til å levere en løsning de kan være stolte av. 
 
-I 2021 kommer det krav til Tilgjengelighetserklæring per løsning, der du som team-lead eller din PO-leder er et naturlig ansvarspunkt for å sørge for at teamet husker å utarbeid denne, og å holde den oppdatert. Her står teamet fritt til å lage sine egne prosedyrer. Det samme gjelder for Tilbakemeldingsfunksjonen fra brukere, og hvordan dere ønsker å svare brukere som har meldt inn UU-feil.
+<div><alertstripe type="advarsel">I 2021 kommer det krav til Tilgjengelighetserklæring per løsning, i tillegg til WCAG krav. Du som team-lead eller PO-eier er et naturlig ansvarspunkt for å sørge for at teamet leverer på lovkrav. Det samme gjelder Tilbakemeldingsfunksjonen fra brukere, og hvordan dere ønsker å svare brukere som har meldt inn UU-feil. Det føres tilsyn fra Digitaliseringsdirektoratet, og lovbrudd kan føre til dårlig medieomtale og høye dagbøter.</alertstripe></div>
 
-<div><alertstripe type="advarsel">Det føres tilsyn fra Digitaliseringsdirektoratet, og lovbrudd kan føre til dårlig medieomtale og høye dagbøter. Fra 1. januar 2021 er alle eksterne flater omfattet, inkludert gamle løsninger og PDF'er. </alertstripe></div>
-
-UU-tipset til deg er derfor:
+<!-- vet ikke hvorfor det ikke blir mellomrom før her -->
+UU-tipset til deg i lederrolle er derfor:
 ## Sett fokus på UU fra starten av!
 
 - [X] Forstå brukerbehov. Mange har god erfaring med å invitere brukerorganisasjoner inn tidlig for å gi råd. Internt har vi også masse ekspertise - både i NAV Hjelpemiddelsentralen og Designseksjonens UU-team. 

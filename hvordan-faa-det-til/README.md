@@ -43,7 +43,7 @@ Her er en mer utdypende oversikt over hvilken kompetanse teammedlemmene bør ha 
 * [Team-lead/PO-leder](/Leder/) 
 * [Utvikler](/Utvikler/)
 * [Produktdesigner](/Produktdesigner/)
-* [User Researcher](/User Researcher/)
+* [User Researcher](/UserResearcher/)
 * [Innholdsprodusent](/Innholdsprodusent/)
 * [Tjenestedesigner](/Tjenestedesigner/)
 <!-- * [...](/hvordan-faa-det-til/) -->

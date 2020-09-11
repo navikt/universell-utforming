@@ -13,10 +13,10 @@ Er disse suksessfaktorene på plass, oppnås god universell utforming (UU):
 - [ ] Dere sikrer at "design for alle»-perspektiver tas med __inn i alle aktiviteter__ (brukerinnsikt, prioriteringer, koding og UX-arbeid), og dere har god oversikt over «stress-caser» og «kant-brukere» for deres løsning (f.eks. skjermleserbrukere, kode 6/7 behov eller situasjoner som er særlig kognitivt eller følelsesmessig belastende).
 - [ ] Dere jobber sammen om å løse UU-spørsmål, med __tverrfaglige diskusjoner__ og åpen dialog. Føles det trygt?
 - [ ] Dere har tidlig og hyppige __sjekkpunkter på UU-kvaliteten__ - f.eks. teknisk tilgjengelighet og brukertester.
-- [ ] Dere har satt opp rutiner for å lage __tilgjengelighetserklæring__ og for å ta inn __brukertilbakemeldinger__.
+- [ ] Dere har satt opp rutiner for å lage __tilgjengelighetserklæring__ og for å ta inn __brukertilbakemeldinger__ (innbyggere eller ansatte).
 - [ ] Dere bruker NAV Frontend og [Designsystemet](https://design.nav.no/).
 
-### I anskaffelser gjelder også: 
+__I anskaffelser gjelder også:__ 
 - [ ] Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelseer.md) i tråd med til en hver tid gjeldende lovverk. Eventuelle brudd blir fulgt opp.
 - [ ] Dere har oversikt over «stress-caser» og «kant-brukere» for løsningen (inkl. hjelpemiddelteknologi), og har lagt opp rutiner for å sjekke kvaliteten i leveransen. Eventuelle mangler blir fulgt opp.
 

@@ -9,6 +9,6 @@ Disse sidene er hovedsakelig tenkt for utviklingsteam i NAV. Målet er å gi der
 * [Hva gjelder](/hva-gjelder/) - lovverk i dag og fremover?
 * [Hvordan få det til?](/hvordan-faa-det-til/)
 * [Hva er egentlig universell utforming?](/hva-er-uu/)
-* [Lære mer om universell utforming](/lære-mer/)
+* [Lær mer om universell utforming](/lære-mer/)
 
 <alertstripe type="advarsel">Siden er under arbeid. Se gjerne [Digitaliseringsdirektoratets informasjon om universell utforming](https://uu.difi.no/kva-er-universell-utforming).</alertstripe>

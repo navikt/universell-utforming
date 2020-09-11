@@ -14,9 +14,11 @@ I tillegg vil [Web Accessibility Direktivet] fra EU om universell utforming av o
 2. Alle digitale tjenester (og kontaktpunkter) skal ha en offentlig [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md). Denne må teamene eller produktområdene lage. [Tilsynet for universell utforming](https://uu.difi.no/nyhet/2020/07/tilgjengelegheitserklaering) samarbeider med NAV og andre offentlige etater om en felles løsning for å lage slike tilgjengelighetserklæringer.
 3. Det skal være på plass en [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) for brukere å kunne rapportere inn UU-feil.
 
+<!-- Eirik: Kan denne lages expandable: -->
 ### Hva skjer hvis vi ikke møter kravene?
 Digitaliseringsdirektoratet fører [tilsyn](https://uu.difi.no/tilsyn) med området, og sjekker at NAV og andre utvikler og kjøper løsninger som følger kravene. Brudd kan medføre høye dagsbøter. Det genererer også økt belastning for NKS og NAV-kontorene, og er ikke i tråd med vårt mål om selvstendige, digitale brukere. Enda viktigere er konsekvensene for brukerne, som delvis ikke kan bruke våre tjenester, eller opplever store vanskeligheter.
 
+<!-- Eirik: Kan hele denne seksjonen også lages expandable: -->
 ## Gjelder de samme kravene for alle NAVs tjenester?
 NAV skal bidra til et inkluderende samfunn, og alt vi lager skal fungere for alle som trenger det. Vi stiller derfor høye krav til løsninger vi lager eller kjøper.
 
@@ -29,6 +31,7 @@ Interne systemer er per i dag ikke omfattet av *Forskriften for universell utfor
 ### Løsninger NAV kjøper
 Løsninger NAV kjøper skal være i tråd med forskriften, se [Kravliste for bruk i anskaffelser](/hva-gjelder/krav-til-anskaffelser.md). Dette kan være programvare som installeres internt, eller eksterne løsninger som skyløsninger. I tillegg må NAV som tjenesteleverandør sørge for at alle tjenester får en tilgjengelighetserklæring på at de er kodet etter regelverket og testet for dette. Skulle det ved avtaleinngåelse finnes mangler i forhold til NAVs tilgjengelighetsstandard, er leverandør ansvarlig for å få feilene rettet. Leverandør må legge frem en plan for å fikse feil og mangler innen en avtalt frist, og de må dokumentere at de har nødvendig kompetanse og ressurser til å ordne dette. Det er lurt å stille krav til at leverandørene alltid skal levere på UU ift. gjeldende lovverk.
 
+<!-- Eirik: Kan hele denne seksjonen også lages expandable: -->
 ## Hvem er ansvarlig for universell utforming i NAVs løsninger?
 
 ### Produktteam (Utviklingsteam)
@@ -36,14 +39,14 @@ Det er teamene som lager og forvalter løsninger som internt står ansvarlige fo
 
 Teamene må veie UU mot andre hensyn og krav, og for å støtte teamene i disse vurderingene er det laget en Risikovurdering for UU, som du finner på [Hvordan få det til?](/hvordan-faa-det-til/README.md).
 
-## Anskaffelsesteam
+### Anskaffelsesteam
 Anskaffelsesteam gjennomfører anskaffelser til NAV. På samme måte som utviklingsteam står ansvarlig internt, er anskaffelsesteamene ansvarlige for å ha vurdert UU og sikret at løsninger er i tråd med lovverket og standarden i NAV, og at avtaler og andre relevante dokumenter ivaretar dette. Det er laget en egen Risikovurdering for UU i anskaffelser.
 
-## Juridisk ansvarlig
+### Juridisk ansvarlig
 Juridisk ansvarlig er alltid øverste NAV-leder, det vil si arbeids- og velferdsdirektøren.
 
-## Team for universell utforming (UU-team)
+### Team for universell utforming (UU-team)
 UU-teamet er et fagteam ansvarlig for at norsk lovverk og god praksis på UU formidles til team og internt i NAV. De tilbyr praktisk hjelp og kompetansebygging til produkt- og anskaffelsesteam på etterspørsel, og kan kontaktes på på uu@nav.no og på NAV-intern slack-kanal #nav-uu. 
 
-## Designsystemet 
-Designsystemet er et fagteam ansvarlig for å sikre at tilgjengelighetsstandarden følges i alle komponenter og templates de distribuerer til produktteamene. Dette gjelder både design og kode.
+### Designsystemet 
+Designsystemet er et fagteam ansvarlig for å sikre UU i alle komponenter og templates de distribuerer til produktteamene. Dette gjelder både design og kode.

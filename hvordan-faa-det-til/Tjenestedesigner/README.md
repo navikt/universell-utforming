@@ -6,9 +6,11 @@ Still deg følgende tre spørsmål:
 2. Klarer alle brukere å komme seg gjennom hele brukerreisen? 
 3. Hvordan er brukeropplevelsene - er det noen som gråter ved kjøkkenbordet?
 
-Hvis du kan kan svare JA på de to første spørsmålene, og har sjekket om dette faktisk er tilfelle for ALLE potensielle brukere, så er tjenesten din universelt utformet etter definisjonen. Du har sikret et minimumskrav av tilgjengelighet, motvirket ekskludering, fjernet barrierer og bidratt til at mennesker kan leve selvstendige liv. 
+Hvis du kan kan svare JA på de to første spørsmålene, og har sjekket om dette faktisk er tilfelle for ALLE potensielle brukere, så er tjenesten din universelt utformet etter definisjonen. Du har da sikret et minimumskrav av tilgjengelighet, fjernet barrierer og bidratt til at mennesker kan leve selvstendige liv. 
 
-Når du undersøker det tredje spørsmålet, handler det ikke bare om at ingen skal ekskluderes - det handler også om at ingen skal diskrimineres. 
+Når du undersøker det tredje spørsmålet, handler det ikke bare om at ingen skal ekskluderes - det handler også om at ingen skal diskrimineres eller få uverdige opplevelser. 
+
+Skal vi designe for mennesker må vi akseptere variasjon. Du kommer langt med empati.
 
 UU-tipset til deg som Tjenestedesigner er å gjøre følgende:
 ## ... 

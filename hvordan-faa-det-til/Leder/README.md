@@ -7,6 +7,8 @@ Det er heller ikke slik at alle i et team kan alt om alt. Kanskje er det designe
 
 <div><alertstripe type="advarsel">I 2021 kommer det krav til Tilgjengelighetserklæring per løsning, i tillegg til WCAG krav. Du som team-lead eller PO-eier er et naturlig ansvarspunkt for å sørge for at teamet leverer på lovkrav. Det samme gjelder Tilbakemeldingsfunksjonen fra brukere, og hvordan dere ønsker å svare brukere som har meldt inn UU-feil. Det føres tilsyn fra Digitaliseringsdirektoratet, og lovbrudd kan føre til dårlig medieomtale og høye dagbøter.</alertstripe></div>
 
+
+
 <!-- vet ikke hvorfor det ikke blir mellomrom før her -->
 UU-tipset til deg i lederrolle er derfor:
 ## Sett fokus på UU fra starten av!

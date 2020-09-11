@@ -5,7 +5,7 @@ Den største feilen som gjøres i forhold til UU, er å "ta det senere". Dersom 
 
 Det er heller ikke slik at alle i et team kan alt om alt. Kanskje er det designere og utviklere på teamet som ønsker kursing - eller kanskje ønsker teamet heller å kjøpe inn ekstern hjelp for å kvalitetssikre UU. Som leder bør du kjempe for at teamet får tid og budsjett til å levere en løsning de kan være stolte av.
 </br>
-<div><alertstripe type="advarsel">⚠️ I 2021 kommer det krav til Tilgjengelighetserklæring per løsning, i tillegg til WCAG krav. Du som team-lead eller PO-eier er et naturlig ansvarspunkt for å sørge for at teamet leverer på lovkrav. Det samme gjelder Tilbakemeldingsfunksjonen fra brukere, og hvordan dere ønsker å svare brukere som har meldt inn UU-feil. Det føres tilsyn fra Digitaliseringsdirektoratet, og lovbrudd kan føre til dårlig medieomtale og høye dagbøter.</alertstripe></div>
+<div><alertstripe type="advarsel">⚠️ I 2021 kommer det krav til Tilgjengelighetserklæring per løsning, i tillegg til WCAG krav og Tilbakemeldingsfunksjonen fra brukere, der vi svarer brukere som har meldt inn UU-feil. ✔️ Du som team-lead eller PO-eier er et naturlig ansvarspunkt for å sørge for at teamet leverer på lovkrav. 🔎 Det føres tilsyn fra Digitaliseringsdirektoratet, og lovbrudd kan føre til dårlig medieomtale og høye dagbøter.</alertstripe></div>
 </br>
 
 <!-- vet ikke hvorfor det ikke blir mellomrom før her uten </br> -->

@@ -20,9 +20,14 @@ __I anskaffelser gjelder også:__
 - [ ] Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelseer.md) i tråd med til en hver tid gjeldende lovverk. Eventuelle brudd blir fulgt opp.
 - [ ] Dere har oversikt over «stress-caser» og «kant-brukere» for løsningen (inkl. hjelpemiddelteknologi), og har lagt opp rutiner for å sjekke kvaliteten i leveransen. Eventuelle mangler blir fulgt opp.
 
+
+<!-- Her kommer UU-skolen underlenker: -->
+
+## UU-Skolen - for deg som vil lage inkluderende løsninger
+
 <!-- helst ønsker jeg dette:
 <ekspanderbartpanel tittel="Hva må vi gjøre for å være i tråd med minimumskrav?"> innholdet under (minus tittelen) </ekspanderbartpanel> -->
-## Hva må vi gjøre for å være i tråd med minimumskrav?
+### Hva må vi gjøre for å være i tråd med minimumskrav?
 Her er minimums to-do for å nå kravene fra lovverket:
 - [ ] Løsningen testes fortløpende opp mot WCAG-krav. Fra 2021 er dette [WCAG 2.1](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21). 
 - [ ] WCAG-Feil på nivå A og AA blir fortløpende rettet.
@@ -32,15 +37,11 @@ __Fra 2021:__
 - [ ] [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet. Avjørelser om avvik fra lovpålagte WCAG-krav skal inn her. Dere skal også beskrive hvordan dere har testet - automatiske sjekker, manuell ekspertsjekk, eksperttesting med hjelpeteknologi og/eller type brukertesting.
 - [ ] [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert.
 
-<!-- Her kommer UU-skolen underlenker: -->
-<!-- helst ønsker jeg dette:
-<ekspanderbartpanel tittel="UU-Skolen - for deg som vil lage inkluderende løsninger"> innholdet under - tittelen </ekspanderbartpanel> -->
-
-## UU-Skolen - for deg som vil lage inkluderende løsninger
-* [Team-lead/PO-leder](/lære-mer/)
-* [Utvikler](/hvordan-faa-det-til/)
-* [Produktdesigner](/hva-gjelder/)
-* [User Researcher](/hvordan-faa-det-til/)
-* [Innholdsprodusent](/lære-mer/)
-* [Tjenestedesigner](/hva-er-uu/)
-* [...](/hvordan-faa-det-til/)
+### Lær mer om UU-faglig ansvar
+* [Team-lead/PO-leder](/Leder/) 
+* [Utvikler](/Utvikler/)
+* [Produktdesigner](/Produktdesigner/)
+* [User Researcher](/UserResearcher/)
+* [Innholdsprodusent](/Innholdsprodusent/)
+* [Tjenestedesigner](/Tjenestedesigner/)
+<!-- * [...](/hvordan-faa-det-til/) -->

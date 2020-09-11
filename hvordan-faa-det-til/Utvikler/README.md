@@ -24,4 +24,4 @@ Del gjerne egne erfaringer - eller motta råd og veiledning - på uu@nav.no elle
 Vi er også interessert i å få kjennskap til alle nye komponenter som ikke finnes i Designsystemet.
 
 <!-- Tror bildet må lastet opp til Github'en vår & renames Utvikler.pdf, sånn at vi kan lenke til: https://navikt.github.io/images/Utvikler.pdf -->
-![UU--tips for Produkteier-rollen fra abc](https://navno.sharepoint.com/sites/universellutformingavikt/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Funiversellutformingavikt%2FShared%20Documents%2FGeneral%2F16%20a11y%2Fa11y%5FTips4Teams%2Ddevelopers%5F24882%2Epdf&parent=%2Fsites%2Funiversellutformingavikt%2FShared%20Documents%2FGeneral%2F16%20a11y)
+![UU--tips for Utvikler-rollen fra abc](https://navno.sharepoint.com/sites/universellutformingavikt/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Funiversellutformingavikt%2FShared%20Documents%2FGeneral%2F16%20a11y%2Fa11y%5FTips4Teams%2Ddevelopers%5F24882%2Epdf&parent=%2Fsites%2Funiversellutformingavikt%2FShared%20Documents%2FGeneral%2F16%20a11y)

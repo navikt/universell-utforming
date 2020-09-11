@@ -40,7 +40,7 @@ __Fra 2021:__
 ### Tips etter rolle i team
 Her er en mer utdypende oversikt over hvilken kompetanse teammedlemmene bør ha for å sikre UU, og hvordan de best kan gjøre det i praksis.
 
-* [Team-lead/PO-leder](/Leder/) 
+* [Team-lead/PO-eier](/Leder/) 
 * [Utvikler](/Utvikler/)
 * [Produktdesigner](/Produktdesigner/)
 * [User Researcher](/UserResearcher/)

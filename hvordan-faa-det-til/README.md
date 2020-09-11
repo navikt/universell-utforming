@@ -37,7 +37,9 @@ __Fra 2021:__
 - [ ] [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet. Avjørelser om avvik fra lovpålagte WCAG-krav skal inn her. Dere skal også beskrive hvordan dere har testet - automatiske sjekker, manuell ekspertsjekk, eksperttesting med hjelpeteknologi og/eller type brukertesting.
 - [ ] [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert.
 
-### Lær mer om UU-faglig ansvar
+### Tips etter rolle i team
+Her er en mer utdypende oversikt over hvilken kompetanse teammedlemmene bør ha for å sikre UU, og hvordan de best kan gjøre det i praksis.
+
 * [Team-lead/PO-leder](/Leder/) 
 * [Utvikler](/Utvikler/)
 * [Produktdesigner](/Produktdesigner/)
@@ -45,3 +47,5 @@ __Fra 2021:__
 * [Innholdsprodusent](/Innholdsprodusent/)
 * [Tjenestedesigner](/Tjenestedesigner/)
 <!-- * [...](/hvordan-faa-det-til/) -->
+
+<!-- Se også gammel versjon på [NAV-intern side om kompetanse i teamene](https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/Hvilken-kompetanse-b%C3%B8r-teammedlemmer-har-p%C3%A5-universell-utforming-.aspx) -->

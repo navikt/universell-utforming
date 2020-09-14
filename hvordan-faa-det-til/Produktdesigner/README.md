@@ -3,9 +3,7 @@
 
 Ditt ansvar i alt dette arbeidet er å sikre god brukskvalitet for alle - __Universell Brukskvalitet__.
 
-En del konkrete ting er lovpålagt - som at man skal kunne navigere ved bare tastatur, man skal kunne forstørre opp til 400 % og fargekontrastene må være høye. Disse er det relativt enkelt å sikre. 
-
-Men, mange av de andre kompetanseområdene dine handler om forståelse, og belager de seg på skjønnsmessige faglige vurderinger. Dette kalles gjerne "pedagogisk tilgjengelighet" - og er altså ikke like målbart som "teknisk tilgjengelighet".
+En del konkrete ting er lovpålagt - som at man skal kunne navigere ved bare tastatur, man skal kunne forstørre opp til 400 % og fargekontrastene må være høye. Disse er det relativt enkelt å sikre. Men, mye annet av det du skal levere belager de seg på skjønnsmessige faglige vurderinger. Dette kalles gjerne "pedagogisk tilgjengelighet" - og er altså ikke like målbart som "teknisk tilgjengelighet".
 
 Hva er da bra nok UU tro? 😅 Husk på at:
 > "Tilgjengelighet er ikke binær, alt eller ingenting, svart og hvitt. Vi har alle gråtoner i mellom" - Derek Featherstone

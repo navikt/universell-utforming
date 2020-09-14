@@ -1,6 +1,8 @@
 # Produktdesigner
-<p class="typo-ingress">Som produktdesigner... Klarer de som trenger løsningen å bruke løsningen?</p>
+<p class="typo-ingress">Som produktdesigner, har du en bred rolle. Din kompetanse skal dekke identifisering av brukerbehov, teknisk forståelse, konseptutvikling, utforming av gode brukeropplevelser, universell brukskvalitet, interaksjonsdesign, visuell kommunikasjon og brukertesting. Puh.. </p>
 
+Da er det greit å lene seg på at:
+> "Tilgjengelighet er ikke binær, alt eller ingenting, svart og hvitt. Vi har alle gråtoner i mellom" - Derek Featherstone
 
 UU-tipset til deg som Produktdesigner er:
 ## ... 

@@ -1,5 +1,5 @@
 # Innholdsprodusent
-<p class="typo-ingress">"Innholdsprodusent" favner veldig mye, og kan være alt fra en UX-writer som er god på microwriting, til en med kompetanse på animasjon og videoproduksjon. Men rollen kan også plutselig være deg i produktteam som lager innholdet i løsningen deres - uten at du har fått spesialkompetanse til det. Målet ditt bør være å høyne innholdskvalitet, sikre forståelsen til mottakeren og passe på at all informasjon er tilgjengelig for alle.</p>
+<p class="typo-ingress">"Innholdsprodusent" favner veldig mye, og kan være alt fra en UX-writer som er god på microwriting eller en kommunikasjonsrådgiver som kan klarspråk, til en person med kompetanse på animasjon og videoproduksjon. Det kan også være produktteam som selv skal lage innhold til teamets digital løsning, og der rollen som innholdsprodusent må deles i teamet. Målet bør uansett være å høyne innholdskvalitet, sikre forståelse hos mottakeren og passe på at all informasjon er tilgjengelig for alle.</p>
 
 Det store UU-spørsmålet til deg som Innholdsprusent - uansett type -  er derfor:
 ## Klarer alle å få med seg informasjonen jeg nå gir?

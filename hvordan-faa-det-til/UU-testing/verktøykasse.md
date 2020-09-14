@@ -6,6 +6,7 @@
 
 ## Tastatur
 Det er svært viktig at alt fungerer bare med tastatur. Test dette jevnlig. WAI har laget en [veileder om hvordan elementer bør oppføre seg når man bruker tastatur](https://webaim.org/techniques/keyboard/).
+- [**Funkify**](https://www.funkify.org/?v=f003c44deab6) - betalt versjon gir deg mulighet til å teste med kun tastaturnavigasjon. 
 
 ## Før- og etter-sider
 W3C har laget noen før- og etter-sider. Sidene ser ganske like ut, men "før"-sidene har en rekke uu-feil, som er fikset i "etter"-sidene. Test gjerne verktøyene på disse sidene: https://www.w3.org/WAI/demos/bad/. 
@@ -28,12 +29,17 @@ W3C har laget noen før- og etter-sider. Sidene ser ganske like ut, men "før"-s
 ## Lese- og skrivevansker
 
 - [**Dyslexia Formatter**](https://chrome.google.com/webstore/detail/dyslexia-formatter/kggkghfhlppjclojgphbploiaipgogoc) - gratis utvidelse til Chrome som gjør det enklere å tilegne seg informasjon og bruke nettbaserte tjenester for folk med dysleksi
+- [**Funkify**](https://www.funkify.org/?v=f003c44deab6) - gratis simulering av dysleksi m.m.
 
 ## Kontrastforhold
 
 - [**http://contrastchecker.com/**](http://contrastchecker.com/)  - her kan du legge inn fargekodene dine og få et konkret svar om kontrastforholdet er i tråd med WCAG-kravene. Du kan også se gråtoner som fargeblind (arkfaner øverst til høyre)
 - [**https://webaim.org/resources/contrastchecker/**](https://webaim.org/resources/contrastchecker/)
 - [**http://accessible-colors.com/**](http://accessible-colors.com/)
+- [**Funkify**](https://www.funkify.org/?v=f003c44deab6) - gratis simulering av ulike typer fargeblindhet m.m.
+
+## Parkinsons, ADHD og Synsnedsettelser
+- [**Funkify**](https://www.funkify.org/?v=f003c44deab6) - gratis simulering av skjelving, tåkesyn, tunnellsyn m.m. Betalt versjon gir flere simuleringer som ADHD og sollys på skjermen. 
 
 ## Automatisk analyse
 

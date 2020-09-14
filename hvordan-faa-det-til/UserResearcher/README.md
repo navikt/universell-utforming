@@ -13,6 +13,8 @@ UU-tipset til deg som User Researcher er:
 * Snakk med brukere i hele det relevante aldersspennet, og med ulike bakgrunner, kulturer og livssituasjoner. 
 * Hva med brukere på kode 6 og 7, som ikke har norsk personnummer - bare D-nummer, som har skiftet kjønn, som er ikke-digitale, eller som står i en ekstrem livssituasjon?
 
+Be du inspirert? Sett deg gjerne inn i ["gap-modellen"/"interaksjonsmodellen"](https://snl.no/gap-modellen) for funksjonshemming, og bli bevisst situerte, subjektive, kontekstuelle behov. [Gap-modellen er forklart veldig enkelt i dene videoen](https://www.youtube.com/embed/zl53ownJU1c). 
+
 Del gjerne egne erfaringer eller motta råd og veiledning på uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.
 
 <!-- Tror bildet må lastet opp til Github'en vår & renames Researcher.pdf, sånn at vi kan lenke til: https://navikt.github.io/images/Researcher.pdf -->

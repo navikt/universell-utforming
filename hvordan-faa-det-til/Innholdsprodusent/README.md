@@ -1,5 +1,5 @@
 # Innholdsprodusent
-<p class="typo-ingress">"Innholdsprodusent" favner veldig mye, og kan være alt fra en UX-writer som er god på microwriting eller en kommunikasjonsrådgiver som kan klarspråk, til en person med kompetanse på animasjon og videoproduksjon. Det kan også være produktteam som selv skal lage innhold til teamets digital løsning, og der rollen som innholdsprodusent må deles i teamet. Målet bør uansett være å høyne innholdskvalitet, sikre forståelse hos mottakeren og passe på at all informasjon er tilgjengelig for alle.</p>
+<p class="typo-ingress">"Innholdsprodusent" favner veldig mye, og kan være alt fra en UX-writer som er god på microwriting eller en kommunikasjonsrådgiver som kan klarspråk, til en person med kompetanse på animasjon og videoproduksjon. Det kan også være produktteam som selv skal lage innhold til teamets digital løsning, og der rollen som innholdsprodusent må deles i teamet. __Målet er å høyne innholdskvalitet, sikre forståelse hos mottakeren og passe på at all informasjon er tilgjengelig for alle.__</p>
 
 Det store UU-spørsmålet til deg som Innholdsprusent - uansett type -  er derfor:
 ## Klarer alle å få med seg informasjonen jeg nå gir?
@@ -20,7 +20,7 @@ Tekstlige og autitive alternativer kommer også disse brukergruppene til gode:
 
 * Personer som ser dårlig. De må kunne forstørre opp visuell og tekstlig informasjon slik at de ser den. Det må også være god kontrast i innholdet. 
 
-* Mennsker med fargeblindhet. Hvis du lager visuell grafikk som er meningsbærende, er det derfor viktig å sjekke at den fungerer i gråtoner, i tillegg til at kontrasten mellom fargene er god. Det kan du f.eks. gjøre ved å ha heltrukne, stiplete og prikkete linjer i grafer.
+* Mennesker med fargeblindhet. Hvis du lager visuell grafikk som er meningsbærende, er det derfor viktig å sjekke at den fungerer i gråtoner, i tillegg til at kontrasten mellom fargene er god. Det kan du f.eks. gjøre ved å ha heltrukne, stiplete og prikkete linjer i grafer.
 
 
 * ...

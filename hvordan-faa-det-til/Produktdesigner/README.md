@@ -12,8 +12,8 @@ UU-tipset til deg som Produktdesigner er:
 * Sett deg inn i effekten av nedsatt funksjonsevne på designet ditt – redusert syn spesielt, men også finmotorikk, oppmerksomhet, minne, norskkunnskap osv.
 * Forstå hjelpemidlene skjermleser, bryterstyring og skjermforstørrer – slik at du kan designe navigering/veifinning som passer disse.
 * Bruk Designsystemet. Dette kan forebygge ca. 70 % av vanlige UU-feil.
-* Snakk med og møt mennesker med ulike funksjonstap, og involver og test med et mangfold brukere. 
-* Ta ansvar for WCAG-sjekk (både [automatisk] og [manuell]) av det du har ansvar for. Se [hva som gjelder per i dag filtrert på din rolle som designer](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden), og [hva som kommer av nye WCAG krav i 2021](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21/wcag-21-standarden). I 2021 må du forvente å redegjøre for designvalg og evalueringsmetoder i [Tilgjengelighetserklæringen].
+* Snakk med og møt mennesker med ulike funksjonstap, og involver og [test med et mangfold brukere](/hvordan-faa-det-til/UU-testing/brukertesting/). 
+* Ta ansvar for WCAG-sjekk (både [automatisk](/hvordan-faa-det-til/UU-testing/automatisert-testing/) og [manuell](hvordan-faa-det-til/UU-testing/manuell-testing/README.md)) av det du har ansvar for. Se [hva som gjelder per i dag filtrert på din rolle som designer](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden), og [hva som kommer av nye WCAG krav i 2021](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21/wcag-21-standarden). Fra 2021 må du forvente å redegjøre for designvalg og evalueringsmetoder (ekspertsjekker og brukertester) i [Tilgjengelighetserklæringen].
 
 Del gjerne egne erfaringer for å forbedre siden eller motta veiledning ved å kontakte uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.
 

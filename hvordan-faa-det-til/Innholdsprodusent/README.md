@@ -7,13 +7,13 @@ Det store UU-spørsmålet til deg som Innholdsprusent - uansett type -  er derfo
 ## Klarer alle å få med seg informasjonen jeg nå gir?
 
 For å kunne svare _ja_ på dette spørsmålet over må du:
-- [] Ha innsikt i behovene til utsatte brukergrupper, og mestre:
+- [X] Ha innsikt i behovene til utsatte brukergrupper, og mestre:
    - Tekst: Klarspråk til personer med lese- og skrivevansker/dysleksi, nedsatt kognisjon, unge mennesker og fremmedspråklige. 
    - Tekst: Lettlest til personer med lette psykiske utviklingshemminger, større lesevansker, sterkt nedsatt kognisjon og konsentrasjon.
    - Videoer: Synstolkning til sterkt synshemmede, Lydteksting til sterkt hørselshemmede og Teksting til fremmedspråklige/alle.
    - Visuell informasjon: kunne tilpasse til personer med nedsatt syn/fargeblindhet, og kunne utarbeide bildebeskrivelser (korte alt-tekster eller lange long-desc).
 
-- [] Kjenne nasjonal lovgiving og kunne evaluere innholdsrelaterte lovpålagte krav. Du finner mer informasjon om [lovkrav for innhold](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden) og flere verktøy på [verktøysiden](/hvordan-faa-det-til/UU-testing/verktøykasse.md).
+- [X] Kjenne nasjonal lovgiving og kunne evaluere innholdsrelaterte lovpålagte krav. Du finner mer informasjon om [lovkrav for innhold](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden) og flere verktøy på [verktøysiden](/hvordan-faa-det-til/UU-testing/verktøykasse.md).
 
 Skal vi designe for mennesker, må vi akseptere variasjon. Uansett hva du lager, må du som innholdsprodusent ta et faglig ansvar for å vurdere det innholdet du produserer opp mot lovkrav og brukerbehov. Du kommer langt med empati. 
 

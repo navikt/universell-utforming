@@ -8,12 +8,14 @@ I tillegg snakker vi i dag mye om situerte brukssitasjoner og livshendelser. Vi 
 UU-tipset til deg som User Researcher er:
 ## Inkluder et mangfold av brukere når du gjør brukerinnsikt 
 
-* Finn ut hvem som er "kant-brukere" og hva som er "stress-situasjonene" for det du skal undersøke.
+* Finn ut hvem som er "kant-brukere" og hva som er "stress-situasjonene" for det du skal undersøke. 
 * Møt brukere med ulike helseutfordringer og funksjonsnedsettelser - både varige og midlertidige.
 * Snakk med brukere i hele det relevante aldersspennet, og med ulike bakgrunner, kulturer og livssituasjoner. 
 * Hva med brukere på kode 6 og 7, som ikke har norsk personnummer - bare D-nummer, som har skiftet kjønn, som er ikke-digitale, eller som står i en ekstrem livssituasjon?
 
-Be du inspirert? Sett deg gjerne inn i ["gap-modellen"/"interaksjonsmodellen"](https://snl.no/gap-modellen) for funksjonshemming, og bli bevisst situerte, subjektive, kontekstuelle behov. [Gap-modellen er forklart veldig enkelt i dene videoen](https://www.youtube.com/embed/zl53ownJU1c). 
+Ved å kartlegge situerte, kontekstuelle behov kan man starte å gjøre inkluderende design - der man først designer for de mest komplekse scenarioene - og lar mainstream brukerreisene vente. 
+
+Ble du inspirert? Sett deg gjerne inn i ["gap-modellen"](https://snl.no/gap-modellen) og ["interaksjonsmodellen](http://www.inclusivedesigntoolkit.com/UCframework/framework.html) for funksjonshemming. [Gap-modellen er forklart veldig enkelt i dene videoen](https://www.youtube.com/embed/zl53ownJU1c). 
 
 Del gjerne egne erfaringer eller motta råd og veiledning på uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.
 

@@ -1,11 +1,11 @@
-# Team-lead/Produkteier/PO-Eier
+# Team-lead/Produkteier/PO-eier
 <p class="typo-ingress">Du som leder et team eller er ansvarlig for et produkt eller produktområde (PO), har et særlig UU-ansvar. Det at ledere løfter inkludering og minner om lovkrav, har en stor effekt på resultatet. Du bør sørge for at teamene dine har eierskap til UU, måles på UU og forstår lovpålagte krav.</p>
 
 Den største feilen som gjøres i forhold til UU, er å "ta det senere". Dersom UU blir fokus sent i en prosess, er det fort mye som har blitt kodet feil (ulovlig) og må gjøres på nytt - og mye som er glemt. Da blir det fort dyrt og ressurskrevende å skulle sikre god brukskvalitet for alle. Innfør derfor gode rutiner i ditt team. 
 
 Det er heller ikke slik at alle i et team kan alt om alt. Kanskje er det designere og utviklere på teamet som ønsker kursing - eller kanskje ønsker teamet heller å kjøpe inn ekstern hjelp for å kvalitetssikre UU. Som leder bør du kjempe for at teamet får tid og budsjett til å levere en løsning de kan være stolte av.
 </br>
-<div><alertstripe type="advarsel">⚠️ I 2021 kommer det krav til Tilgjengelighetserklæring per løsning, i tillegg til WCAG krav og Tilbakemeldingsfunksjonen fra brukere, der vi svarer brukere som har meldt inn UU-feil. Du som Team-lead/PO-Eier er et naturlig ansvarspunkt for å sørge for at teamet leverer på lovkrav. Det føres tilsyn fra Digitaliseringsdirektoratet, og lovbrudd kan føre til dårlig medieomtale og høye dagbøter.</alertstripe></div>
+<div><alertstripe type="advarsel">⚠️ I 2021 kommer det krav til Tilgjengelighetserklæring per løsning, i tillegg til WCAG krav og Tilbakemeldingsfunksjonen fra brukere, der vi svarer brukere som har meldt inn UU-feil. Du som Team-lead/PO-eier er et naturlig ansvarspunkt for å sørge for at teamet leverer på lovkrav. Det føres tilsyn fra Digitaliseringsdirektoratet, og lovbrudd kan føre til dårlig medieomtale og høye dagbøter.</alertstripe></div>
 </br>
 
 <!-- vet ikke hvorfor det ikke blir mellomrom før her uten </br> -->

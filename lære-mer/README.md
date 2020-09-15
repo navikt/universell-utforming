@@ -1,4 +1,4 @@
-# Lære mer om universell utforming
+# Lær mer om universell utforming
 
 Her kommer det relevant informasjon relatert til universell utforming.
 

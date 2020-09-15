@@ -3,18 +3,19 @@
 Del gjerne egne erfaringer på uu@nav.no eller NAV-intern slack-kanal #nav-uu.
 
 ## Risikovurdering
-Sjekklisten under utgjør universell-utformings-delen av NAVs risikovurdering for team. 
-Er disse suksessfaktorene på plass, oppnås god universell utforming (UU):
+Sjekklisten under utgjør universell-utformings-delen av [NAVs risikovurdering for team (NAV-intern lenke)](https://navno.sharepoint.com/sites/intranett-it/SitePages/Risikovurderinger.aspx). 
+De er suksessfaktorene for å oppnå god universell utforming (UU):
 
-- [ ] Dere har en felles forståelse av hva UU er, og prioriterer å levere løsninger med god brukskvalitet for alle.
-- [ ] Alle i teamet kjenner sitt __faglige UU-ansvar__ og har tilstrekkelig erfaring her (se gjerne [tips etter rolle i team]).
-- [ ] Dere har minst én person som er ekstra __pådriver__ for universell utforming (bli med i #nav-uu på Slack!) 
-- [ ] Dere har tilgang til nødvendige __ressurser__ for å få på plass UU (tid, mandat, budsjett, testbrukere, hjelpemidler, verktøy, kompetansestøtte og kursing).
-- [ ] Dere sikrer at "design for alle»-perspektiver tas med __inn i alle aktiviteter__ (brukerinnsikt, prioriteringer, koding og UX-arbeid), og dere har god oversikt over «stress-caser» og «kant-brukere» for deres løsning (f.eks. skjermleserbrukere, kode 6/7 behov eller situasjoner som er særlig kognitivt eller følelsesmessig belastende).
-- [ ] Dere jobber sammen om å løse UU-spørsmål, med __tverrfaglige diskusjoner__ og åpen dialog. Føles det trygt?
-- [ ] Dere har tidlig og hyppige __sjekkpunkter på UU-kvaliteten__ - f.eks. teknisk tilgjengelighet og brukertester.
-- [ ] Dere har satt opp rutiner for å lage __tilgjengelighetserklæring__ og for å ta inn __brukertilbakemeldinger__ (innbyggere eller ansatte).
-- [ ] Dere bruker NAV Frontend og [Designsystemet](https://design.nav.no/).
+- Dere bruker NAV Frontend og [Designsystemet](https://design.nav.no/).
+- Dere har en felles forståelse av hva UU er, og prioriterer å levere løsninger med god brukskvalitet for alle.
+- Alle i teamet kjenner sitt __faglige UU-ansvar__ og har tilstrekkelig erfaring her (se gjerne [tips etter rolle i team](/hvordan-faa-det-til/tips-etter-rolle/).
+- Dere har minst én person som er ekstra __pådriver__ for universell utforming (bli med i #nav-uu på Slack!) 
+- Dere har tilgang til nødvendige __ressurser__ for å få på plass UU (tid, mandat, budsjett, testbrukere, hjelpemidler, verktøy, kompetansestøtte og kursing).
+- Dere sikrer at "design for alle»-perspektiver tas med __inn i alle aktiviteter__ (brukerinnsikt, prioriteringer, koding og UX-arbeid), og dere har god oversikt over «stress-caser» og «kant-brukere» for deres løsning (f.eks. skjermleserbrukere, kode 6/7 behov eller situasjoner som er særlig kognitivt eller følelsesmessig belastende).
+- Dere jobber sammen om å løse UU-spørsmål, med __tverrfaglige diskusjoner__ og åpen dialog. Føles det trygt?
+- Dere har tidlig og hyppige __sjekkpunkter på UU-kvaliteten__ - f.eks. [automatisert test](/hvordan-faa-det-til/UU-testing/automatisert-testing/), [manuell test](/hvordan-faa-det-til/UU-testing/manuell-testing/) og [brukertester](/hvordan-faa-det-til/UU-testing/brukertesting/) med og uten hjelpemidler.
+- Dere har satt opp rutiner for å lage __tilgjengelighetserklæring__ og for å ta inn __brukertilbakemeldinger__ (innbyggere eller ansatte).
+
 
 __I anskaffelser gjelder også:__ 
 - [ ] Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelseer.md) i tråd med til en hver tid gjeldende lovverk. Eventuelle brudd blir fulgt opp.
@@ -40,12 +41,11 @@ __Fra 2021:__
 ### Tips etter rolle i team
 Her er en mer utdypende oversikt over hvilken kompetanse teammedlemmene bør ha for å sikre UU, og hvordan de best kan gjøre det i praksis.
 
-* [Team-lead/PO-eier](/Leder/) 
-* [Utvikler](/Utvikler/)
-* [Produktdesigner](/Produktdesigner/)
-* [User Researcher](/UserResearcher/)
-* [Innholdsprodusent](/Innholdsprodusent/)
-* [Tjenestedesigner](/Tjenestedesigner/)
-<!-- * [...](/hvordan-faa-det-til/) -->
+* [Team-lead/PO-eier](/hvordan-faa-det-til/tips-etter-rolle//Leder/) 
+* [Utvikler](/hvordan-faa-det-til/tips-etter-rolle//Utvikler/)
+* [Produktdesigner](/hvordan-faa-det-til/tips-etter-rolle//Produktdesigner/)
+* [User Researcher](/hvordan-faa-det-til/tips-etter-rolle//UserResearcher/)
+* [Innholdsprodusent](/hvordan-faa-det-til/tips-etter-rolle//Innholdsprodusent/)
+* [Tjenestedesigner](/hvordan-faa-det-til/tips-etter-rolle//Tjenestedesigner/)
 
 <!-- Se også gammel versjon på [NAV-intern side om kompetanse i teamene](https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/Hvilken-kompetanse-b%C3%B8r-teammedlemmer-har-p%C3%A5-universell-utforming-.aspx) -->

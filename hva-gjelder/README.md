@@ -21,7 +21,7 @@ Det er ikke enda tydelig hvordan disse kravene kommer til å treffe NAV i detalj
 
 <!-- Eirik: Kan denne lages expandable: -->
 ## Hva skjer hvis vi ikke møter kravene?
-Digitaliseringsdirektoratet fører [tilsyn](https://uu.difi.no/tilsyn) med området, og sjekker at NAV og andre utvikler og kjøper løsninger som følger kravene. Brudd kan medføre høye dagsbøter. Det genererer også økt belastning for NKS og NAV-kontorene, og er ikke i tråd med vårt mål om selvstendige, digitale brukere. Enda viktigere er konsekvensene for brukerne, som delvis ikke kan bruke våre tjenester, eller opplever store vanskeligheter.
+Digitaliseringsdirektoratet fører [tilsyn](https://uu.difi.no/tilsyn) med området, og sjekker at NAV og andre utvikler og kjøper løsninger som følger kravene. Brudd kan medføre høye dagsbøter. Det genererer også økt belastning for NKS og NAV-kontorene, og er ikke i tråd med vårt mål om selvstendige, digitale brukere. Enda viktigere er konsekvensene for brukerne, som delvis ikke kan bruke våre tjenester, eller opplever store vanskeligheter. Utover det er det sannsynlig med en del medieomtaler hvis NAV bryter lovpålagte krav for inkludering og tilgenglighet.
 
 <!-- Eirik: Kan hele denne seksjonen også lages expandable: -->
 ## Gjelder de samme kravene for alle NAVs tjenester?

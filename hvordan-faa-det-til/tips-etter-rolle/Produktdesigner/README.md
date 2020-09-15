@@ -1,12 +1,16 @@
 # Produktdesigner
 <p class="typo-ingress">Som produktdesigner, har du en bred rolle. Din kompetanse skal gjerne dekke 
+  
   - identifisering av brukerbehov
-  - teknisk forståelse, 📈konseptutvikling
+  - teknisk forståelse
+  - konseptutvikling
   - utforming av gode brukeropplevelser
   - informasjonsdesign
   - interaksjonsdesign
   - visuell kommunikasjon og 
-  - brukertesting.</p>
+  - brukertesting.
+  
+  </p>
 
 Ditt ansvar i alt dette arbeidet er å sikre god brukskvalitet for alle - __Universell Brukskvalitet__.
 

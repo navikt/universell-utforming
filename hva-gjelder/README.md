@@ -6,7 +6,7 @@ Nå gjelder [Forskriften om universell utforming av IKT](https://lovdata.no/doku
 
 Forskriften har vært i kraft siden 1. juli 2014, og gjelder for alle løsninger som ble utviklet, kjøpt eller betydelig oppdatert etter 1. juli 2014. 
 
-## Fra 2021-...
+## Fra 2021
 Fra __1. januar 2021__ må *alle* NAVs digitale løsninger rettet mot befolkningen følge [Forskriften om universell utforming av IKT](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732) - også de som ble laget *før* 1. juli 2014. Dette gjelder også alle PDF-er, skjemaer eller artikler som er deler av en digital brukerreise eller som NAV legger ut på nettet. __Løsningene som ikke rekker å oppdateres i tråd med kravene innen 1. januar 2021, *må søke Digitaliseringsdirektoratet om dispensasjon*.__
 
 I tillegg vil [Web Accessibility Direktivet] fra EU om universell utforming av offentlige nettsteder og mobilapplikasjoner bli en del av norsk lov i løpet av 2021, og dette vil føle til __ytterligere skjerpinger__, blant annet:
@@ -15,7 +15,7 @@ I tillegg vil [Web Accessibility Direktivet] fra EU om universell utforming av o
 3. Det skal være på plass en [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) for brukere å kunne rapportere inn UU-feil.
 
 ## Fra 2022/2025
-I 2022 skal EUs tilgjengelighetsdirektiv (European Accessibility Act) bli del av Norsk rett. Direktivet omfatter en rekke forskjellige typer varer og tjenester, herunder E-handel, finansielle tjenester og audiovisuelle medietjenester.
+I 2022 skal EUs tilgjengelighetsdirektiv (European Accessibility Act) bli del av Norsk rett. Direktivet omfatter en rekke forskjellige typer varer og tjenester, herunder E-handel, finansielle tjenester og audiovisuelle medietjenester. Kravene kommer til å gjelde fra juni 2025.
 
 Det er ikke enda tydelig hvordan disse kravene kommer til å treffe NAV i detalj, men det blir mer fokus på hele tjenester. Se også [EUs direktiv om tilgjengelighetskrav for produkter og tjenester (EU 2019/882)](https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2016/mars/eus-tilgjengelighetsdirektiv/id2498097/).
 

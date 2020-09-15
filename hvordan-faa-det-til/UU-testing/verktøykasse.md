@@ -4,6 +4,9 @@
     <strong>VIKTIG!</strong> Før du tar i bruk noen av verktøyene nedenfor, må du huske at sikkerhet og personvern SKAL ivaretas. Sørg derfor for at du tester på testmiljøer og lignende som har fiktiv testdata. En av grunnene til dette er at noen av utvidelsene til nettlesere KAN sende data til servere utenfor NAV.
 </alertstripe>
 
+## Før- og etter-sider
+W3C har laget noen før- og etter-sider. Sidene ser ganske like ut, men "før"-sidene har en rekke uu-feil, som er fikset i "etter"-sidene. Test gjerne verktøyene på disse sidene: https://www.w3.org/WAI/demos/bad/. 
+
 ## Tastatur
 Det er svært viktig at alt fungerer bare med tastatur. Test dette jevnlig. WAI har laget en [veileder om hvordan elementer bør oppføre seg når man bruker tastatur](https://webaim.org/techniques/keyboard/).
 - [**Funkify**](https://www.funkify.org/?v=f003c44deab6) - betalt versjon gir deg mulighet til å teste med kun tastaturnavigasjon. 
@@ -55,9 +58,6 @@ Vi anbefaler verktøyene SortSite, ARC Toolkit, Axe Tools (Deque) og SiteImprove
 - [**SiteImprove**](https://siteimprove.com/nb-no/) - godt verktøy som gir deg en lettfattelig og god oversikt over problemer og forbedringsområder. Som f.eks. dårlig kodekvalitet og kvalitetsfeil som brutte lenker og stavefeil, kontrastforhold som er for dårlig, m.m. Verktøy tester opp mot W3Cs standarder som f.eks. HTML5 og WCAG 2.0/2.1 og man kan filtrere funnene på roller (utvikler, redaktør, etc). God beskrivelse for hva som er feil og hvordan det kan fikses. Har blitt brukt i tilsyn.
 - [**Total Validator Pro**](http://www.totalvalidator.com/) - et av de bedre verktøyene til validering av kildekode og støtte for universell utforming. Pro-versjonen til kr 250,- (NAV har 30 lisenser).
 - [**Adobe Acrobat DC (PDF)**](https://helpx.adobe.com/no/acrobat/user-guide.html?topic=/no/no/acrobat/morehelp/accessibility_tags_and_reflow.ug.js) - validering av PDF-skjema opp mot W3C standarder som WCAG 2.0/2.1 (Verktøy>Tilgjengelighet>Tilgjengelighetskontroll eller Full kontroll. NAV har lisenser på dette.
-
-## Før- og etter-sider
-W3C har laget noen før- og etter-sider. Sidene ser ganske like ut, men "før"-sidene har en rekke uu-feil, som er fikset i "etter"-sidene. Test gjerne verktøyene på disse sidene: https://www.w3.org/WAI/demos/bad/. 
 
 ### Linting
 - [**Vue ESLint**](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue.

@@ -1,47 +1,51 @@
 # Hvordan få det til?
+<p class="typo-ingress">Det finnes mange måter å sikre universell utforming på. Vi ønsker å gi dere én mulig vei å gå, og dele det vi ser skaper suksess.</p>
+Del gjerne egne erfaringer på uu@nav.no eller NAV-intern slack-kanal #nav-uu.
 
-<p class="typo-ingress">Det finnes mange måter å sikre universell utforming. Vi ønsker å gi dere én mulig vei å gå, og dele det vi ser skaper suksess. Hvis dere har andre rutiner eller tipps, ta gjerne kontakt med oss (uu@nav.no eller NAV-intern slack-kanal #nav-uu).</p>
+## Risikovurdering
+Sjekklisten under utgjør universell-utformings-delen av NAVs risikovurdering for team. 
+Er disse suksessfaktorene på plass, oppnås god universell utforming (UU):
+
+- [ ] Dere har en felles forståelse av hva UU er, og prioriterer å levere løsninger med god brukskvalitet for alle.
+- [ ] Alle i teamet kjenner sitt __faglige UU-ansvar__ og har tilstrekkelig erfaring her (se gjerne [tips etter rolle i team]).
+- [ ] Dere har minst én person som er ekstra __pådriver__ for universell utforming (bli med i #nav-uu på Slack!) 
+- [ ] Dere har tilgang til nødvendige __ressurser__ for å få på plass UU (tid, mandat, budsjett, testbrukere, hjelpemidler, verktøy, kompetansestøtte og kursing).
+- [ ] Dere sikrer at "design for alle»-perspektiver tas med __inn i alle aktiviteter__ (brukerinnsikt, prioriteringer, koding og UX-arbeid), og dere har god oversikt over «stress-caser» og «kant-brukere» for deres løsning (f.eks. skjermleserbrukere, kode 6/7 behov eller situasjoner som er særlig kognitivt eller følelsesmessig belastende).
+- [ ] Dere jobber sammen om å løse UU-spørsmål, med __tverrfaglige diskusjoner__ og åpen dialog. Føles det trygt?
+- [ ] Dere har tidlig og hyppige __sjekkpunkter på UU-kvaliteten__ - f.eks. teknisk tilgjengelighet og brukertester.
+- [ ] Dere har satt opp rutiner for å lage __tilgjengelighetserklæring__ og for å ta inn __brukertilbakemeldinger__ (innbyggere eller ansatte).
+- [ ] Dere bruker NAV Frontend og [Designsystemet](https://design.nav.no/).
+
+__I anskaffelser gjelder også:__ 
+- [ ] Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelseer.md) i tråd med til en hver tid gjeldende lovverk. Eventuelle brudd blir fulgt opp.
+- [ ] Dere har oversikt over «stress-caser» og «kant-brukere» for løsningen (inkl. hjelpemiddelteknologi), og har lagt opp rutiner for å sjekke kvaliteten i leveransen. Eventuelle mangler blir fulgt opp.
 
 
-## Suksessfaktorer
-Disse punktene utgjør universell-utformings-delen av [NAVs risikovurdering (NAV-intern lenke)](https://navno.sharepoint.com/sites/intranett-it/SitePages/Risikovurderinger.aspx), og er suksessfaktorer for å oppnå god UU.
+<!-- Her kommer UU-skolen underlenker: -->
 
-1. Teamet bruker [Designsystemet](https://design.nav.no/).
-2. Teamet har en felles forståelse av UU og ønsker å levere universelt utformete løsninger.
-3. Design-for-alle-mindset er med i alle faser av arbeidet.
-4. Teamet har minst en UU-Champ.
-5. Teamet jobber tverrfaglig med UU. Se også våre [tips etter rolle i team](/hvordan-faa-det-til/tips-etter-rolle/)
-7. Teamet har tilgang til nødvendige ressurser, inkludert tid, budsjett, testbrukere, hjelpemidler og verktøy.
-8. UU blir tidlig og kontinuerlig evaluert.
-9. Teamet  har satt opp rutiner for å lage [tilgjengelighetserklæring](/hva-gjelder/tilgjengelighetserklæring.md) og for å ta inn [brukertilbakemeldinger](/hva-gjelder/tilbakemeldingsfunksjon.md).
-10. Teamet har dialog med UU-teamet.
-11. I anskaffelser: Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelseer.md). Eventuelle brudd blir fulgt opp.
+## UU-Skolen - for deg som vil lage inkluderende løsninger
 
-## WCAG-sjekk
-Oppfyller dere [WCAG-kravene](https://uu.difi.no/krav-og-regelverk) (WCAG 2.0 på nivå A og AA), møter dere aktuelle lovkrav. 
+<!-- helst ønsker jeg dette:
+<ekspanderbartpanel tittel="Hva må vi gjøre for å være i tråd med minimumskrav?"> innholdet under (minus tittelen) </ekspanderbartpanel> -->
+### Hva må vi gjøre for å være i tråd med minimumskrav?
+Her er minimums to-do for å nå kravene fra lovverket:
+- [ ] Løsningen testes fortløpende opp mot WCAG-krav. Fra 2021 er dette [WCAG 2.1](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21). 
+- [ ] WCAG-Feil på nivå A og AA blir fortløpende rettet.
+- [ ] Eventuelle varige avvik fra WCAG-kravene begrunnes skriftlig.
 
-### Automatisert testing
-Basistesting som kan finne circa 20-30 prosent av mulige feil.
+__Fra 2021:__ 
+- [ ] [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet. Avjørelser om avvik fra lovpålagte WCAG-krav skal inn her. Dere skal også beskrive hvordan dere har testet - automatiske sjekker, manuell ekspertsjekk, eksperttesting med hjelpeteknologi og/eller type brukertesting.
+- [ ] [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert.
 
-* Automatisert testing er en [del av byggeprosessen](https://github.com/navikt/uu-testing)
-* Teamet benytter [anbefalte verktøy](/hvordan-faa-det-til/UU-testing/automatisert-test/README.md)
+### Tips etter rolle i team
+Her er en mer utdypende oversikt over hvilken kompetanse teammedlemmene bør ha for å sikre UU, og hvordan de best kan gjøre det i praksis.
 
-### Manuell testing
-For å avdekke og evaluere punktene automatisert testing ikke kan dekke.
+* [Team-lead/PO-eier](/Leder/) 
+* [Utvikler](/Utvikler/)
+* [Produktdesigner](/Produktdesigner/)
+* [User Researcher](/UserResearcher/)
+* [Innholdsprodusent](/Innholdsprodusent/)
+* [Tjenestedesigner](/Tjenestedesigner/)
+<!-- * [...](/hvordan-faa-det-til/) -->
 
-* [Manuell WCAG-sjekk av sidene](/hvordan-faa-det-til/UU-testing/manuell-testing/) er del av rutinene
-* [Manuell testing med hjelpemidler](/hvordan-faa-det-til/UU-testing/manuell-testing/) er en del av rutinene
-
-## Brukerinvolvering
-Slik sikrer dere at løsningen møter reelle brukerbehov og -forutsetninger.
-
-### Innsiktsarbeid
-
-* Innsiktsarbeid involverer personer med forskjellige bakgrunn og funksjonsevne.
-* Teamet går gjennom spesifikke utfordringer forskjellige brukergrupper kan møte i løsningen.
-
-### Testing med brukere
-
-* Brukertesting med reelle brukere er gjennomført.
-* Tester sammen med personer som bruker hjelpemidler er gjennomført, for eksempel gjennom ["test min løsning"](/hvordan-faa-det-til/UU-testing/brukertesting/test-min-løsning.md)
-
+<!-- Se også gammel versjon på [NAV-intern side om kompetanse i teamene](https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/Hvilken-kompetanse-b%C3%B8r-teammedlemmer-har-p%C3%A5-universell-utforming-.aspx) -->

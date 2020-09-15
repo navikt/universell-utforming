@@ -6,12 +6,9 @@
 
 ## Tastatur
 Det er svært viktig at alt fungerer bare med tastatur. Test dette jevnlig. WAI har laget en [veileder om hvordan elementer bør oppføre seg når man bruker tastatur](https://webaim.org/techniques/keyboard/).
-
-## Før- og etter-sider
-W3C har laget noen før- og etter-sider. Sidene ser ganske like ut, men "før"-sidene har en rekke uu-feil, som er fikset i "etter"-sidene. Test gjerne verktøyene på disse sidene: https://www.w3.org/WAI/demos/bad/. 
+- [**Funkify**](https://www.funkify.org/?v=f003c44deab6) - betalt versjon gir deg mulighet til å teste med kun tastaturnavigasjon. 
 
 ## Skjermlesere
-
 - [**Voice over**](https://webaim.org/articles/voiceover/) - Gratis innebygd skjermleser på Mac og iPhone.
     - Se video: [*Screen Reader Basics: VoiceOver -- A11ycasts #07*](https://www.youtube.com/watch?v=5R-6WvAihms)
     - Se video: [*Assistive Tech: VoiceOver on iOS*](https://www.youtube.com/watch?v=bCHpdjvxBws)
@@ -25,18 +22,25 @@ W3C har laget noen før- og etter-sider. Sidene ser ganske like ut, men "før"-s
 - [**TalkBack**](https://support.google.com/accessibility/android/answer/6283677?hl=en) - Gratis skjermleser til Android.
     - Se video: [*Assistive Tech: TalkBack*](https://www.youtube.com/watch?v=0Zpzl4EKCco)
 
-## Lese- og skrivevansker
-
-- [**Dyslexia Formatter**](https://chrome.google.com/webstore/detail/dyslexia-formatter/kggkghfhlppjclojgphbploiaipgogoc) - gratis utvidelse til Chrome som gjør det enklere å tilegne seg informasjon og bruke nettbaserte tjenester for folk med dysleksi
-
 ## Kontrastforhold
-
 - [**http://contrastchecker.com/**](http://contrastchecker.com/)  - her kan du legge inn fargekodene dine og få et konkret svar om kontrastforholdet er i tråd med WCAG-kravene. Du kan også se gråtoner som fargeblind (arkfaner øverst til høyre)
 - [**https://webaim.org/resources/contrastchecker/**](https://webaim.org/resources/contrastchecker/)
 - [**http://accessible-colors.com/**](http://accessible-colors.com/)
+- [**Funkify**](https://www.funkify.org/?v=f003c44deab6) - gratis simulering av ulike typer fargeblindhet m.m.
+
+## Lese- og skrivevansker
+- [**Dyslexia Formatter**](https://chrome.google.com/webstore/detail/dyslexia-formatter/kggkghfhlppjclojgphbploiaipgogoc) - gratis utvidelse til Chrome som gjør det enklere å tilegne seg informasjon og bruke nettbaserte tjenester for folk med dysleksi
+- [**Funkify**](https://www.funkify.org/?v=f003c44deab6) - gratis simulering av dysleksi m.m.
+
+## Parkinsons, ADHD og Synsnedsettelser
+- [**Funkify**](https://www.funkify.org/?v=f003c44deab6) - gratis simulering av skjelving, tåkesyn, tunnellsyn m.m. Betalt versjon gir flere simuleringer som ADHD og sollys på skjermen. 
+
+## Automatisk testing
+Vi anbefaler verktøyene SortSite, ARC Toolkit, Axe Tools (Deque) og SiteImprove for automatisk testing.
+
+<div><alertstripe type="advarsel">Det er viktig å være klar over at automatisk testing vanligvis bare avdekker ~30% av feil, og at man helst bør kombinere disse med både brukertester og manuelle ekspertevalueringer i tillegg.</alertstripe></div>
 
 ## Automatisk analyse
-
 - [**W3Cs kodevalidator**](https://validator.w3.org/) - W3Cs verktøy for å teste om markup-en er valide (ikke direkte uu-tester, men sjekker om koden er i tråd med HTML-standarden, som er en viktig forutsetning for å møte uu-krav). Har blitt brukt i tilsyn.
 - [**Chrome DevTools**](https://developers.google.com/web/tools/chrome-devtools/) - gratis sett med webutviklerverktøy som ligger integrert i Google Chrome-nettleseren. Kan hjelpe deg med å redigere/manipulere en hvilken som helst nettside/tjeneste og raskt diagnostisere problemer. 
     - Se video: [*The new way to test accessibility with Chrome DevTools - A11ycasts #23*](https://www.youtube.com/watch?v=b0Q5Zp_yKaU)
@@ -52,27 +56,23 @@ W3C har laget noen før- og etter-sider. Sidene ser ganske like ut, men "før"-s
 - [**Total Validator Pro**](http://www.totalvalidator.com/) - et av de bedre verktøyene til validering av kildekode og støtte for universell utforming. Pro-versjonen til kr 250,- (NAV har 30 lisenser).
 - [**Adobe Acrobat DC (PDF)**](https://helpx.adobe.com/no/acrobat/user-guide.html?topic=/no/no/acrobat/morehelp/accessibility_tags_and_reflow.ug.js) - validering av PDF-skjema opp mot W3C standarder som WCAG 2.0/2.1 (Verktøy>Tilgjengelighet>Tilgjengelighetskontroll eller Full kontroll. NAV har lisenser på dette.
 
-## Automatisk testing
-
-<div><alertstripe type="advarsel">Det er viktig å være klar over at automatisk testing vanligvis bare avdekker ~30% av feil, og at man helst bør kombinere disse med både brukertester og manuelle ekspertevalueringer i tillegg.</alertstripe></div>
+## Før- og etter-sider
+W3C har laget noen før- og etter-sider. Sidene ser ganske like ut, men "før"-sidene har en rekke uu-feil, som er fikset i "etter"-sidene. Test gjerne verktøyene på disse sidene: https://www.w3.org/WAI/demos/bad/. 
 
 ### Linting
-
 - [**Vue ESLint**](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue.
 - [**JSX ESLint**](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements.
 - [**JSX TSLint**](https://github.com/joaovieira/tslint-react-a11y#readme) - JSX a11y lint rules for TSLint.
 - [**Angular Codelyzer**](https://github.com/mgechev/codelyzer#readme) - A set of tslint rules for static code analysis of Angular TypeScript projects.
 
 ### Enhetstester
-
 - [**Jest Axe**](https://github.com/nickcolley/jest-axe) - Custom Jest matcher for aXe for testing accessibility.
 
 ### Ende-til-ende
-
 - [**axe-core**](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing https://www.deque.com/axe/
 
 ### CI/CD
-
 - [**Pa11y**](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal. It runs accessibility tests on your pages via the command line or Node.js, so you can automate your testing process.
 
-Takk til Kristoffer Nordström for denne flotte oversikten i [hans artikkel på Kode24.no](https://www.kode24.no/kodenytt/5-verktoy-for-bedre-tilgjengelighet/72149017).
+Del gjerne flere tips og verktøy: uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.
+Takk til Kristoffer Nordström for den flotte oversikten i [hans artikkel på Kode24.no](https://www.kode24.no/kodenytt/5-verktoy-for-bedre-tilgjengelighet/72149017). 

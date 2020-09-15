@@ -26,11 +26,15 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 
 
 ### Teste selv med hjelpemidler og simulatorer
-Du kan teste selv med hjelpemidler som skjermleser eller skjermforstørrer. Hvis du ikke bruker verktøyene i hverdagen, blir det ikke helt hvordan en reell bruker opplever løsningen, men du kan oppdage en god del feil eller vanskeligheter.
+Du kan teste selv med hjelpemidler som skjermleser eller skjermforstørrer. Hvis du ikke bruker verktøyene i hverdagen, blir det ikke helt hvordan en reell bruker opplever løsningen, men du kan oppdage en god del feil eller vanskeligheter. 
+1. Når du teter [tastaturnavigasjon](/hvordan-faa-det-til/UU-testing/manuell-testing/tastaturnavigasjon.md), "modellerer" du også 3-bryterstyring. (Bare Tab + Enter modellerer 2-bryterstyring.)
+2. En forenklet variant av det å teste med skjermforstørrer, er å bruke "sugerørstesten". Her lukker du det ene øyet, mens du holder et sugerør (eller en knyttneve som er nesten helt knyttet) inntil det øyet som er åpent, og ser gjennom det. Det begrensede synsfeltet du får "modellerer" hvordan det er med høy grad av forstørrelse. Klarer du å navigere i løsningen nå? 
+3. Hva hvis du ser siden i sort/hvitt og slik modellerer fargeblindhet. Du har sikkert allerede testet fargekontraster manuelt, men er alle elementer fremdeles forståelige (fordi det er annet enn farger som er meningsbærende i f.eks. visualiseringer)? 
+4. Skjermleser er kanskje det mest avanserte av hjelpemiddelteknologi - og ofte må man betale litt for å få hjelp til å teste med skjermleser og for å få hjelp til å forstå hvorfor noe *ikke* fungerte med skjermleser. Oppsiden er at hvis alt fungerer bra med skjermleser, fungerer det sannsynligvis med andre hjelpemidler.
 
 På [verktøysiden](/hvordan-faa-det-til/UU-testing/verktøykasse.md) finner du informasjon om forskjellige hjelpemiddel og nettleser-plug-ins. 
-Du kan også prøve en rekke simuleringsverktøy (både digitalt og analogt) i [Empatilaben](/hvordan-faa-det-til/UU-testing/empatilab.md) i 1 UG i Fyrstikkalleen. 
 
+Du kan også prøve en rekke simuleringsverktøy og fysiske modelleringer (både digitalt og analogt) i [Empatilaben](/hvordan-faa-det-til/UU-testing/empatilab.md) i 1 UG i Fyrstikkalleen.
 
 ## Ønsker du å lære mer og hvordan Tilsynet tester?
 Tilsynets testprosedyrer for evaluering av nettløsninger er anerkjent i EU, og er en god kilde om du ønsker å vite hvordan Tilsynet tolker kravene.  Lenkene fører deg til Tilsynets veiledningssider.

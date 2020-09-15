@@ -54,4 +54,4 @@ Juridisk ansvarlig er alltid øverste NAV-leder, det vil si arbeids- og velferds
 UU-teamet er et fagteam ansvarlig for at norsk lovverk og god praksis på UU formidles til team og internt i NAV. De tilbyr praktisk hjelp og kompetansebygging til produkt- og anskaffelsesteam på etterspørsel, og kan kontaktes på på uu@nav.no og på NAV-intern slack-kanal #nav-uu. 
 
 ### Designsystemet 
-Designsystemet er et fagteam ansvarlig for å sikre UU i alle komponenter og templates de distribuerer til produktteamene. Dette gjelder både design og kode.
+[Designsystemet](https://design.nav.no/) er et fagteam ansvarlig for å sikre UU i alle komponenter og templates de distribuerer til produktteamene. Dette gjelder både design og kode.

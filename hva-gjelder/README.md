@@ -15,9 +15,9 @@ I tillegg vil [Web Accessibility Direktivet] fra EU om universell utforming av o
 3. Det skal være på plass en [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) for brukere å kunne rapportere inn UU-feil.
 
 ## Fra 2022/2025
-I 2022 skal EUs tilgjengelighetsdirektiv (European Accessibility Act) bli del av Norsk rett. Direktivet omfatter en rekke forskjellige typer varer og tjenester, herunder E-handel, finansielle tjenester og audiovisuelle medietjenester. Kravene kommer til å gjelde fra juni 2025.
+I 2022 skal [EUs tilgjengelighetsdirektiv (European Accessibility Act)](https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2016/mars/eus-tilgjengelighetsdirektiv/id2498097/) bli del av Norsk rett. Direktivet omfatter en rekke forskjellige typer varer og tjenester, herunder E-handel, finansielle tjenester og audiovisuelle medietjenester. Kravene kommer til å gjelde fra juni 2025.
 
-Det er ikke enda tydelig hvordan disse kravene kommer til å treffe NAV i detalj, men det blir mer fokus på hele tjenester. Se også [EUs direktiv om tilgjengelighetskrav for produkter og tjenester (EU 2019/882)](https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2016/mars/eus-tilgjengelighetsdirektiv/id2498097/).
+Det er ikke enda tydelig hvordan disse kravene kommer til å treffe NAV i detalj, men det blir mer fokus på hele tjenester.
 
 <!-- Eirik: Kan denne lages expandable: -->
 ## Hva skjer hvis vi ikke møter kravene?

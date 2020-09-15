@@ -17,7 +17,7 @@ De er suksessfaktorene for å oppnå god universell utforming (UU):
 - Dere har satt opp rutiner for å lage __tilgjengelighetserklæring__ og for å ta inn __brukertilbakemeldinger__ (innbyggere eller ansatte).
 
 
-__I anskaffelser gjelder også:__ 
+### I anskaffelser gjelder også:
 - Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelseer.md) i tråd med til en hver tid gjeldende lovverk. Eventuelle brudd blir fulgt opp.
 - Dere har oversikt over «stress-caser» og «kant-brukere» for løsningen (inkl. hjelpemiddelteknologi), og har lagt opp rutiner for å sjekke kvaliteten i leveransen. Eventuelle mangler blir fulgt opp.
 

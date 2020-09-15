@@ -13,7 +13,7 @@ De er suksessfaktorene for å oppnå god universell utforming (UU):
 - Dere har tilgang til nødvendige __ressurser__ for å få på plass UU (tid, mandat, budsjett, testbrukere, hjelpemidler, verktøy, kompetansestøtte og kursing).
 - Dere sikrer at "design for alle»-perspektiver tas med __inn i alle aktiviteter__ (brukerinnsikt, prioriteringer, koding og UX-arbeid), og dere har god oversikt over «stress-caser» og «kant-brukere» for deres løsning (f.eks. skjermleserbrukere, kode 6/7 behov eller situasjoner som er særlig kognitivt eller følelsesmessig belastende).
 - Dere jobber sammen om å løse UU-spørsmål, med __tverrfaglige diskusjoner__ og åpen dialog. Føles det trygt?
-- Dere har tidlig og hyppige __sjekkpunkter på UU-kvaliteten__ - f.eks. [automatisert test](/hvordan-faa-det-til/UU-testing/automatisert-testing/), [manuell test](/hvordan-faa-det-til/UU-testing/manuell-testing/) og [brukertester](/hvordan-faa-det-til/UU-testing/brukertesting/) med og uten hjelpemidler.
+- Dere har tidlig og hyppige __sjekkpunkter på UU-kvaliteten__ - f.eks. med automatiserte verktøy, manuelle tester og brukertester.
 - Dere har satt opp rutiner for å lage __tilgjengelighetserklæring__ og for å ta inn __brukertilbakemeldinger__ (innbyggere eller ansatte).
 
 
@@ -30,9 +30,9 @@ __I anskaffelser gjelder også:__
 <ekspanderbartpanel tittel="Hva må vi gjøre for å være i tråd med minimumskrav?"> innholdet under (minus tittelen) </ekspanderbartpanel> -->
 ### Hva må vi gjøre for å være i tråd med minimumskrav?
 Her er minimums to-do for å nå kravene fra lovverket:
-- [ ] Løsningen testes fortløpende opp mot WCAG-krav. Fra 2021 er dette [WCAG 2.1](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21). 
-- [ ] WCAG-Feil på nivå A og AA blir fortløpende rettet.
-- [ ] Eventuelle varige avvik fra WCAG-kravene begrunnes skriftlig.
+- Løsningen testes fortløpende opp mot WCAG-krav. Fra 2021 er dette [WCAG 2.1](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21). Dette krever en kombinasjon av [automatisert test](/hvordan-faa-det-til/UU-testing/automatisert-testing/) og [manuell test](/hvordan-faa-det-til/UU-testing/manuell-testing/). Vi anbefaler sterkt ogå å kjøre [brukertester](/hvordan-faa-det-til/UU-testing/brukertesting/), både med og uten hjelpemidler.
+- WCAG-Feil på nivå A og AA blir fortløpende rettet.
+- Eventuelle varige avvik fra WCAG-kravene begrunnes skriftlig.
 
 __Fra 2021:__ 
 - [ ] [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet. Avjørelser om avvik fra lovpålagte WCAG-krav skal inn her. Dere skal også beskrive hvordan dere har testet - automatiske sjekker, manuell ekspertsjekk, eksperttesting med hjelpeteknologi og/eller type brukertesting.

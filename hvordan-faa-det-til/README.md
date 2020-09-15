@@ -2,7 +2,7 @@
 <p class="typo-ingress">Det finnes mange måter å sikre universell utforming på. Vi ønsker å gi dere én mulig vei å gå, og dele det vi ser skaper suksess.</p>
 Del gjerne egne erfaringer på uu@nav.no eller NAV-intern slack-kanal #nav-uu.
 
-## Risikovurdering
+## Risikovurdering og suksessfaktorer
 Sjekklisten under utgjør universell-utformings-delen av [NAVs risikovurdering for team (NAV-intern lenke)](https://navno.sharepoint.com/sites/intranett-it/SitePages/Risikovurderinger.aspx). 
 De er suksessfaktorene for å oppnå god universell utforming (UU):
 
@@ -30,15 +30,18 @@ __I anskaffelser gjelder også:__
 <ekspanderbartpanel tittel="Hva må vi gjøre for å være i tråd med minimumskrav?"> innholdet under (minus tittelen) </ekspanderbartpanel> -->
 ### Hva må vi gjøre for å være i tråd med minimumskrav?
 Her er minimums to-do for å nå kravene fra lovverket:
-- Løsningen testes fortløpende opp mot WCAG-krav. Fra 2021 er dette [WCAG 2.1](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21). Dette krever en kombinasjon av [automatisert test](/hvordan-faa-det-til/UU-testing/automatisert-testing/) og [manuell test](/hvordan-faa-det-til/UU-testing/manuell-testing/). Vi anbefaler sterkt ogå å kjøre [brukertester](/hvordan-faa-det-til/UU-testing/brukertesting/), både med og uten hjelpemidler.
+- Løsningen testes fortløpende opp mot WCAG-krav. Fra 2021 er dette [WCAG 2.1](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21). Dette krever en kombinasjon av [automatisert test](/hvordan-faa-det-til/UU-testing/automatisert-testing/) og [manuell test](/hvordan-faa-det-til/UU-testing/manuell-testing/). 
 - WCAG-Feil på nivå A og AA blir fortløpende rettet.
 - Eventuelle varige avvik fra WCAG-kravene begrunnes skriftlig.
 
-__Fra 2021:__ 
-- [ ] [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet. Avjørelser om avvik fra lovpålagte WCAG-krav skal inn her. Dere skal også beskrive hvordan dere har testet - automatiske sjekker, manuell ekspertsjekk, eksperttesting med hjelpeteknologi og/eller type brukertesting.
-- [ ] [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert.
+#### Fra 2021:
+- [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet. Avjørelser om avvik fra lovpålagte WCAG-krav skal inn her. Dere skal også beskrive hvordan dere har testet - automatiske sjekker, manuell ekspertsjekk, eksperttesting med hjelpeteknologi og/eller type brukertesting.
+- [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert.
 
-### Tips etter rolle i team
+### Hvordan kan du oppnå inkluderende løsninger, og ikke bare møte minimumskrav?
+For å lage virkelig inkluderende løsninger, kreves det mer enn bare WCAG-testing. Det er viktig å se hvor forskjellig brukerbehovene er hele veien, og ha med UU-tankegangen i innsiktsarbeid, involvere brukerne hele veien og teste aktivt med burkere, også de som bruker hjelpemidler. Her tilbyr UU-teamet [test min løsing](/hvordan-faa-det-til/UU-testing/brukertesting/test-min-løsning.md), der teamet rekrutterer innbyggere som bruker delvis avansert hjelpemiddelteknologi og teamene kan booke tider for å teste sin løsning.
+
+#### Tips etter rolle i team
 Her er en mer utdypende oversikt over hvilken kompetanse teammedlemmene bør ha for å sikre UU, og hvordan de best kan gjøre det i praksis.
 
 * [Team-lead/PO-eier](/hvordan-faa-det-til/tips-etter-rolle//Leder/) 

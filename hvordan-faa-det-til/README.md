@@ -8,7 +8,7 @@ De er suksessfaktorene for å oppnå god universell utforming (UU):
 
 - Dere bruker NAV Frontend og [Designsystemet](https://design.nav.no/).
 - Dere har en felles forståelse av hva UU er, og prioriterer å levere løsninger med god brukskvalitet for alle.
-- Alle i teamet kjenner sitt __faglige UU-ansvar__ og har tilstrekkelig erfaring her (se gjerne [tips etter rolle i team](/hvordan-faa-det-til/tips-etter-rolle/).
+- Alle i teamet kjenner sitt __faglige UU-ansvar__ og har tilstrekkelig erfaring her (se gjerne [tips etter rolle i team](/hvordan-faa-det-til/tips-etter-rolle/)).
 - Dere har minst én person som er ekstra __pådriver__ for universell utforming (bli med i #nav-uu på Slack!) 
 - Dere har tilgang til nødvendige __ressurser__ for å få på plass UU (tid, mandat, budsjett, testbrukere, hjelpemidler, verktøy, kompetansestøtte og kursing).
 - Dere sikrer at "design for alle»-perspektiver tas med __inn i alle aktiviteter__ (brukerinnsikt, prioriteringer, koding og UX-arbeid), og dere har god oversikt over «stress-caser» og «kant-brukere» for deres løsning (f.eks. skjermleserbrukere, kode 6/7 behov eller situasjoner som er særlig kognitivt eller følelsesmessig belastende).

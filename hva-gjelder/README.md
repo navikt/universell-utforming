@@ -9,13 +9,18 @@ Forskriften har vært i kraft siden 1. juli 2014, og gjelder for alle løsninger
 ## Fra 2021-...
 Fra __1. januar 2021__ må *alle* NAVs digitale løsninger rettet mot befolkningen følge [Forskriften om universell utforming av IKT](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732) - også de som ble laget *før* 1. juli 2014. Dette gjelder også alle PDF-er, skjemaer eller artikler som er deler av en digital brukerreise eller som NAV legger ut på nettet. __Løsningene som ikke rekker å oppdateres i tråd med kravene innen 1. januar 2021, *må søke Digitaliseringsdirektoratet om dispensasjon*.__
 
-I tillegg vil [Web Accessibility Direktivet] fra EU om universell utforming av offentlige nettsteder og mobilapplikasjoner bli en del av norsk lov i løpet av 2021, og dette vil føle til __3 ytterligere skjerpinger__:
+I tillegg vil [Web Accessibility Direktivet] fra EU om universell utforming av offentlige nettsteder og mobilapplikasjoner bli en del av norsk lov i løpet av 2021, og dette vil føle til __ytterligere skjerpinger__, blant annet:
 1. Vi går fra [WCAG 2.0](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden) nivå AA krav til [WCAG 2.1](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21) nivå AA krav, og vi får flere nye krav.
 2. Alle digitale tjenester (og kontaktpunkter) skal ha en offentlig [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md). Denne må teamene eller produktområdene lage. [Tilsynet for universell utforming](https://uu.difi.no/nyhet/2020/07/tilgjengelegheitserklaering) samarbeider med NAV og andre offentlige etater om en felles løsning for å lage slike tilgjengelighetserklæringer.
 3. Det skal være på plass en [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) for brukere å kunne rapportere inn UU-feil.
 
+## Fra 2022/2025
+I 2022 skal EUs tilgjengelighetsdirektiv (European Accessibility Act) bli del av Norsk rett. Direktivet omfatter en rekke forskjellige typer varer og tjenester, herunder E-handel, finansielle tjenester og audiovisuelle medietjenester.
+
+Det er ikke enda tydelig hvordan disse kravene kommer til å treffe NAV i detalj, men det blir mer fokus på hele tjenester. Se også [EUs direktiv om tilgjengelighetskrav for produkter og tjenester (EU 2019/882)](https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2016/mars/eus-tilgjengelighetsdirektiv/id2498097/).
+
 <!-- Eirik: Kan denne lages expandable: -->
-### Hva skjer hvis vi ikke møter kravene?
+## Hva skjer hvis vi ikke møter kravene?
 Digitaliseringsdirektoratet fører [tilsyn](https://uu.difi.no/tilsyn) med området, og sjekker at NAV og andre utvikler og kjøper løsninger som følger kravene. Brudd kan medføre høye dagsbøter. Det genererer også økt belastning for NKS og NAV-kontorene, og er ikke i tråd med vårt mål om selvstendige, digitale brukere. Enda viktigere er konsekvensene for brukerne, som delvis ikke kan bruke våre tjenester, eller opplever store vanskeligheter.
 
 <!-- Eirik: Kan hele denne seksjonen også lages expandable: -->

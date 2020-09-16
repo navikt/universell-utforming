@@ -19,4 +19,6 @@ Ble du inspirert? Sett deg gjerne inn i ["gap-modellen"](https://snl.no/gap-mode
 
 Del gjerne egne erfaringer eller motta råd og veiledning på uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.
 
+[![Hvem skal inkluderes når? - tips fra abc](/hvordan-faa-det-til/tips-etter-rolle/researcher-govuk.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/researcher-govuk.png)
+
 [![UU--tips for Researcher-rollen fra abc](/hvordan-faa-det-til/tips-etter-rolle/researcher-abc.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/a11y_Tips4Teams-researcher__83472.pdf)

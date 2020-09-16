@@ -19,10 +19,15 @@ Det er manger måter å sjekke av disse spørsmålene på. Vi foreslår denne me
   - Redusert finmotorikk, kognisjon, oppmerksomhet, språkforståelse.
   - Ikke norskspråklig, kun D-nummer (ikke personnummer), avhengig av bil, på kode 6 og 7, formell/uformell hjelper til noen som ikke selv kan bruke tjenesten.
 
-#### Touchpoint Accessibility Matrix
-Du kan bruke en Touchpoint Accessibility Matrix for å kartlegge kontaktpunktene. Map brukergruppene og kontaktpunktene, og marker hvor tilgjengelig kontaktpunktene er for de enkelte brukergruppene:
+#### Anbefalt tilnærming til inkluderende innsiktsarbeid
 
-![Touchpoint Accessibility Matrix](/hvordan-faa-det-til/tips-etter-rolle/touchpointaccessibilitymatrix1.png)
+![Illustrasjon stress-case, se beskrivelse rett etter bildet](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/tips-etter-rolle/innsiktsrekkef%C3%B8lge.png)
+
+1. “Ekte stress-case” - En som er din kunde eller trenger din tjeneste, som har en sårbarhet og står i fare for å oppleve ulemper, stress eller diskriminering, og som du i det faktiske liv kan følge på brukerreisen og situasjoner. 
+2. "Iscenesatt stress-case" - En som har en sårbarhet og står i fare for å oppleve ulemper, stress eller diskriminering eller som representerer brukere med en sårbarhet, og som du i kan hyre inn for å teste brukerreisen og situasjoner i din tjeneste. 
+3. "Ekte retrospektiv" - En som har en sårbarhet og står i fare for å oppleve ulemper, stress eller diskriminering, og som i det faktiske liv har vært din kunde eller brukt din tjeneste – og som du kan intervjue i en retrospekt-samtale etter reelle brukeropplevelser fra din tjeneste (eller i tenkte situasjoner).
+4. "Iscenesatt simulert" - Du modellerer en sårbarhet og et brukerbehov i en ekte kontekst. (Empatisk tjenestesafari eller annen modellert auto-etnografisk brukeropplevelse).
+5. "Simulert ved pult" - Du modellerer en sårbarhet ved pulten din, og reflekterer på om brukeropplevelsen blir bra basert på brukerinnsikt og empatisk innlevelse.
 
 
 ### 2. Klarer alle brukere å komme seg gjennom hele brukerreisen? 
@@ -34,20 +39,11 @@ Du kan bruke en Touchpoint Accessibility Matrix for å kartlegge kontaktpunktene
 
 Hvis du kan kan svare JA på de to første spørsmålene (og har sjekket om dette faktisk er tilfelle for alle potensielle brukere) så er tjenesten din universelt utformet. Alle har mulighet til å velge et kontaktpunkt de kan bruke. Du har med det sikret et minimum av tilgjengelighet, fjernet barrierer og bidratt til at flere kan leve selvstendige liv.
 
-#### Anbefalt tilnærming til inkluderende innsiktsarbeid
+#### Touchpoint Accessibility Matrix
+Du kan bruke en Touchpoint Accessibility Matrix for å kartlegge kontaktpunktene. Map brukergruppene og kontaktpunktene, og marker hvor tilgjengelig kontaktpunktene er for de enkelte brukergruppene:
 
-![Illustrasjon stress-case, se beskrivelse rett etter bildet](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/tips-etter-rolle/innsiktsrekkef%C3%B8lge.png)
+![Touchpoint Accessibility Matrix](/hvordan-faa-det-til/tips-etter-rolle/touchpointaccessibilitymatrix1.png)
 
-1. “Ekte stress-case” - En som er din kunde eller trenger din tjeneste, som har en sårbarhet og står i fare for å oppleve ulemper, stress eller diskriminering, og som du i det faktiske liv kan følge på brukerreisen og situasjoner. 
-2. "Iscenesatt stress-case" - En som har en sårbarhet og står i fare for å oppleve ulemper, stress eller diskriminering eller som representerer brukere med en sårbarhet, og som du i kan hyre inn for å teste brukerreisen og situasjoner i din tjeneste. 
-3. "Ekte retrospektiv" - En som har en sårbarhet og står i fare for å oppleve ulemper, stress eller diskriminering, og som i det faktiske liv har vært din kunde eller brukt din tjeneste – og som du kan intervjue i en retrospekt-samtale etter reelle brukeropplevelser fra din tjeneste (eller i tenkte situasjoner).
-4. "Iscenesatt simulert" - Du modellerer en sårbarhet og et brukerbehov i en ekte kontekst. (Empatisk tjenestesafari eller annen modellert auto-etnografisk brukeropplevelse).
-5. "Simulert ved pult" - Du modellerer en sårbarhet ved pulten din, og reflekterer på om brukeropplevelsen blir bra basert på brukerinnsikt og empatisk innlevelse.
-
-#### Service Accessibility Walkthrough
-Du kan bruke en Service Accessibility Walkthrough for å se på hele brukerreisen for enkelte brukere. Sjekk om det er brukbare kontaktpunkter i hvert steg av reisen. Hvis ikke, hva kan gjøres for å forbedre brukereopplevelsen?
-
-![Service Accessibility Walkthrough](/hvordan-faa-det-til/tips-etter-rolle/walkthrough1.png)
 
 ### 3. Hvordan er brukeropplevelsene - er det noen som gråter ved kjøkkenbordet?
 Når du undersøker det tredje spørsmålet, handler det ikke bare om at ingen skal ekskluderes - det handler også om at ingen skal diskrimineres eller få uverdige opplevelser. Universell utforming er anti-diskriminerende design. Uansett hvem du er, skal alle føle seg møtt med respekt i kontakten med NAV.
@@ -57,6 +53,11 @@ Her bør man derfor også tenke på brukeropplevelsen til personer med transiden
 Husk også på interseksjonalitet (kryss-diskrimering) - som betyr at flere sårbarheter kommer oppå hverandre. For eksempel kan du både være tenåring, ha autisme, være skeiv og bruke rullestol.
 
 Ble du inspirert? Sett deg gjerne inn i ["gap-modellen"](https://snl.no/gap-modellen) og ["interaksjonsmodellen](http://www.inclusivedesigntoolkit.com/UCframework/framework.html) for funksjonshemming. [Gap-modellen er forklart veldig enkelt i dene videoen](https://www.youtube.com/embed/zl53ownJU1c). 
+
+#### Service Accessibility Walkthrough
+Du kan bruke en Service Accessibility Walkthrough for å se på hele brukerreisen for enkelte brukere. Sjekk om det er brukbare kontaktpunkter i hvert steg av reisen. Hvis ikke, hva kan gjøres for å forbedre brukereopplevelsen?
+
+![Service Accessibility Walkthrough](/hvordan-faa-det-til/tips-etter-rolle/walkthrough1.png)
 
 > "A service is universally designed when it is fitting for all users to the greatest extent possible and without the need for adaptation or specialized design by ensuring the user can select touchpoints matching their needs." (Design Section, NAV)
 

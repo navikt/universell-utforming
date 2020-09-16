@@ -3,7 +3,7 @@
 
 __Målet er å sikre forståelse hos mottakeren, høyne innholdskvalitet og passe på at all informasjon er tilgjengelig for alle.__
 
-Det store UU-spørsmålet til deg som Innholdsprusent - uansett type -  er derfor:
+Det store UU-spørsmålet til deg som Innholdsprodusent - uansett type -  er derfor:
 
 ## Klarer alle å få med seg informasjonen jeg nå gir?
 
@@ -34,5 +34,5 @@ Skal vi designe for mennesker, må vi akseptere variasjon. Uansett hva du lager,
 
 Del gjerne egne erfaringer og hjelp oss å gjøre rådene til innholdsprodusenter enda bedre på uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.
 
-<!-- Her kunne jeg gjerne tenkt meg å få inn Word-filen for INNHOLDSDESIGNer. Det vet jeg ikke hvordan jeg kan gjøre??? Bildet under: Tror bildet må lastet opp til Github'en vår & renames Innholdsprodusent.pdf, sånn at vi kan lenke til: https://navikt.github.io/images/Innholdsprodusent.pdf -->
-![UU-tips for Content Makers fra abc](https://navno.sharepoint.com/sites/universellutformingavikt/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Funiversellutformingavikt%2FShared%20Documents%2FGeneral%2F16%20a11y%2Fa11y%5FTips4Teams%2Dcontentmakers%5F47667%2Epdf&parent=%2Fsites%2Funiversellutformingavikt%2FShared%20Documents%2FGeneral%2F16%20a11y)
+
+[![UU-tips for Content Makers fra abc](/hvordan-faa-det-til/tips-etter-rolle/contentmaker-abc.png)](/hvordan-faa-det-til/tips-etter-rolle/a11y_Tips4Teams-contentmakers_47667.pdf)

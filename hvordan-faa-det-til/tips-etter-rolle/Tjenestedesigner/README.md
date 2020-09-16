@@ -34,7 +34,7 @@ Du kan bruke en Touchpoint Accessibility Matrix for å kartlegge kontaktpunktene
 
 Hvis du kan kan svare JA på de to første spørsmålene (og har sjekket om dette faktisk er tilfelle for alle potensielle brukere) så er tjenesten din universelt utformet. Alle har mulighet til å velge et kontaktpunkt de kan bruke. Du har med det sikret et minimum av tilgjengelighet, fjernet barrierer og bidratt til at flere kan leve selvstendige liv.
 
-### Anbefalt tilnærming til inkluderende innsiktsarbeid
+#### Anbefalt tilnærming til inkluderende innsiktsarbeid
 
 ![Illustrasjon stress-case, se beskrivelse rett etter bildet](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/tips-etter-rolle/innsiktsrekkef%C3%B8lge.png)
 
@@ -42,7 +42,12 @@ Hvis du kan kan svare JA på de to første spørsmålene (og har sjekket om dett
 2. "Iscenesatt stress-case" - En som har en sårbarhet og står i fare for å oppleve ulemper, stress eller diskriminering eller som representerer brukere med en sårbarhet, og som du i kan hyre inn for å teste brukerreisen og situasjoner i din tjeneste. 
 3. "Ekte retrospektiv" - En som har en sårbarhet og står i fare for å oppleve ulemper, stress eller diskriminering, og som i det faktiske liv har vært din kunde eller brukt din tjeneste – og som du kan intervjue i en retrospekt-samtale etter reelle brukeropplevelser fra din tjeneste (eller i tenkte situasjoner).
 4. "Iscenesatt simulert" - Du modellerer en sårbarhet og et brukerbehov i en ekte kontekst. (Empatisk tjenestesafari eller annen modellert auto-etnografisk brukeropplevelse).
-5. "Simulert ved pult" - Du modellerer en sårbarhet ved pulten din, og reflekterer på om brukeropplevelsen blir bra basert på brukerinnsikt og empatisk innlevelse. 
+5. "Simulert ved pult" - Du modellerer en sårbarhet ved pulten din, og reflekterer på om brukeropplevelsen blir bra basert på brukerinnsikt og empatisk innlevelse.
+
+#### Service Accessibility Walkthrough
+Du kan bruke en Service Accessibility Walkthrough for å se på hele brukerreisen for enkelte brukere. Sjekk om det er brukbare kontaktpunkter i hvert steg av reisen. Hvis ikke, hva kan gjøres for å forbedre brukereopplevelsen?
+
+![Service Accessibility Walkthrough](/hvordan-faa-det-til/tips-etter-rolle/walkthrough1.png)
 
 ### 3. Hvordan er brukeropplevelsene - er det noen som gråter ved kjøkkenbordet?
 Når du undersøker det tredje spørsmålet, handler det ikke bare om at ingen skal ekskluderes - det handler også om at ingen skal diskrimineres eller få uverdige opplevelser. Universell utforming er anti-diskriminerende design. Uansett hvem du er, skal alle føle seg møtt med respekt i kontakten med NAV.

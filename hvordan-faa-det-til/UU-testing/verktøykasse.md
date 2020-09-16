@@ -43,7 +43,7 @@ Vi anbefaler verktøyene SortSite, ARC Toolkit, Axe Tools (Deque) og SiteImprove
 
 <div><alertstripe type="advarsel">Det er viktig å være klar over at automatisk testing vanligvis bare avdekker ~30% av feil, og at man helst bør kombinere disse med både brukertester og manuelle ekspertevalueringer i tillegg.</alertstripe></div>
 
-## Automatisk analyse
+### Automatisk analyse
 - [**W3Cs kodevalidator**](https://validator.w3.org/) - W3Cs verktøy for å teste om markup-en er valide (ikke direkte uu-tester, men sjekker om koden er i tråd med HTML-standarden, som er en viktig forutsetning for å møte uu-krav). Har blitt brukt i tilsyn.
 - [**Chrome DevTools**](https://developers.google.com/web/tools/chrome-devtools/) - gratis sett med webutviklerverktøy som ligger integrert i Google Chrome-nettleseren. Kan hjelpe deg med å redigere/manipulere en hvilken som helst nettside/tjeneste og raskt diagnostisere problemer. 
     - Se video: [*The new way to test accessibility with Chrome DevTools - A11ycasts #23*](https://www.youtube.com/watch?v=b0Q5Zp_yKaU)
@@ -59,19 +59,20 @@ Vi anbefaler verktøyene SortSite, ARC Toolkit, Axe Tools (Deque) og SiteImprove
 - [**Total Validator Pro**](http://www.totalvalidator.com/) - et av de bedre verktøyene til validering av kildekode og støtte for universell utforming. Pro-versjonen til kr 250,- (NAV har 30 lisenser).
 - [**Adobe Acrobat DC (PDF)**](https://helpx.adobe.com/no/acrobat/user-guide.html?topic=/no/no/acrobat/morehelp/accessibility_tags_and_reflow.ug.js) - validering av PDF-skjema opp mot W3C standarder som WCAG 2.0/2.1 (Verktøy>Tilgjengelighet>Tilgjengelighetskontroll eller Full kontroll. NAV har lisenser på dette.
 
-### Linting
+#### Linting
+- [**Forslag til oppsett for UU-linting i NAV**](https://github.com/navikt/uu-testing)
 - [**Vue ESLint**](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue.
 - [**JSX ESLint**](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements.
 - [**JSX TSLint**](https://github.com/joaovieira/tslint-react-a11y#readme) - JSX a11y lint rules for TSLint.
 - [**Angular Codelyzer**](https://github.com/mgechev/codelyzer#readme) - A set of tslint rules for static code analysis of Angular TypeScript projects.
 
-### Enhetstester
+#### Enhetstester
 - [**Jest Axe**](https://github.com/nickcolley/jest-axe) - Custom Jest matcher for aXe for testing accessibility.
 
-### Ende-til-ende
+#### Ende-til-ende
 - [**axe-core**](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing https://www.deque.com/axe/
 
-### CI/CD
+#### CI/CD
 - [**Pa11y**](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal. It runs accessibility tests on your pages via the command line or Node.js, so you can automate your testing process.
 
 Del gjerne flere tips og verktøy: uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.

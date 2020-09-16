@@ -3,7 +3,7 @@
 
 En inkluderende tjenestedesigner designer brukersentrert til et mangfold av brukere. Ved å kartlegge situerte, kontekstuelle behov kan man starte å gjøre inkluderende design. Her anbefales det å først designe brukerreisen og tjenesten for de mest komplekse scenarioene - og la mainstream brukerreisene vente. Da er det enklest å komme frem til løsninger som fungerer for alle.
 
-UU-tipset til deg som Tjenestedesigner er
+UU-tipset til deg som Tjenestedesigner er:
 ## Planlegg brukerreisen for ulike sårbarheter, funksjonsevner og situasjoner
 Still deg følgende 3 spørsmål:
 1. Forstår alle brukere tjenesten og hva de skal gjøre for å bruke den? 
@@ -25,10 +25,10 @@ Det er manger måter å sjekke av disse spørsmålene på. Vi foreslår denne me
 *  Sjekk at for alle brukere finnes det minst __1 mulig kontaktpunkt__ de kan bruke i hvert steg i brukerreisen. 
    - Involver gjerne sluttbrukere. 
    - Gå gjerne ut i felten og gjør service safari. 
-   - Bruk gjerne empatisk modellering fra NAVs empatilab - f.eks. kan du låne rullestol, krykker, eldredrakt og briller som simulerer synsnedsettelser.
+   - Bruk gjerne empatisk modellering fra [NAVs empatilab](/hvordan-faa-det-til/UU-testing/empatilab.md) - f.eks. kan du låne rullestol, krykker, eldredrakt og briller som simulerer synsnedsettelser.
    - Be gjerne om hjelp fra produktteam til å vurdere UU i digitale flater.
 
-<!-- sette inn bilde av anbefalt sjekk-rekkefølge + DET MANGLER LENKE TIL EMPATILAB. -->
+<!-- sette inn bilde av anbefalt sjekk-rekkefølge  -->
 
 Hvis du kan kan svare JA på de to første spørsmålene (og har sjekket om dette faktisk er tilfelle for alle potensielle brukere) så er tjenesten din universelt utformet. Alle har mulighet til å velge et kontaktpunkt de kan bruke. Du har med det sikret et minimum av tilgjengelighet, fjernet barrierer og bidratt til at flere kan leve selvstendige liv.
 

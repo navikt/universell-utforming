@@ -22,7 +22,7 @@ Det er manger måter å sjekke av disse spørsmålene på. Vi foreslår denne me
 #### Touchpoint Accessibility Matrix
 Du kan bruke en Touchpoint Accessibility Matrix for å kartlegge kontaktpunktene. Map brukergruppene og kontaktpunktene, og marker hvor tilgjengelig kontaktpunktene er for de enkelte brukergruppene:
 
-![Touchpoint Accessibility Matrix](/hvordan-faa-det-til/tips-etter-rolle/touchpointaccessibiiltymatrix1.png)
+![Touchpoint Accessibility Matrix](/hvordan-faa-det-til/tips-etter-rolle/touchpointaccessibilitymatrix1.pngg)
 
 
 ### 2. Klarer alle brukere å komme seg gjennom hele brukerreisen? 

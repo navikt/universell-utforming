@@ -18,10 +18,12 @@ Det er manger måter å sjekke av disse spørsmålene på. Vi foreslår denne me
   - Nedsatt syn, Blind, Førerhund, Rullestol, Krykker, Gåstol, Barnevogn, Lesevansker, Døv og Hørselshemmet.
   - Redusert finmotorikk, kognisjon, oppmerksomhet, språkforståelse.
   - Ikke norskspråklig, kun D-nummer (ikke personnummer), avhengig av bil, på kode 6 og 7, formell/uformell hjelper til noen som ikke selv kan bruke tjenesten.
-  
-Et eksempel på hvordan en slik touchpoint accessibility matrix kan se ut. I matrisen mapper du hvilke touchpoints som er tilgjengelig for hvilke brukergrupper:
 
-![Touchpoint Accessibility Matrix](/hvordan-faa-det-til/tips-etter-rolle/touchpointaccessibiiltymatrix.png)
+#### Touchpoint Accessibility Matrix
+Du kan bruke en Touchpoint Accessibility Matrix for å kartlegge kontaktpunktene. Map brukergruppene og kontaktpunktene, og marker hvor tilgjengelig kontaktpunktene er for de enkelte brukergruppene:
+
+![Touchpoint Accessibility Matrix](/hvordan-faa-det-til/tips-etter-rolle/touchpointaccessibiiltymatrix1.png)
+
 
 ### 2. Klarer alle brukere å komme seg gjennom hele brukerreisen? 
 *  Sjekk at for alle brukere finnes det minst __1 mulig kontaktpunkt__ de kan bruke i hvert steg i brukerreisen. 
@@ -32,7 +34,7 @@ Et eksempel på hvordan en slik touchpoint accessibility matrix kan se ut. I mat
 
 Hvis du kan kan svare JA på de to første spørsmålene (og har sjekket om dette faktisk er tilfelle for alle potensielle brukere) så er tjenesten din universelt utformet. Alle har mulighet til å velge et kontaktpunkt de kan bruke. Du har med det sikret et minimum av tilgjengelighet, fjernet barrierer og bidratt til at flere kan leve selvstendige liv.
 
-### Anbefalt rekkefølge for å teste for stress-cases
+### Anbefalt tilnærming til inkluderende innsiktsarbeid
 
 ![Illustrasjon stress-case, se beskrivelse rett etter bildet](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/tips-etter-rolle/innsiktsrekkef%C3%B8lge.png)
 

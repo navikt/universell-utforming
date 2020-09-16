@@ -19,5 +19,4 @@ Ble du inspirert? Sett deg gjerne inn i ["gap-modellen"](https://snl.no/gap-mode
 
 Del gjerne egne erfaringer eller motta råd og veiledning på uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.
 
-<!-- Tror bildet må lastet opp til Github'en vår & renames Researcher.pdf, sånn at vi kan lenke til: https://navikt.github.io/images/Researcher.pdf -->
-![UU--tips for Researcher-rollen fra abc](https://navno.sharepoint.com/sites/universellutformingavikt/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Funiversellutformingavikt%2FShared%20Documents%2FGeneral%2F16%20a11y%2Fa11y%5FTips4Teams%2Dresearcher%5F%5F83472%2Epdf&parent=%2Fsites%2Funiversellutformingavikt%2FShared%20Documents%2FGeneral%2F16%20a11y)
+[![UU--tips for Researcher-rollen fra abc](/hvordan-faa-det-til/tips-etter-rolle/researcher-abc.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/a11y_Tips4Teams-researcher__83472.pdf)

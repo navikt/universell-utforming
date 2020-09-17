@@ -24,11 +24,10 @@ De er suksessfaktorene for å oppnå god universell utforming (UU):
 
 <!-- Her kommer UU-skolen underlenker: -->
 
-## UU-Skolen - for deg som vil lage inkluderende løsninger
+## Hva må vi gjøre for å være i tråd med minimumskrav?
 
 <!-- helst ønsker jeg dette:
 <ekspanderbartpanel tittel="Hva må vi gjøre for å være i tråd med minimumskrav?"> innholdet under (minus tittelen) </ekspanderbartpanel> -->
-### Hva må vi gjøre for å være i tråd med minimumskrav?
 Her er minimums to-do for å nå kravene fra lovverket:
 - Løsningen testes fortløpende opp mot WCAG-krav. Fra 2021 er dette [WCAG 2.1](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21). Dette krever en kombinasjon av [automatisert test](/hvordan-faa-det-til/UU-testing/automatisert-testing/) og [manuell test](/hvordan-faa-det-til/UU-testing/manuell-testing/). 
 - WCAG-Feil på nivå A og AA blir fortløpende rettet.
@@ -38,10 +37,10 @@ Her er minimums to-do for å nå kravene fra lovverket:
 - [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet. Avjørelser om avvik fra lovpålagte WCAG-krav skal inn her. Dere skal også beskrive hvordan dere har testet - automatiske sjekker, manuell ekspertsjekk, eksperttesting med hjelpeteknologi og/eller type brukertesting.
 - [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert.
 
-### Hvordan kan du oppnå inkluderende løsninger, og ikke bare møte minimumskrav?
+## Tips etter rolle i team
 For å lage virkelig inkluderende løsninger, kreves det mer enn bare WCAG-testing. Det er viktig å se hvor forskjellig brukerbehovene er hele veien, og ha med UU-tankegangen i innsiktsarbeid, involvere brukerne hele veien og teste aktivt med burkere, også de som bruker hjelpemidler. Her tilbyr UU-teamet [test min løsing](/hvordan-faa-det-til/UU-testing/brukertesting/test-min-løsning.md), der teamet rekrutterer innbyggere som bruker delvis avansert hjelpemiddelteknologi og teamene kan booke tider for å teste sin løsning. Test gjerne også selv med forskjellige hjelpemidler før du tester med brukerne.
 
-#### Tips etter rolle i team
+### Hvordan kan du oppnå inkluderende løsninger, og ikke bare møte minimumskrav?
 Her er en mer utdypende oversikt over hvilken kompetanse teammedlemmene bør ha for å sikre UU, og hvordan de best kan gjøre det i praksis.
 
 * [Team-lead/PO-eier](/hvordan-faa-det-til/tips-etter-rolle//Leder/) 

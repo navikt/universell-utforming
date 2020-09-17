@@ -46,7 +46,7 @@ Her er en mer utdypende oversikt over hvilken kompetanse teammedlemmene bør ha 
 * [Team-lead/PO-eier](/hvordan-faa-det-til/tips-etter-rolle//Leder/) 
 * [Utvikler](/hvordan-faa-det-til/tips-etter-rolle//Utvikler/)
 * [Produktdesigner](/hvordan-faa-det-til/tips-etter-rolle//Produktdesigner/)
-* [User Researcher](/hvordan-faa-det-til/tips-etter-rolle//UserResearcher/)
+* [Design Researcher](/hvordan-faa-det-til/tips-etter-rolle//UserResearcher/)
 * [Innholdsprodusent](/hvordan-faa-det-til/tips-etter-rolle//Innholdsprodusent/)
 * [Tjenestedesigner](/hvordan-faa-det-til/tips-etter-rolle//Tjenestedesigner/)
 

@@ -1,4 +1,4 @@
-# Video og animasjon
+# Video
 
 ## Hvorfor det er viktig
 Mange brukere synes det er lettere å ta til seg informasjon fra video i stedet for å lese en lang tekst. Dersom videoen er tekstet er det mulig å oppfatte innholdet for brukere som ikke kan høre eller som ikke har tilgang til lyden (kilde [uu.difi.no](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/video)).
@@ -13,7 +13,7 @@ Mange brukere synes det er lettere å ta til seg informasjon fra video i stedet 
   - All funksjonalitet i videospilleren skal fungere med bare tastatur.
   - Det skal være tydelig fokusmarkering ved tastaturnavigasjon.
   - Knapper og funksjonalitet skal ha en beskrivelse som gjengir status og funksjon. For eksempel skal Play/Pause-knappen angi om den kommer til å starte eller pause avspillingen når brukeren velger den.
-7. Er videoen integrert i siden på en tilgjengelig måte? (<video> eller <iframe> med beskrivende title)
+7. Er videoen integrert i siden på en tilgjengelig måte? (med video-tag eller iframe med beskrivende title)
 8. Finnes det informasjon som bare kan oppfattes når man ser videoen? I så fall må videoen synstolkes, se veileder under "ressurser". (kommende lovkrav)
 9. Er det lett å forstå hva som blir sagt? (sjekk for bakgrunnsstøy eller vanskelige dialekter)
   

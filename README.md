@@ -9,8 +9,8 @@ Disse sidene er hovedsakelig tenkt for utviklingsteam i NAV. Målet er å gi der
 * [Hva gjelder](/hva-gjelder/) - lovverk i dag og fremover
 * [Hvordan få det til?](/hvordan-faa-det-til/)
    - [Risikovurdering og suksessfaktorer](https://github.com/navikt/universell-utforming/tree/master/hvordan-faa-det-til#risikovurdering-og-suksessfaktorer)
-   - [UU-testing](/hvordan-faa-det-til/UU-testing/), inkludert automatisert testing og manuell testing etter tema som bilder eller tastaturnavigasjon
    - [Minimums to-do liste](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/README.md#hva-m%C3%A5-vi-gj%C3%B8re-for-%C3%A5-v%C3%A6re-i-tr%C3%A5d-med-minimumskrav)
+   - [UU-testing](/hvordan-faa-det-til/UU-testing/), inkludert automatisert testing og manuell testing etter tema som bilder eller tastaturnavigasjon
    - [Tips etter rolle](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/README.md#tips-etter-rolle-i-team)
 * [Hva er egentlig universell utforming?](/hva-er-uu/)
 

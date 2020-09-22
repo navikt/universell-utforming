@@ -7,7 +7,7 @@ Mange brukere synes det er lettere å ta til seg informasjon fra video i stedet 
 1. Hvis videoen har lyd: Er videoen tekstet og samsvarer teksten med lyden?
 2. Hvis det ikke er mulig å tekste videoen, finnes det en tekstbeskrivelse som beskriver innholdet?
 3. Hvis videoen IKKE har lyd: Finnes det en tekstbeskrivelse eller et lydklipp som gir samme informasjon som videoen?
-4: Hvis det finnes tekst i videoen, har den tilstrekkelig kontrast mot bakgrunnen?
+4. Hvis det finnes tekst i videoen, har den tilstrekkelig kontrast mot bakgrunnen?
 5. Det skal ikke være innhold som blinker mer enn tre ganger i løpet av et sekund (det kan utløse epileptiske anfall).
 6. Betjening av avspilleren:
   - All funksjonalitet i videospilleren skal fungere med bare tastatur.

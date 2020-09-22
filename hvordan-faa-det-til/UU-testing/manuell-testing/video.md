@@ -17,7 +17,7 @@ Mange brukere synes det er lettere å ta til seg informasjon fra video i stedet 
 8. Finnes det informasjon som bare kan oppfattes når man ser videoen? I så fall må videoen synstolkes, se veileder under "ressurser". (kommende lovkrav)
 9. Er det lett å forstå hva som blir sagt? (sjekk for bakgrunnsstøy eller vanskelige dialekter)
   
-Vær obs på at dette er WCAG-testing, og at NAV har flere føringer for hvordan lage videoer:
+### Vær obs på at dette er WCAG-testing, og at NAV har flere føringer for hvordan lage videoer:
 - [Retningslinjer for teksting av video i NAV](https://navno.sharepoint.com/sites/intranett-kommunikasjon/SitePages/Retningslinjer-for-teksting-av-video.aspx?web=1)
 - [Om video på identitet.nav.no](https://identitet.nav.no/d/n49NiiediAKF/identitet#/identitet/video)
 

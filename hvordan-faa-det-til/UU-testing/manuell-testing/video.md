@@ -18,8 +18,8 @@ Mange brukere synes det er lettere å ta til seg informasjon fra video i stedet 
 9. Er det lett å forstå hva som blir sagt? (sjekk for bakgrunnsstøy eller vanskelige dialekter)
   
 ### Vær obs på at dette er WCAG-testing, og at NAV har flere føringer for hvordan lage videoer:
-- [Retningslinjer for teksting av video i NAV](https://navno.sharepoint.com/sites/intranett-kommunikasjon/SitePages/Retningslinjer-for-teksting-av-video.aspx?web=1)
 - [Om video på identitet.nav.no](https://identitet.nav.no/d/n49NiiediAKF/identitet#/identitet/video)
+- [Retningslinjer for teksting av video i NAV, NAV-intern lenke](https://navno.sharepoint.com/sites/intranett-kommunikasjon/SitePages/Retningslinjer-for-teksting-av-video.aspx?web=1)
 
 ## Andre ressurser
 - Universell har laget en omfattende [veileder for universelt utformet video](https://www.universell.no/fagomraader/universell-utforming/veileder-for-universelt-utformet-video/)

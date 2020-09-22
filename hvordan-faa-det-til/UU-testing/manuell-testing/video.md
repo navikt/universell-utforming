@@ -1,7 +1,5 @@
 # Video og animasjon
 
-/Under arbeid/
-
 ## Hvorfor det er viktig
 Mange brukere synes det er lettere å ta til seg informasjon fra video i stedet for å lese en lang tekst. Dersom videoen er tekstet er det mulig å oppfatte innholdet for brukere som ikke kan høre eller som ikke har tilgang til lyden (kilde [uu.difi.no](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/video)).
 

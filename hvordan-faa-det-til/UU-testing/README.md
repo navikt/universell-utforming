@@ -5,7 +5,7 @@
 For å sikre universell utforming og god brukskvalitet, trenger du en kombinasjon av forskjellige testmetoder:
 
 - [Anbefalte verktøy for automatisert WCAG-sjekk](/hvordan-faa-det-til/UU-testing/automatisert-testing/). Disse kan finne mange relevante WCAG-brudd, men dekker bare circa 20-30 prosent av eventuelle feil.
-- [Veileder for manuell WCAG-sjekk](hvordan-faa-det-til/UU-testing/manuell-testing/README.md). Hjelper å avdekke resten av WCAG-feilene.
+- [Veileder for manuell WCAG-sjekk](/hvordan-faa-det-til/UU-testing/manuell-testing/). Hjelper å avdekke resten av WCAG-feilene.
 - [Brukertesting med personer med hjelpemidler](/hvordan-faa-det-til/UU-testing/brukertesting/). Er viktig for å avdekke at løsningen virkelig fungerer.
 
 -------------

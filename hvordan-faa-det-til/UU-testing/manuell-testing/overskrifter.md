@@ -19,7 +19,7 @@ Utover disse automatiserte testene er det en del du alltid må teste manuelt:
 4. Beskriver overskriftene innholdet på siden? Sjekk både overskrifter og ledetekster i skjema og tabeller.  
 
 ## Verktøy du kan bruke
-For å se Overskriftshirarki og -rekkefølge kan du bruke forskjellige verktøy, som for eksempel [Web Developer Toolbar for Chrome (lenke til download)](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=no):
+For å se Overskriftshirarki og -rekkefølge kan du bruke forskjellige verktøy, som for eksempel [Web Developer Toolbar for Chrome (lenke til download)](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=no). Bruk "information" --> "view document outline".
 
 ![WebDeveloperToolbar](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/webdevelopertoolbar.png)
 

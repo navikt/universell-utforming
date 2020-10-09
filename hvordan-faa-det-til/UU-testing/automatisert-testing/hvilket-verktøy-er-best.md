@@ -236,7 +236,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
     <td>❌</td>
     <td>?</td>
     <td></td>
-    <td><a href"https://www.w3.org/TR/2008/REC-WCAG20-20081211/#text-equiv-all">1.1.1</a></td>
+    <td><a href"https://www.w3.org/TR/2008/REC-WCAG20-20081211/#text-equiv-all">1.1.1 </a></td>
   </tr>
 </table>
 
@@ -259,12 +259,12 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
   </tr>
   <tr>
     <th scope="row">Finnes det tomme overskriftstagger på siden( <h*></h*>)?</th>
-    <td>v</td>
     <td>✅</td>
-    <td>v</td>
+    <td>✅</td>
+    <td>✅</td>
     <td>?</td>
     <td></td>
-    <td><a href"https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6</a></td>
+    <td><a href"https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6 </a></td>
   </tr>
   <tr>
     <th scope="row">Har overskriftsnivåene korrekt rekkefølge?</th>
@@ -277,16 +277,16 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
   </tr>
   <tr>
     <th scope="row">Overskrifter skal ikke inne holde andre overskrifter.</th>
-    <td>x</td>
-    <td>x</td>
-    <td>v</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
     <td>?</td>
     <td></td>
     <td></td>
   </tr>
    <tr>
     <th scope="row"><lang="en">Use HTML headings instead of applying CSS heading styles to non-headings.</lang></th>
-    <td>v</td>
+    <td>✅</td>
     <td>❌</td>
     <td>❌</td>
     <td>?</td>

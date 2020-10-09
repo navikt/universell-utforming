@@ -464,3 +464,34 @@ Komplekse tabeller må undersøkes manuelt.
 - Om det er mulig å markere teksten (og om kontrasten mellom tekst og bakgrunn er god)
 - Om språket som er definert i koden med lang attribute er korrekt. 3.1.1
 - Om det finnes tekst på siden som er på et annet språk enn hovedspråket og om denne teksten har korrekt lang-tag (lang="..")
+
+## Navigasjon
+
+### Det verktøyene tester på navigasjon
+<table>
+  <caption>Automatisert test av innhold</caption>
+  <tr>
+    <th scope="col">Test</th>
+    <th scope="col">SortSite</th>
+    <th scope="col">ARCToolkit</th>
+    <th scope="col">W3Cs kodesjekker</th>
+    <th scope="col">Siteimprove (ikke testet enda)</th>
+    <th scope="col">TECH</th>
+    <th scope="col">WCAG</th>
+  </tr>
+  <tr>
+    <th scope="row">Siden har en ulogisk tabulator rekkefølge.</th>
+    <td>✅</td>
+    <td>✅</td>
+    <td>?</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F44.html">F44</a></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-order.html">2.4.3</a></td>
+  </tr>
+</table>
+
+### Det verktøyene ikke tester på navigasjon
+- Om løsningen har to av følgende måter å naviger: meny, søkefunksjon, a-å lenker over alt innhold, lenker mellom alle sider på nettstedet SK2.4.5 Teknikker: G125, G161, G63
+- Om meny, søk og nettstedskartet fungerer som det skal
+- Om det finnes en snarveislenke som lar brukeren navigere raskt til hovedinnholdet. Funksjonen skal være blant de 3 første tab-stegene) 2.4.1 - G1 og G123
+- Om snarveislenken fungerer

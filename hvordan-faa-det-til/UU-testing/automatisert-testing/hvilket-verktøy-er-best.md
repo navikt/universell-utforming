@@ -104,3 +104,42 @@ Her skal vi legge ut en sammenlikning mellom hva som testes med SortSite, ARC to
 </table>
 
 ### Det verktøyene ikke tester på bilder
+
+Se gjerne <a href="/hvordan-faa-det-til/UU-testing/manuell-testing/bilder.md">vår veileder for manuell test på bilder</a>.
+
+#### Om bildene inneholder kompleks informasjon
+
+For eksempel:
+
+- graf
+- tabeller
+- plakat med tekst
+
+Denne typen bilder skal ha et mer utfyllende alternativtekst.
+
+Teksten skal enten ligge på samme side eller man kan legge inn en lenke som tar deg til en side hvor man kan nå tekstbeskrivelsen.
+
+####  Om bilder med lenker:
+
+- får tydelig fokusmarkering ved tastaturnavigasjon eller ved å føre muspekeren over bildet.
+- har en alt-tekst som beskriver siden du kommer til.
+- åpnes i en ny fane, vindu, program e.
+- Får du info om dette før du klikker på lenken?
+
+#### Om bildene er dekorasjon eller meningsbærende
+
+Vi får kun et hint om at et bilde kan være dekorasjon dersom vi tilfeldigvis har brukt følgende engelske ord i alt-tekste: picture, spacer, graphic, icon, thumnail eller spacer.
+
+#### Om bildet inneholder tekst
+
+Oppdager ikke bilde av tekst, og om alternativteksten gjengir innholdet i bildet på en god måte.
+
+#### Om alt-teksten er villedende
+
+Krever manuell vurdering
+
+#### Om Aria-labelledby fungerer for alle brukerne våre. 
+
+I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skjermlesere.
+
+#### Om Aria-describedby er blir brukt som et alternativ til alt-tag

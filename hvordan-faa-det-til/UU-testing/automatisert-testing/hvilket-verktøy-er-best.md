@@ -36,7 +36,7 @@ Her skal vi legge ut en sammenlikning mellom hva som testes med SortSite, ARC to
     <td>✅</td>
     <td>?</td>
     <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
-    <td><a href"https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+    <td><a href"https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1</a></td>
   </tr>
   <tr>
     <th scope="row">IMG-elementer uten ALT-Attribute skal ikke ha Title eller ARIA-Label-Attributes</th>

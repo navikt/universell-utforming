@@ -340,80 +340,68 @@ Hverken SortSite, ARCToolkit eller W3Cs kodesjekker tester lenker automatisk. Si
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a></td>
   </tr>
   <tr>
-    <th scope="row">Layout-tabeller skal ikke ha SUMMARY eller CAPTION
-En tabell som mangler <th> kan se ut som en layout-tabell.
+    <th scope="row">Layout-tabeller skal ikke ha SUMMARY eller CAPTION. En tabell som mangler th kan se ut som en layout-tabell.
 </th>
     <td>✅</td>
     <td>✅ Tabeller ska ikke kodes med både Role="presentation" og (<th>,<caption> eller <summary>)
 (Krever manuel verifisering)</td>
     <td>x</td>
     <td>?</td>
-    <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
-    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F46.html">F46</a></td>
+    <td></td>
   </tr>
   <tr>
-    <th scope="row">IMG-elementer uten ALT-Attribute skal ikke ha Title eller ARIA-Label-Attributes</th>
+    <th scope="row">Tabeller som mangler overskrifer (th) er mest sannsynligvis kodet feil. Vi bruker av prinsipp ikke layout-tabeller (role="presentation). (Krever manuel verifisering)</th>
     <td>✅</td>
     <td>✅</td>
     <td>❌</td>
     <td>?</td>
-    <td><a href="https://www.w3.org/WAI/GL/2010/WD-WCAG20-TECHS-20100708/F39">F39</a></td>
-    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F91.html">F91</a></td>
+    <td></td>
   </tr>
    <tr>
-    <th scope="row">IMG-elementer må ha en ALT-Attribute</th>
+    <th scope="row">role='presentation' har blir brukt i en tabell med th. Vi skal som prinsipp aldri bruke role='presentation'. (Krever manuel verifisering)</th>
     <td>✅</td>
     <td>✅</td>
-    <td>✅</td>
+    <td>xz</td>
     <td>?</td>
-    <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
-    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F92.html">F92</a></td>
+    <td></td>
   </tr>
      <tr>
-    <th scope="row">Input TYPE = IMAGE må ha et beskrivende ALT-Attribute</th>
+    <th scope="row">HEADERS attributet referer til en table header ID som ikke eksiterer.</th>
     <td>✅</td>
-    <td>✅</td>
-    <td>✅</td>
+    <td>x</td>
+    <td>x</td>
     <td>?</td>
-    <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
-    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F90.html">F90</a></td>
+    <td></td>
   </tr>
   <tr>
-    <th scope="row">ALT-tekst skal ikke bruke ASCII ART (inkluderer Smileys)</th>
-    <td>✅</td>
+    <th scope="row">Using spaces to create columns results in screen readers reading columns in the wrong order</th>
+    <td>✅ Det ser ut som SortSite reagerer på pre og ascii</td>
     <td>❌</td>
     <td>❌</td>
     <td>?</td>
-    <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
-    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F33.html">F33</a>, <a href="https://www.w3.org/TR/WCAG20-TECHS/F34.html">F34</a>, <a href="https://www.w3.org/TR/WCAG20-TECHS/F48.html">F48</a></td>
+    <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#content-structure-separation-programmatic">1.3.1</a></td>
   </tr>
   <tr>
-    <th scope="row">BUTTON-elementer som bare inneholder en IMG skal ha et ALT-attribute for bildet</th>
-    <td>✅</td>
-    <td>❌</td>
-    <td>✅</td>
+    <th scope="row"><td> skal ikke ha scope="row" eller scope="column"</th>
+    <td>x</td>
+    <td>v</td>
+    <td>x</td>
     <td>?</td>
     <td></td>
-    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
-  </tr>
-  <tr>
-    <th scope="row">Alt-teksten er lik lenketeksten. Dette fører til at skjermlesen leser opp samme teksten to ganger. Dette ønsker vi å unngå. Bruk Alt="" evt. annen teknikk.</th>
-    <td>✅</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>?</td>
-    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/H2.html">H2</a></td>
-    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a>, <a href="https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html">2.4.4</a>, <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-link.html">2.4.9</a></td>
-  </tr>
-  <tr>
-    <th scope="row">Dekorasjonsbilder (og Spacer images) skal ikke alt-tekst. Dokumentasjonen sier at SortSite tester dette....</th>
-    <td>ℹ️</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>?</td>
-    <td><a href="https://www.w3.org/WAI/GL/2010/WD-WCAG20-TECHS-20100708/F39">F39</a></td>
-    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+    <td></td>
   </tr>
 </table>
 
 ### Det verktøyene ikke tester på tabeller
+- Om en tabell er lagt i et bilde
+- Om tabellen er en layout-tabell eller om den presenterer data.
+- Om rad / kolonneoverskriftene er beskrivende
+- Om overskriftene i tabellen er kodet korrekt. (Er det som ser ut som en overskrift kodet som en overskrift?)
+
+Komplekse tabeller må undersøkes manuelt.
+

@@ -164,7 +164,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
     <td><a href"https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-title.html">2.4.2</a></td>
   </tr>
   <tr>
-    <th scope="row">Line break (<br>) skal ikke benyttes for å formatere avsnitt (<p>)</th>
+    <th scope="row">Line break (&lt;br&gt;) skal ikke benyttes for å formatere avsnitt (&lt;p&gt;)</th>
     <td>❌</td>
     <td>✅</td>
     <td>❌</td>
@@ -230,7 +230,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
     <td></td>
   </tr>
   <tr>
-    <th scope="row">Alt-teksten skal ikke inneholder farger. Antagelse: SortSite sjekker kun engelske ord (f.eks <lang="en">red, blue..</a>)</th>
+    <th scope="row">Alt-teksten skal ikke inneholder farger. Antagelse: SortSite sjekker kun engelske ord (f.eks <lang="en">red, blue..</lang>)</th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -258,7 +258,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
     <th scope="col">WCAG</th>
   </tr>
   <tr>
-    <th scope="row">Finnes det tomme overskriftstagger på siden( <h*></h*>)?</th>
+    <th scope="row">Finnes det tomme overskriftstagger på siden( &lt;h*&gt;&lt;/h*&gt;)?</th>
     <td>✅</td>
     <td>✅</td>
     <td>✅</td>
@@ -298,7 +298,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
 ### Det verktøyene ikke tester på overskrifter
 - Om innholdet på siden organisert ved hjelp av overskrifter, og hvis hensiktsmessig underoverskrifter?
 - Om overskriften inngår i et visuelt overskriftshierarki og om den da er kodet med samme nivå som den visuelle overskriften
-- Om all tekst som ser ut som overskrifter, kodet med overskriftstag (<h*>) 1.3.1
+- Om all tekst som ser ut som overskrifter, kodet med overskriftstag (&lt;h*&gt;) 1.3.1
 - Beskriver overskriftene innholdet? 2.4.6
 
 (NB! Skjema og tabeller har også overskrifter/ledetekster. Disse må også evalueres)
@@ -343,15 +343,14 @@ Hverken SortSite, ARCToolkit eller W3Cs kodesjekker tester lenker automatisk. Si
     <th scope="row">Layout-tabeller skal ikke ha SUMMARY eller CAPTION. En tabell som mangler th kan se ut som en layout-tabell.
 </th>
     <td>✅</td>
-    <td>✅ Tabeller ska ikke kodes med både Role="presentation" og (<th>,<caption> eller <summary>)
-(Krever manuel verifisering)</td>
+    <td>✅ Tabeller ska ikke kodes med både Role="presentation" og (&lt;th&gt;,&lt;caption&gt; eller &lt;summary&gt;). (Krever manuel verifisering)</td>
     <td>x</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F46.html">F46</a></td>
     <td></td>
   </tr>
   <tr>
-    <th scope="row">Tabeller som mangler overskrifer (th) er mest sannsynligvis kodet feil. Vi bruker av prinsipp ikke layout-tabeller (role="presentation). (Krever manuel verifisering)</th>
+    <th scope="row">Tabeller som mangler overskrifer (&lt;th&gt;) er mest sannsynligvis kodet feil. Vi bruker av prinsipp ikke layout-tabeller (role="presentation). (Krever manuel verifisering)</th>
     <td>✅</td>
     <td>✅</td>
     <td>❌</td>

@@ -2,7 +2,7 @@
 
 Her skal vi legge ut en sammenlikning mellom hva som testes med SortSite, ARC toolkit og W3Cs kodesjekker.
 
-<alertstripe type="advarsel">Denne siden er ikke ferdig enda. Inntil videre finner du oversikten på <a href="https://confluence.adeo.no/display/MEBO/Automatisert+testing">NAV-intern Confluence-side</a>.</alertstripe>
+<alertstripe type="advarsel">Denne siden er ikke ferdig enda. Inntil videre finner du den fullstendige oversikten på <a href="https://confluence.adeo.no/display/MEBO/Automatisert+testing">NAV-intern Confluence-side</a>.</alertstripe>
 
 
 
@@ -143,3 +143,10 @@ Krever manuell vurdering
 I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skjermlesere.
 
 #### Om Aria-describedby er blir brukt som et alternativ til alt-tag
+
+## Struktur
+
+### Det verktøyene tester på struktur
+
+
+### Det verktøyene ikke tester på struktur

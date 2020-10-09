@@ -344,7 +344,7 @@ Hverken SortSite, ARCToolkit eller W3Cs kodesjekker tester lenker automatisk. Si
 </th>
     <td>✅</td>
     <td>✅ Tabeller ska ikke kodes med både Role="presentation" og (&lt;th&gt;,&lt;caption&gt; eller &lt;summary&gt;). (Krever manuel verifisering)</td>
-    <td>x</td>
+    <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F46.html">F46</a></td>
     <td></td>
@@ -362,7 +362,7 @@ Hverken SortSite, ARCToolkit eller W3Cs kodesjekker tester lenker automatisk. Si
     <th scope="row">role='presentation' har blir brukt i en tabell med th. Vi skal som prinsipp aldri bruke role='presentation'. (Krever manuel verifisering)</th>
     <td>✅</td>
     <td>✅</td>
-    <td>xz</td>
+    <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F92.html">F92</a></td>
     <td></td>
@@ -370,8 +370,8 @@ Hverken SortSite, ARCToolkit eller W3Cs kodesjekker tester lenker automatisk. Si
      <tr>
     <th scope="row">HEADERS attributet referer til en table header ID som ikke eksiterer.</th>
     <td>✅</td>
-    <td>x</td>
-    <td>x</td>
+    <td>❌</td>
+    <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F90.html">F90</a></td>
     <td></td>
@@ -388,8 +388,8 @@ Hverken SortSite, ARCToolkit eller W3Cs kodesjekker tester lenker automatisk. Si
   <tr>
     <th scope="row"><td> skal ikke ha scope="row" eller scope="column"</th>
     <td>x</td>
-    <td>v</td>
-    <td>x</td>
+    <td>✅</td>
+    <td>❌</td>
     <td>?</td>
     <td></td>
     <td></td>
@@ -429,16 +429,7 @@ Komplekse tabeller må undersøkes manuelt.
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-doc-lang-id.html">3.1.1</a></td>
   </tr>
   <tr>
-    <th scope="row">Har overskriftsnivåene korrekt rekkefølge?</th>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>?</td>
-    <td></td>
-    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1 (AAA)</a></td>
-  </tr>
-  <tr>
-    <th scope="row">Overskrifter skal ikke inne holde andre overskrifter.</th>
+    <th scope="row">Er teksten på siden skrevet på et annet språk enn det som står i lang attributet? (må verifiseres).</th>
     <td>❌</td>
     <td>❌</td>
     <td>✅</td>
@@ -447,12 +438,29 @@ Komplekse tabeller må undersøkes manuelt.
     <td></td>
   </tr>
    <tr>
-    <th scope="row"><lang="en">Use HTML headings instead of applying CSS heading styles to non-headings.</lang></th>
+    <th scope="row">Sidens title skal ikke være tom.</th>
+    <td>❌</td>
+    <td>❌</td>
     <td>✅</td>
+    <td>?</td>
+    <td></td>
+     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-title">2.4.2</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Innhold som er i et annet språk bør være i en SPAN eller DIV med et LANG attribute.</th>
+    <td>❌</td>
     <td>❌</td>
     <td>❌</td>
     <td>?</td>
-    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F2.html">F2</a></td>
+    <td></td>
     <td></td>
   </tr>
 </table>
+
+### Det verktøyene ikke tester på innhold
+- Om LANG Attributet inneholder en ugyldige språkkoder
+- Om teksten er lett å forstå
+- Om tekst er kodet som tekst
+- Om det er mulig å markere teksten (og om kontrasten mellom tekst og bakgrunn er god)
+- Om språket som er definert i koden med lang attribute er korrekt. 3.1.1
+- Om det finnes tekst på siden som er på et annet språk enn hovedspråket og om denne teksten har korrekt lang-tag (lang="..")

@@ -27,7 +27,7 @@ Her skal vi legge ut en sammenlikning mellom hva som testes med SortSite, ARC to
     <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F30.html">F30</a></td>
-    <td><a href"https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
   </tr>
   <tr>
     <th scope="row">AREA-elementer må ha et ALT-Attribute</th>
@@ -264,7 +264,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
     <td>✅</td>
     <td>?</td>
     <td></td>
-    <td><a href"https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6 </a></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6 </a></td>
   </tr>
   <tr>
     <th scope="row">Har overskriftsnivåene korrekt rekkefølge?</th>
@@ -296,3 +296,10 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
 </table>
 
 ### Det verktøyene ikke tester på overskrifter
+- Om innholdet på siden organisert ved hjelp av overskrifter, og hvis hensiktsmessig underoverskrifter?
+- Om overskriften inngår i et visuelt overskriftshierarki og om den da er kodet med samme nivå som den visuelle overskriften
+- Om all tekst som ser ut som overskrifter, kodet med overskriftstag (<h*>) 1.3.1
+- Beskriver overskriftene innholdet? 2.4.6
+
+(NB! Skjema og tabeller har også overskrifter/ledetekster. Disse må også evalueres)
+

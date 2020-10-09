@@ -149,7 +149,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
 ### Det verktøyene tester på struktur
 
 <table>
-  <caption>Automatisert test av bilder</caption>
+  <caption>Automatisert test av struktur</caption>
   <tr>
     <th scope="col">Test</th>
     <th scope="col">SortSite</th>
@@ -162,8 +162,8 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
   <tr>
     <th scope="row">Sidetittel. Nettsiden har en <title> som beskriver den aktuelle sidens emne eller formål.</th>
     <td>✅</td>
-    <td>x</td>
-    <td>v</td>
+    <td>❌</td>
+    <td>✅</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/H25.html">H25</a></td>
     <td><a href"https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-title">2.4.2</a></td>
@@ -172,7 +172,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
     <th scope="row">Line break (<br>) skal ikke benyttes for å formatere avsnitt (<p>)</th>
     <td>x</td>
     <td>✅</td>
-    <td>x</td>
+    <td>❌</td>
     <td>?</td>
     <td></td>
     <td></td>
@@ -181,7 +181,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
     <th scope="row">Språk. Siden mangler lang attribute . (lang=....)</th>
     <td>✅</td>
     <td>✅</td>
-    <td>v</td>
+    <td>✅</td>
     <td>?</td>
     <td></td>
     <td><a href"https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-doc-lang-id.html">3.1.1</a></td>
@@ -190,7 +190,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
     <th scope="row">Kodefeil (markup errors) (MLT, Heading should not bee empty linje 10, p001)</th>
     <td>✅</td>
     <td>✅</td>
-    <td>x</td>
+    <td>❌</td>
     <td>?</td>
     <td></td>
     <td><a href"https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html">4.1.1</a></td>
@@ -198,3 +198,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
 </table>
 
 ### Det verktøyene ikke tester på struktur
+
+#### Sidetittelens relevans og kvalitet
+Gir sidetittelen relevant beskrivning av emne eller formål med siden (sk 2.4.2, tech G88 og F25)?
+Inneholder sidetittelen tekst som "Untitled" eller filnavnet (WAVE)?

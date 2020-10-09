@@ -303,3 +303,117 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
 
 (NB! Skjema og tabeller har også overskrifter/ledetekster. Disse må også evalueres)
 
+## Lenker
+
+### Det verktøyene tester på lenker
+Hverken SortSite, ARCToolkit eller W3Cs kodesjekker tester lenker automatisk. Siteimprove har noen muligheter, vi oppdaterer når vi har testet Siteimprove nærmere.
+
+### Det verktøyene ikke tester på lenker
+- Om lenker er fremhevet med noe mer enn bare farge 1.4.1
+- Om brukeren forstår hva som skjer når du trykker på lenken
+- Om lenker er plassert i som f.eks et ord i en setning eller et avsnitt.
+- Om det kommer tydelig fram ut fra teksten, lenketeksten og lenkonteksten sammen, hva som er lenkens mål og funksjon (2.4.4.)
+- Om det interne lenker er brutt
+
+## Tabeller
+
+### Det verktøyene tester på tabeller
+
+<table>
+  <caption>Automatisert test av tabeller</caption>
+  <tr>
+    <th scope="col">Test</th>
+    <th scope="col">SortSite</th>
+    <th scope="col">ARCToolkit</th>
+    <th scope="col">W3Cs kodesjekker</th>
+    <th scope="col">Siteimprove (ikke testet enda)</th>
+    <th scope="col">TECH</th>
+    <th scope="col">WCAG</th>
+  </tr>
+  <tr>
+    <th scope="row">Kompleks tabell. Krever manuell verifisering</th>
+    <td>✅ Sjekker for tabeller som har to eller flere nivåer med overskrifter og <lang="en">nested tables</lang></td>
+    <td>✅ Sjekker for <lang="en">table nested in non-layout table</lang></td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F49.html">F49</a></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Layout-tabeller skal ikke ha SUMMARY eller CAPTION
+En tabell som mangler <th> kan se ut som en layout-tabell.
+</th>
+    <td>✅</td>
+    <td>✅ Tabeller ska ikke kodes med både Role="presentation" og (<th>,<caption> eller <summary>)
+(Krever manuel verifisering)</td>
+    <td>x</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row">IMG-elementer uten ALT-Attribute skal ikke ha Title eller ARIA-Label-Attributes</th>
+    <td>✅</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/WAI/GL/2010/WD-WCAG20-TECHS-20100708/F39">F39</a></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+  </tr>
+   <tr>
+    <th scope="row">IMG-elementer må ha en ALT-Attribute</th>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+  </tr>
+     <tr>
+    <th scope="row">Input TYPE = IMAGE må ha et beskrivende ALT-Attribute</th>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row">ALT-tekst skal ikke bruke ASCII ART (inkluderer Smileys)</th>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row">BUTTON-elementer som bare inneholder en IMG skal ha et ALT-attribute for bildet</th>
+    <td>✅</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Alt-teksten er lik lenketeksten. Dette fører til at skjermlesen leser opp samme teksten to ganger. Dette ønsker vi å unngå. Bruk Alt="" evt. annen teknikk.</th>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/H2.html">H2</a></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a>, <a href="https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html">2.4.4</a>, <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-link.html">2.4.9</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Dekorasjonsbilder (og Spacer images) skal ikke alt-tekst. Dokumentasjonen sier at SortSite tester dette....</th>
+    <td>ℹ️</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/WAI/GL/2010/WD-WCAG20-TECHS-20100708/F39">F39</a></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+  </tr>
+</table>
+
+### Det verktøyene ikke tester på tabeller

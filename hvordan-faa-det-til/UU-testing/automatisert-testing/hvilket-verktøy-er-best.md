@@ -404,3 +404,55 @@ Hverken SortSite, ARCToolkit eller W3Cs kodesjekker tester lenker automatisk. Si
 
 Komplekse tabeller må undersøkes manuelt.
 
+## Innhold
+
+### Det verktøyene tester på innhold
+
+<table>
+  <caption>Automatisert test av innhold</caption>
+  <tr>
+    <th scope="col">Test</th>
+    <th scope="col">SortSite</th>
+    <th scope="col">ARCToolkit</th>
+    <th scope="col">W3Cs kodesjekker</th>
+    <th scope="col">Siteimprove (ikke testet enda)</th>
+    <th scope="col">TECH</th>
+    <th scope="col">WCAG</th>
+  </tr>
+  <tr>
+    <th scope="row">Siden inneholder et LANG attribute.</th>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-doc-lang-id.html">3.1.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Har overskriftsnivåene korrekt rekkefølge?</th>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1 (AAA)</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Overskrifter skal ikke inne holde andre overskrifter.</th>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>?</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <th scope="row"><lang="en">Use HTML headings instead of applying CSS heading styles to non-headings.</lang></th>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F2.html">F2</a></td>
+    <td></td>
+  </tr>
+</table>

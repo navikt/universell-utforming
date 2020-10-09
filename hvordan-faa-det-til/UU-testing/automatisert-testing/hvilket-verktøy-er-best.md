@@ -495,3 +495,174 @@ Komplekse tabeller må undersøkes manuelt.
 - Om meny, søk og nettstedskartet fungerer som det skal
 - Om det finnes en snarveislenke som lar brukeren navigere raskt til hovedinnholdet. Funksjonen skal være blant de 3 første tab-stegene) 2.4.1 - G1 og G123
 - Om snarveislenken fungerer
+
+## Skjema
+
+### Det verktøyene tester på skjema
+<table>
+  <caption>Automatisert test av skjema</caption>
+  <tr>
+    <th scope="col">Test</th>
+    <th scope="col">SortSite</th>
+    <th scope="col">ARCToolkit</th>
+    <th scope="col">W3Cs kodesjekker</th>
+    <th scope="col">Siteimprove (ikke testet enda)</th>
+    <th scope="col">TECH</th>
+    <th scope="col">WCAG</th>
+  </tr>
+  <tr>
+    <th scope="row"><lang="en">All ONCLICK handlers should have an equivalent ONKEYPRESS handler.</lang></th>
+    <td>✅</td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F54.html">F54</a></td>
+    <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#keyboard-operation-keyboard-operable">2.1.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row"><lang="en">All ONMOUSEDOWN handlers should have an equivalent ONKEYDOWN or ONCLICK handler.</lang></th>
+    <td>✅</td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F54.html">F54</a></td>
+    <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#keyboard-operation-keyboard-operable">2.1.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row"><lang="en">All ONMOUSEUP handlers should have an equivalent ONKEYUP or ONCLICK handler.</lang></th>
+    <td>✅</td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F54.html">F54</a></td>
+    <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#keyboard-operation-keyboard-operable">2.1.1</a></td>
+  </tr>
+   <tr>
+    <th scope="row"><lang="en">SELECT lists cannot be operated from the keyboard if they have an ONCHANGE handler that performs navigation, because the handler fires as the user moves the selection up and down using the keyboard.</lang></th>
+    <td>✅</td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F36.html">F36</a></td>
+    <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#consistent-behavior-unpredictable-change">3.2.2</a></td>
+  </tr>
+   <tr>
+    <th scope="row"><lang="en">This form automatically submits when focus changes making it nearly impossible for disabled users to navigate via the keyboard.</lang></th>
+    <td>✅</td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F36.html">F36</a></td>
+    <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#consistent-behavior-unpredictable-change">3.2.2</a></td>
+  </tr>
+  <tr>
+    <th scope="row"><lang="en">This input control submits the form when the user tabs out of it.</lang></th>
+    <td>✅</td>
+    <td>x</td>
+    <td>x</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F9.html">F9</a></td>
+    <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#consistent-behavior-no-extreme-changes-context">3.2.5</a></td>
+  </tr>
+    <tr>
+    <th scope="row">Skjemafeltet mangler autocomplete (WCAG 2.1)</th>
+    <td>x</td>
+    <td>✅</td>
+    <td>x</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row">IMG-elementer uten ALT-Attribute skal ikke ha Title eller ARIA-Label-Attributes</th>
+    <td>✅</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>?</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <th scope="row">Er labelelementet koblet korrekt med skjemafeltet?</th>
+    <td>x</td>
+    <td>✅</td>
+    <td>x</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a></td>
+  </tr>
+     <tr>
+    <th scope="row">multipleLabellingTechniquesUse</th>
+    <td>x</td>
+    <td>✅</td>
+    <td>x</td>
+    <td>?</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">placeholderDoesNotMatchLabel</th>
+    <td>x</td>
+    <td>v</td>
+    <td>x</td>
+    <td>?</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <th scope="row">inputNoAccessibleNameUseAlt</th>
+    <td>x</td>
+    <td>v</td>
+    <td>x</td>
+    <td>?</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <th scope="row">noButtonText</th>
+    <td>x</td>
+    <td>v</td>
+    <td>x</td>
+    <td>?</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">FIELDSET element blir brukt til å gi tekst en ramme. (SortSite sjekker at input ikke er definert med border-witdth: i CSS</th>
+    <td>✅</td>
+    <td>❌</td>
+    <td>x</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Det er kun brukt Placeholder</th>
+    <td>x</td>
+    <td>v ARC Toolkit sjekker om placeholder brukes uten at det finnes en label.</td>
+    <td>❌</td>
+    <td>?</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Alle FIELDSET skal ha LEGEND som føste element, som gir en label eller beskrivelse av gruppen med elementer.</th>
+    <td>v</td>
+    <td>v</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/H71.html">H71</a></td>
+    <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#content-structure-separation-programmatic">1.3.1</a></td>
+  </tr>
+    <tr>
+    <th scope="row"><lang="en">BUTTON elements containing only an IMG must hav an ALT attribute.</lang></th>
+    <td>v</td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/H65.html">H65</a></td>
+    <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#text-equiv-all">1.1.1</a></td>
+  </tr>
+</table>
+
+### Det verktøyene ikke tester på bilder

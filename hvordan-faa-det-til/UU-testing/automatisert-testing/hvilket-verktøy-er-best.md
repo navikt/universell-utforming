@@ -193,10 +193,8 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
 </table>
 
 ### Det verktøyene ikke tester på struktur
-
-#### Sidetittelens relevans og kvalitet
-Gir sidetittelen relevant beskrivning av emne eller formål med siden (sk 2.4.2, tech G88 og F25)?
-Inneholder sidetittelen tekst som "Untitled" eller filnavnet (WAVE)?
+- Om sidetittelen gir relevant beskrivning av emne eller formål med siden (sk 2.4.2, tech G88 og F25)
+- Om sidetittelen inneholder tekst som "Untitled" eller filnavnet (WAVE)
 
 ## Farger / kontrast
 
@@ -215,17 +213,17 @@ Inneholder sidetittelen tekst som "Untitled" eller filnavnet (WAVE)?
   </tr>
   <tr>
     <th scope="row">Tekst og bakgrunn har god nok kontrast.</th>
-    <td>x</td>
-    <td>v</td>
-    <td>x</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>❌</td>
     <td>?</td>
     <td></td>
     <td><a href"https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html">1.4.3</a></td>
   </tr>
   <tr>
     <th scope="row">Tekst og bakgrunn har en kontrast på 7:1</th>
-    <td>x</td>
-    <td>x</td>
+    <td>❌</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html">1.4.6 (AAA)</a</td>
@@ -234,10 +232,67 @@ Inneholder sidetittelen tekst som "Untitled" eller filnavnet (WAVE)?
   <tr>
     <th scope="row">Alt-teksten skal ikke inneholder farger. Antagelse: SortSite sjekker kun engelske ord (f.eks <lang="en">red, blue..</a>)</th>
     <td>✅</td>
-    <td>x</td>
-    <td>x</td>
+    <td>❌</td>
+    <td>❌</td>
     <td>?</td>
     <td></td>
     <td><a href"https://www.w3.org/TR/2008/REC-WCAG20-20081211/#text-equiv-all">1.1.1</a></td>
   </tr>
 </table>
+
+### Det verktøyene ikke sjekker på farge og kontrast
+- Om kontrasten mellom tekst og bakgrunn 7:1
+- Om alt-teksten inneholder farger
+- Om siden inneholder kun farger og fargekombinasjoner som er godkjent og del av designsystemet
+
+## Overskrifter
+<table>
+  <caption>Automatisert test av overskrifter</caption>
+  <tr>
+    <th scope="col">Test</th>
+    <th scope="col">SortSite</th>
+    <th scope="col">ARCToolkit</th>
+    <th scope="col">W3Cs kodesjekker</th>
+    <th scope="col">Siteimprove (ikke testet enda)</th>
+    <th scope="col">TECH</th>
+    <th scope="col">WCAG</th>
+  </tr>
+  <tr>
+    <th scope="row">Finnes det tomme overskriftstagger på siden( <h*></h*>)?</th>
+    <td>v</td>
+    <td>✅</td>
+    <td>v</td>
+    <td>?</td>
+    <td></td>
+    <td><a href"https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Har overskriftsnivåene korrekt rekkefølge?</th>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1 (AAA)</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Overskrifter skal ikke inne holde andre overskrifter.</th>
+    <td>x</td>
+    <td>x</td>
+    <td>v</td>
+    <td>?</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <th scope="row"><lang="en">Use HTML headings instead of applying CSS heading styles to non-headings.</lang></th>
+    <td>v</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F2.html">F2</a></td>
+    <td></td>
+  </tr>
+</table>
+
+### Det verktøyene ikke tester på overskrifter

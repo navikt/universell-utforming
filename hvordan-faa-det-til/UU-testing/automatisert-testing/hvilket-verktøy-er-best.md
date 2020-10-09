@@ -120,26 +120,21 @@ Denne typen bilder skal ha et mer utfyllende alternativtekst.
 Teksten skal enten ligge på samme side eller man kan legge inn en lenke som tar deg til en side hvor man kan nå tekstbeskrivelsen.
 
 ####  Om bilder med lenker:
-
 - får tydelig fokusmarkering ved tastaturnavigasjon eller ved å føre muspekeren over bildet.
 - har en alt-tekst som beskriver siden du kommer til.
 - åpnes i en ny fane, vindu, program e.
 - Får du info om dette før du klikker på lenken?
 
 #### Om bildene er dekorasjon eller meningsbærende
-
 Vi får kun et hint om at et bilde kan være dekorasjon dersom vi tilfeldigvis har brukt følgende engelske ord i alt-tekste: picture, spacer, graphic, icon, thumnail eller spacer.
 
 #### Om bildet inneholder tekst
-
 Oppdager ikke bilde av tekst, og om alternativteksten gjengir innholdet i bildet på en god måte.
 
 #### Om alt-teksten er villedende
-
 Krever manuell vurdering
 
 #### Om Aria-labelledby fungerer for alle brukerne våre. 
-
 I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skjermlesere.
 
 #### Om Aria-describedby er blir brukt som et alternativ til alt-tag
@@ -170,7 +165,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
   </tr>
   <tr>
     <th scope="row">Line break (<br>) skal ikke benyttes for å formatere avsnitt (<p>)</th>
-    <td>x</td>
+    <td>❌</td>
     <td>✅</td>
     <td>❌</td>
     <td>?</td>
@@ -202,3 +197,47 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
 #### Sidetittelens relevans og kvalitet
 Gir sidetittelen relevant beskrivning av emne eller formål med siden (sk 2.4.2, tech G88 og F25)?
 Inneholder sidetittelen tekst som "Untitled" eller filnavnet (WAVE)?
+
+## Farger / kontrast
+
+### Det verktøyene tester på farge og kontrast
+
+<table>
+  <caption>Automatisert test av farge og kontrast</caption>
+  <tr>
+    <th scope="col">Test</th>
+    <th scope="col">SortSite</th>
+    <th scope="col">ARCToolkit</th>
+    <th scope="col">W3Cs kodesjekker</th>
+    <th scope="col">Siteimprove (ikke testet enda)</th>
+    <th scope="col">TECH</th>
+    <th scope="col">WCAG</th>
+  </tr>
+  <tr>
+    <th scope="row">Tekst og bakgrunn har god nok kontrast.</th>
+    <td>x</td>
+    <td>v</td>
+    <td>x</td>
+    <td>?</td>
+    <td></td>
+    <td><a href"https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html">1.4.3</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Tekst og bakgrunn har en kontrast på 7:1</th>
+    <td>x</td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html">1.4.6 (AAA)</a</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Alt-teksten skal ikke inneholder farger. Antagelse: SortSite sjekker kun engelske ord (f.eks <lang="en">red, blue..</a>)</th>
+    <td>✅</td>
+    <td>x</td>
+    <td>x</td>
+    <td>?</td>
+    <td></td>
+    <td><a href"https://www.w3.org/TR/2008/REC-WCAG20-20081211/#text-equiv-all">1.1.1</a></td>
+  </tr>
+</table>

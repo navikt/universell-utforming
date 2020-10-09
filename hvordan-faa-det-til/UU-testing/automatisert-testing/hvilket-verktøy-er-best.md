@@ -148,5 +148,62 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
 
 ### Det verktøyene tester på struktur
 
+<table>
+  <caption>Automatisert test av bilder</caption>
+  <tr>
+    <td></td>
+    <th scope="col">SortSite</th>
+    <th scope="col">ARCToolkit</th>
+    <th scope="col">W3Cs kodesjekker</th>
+    <th scope="col">Siteimprove (ikke testet enda)</th>
+    <th scope="col">TECH</th>
+    <th scope="col">WCAG</th>
+  </tr>
+  <tr>
+    <th scope="row">Alt-teksten skal ikke være et filnavn, eller inneholder ord som <lang="en">picture, spacer, graphic, icon, iage, thumnail, spacer</lang></th>
+    <td>✅</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F30.html">F30</a></td>
+    <td><a href"https://www.w3.org/TR/2008/REC-WCAG20-20081211/#text-equiv-all">1.1.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row">AREA-elementer må ha et ALT-Attribute</th>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
+    <td><a href"https://www.w3.org/TR/2008/REC-WCAG20-20081211/#text-equiv-all">1.1.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row">IMG-elementer uten ALT-Attribute skal ikke ha Title eller ARIA-Label-Attributes</th>
+    <td>✅</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/WAI/GL/2010/WD-WCAG20-TECHS-20100708/F39">F39</a></td>
+    <td><a href"https://www.w3.org/TR/2008/REC-WCAG20-20081211/#text-equiv-all">1.1.1</a></td>
+  </tr>
+   <tr>
+    <th scope="row">IMG-elementer må ha en ALT-Attribute</th>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
+    <td><a href"https://www.w3.org/TR/2008/REC-WCAG20-20081211/#text-equiv-all">1.1.1</a></td>
+  </tr>
+     <tr>
+    <th scope="row">Input TYPE = IMAGE må ha et beskrivende ALT-Attribute</th>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
+    <td><a href"https://www.w3.org/TR/2008/REC-WCAG20-20081211/#text-equiv-all">1.1.1</a></td>
+  </tr>
+</table>
 
 ### Det verktøyene ikke tester på struktur

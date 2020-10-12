@@ -1,4 +1,4 @@
-#Lær mer om funksjonsnedsettelser
+# Lær mer om funksjonsnedsettelser
 - Kognitivt
 - Syn
 - Hørsel

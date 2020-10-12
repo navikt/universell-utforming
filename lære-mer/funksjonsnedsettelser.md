@@ -1,11 +1,11 @@
 # Lær mer om funksjonsnedsettelser
-- [Kognisjon](../lære-mer/#kognisjon)
-- [Syn]()
-- [Hørsel]()
-- [Tale]()
-- [Mobilitet]()
-- [Psykologisk/Psykiatrisk]()
-- [Anfall]()
+- [Kognisjon](../lære-mer/#kognitve-utfordringer)
+- [Syn](../lære-mer/#Syn)
+- [Hørsel](../lære-mer/#Hørsel)
+- [Tale](../lære-mer/#Tale)
+- [Mobilitet](../lære-mer/#Hørsel)
+- [Psykologisk/Psykiatrisk](../lære-mer/#Psykologisk/Psykiatrisk)
+- [Anfall](../lære-mer/#Anfall)
 
 ## Kognitive utfordringer
 ### Tall og fakta

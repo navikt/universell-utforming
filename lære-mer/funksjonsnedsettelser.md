@@ -1,5 +1,5 @@
 # Lær mer om funksjonsnedsettelser
-- Kognisjon
+- Kognisjon (boks med bilde, tekst og lenke til aktuell side)
 - Syn
 - Hørsel
 - Tale

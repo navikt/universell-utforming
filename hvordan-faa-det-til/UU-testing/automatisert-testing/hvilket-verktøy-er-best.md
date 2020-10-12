@@ -513,7 +513,7 @@ Komplekse tabeller må undersøkes manuelt.
   <tr>
     <th scope="row"><lang="en">All ONCLICK handlers should have an equivalent ONKEYPRESS handler.</lang></th>
     <td>✅</td>
-    <td>x</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F54.html">F54</a></td>
@@ -522,7 +522,7 @@ Komplekse tabeller må undersøkes manuelt.
   <tr>
     <th scope="row"><lang="en">All ONMOUSEDOWN handlers should have an equivalent ONKEYDOWN or ONCLICK handler.</lang></th>
     <td>✅</td>
-    <td>x</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F54.html">F54</a></td>
@@ -531,7 +531,7 @@ Komplekse tabeller må undersøkes manuelt.
   <tr>
     <th scope="row"><lang="en">All ONMOUSEUP handlers should have an equivalent ONKEYUP or ONCLICK handler.</lang></th>
     <td>✅</td>
-    <td>x</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F54.html">F54</a></td>
@@ -540,7 +540,7 @@ Komplekse tabeller må undersøkes manuelt.
    <tr>
     <th scope="row"><lang="en">SELECT lists cannot be operated from the keyboard if they have an ONCHANGE handler that performs navigation, because the handler fires as the user moves the selection up and down using the keyboard.</lang></th>
     <td>✅</td>
-    <td>x</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F36.html">F36</a></td>
@@ -549,7 +549,7 @@ Komplekse tabeller må undersøkes manuelt.
    <tr>
     <th scope="row"><lang="en">This form automatically submits when focus changes making it nearly impossible for disabled users to navigate via the keyboard.</lang></th>
     <td>✅</td>
-    <td>x</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F36.html">F36</a></td>
@@ -558,17 +558,17 @@ Komplekse tabeller må undersøkes manuelt.
   <tr>
     <th scope="row"><lang="en">This input control submits the form when the user tabs out of it.</lang></th>
     <td>✅</td>
-    <td>x</td>
-    <td>x</td>
+    <td>❌</td>
+    <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F9.html">F9</a></td>
     <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#consistent-behavior-no-extreme-changes-context">3.2.5</a></td>
   </tr>
     <tr>
     <th scope="row">Skjemafeltet mangler autocomplete (WCAG 2.1)</th>
-    <td>x</td>
+    <td>❌</td>
     <td>✅</td>
-    <td>x</td>
+    <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/F65">F65</a></td>
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
@@ -584,45 +584,45 @@ Komplekse tabeller må undersøkes manuelt.
   </tr>
    <tr>
     <th scope="row">Er labelelementet koblet korrekt med skjemafeltet?</th>
-    <td>x</td>
+    <td>❌</td>
     <td>✅</td>
-    <td>x</td>
+    <td>❌</td>
     <td>?</td>
     <td></td>
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a></td>
   </tr>
      <tr>
     <th scope="row">multipleLabellingTechniquesUse</th>
-    <td>x</td>
+    <td>❌</td>
     <td>✅</td>
-    <td>x</td>
+    <td>❌</td>
     <td>?</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <th scope="row">placeholderDoesNotMatchLabel</th>
-    <td>x</td>
-    <td>v</td>
-    <td>x</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>❌</td>
     <td>?</td>
     <td></td>
     <td></td>
   </tr>
    <tr>
     <th scope="row">inputNoAccessibleNameUseAlt</th>
-    <td>x</td>
-    <td>v</td>
-    <td>x</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>❌</td>
     <td>?</td>
     <td></td>
     <td></td>
   </tr>
    <tr>
     <th scope="row">noButtonText</th>
-    <td>x</td>
-    <td>v</td>
-    <td>x</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>❌</td>
     <td>?</td>
     <td></td>
     <td></td>
@@ -631,15 +631,15 @@ Komplekse tabeller må undersøkes manuelt.
     <th scope="row">FIELDSET element blir brukt til å gi tekst en ramme. (SortSite sjekker at input ikke er definert med border-witdth: i CSS</th>
     <td>✅</td>
     <td>❌</td>
-    <td>x</td>
+    <td>❌</td>
     <td>?</td>
     <td></td>
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
   </tr>
   <tr>
     <th scope="row">Det er kun brukt Placeholder</th>
-    <td>x</td>
-    <td>v ARC Toolkit sjekker om placeholder brukes uten at det finnes en label.</td>
+    <td>❌</td>
+    <td>✅ ARC Toolkit sjekker om placeholder brukes uten at det finnes en label.</td>
     <td>❌</td>
     <td>?</td>
     <td></td>
@@ -647,8 +647,8 @@ Komplekse tabeller må undersøkes manuelt.
   </tr>
   <tr>
     <th scope="row">Alle FIELDSET skal ha LEGEND som føste element, som gir en label eller beskrivelse av gruppen med elementer.</th>
-    <td>v</td>
-    <td>v</td>
+    <td>✅</td>
+    <td>✅</td>
     <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/H71.html">H71</a></td>
@@ -656,8 +656,8 @@ Komplekse tabeller må undersøkes manuelt.
   </tr>
   <tr>
     <th scope="row"><lang="en">BUTTON elements containing only an IMG must hav an ALT attribute.</lang></th>
-    <td>v</td>
-    <td>x</td>
+    <td>✅</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/H65.html">H65</a></td>
@@ -665,8 +665,8 @@ Komplekse tabeller må undersøkes manuelt.
   </tr>
   <tr>
     <th scope="row"><lang="en">Label elements should be attached to the controls they label.</lang></th>
-    <td>v (sjekker <lang="en">"orphanedLabelNoMatching IDAttribute", "emptyLabelText"</lang></td>
-    <td>v (sjekker om det finnes label elementer uten innhold og om label med innhold er koblet til inputfeltet med for=)</td>
+    <td>✅ (sjekker <lang="en">"orphanedLabelNoMatching IDAttribute", "emptyLabelText"</lang></td>
+    <td>✅ (sjekker om det finnes label elementer uten innhold og om label med innhold er koblet til inputfeltet med for=)</td>
     <td>❌</td>
     <td>?</td>
     <td></td>
@@ -675,8 +675,8 @@ Komplekse tabeller må undersøkes manuelt.
   <tr>
     <th scope="row"><lang="en">
 ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless TABINDEX is set.</lang></th>
-    <td>v</td>
-    <td>x</td>
+    <td>✅</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
     <td></td>
@@ -684,8 +684,8 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
   </tr>
  <tr>
     <th scope="row"><lang="en">The ARIA-LABELLEDBY attribute references a non-existent element ID</lang></th>
-    <td>v</td>
-    <td>v</td>
+    <td>✅</td>
+    <td>✅</td>
     <td>❌</td>
     <td>?</td>
     <td></td>
@@ -693,8 +693,8 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
   </tr> 
 <tr>
     <th scope="row"><lang="en">This field removes focus when tabbed to making it impossible for disabled users to navigate this form via keyboard</lang></th>
-    <td>x</td>
-    <td>x</td>
+    <td>❌</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
     <td></td>
@@ -702,8 +702,8 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
   </tr> 
 <tr>
     <th scope="row"><lang="en">This form control has no programmatically determined name</lang></th>
-    <td>v (Det er ikke sjekket grundig om SortSite identifiserer nøyaktig samme feil på p004)</td>
-    <td>v</td>
+    <td>✅ (Det er ikke sjekket grundig om SortSite identifiserer nøyaktig samme feil på p004)</td>
+    <td>✅</td>
     <td>❌</td>
     <td>?</td>
   <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F68.html">F68</a></td>
@@ -711,8 +711,8 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
   </tr>
   <tr>
     <th scope="row"><lang="en">Form field labels should be unique on a page, or enclosed in a FIELDSET with a LEGEND that makes the label unique</lang></th>
-    <td>v </td>
-    <td>x</td>
+    <td>✅</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
   <td></td>
@@ -720,8 +720,8 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
   </tr>
  <tr>
     <th scope="row"><lang="en">Radio buttons with very generic labels need to be enclosed in FIELDSET with LEGEND explaining the label</lang></th>
-    <td>v</td>
-    <td>x</td>
+    <td>✅</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
   <td></td>
@@ -729,8 +729,8 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
   </tr>
 <tr>
     <th scope="row"><lang="en">Text-based form controls with absolute font sizes do not resize correctly</lang></th>
-    <td>x</td>
-    <td>x</td>
+    <td>❌</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
   <td></td>
@@ -738,8 +738,8 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
   </tr>
   <tr>
     <th scope="row"><lang="en">Do not popup windows as users enter text into input fields</lang></th>
-    <td>x</td>
-    <td>x</td>
+    <td>❌</td>
+    <td>❌</td>
     <td>❌</td>
     <td>?</td>
   <td></td>
@@ -747,9 +747,9 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
   </tr>
   <tr>
     <th scope="row"><lang="en">The aria-labelledby attribute must point to an element in the same document.</lang></th>
-    <td>v</td>
-    <td>x (<lang="en"> invalid aria-labelledby id (Ensure that the id values refer to a valid element)</lang></td>
-    <td>x</td>
+    <td>✅</td>
+    <td>❌ (<lang="en"> invalid aria-labelledby id (Ensure that the id values refer to a valid element)</lang></td>
+    <td>❌</td>
     <td>?</td>
   <td></td>
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a></td>

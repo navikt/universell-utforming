@@ -21,7 +21,7 @@ Her skal vi legge ut en sammenlikning mellom hva som testes med SortSite, ARC to
     <th scope="col">WCAG</th>
   </tr>
   <tr>
-    <th scope="row">Alt-teksten skal ikke være et filnavn, eller inneholder ord som <lang="en">picture, spacer, graphic, icon, iage, thumnail, spacer</lang></th>
+    <th scope="row">Alt-teksten skal ikke være et filnavn, eller inneholder ord som <span lang="en">picture, spacer, graphic, icon, iage, thumnail, spacer</span></th>
     <td>✅</td>
     <td>✅</td>
     <td>❌</td>
@@ -155,7 +155,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
     <th scope="col">WCAG</th>
   </tr>
   <tr>
-    <th scope="row">Sidetittel. Nettsiden har en <title> som beskriver den aktuelle sidens emne eller formål.</th>
+    <th scope="row">Sidetittel. Nettsiden har en &gt;title&lt; som beskriver den aktuelle sidens emne eller formål.</th>
     <td>✅</td>
     <td>❌</td>
     <td>✅</td>

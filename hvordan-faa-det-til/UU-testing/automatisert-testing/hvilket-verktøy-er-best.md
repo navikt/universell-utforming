@@ -775,3 +775,131 @@ Notat: Det er litt uklart hva som testes og ikke testes. Det er noe repeterende 
 - Får alle skjema elementet synlig fokus? Husk å test datovelgeren, modalvindu og nedtrekkslister
 - Fungerer skemaelemntet som de skal
 - Nav ønsker ikke å å bruke inaktive knapper/funksjoner. SaaS testser ikke om denne typen funksjoner har blitt brukt.
+
+## Søk
+
+### Det verktøyene tester på søk
+<table>
+  <caption>Automatisert test av søk</caption>
+  <tr>
+    <th scope="col">Test</th>
+    <th scope="col">SortSite</th>
+    <th scope="col">ARCToolkit</th>
+    <th scope="col">W3Cs kodesjekker</th>
+    <th scope="col">Siteimprove (ikke testet enda)</th>
+    <th scope="col">TECH</th>
+    <th scope="col">WCAG</th>
+  </tr>
+  <tr>
+    <th scope="row">Er labelelementet koblet korrekt med skjemafeltet?</th>
+    <td>❌</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row"><lang="en">noButtonText</lang></th>
+    <td>❌</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>?</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Det verktøyene ikke tester på søk
+- Om løsningen har minst to av følgende: meny, søkefunksjon, a-å lenker over allt innhold, lenker mellom alle sider på nettstedet. 2.4.5
+- Om søkefeltet fungerer og at det gir brukerne en effektiv måte finne innholdet de er på jakt etter
+
+## Forstørring
+
+### Det verktøyene tester på forstørring
+Ingen verktøy tester forstørring automatisk
+
+### Det verktøyene ikke tester på forstørring
+- Om bukerne får tilgang til alt innhold og alle funksjoner dersom man forstørrer siden til 200/400%
+- Om brukerne får tilgang til alle funksjoner med kun bruk av tastatur, dersom siden forstørres til 200/400%
+- Om løsningen er tilpasset forskjellige skjermstørrelser (responsiv design) slik at den fungerer tilnærmet likt på . mobil,nettbrett og laptop.
+
+## Lister
+kommer
+
+## Video og animasjoner
+kommer
+
+## Lyd
+### Det verktøyene tester på lyd
+<table>
+  <caption>Automatisert test av lyd</caption>
+  <tr>
+    <th scope="col">Test</th>
+    <th scope="col">SortSite</th>
+    <th scope="col">ARCToolkit</th>
+    <th scope="col">W3Cs kodesjekker</th>
+    <th scope="col">Siteimprove (ikke testet enda)</th>
+    <th scope="col">TECH</th>
+    <th scope="col">WCAG</th>
+  </tr>
+  <tr>
+    <th scope="row">Om lyd spilles lengre enn 3 sekunder, og om det mangler en måte å slå av lyden 1.4.2</th>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>?</td>
+    <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F23.html">F23</a></td>
+    <td><a href="https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21/wcag-21-standarden">1.4.2</a></td>
+  </tr>
+</table>
+
+### Det verktøyene ikke tester på lyd
+kommer
+
+## Kode
+### Det verktøyene tester på kode
+<table>
+  <caption>Automatisert test av kode</caption>
+  <tr>
+    <th scope="col">Test</th>
+    <th scope="col">SortSite</th>
+    <th scope="col">ARCToolkit</th>
+    <th scope="col">W3Cs kodesjekker</th>
+    <th scope="col">Siteimprove (ikke testet enda)</th>
+    <th scope="col">TECH</th>
+    <th scope="col">WCAG</th>
+  </tr>
+  <tr>
+    <th scope="row">Duplikate ID'er. ID'er har blitt brukt flere ganger på siden</th>
+    <td>❌</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>?</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Elementer mangler ID'er</th>
+    <td>❌</td>
+    <td>⚠️ An ID used for a label or by an ARIA attribute does not exist. Add missing ID. Eksemplet/testen identifiserte et IMG element med aria-labelled by. IMG elementer uten ALT Attribute skal ikke ha Title eller ARIA Label Attributes</td>
+    <td>❌</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a></td>
+  </tr>
+  <tr>
+    <th scope="row"><lang="en">The aria-labelledby attribute must point to an element in the same document.</lang></th>
+    <td>✅</td>
+    <td>❌ (<lang="en">invalid aria-labelledby id (Ensure that the id values refer to a valid element)</lang></td>
+    <td>✅</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a></td>
+  </tr>
+</table>
+
+### Det verktøyene ikke tester på kode
+
+- Om det er riktig å bruke ID.. Eks: IMG elementer uten ALT Attributes skal ikke ha title eller ARIA Label eller Aria Label Attributes.ARC Toolkit gir beskjed om at Elementet mangler ID. I dette tilfellet blir det feil å legge til ID, siden feilen er noe annet.
+- OM ARIA-LABELLEDBY referer til en ID til et element som ikke eksisterer (Det er mulig at WAVE tester dette. )

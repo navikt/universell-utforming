@@ -652,9 +652,9 @@ Komplekse tabeller må undersøkes manuelt.
     <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/H71.html">H71</a></td>
-    <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#content-structure-separation-programmatic">1.3.1</a></td>
+    <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#content-structure-separation-programmatic">1.3.1</a>, <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-cues.html">3.3.2</a></td>
   </tr>
-    <tr>
+  <tr>
     <th scope="row"><lang="en">BUTTON elements containing only an IMG must hav an ALT attribute.</lang></th>
     <td>v</td>
     <td>x</td>
@@ -663,6 +663,97 @@ Komplekse tabeller må undersøkes manuelt.
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/H65.html">H65</a></td>
     <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#text-equiv-all">1.1.1</a></td>
   </tr>
+  <tr>
+    <th scope="row"><lang="en">Label elements should be attached to the controls they label.</lang></th>
+    <td>v (sjekker <lang="en">"orphanedLabelNoMatching IDAttribute", "emptyLabelText"</lang></td>
+    <td>v (sjekker om det finnes label elementer uten innhold og om label med innhold er koblet til inputfeltet med for=)</td>
+    <td>❌</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html">4.1.2</a></td>
+  </tr>
+  <tr>
+    <th scope="row"><lang="en">
+ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless TABINDEX is set.</lang></th>
+    <td>v</td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-keyboard-operable.html">2.1.1</a></td>
+  </tr>
+ <tr>
+    <th scope="row"><lang="en">The ARIA-LABELLEDBY attribute references a non-existent element ID</lang></th>
+    <td>v</td>
+    <td>v</td>
+    <td>❌</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html">4.1.2</a></td>
+  </tr> 
+<tr>
+    <th scope="row"><lang="en">This field removes focus when tabbed to making it impossible for disabled users to navigate this form via keyboard</lang></th>
+    <td>x</td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+    <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-keyboard-operable.html">2.1.1</a>, <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-all-funcs.html">2.1.3</a><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-visible.html">2.4.7</a>, <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-receive-focus.html">3.2.1</a></td>
+  </tr> 
+<tr>
+    <th scope="row"><lang="en">This form control has no programmatically determined name</lang></th>
+    <td>v (Det er ikke sjekket grundig om SortSite identifiserer nøyaktig samme feil på p004)</td>
+    <td>v</td>
+    <td>❌</td>
+    <td>?</td>
+  <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F68.html">F68</a></td>
+    <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html">4.1.2</a></td>
+  </tr>
+  <tr>
+    <th scope="row"><lang="en">Form field labels should be unique on a page, or enclosed in a FIELDSET with a LEGEND that makes the label unique</lang></th>
+    <td>v </td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+  <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6</a></td>
+  </tr>
+ <tr>
+    <th scope="row"><lang="en">Radio buttons with very generic labels need to be enclosed in FIELDSET with LEGEND explaining the label</lang></th>
+    <td>v</td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+  <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6</a></td>
+  </tr>
+<tr>
+    <th scope="row"><lang="en">Text-based form controls with absolute font sizes do not resize correctly</lang></th>
+    <td>x</td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+  <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-scale.html">1.4.4</a></td>
+  </tr>
+  <tr>
+    <th scope="row"><lang="en">Do not popup windows as users enter text into input fields</lang></th>
+    <td>x</td>
+    <td>x</td>
+    <td>❌</td>
+    <td>?</td>
+  <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-no-extreme-changes-context.html">3.2.5 (AAA)</a></td>
+  </tr>
+  <tr>
+    <th scope="row"><lang="en">The aria-labelledby attribute must point to an element in the same document.</lang></th>
+    <td>v</td>
+    <td>x (<lang="en"> invalid aria-labelledby id (Ensure that the id values refer to a valid element)</lang></td>
+    <td>x</td>
+    <td>?</td>
+  <td></td>
+    <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a></td>
+  </tr>
 </table>
 
-### Det verktøyene ikke tester på bilder
+### Det verktøyene ikke tester på skjema

@@ -230,7 +230,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
     <td></td>
   </tr>
   <tr>
-    <th scope="row">Alt-teksten skal ikke inneholder farger. Antagelse: SortSite sjekker kun engelske ord (f.eks <lang="en">red, blue..</lang>)</th>
+    <th scope="row">Alt-teksten skal ikke inneholder farger. Antagelse: SortSite sjekker kun engelske ord (f.eks <span lang="en">red, blue..</span>)</th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -285,7 +285,7 @@ I følge dokumentasjonen til SortSite fungerer ikke Aria-labelledby for alle skj
     <td></td>
   </tr>
    <tr>
-    <th scope="row"><lang="en">Use HTML headings instead of applying CSS heading styles to non-headings.</lang></th>
+    <th scope="row"><span lang="en">Use HTML headings instead of applying CSS heading styles to non-headings.</span></th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -332,8 +332,8 @@ Hverken SortSite, ARCToolkit eller W3Cs kodesjekker tester lenker automatisk. Si
   </tr>
   <tr>
     <th scope="row">Kompleks tabell. Krever manuell verifisering</th>
-    <td>✅ Sjekker for tabeller som har to eller flere nivåer med overskrifter og <lang="en">nested tables</lang></td>
-    <td>✅ Sjekker for <lang="en">table nested in non-layout table</lang></td>
+    <td>✅ Sjekker for tabeller som har to eller flere nivåer med overskrifter og <span lang="en">nested tables</span></td>
+    <td>✅ Sjekker for <span lang="en">table nested in non-layout table</span></td>
     <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F49.html">F49</a></td>
@@ -511,7 +511,7 @@ Komplekse tabeller må undersøkes manuelt.
     <th scope="col">WCAG</th>
   </tr>
   <tr>
-    <th scope="row"><lang="en">All ONCLICK handlers should have an equivalent ONKEYPRESS handler.</lang></th>
+    <th scope="row"><span lang="en">All ONCLICK handlers should have an equivalent ONKEYPRESS handler.</span></th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -520,7 +520,7 @@ Komplekse tabeller må undersøkes manuelt.
     <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#keyboard-operation-keyboard-operable">2.1.1</a></td>
   </tr>
   <tr>
-    <th scope="row"><lang="en">All ONMOUSEDOWN handlers should have an equivalent ONKEYDOWN or ONCLICK handler.</lang></th>
+    <th scope="row"><span lang="en">All ONMOUSEDOWN handlers should have an equivalent ONKEYDOWN or ONCLICK handler.</span></th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -529,7 +529,7 @@ Komplekse tabeller må undersøkes manuelt.
     <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#keyboard-operation-keyboard-operable">2.1.1</a></td>
   </tr>
   <tr>
-    <th scope="row"><lang="en">All ONMOUSEUP handlers should have an equivalent ONKEYUP or ONCLICK handler.</lang></th>
+    <th scope="row"><span lang="en">All ONMOUSEUP handlers should have an equivalent ONKEYUP or ONCLICK handler.</span></th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -538,7 +538,7 @@ Komplekse tabeller må undersøkes manuelt.
     <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#keyboard-operation-keyboard-operable">2.1.1</a></td>
   </tr>
    <tr>
-    <th scope="row"><lang="en">SELECT lists cannot be operated from the keyboard if they have an ONCHANGE handler that performs navigation, because the handler fires as the user moves the selection up and down using the keyboard.</lang></th>
+    <th scope="row"><span lang="en">SELECT lists cannot be operated from the keyboard if they have an ONCHANGE handler that performs navigation, because the handler fires as the user moves the selection up and down using the keyboard.</span></th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -547,7 +547,7 @@ Komplekse tabeller må undersøkes manuelt.
     <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#consistent-behavior-unpredictable-change">3.2.2</a></td>
   </tr>
    <tr>
-    <th scope="row"><lang="en">This form automatically submits when focus changes making it nearly impossible for disabled users to navigate via the keyboard.</lang></th>
+    <th scope="row"><span lang="en">This form automatically submits when focus changes making it nearly impossible for disabled users to navigate via the keyboard.</span></th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -556,7 +556,7 @@ Komplekse tabeller må undersøkes manuelt.
     <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#consistent-behavior-unpredictable-change">3.2.2</a></td>
   </tr>
   <tr>
-    <th scope="row"><lang="en">This input control submits the form when the user tabs out of it.</lang></th>
+    <th scope="row"><span lang="en">This input control submits the form when the user tabs out of it.</span></th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -655,7 +655,7 @@ Komplekse tabeller må undersøkes manuelt.
     <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#content-structure-separation-programmatic">1.3.1</a>, <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-cues.html">3.3.2</a></td>
   </tr>
   <tr>
-    <th scope="row"><lang="en">BUTTON elements containing only an IMG must hav an ALT attribute.</lang></th>
+    <th scope="row"><span lang="en">BUTTON elements containing only an IMG must hav an ALT attribute.</span></th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -664,8 +664,8 @@ Komplekse tabeller må undersøkes manuelt.
     <td><a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#text-equiv-all">1.1.1</a></td>
   </tr>
   <tr>
-    <th scope="row"><lang="en">Label elements should be attached to the controls they label.</lang></th>
-    <td>✅ (sjekker <lang="en">"orphanedLabelNoMatching IDAttribute", "emptyLabelText"</lang></td>
+    <th scope="row"><span lang="en">Label elements should be attached to the controls they label.</span></th>
+    <td>✅ (sjekker <span lang="en">"orphanedLabelNoMatching IDAttribute", "emptyLabelText"</span></td>
     <td>✅ (sjekker om det finnes label elementer uten innhold og om label med innhold er koblet til inputfeltet med for=)</td>
     <td>❌</td>
     <td>?</td>
@@ -673,8 +673,8 @@ Komplekse tabeller må undersøkes manuelt.
     <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html">4.1.2</a></td>
   </tr>
   <tr>
-    <th scope="row"><lang="en">
-ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless TABINDEX is set.</lang></th>
+    <th scope="row"><span lang="en">
+ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless TABINDEX is set.</span></th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -683,7 +683,7 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-keyboard-operable.html">2.1.1</a></td>
   </tr>
  <tr>
-    <th scope="row"><lang="en">The ARIA-LABELLEDBY attribute references a non-existent element ID</lang></th>
+    <th scope="row"><span lang="en">The ARIA-LABELLEDBY attribute references a non-existent element ID</span></th>
     <td>✅</td>
     <td>✅</td>
     <td>❌</td>
@@ -692,7 +692,7 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
     <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html">4.1.2</a></td>
   </tr> 
 <tr>
-    <th scope="row"><lang="en">This field removes focus when tabbed to making it impossible for disabled users to navigate this form via keyboard</lang></th>
+    <th scope="row"><span lang="en">This field removes focus when tabbed to making it impossible for disabled users to navigate this form via keyboard</span></th>
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
@@ -701,7 +701,7 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-keyboard-operable.html">2.1.1</a>, <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-all-funcs.html">2.1.3</a><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-visible.html">2.4.7</a>, <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-receive-focus.html">3.2.1</a></td>
   </tr> 
 <tr>
-    <th scope="row"><lang="en">This form control has no programmatically determined name</lang></th>
+    <th scope="row"><span lang="en">This form control has no programmatically determined name</span></th>
     <td>✅ (Det er ikke sjekket grundig om SortSite identifiserer nøyaktig samme feil på p004)</td>
     <td>✅</td>
     <td>❌</td>
@@ -710,7 +710,7 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
     <td><a href="https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html">4.1.2</a></td>
   </tr>
   <tr>
-    <th scope="row"><lang="en">Form field labels should be unique on a page, or enclosed in a FIELDSET with a LEGEND that makes the label unique</lang></th>
+    <th scope="row"><span lang="en">Form field labels should be unique on a page, or enclosed in a FIELDSET with a LEGEND that makes the label unique</span></th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -719,7 +719,7 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6</a></td>
   </tr>
  <tr>
-    <th scope="row"><lang="en">Radio buttons with very generic labels need to be enclosed in FIELDSET with LEGEND explaining the label</lang></th>
+    <th scope="row"><span lang="en">Radio buttons with very generic labels need to be enclosed in FIELDSET with LEGEND explaining the label</span></th>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -728,7 +728,7 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6</a></td>
   </tr>
 <tr>
-    <th scope="row"><lang="en">Text-based form controls with absolute font sizes do not resize correctly</lang></th>
+    <th scope="row"><span lang="en">Text-based form controls with absolute font sizes do not resize correctly</span></th>
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
@@ -737,7 +737,7 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-scale.html">1.4.4</a></td>
   </tr>
   <tr>
-    <th scope="row"><lang="en">Do not popup windows as users enter text into input fields</lang></th>
+    <th scope="row"><span lang="en">Do not popup windows as users enter text into input fields</span></th>
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
@@ -746,9 +746,9 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-no-extreme-changes-context.html">3.2.5 (AAA)</a></td>
   </tr>
   <tr>
-    <th scope="row"><lang="en">The aria-labelledby attribute must point to an element in the same document.</lang></th>
+    <th scope="row"><span lang="en">The aria-labelledby attribute must point to an element in the same document.</span></th>
     <td>✅</td>
-    <td>❌ (<lang="en"> invalid aria-labelledby id (Ensure that the id values refer to a valid element)</lang></td>
+    <td>❌ (<span lang="en"> invalid aria-labelledby id (Ensure that the id values refer to a valid element)</span></td>
     <td>❌</td>
     <td>?</td>
   <td></td>
@@ -800,7 +800,7 @@ Notat: Det er litt uklart hva som testes og ikke testes. Det er noe repeterende 
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a></td>
   </tr>
   <tr>
-    <th scope="row"><lang="en">noButtonText</lang></th>
+    <th scope="row"><span lang="en">noButtonText</span></th>
     <td>❌</td>
     <td>✅</td>
     <td>❌</td>
@@ -889,9 +889,9 @@ kommer
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a></td>
   </tr>
   <tr>
-    <th scope="row"><lang="en">The aria-labelledby attribute must point to an element in the same document.</lang></th>
+    <th scope="row"><span lang="en">The aria-labelledby attribute must point to an element in the same document.</span></th>
     <td>✅</td>
-    <td>❌ (<lang="en">invalid aria-labelledby id (Ensure that the id values refer to a valid element)</lang></td>
+    <td>❌ (<span lang="en">invalid aria-labelledby id (Ensure that the id values refer to a valid element)</span></td>
     <td>✅</td>
     <td>?</td>
     <td></td>

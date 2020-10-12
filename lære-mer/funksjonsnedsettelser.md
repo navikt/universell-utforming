@@ -1,5 +1,5 @@
 # Lær mer om funksjonsnedsettelser
-- Kognitivt
+- Kognisjon
 - Syn
 - Hørsel
 - Tale

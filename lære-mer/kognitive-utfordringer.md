@@ -10,7 +10,7 @@
 NB! Ofte har en og samme person flere kognitive utfordringer.
 
 ### Verdt å se eller høre:
-[![Filmer om universell utforming: Tilrettelegging av demensvennlige omgivelser](https://cdn.embedly.com/widgets/media.html?src=https://player.vimeo.com/video/243965155&dntp=1&url=https://vimeo.com/243965155&image=https://i.vimeocdn.com/video/669709337_1280.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text/html&schema=vimeo%2)
+[Filmer om universell utforming - tilrettelegging av demensvennlige omgivelser](https://www.uufilm.no/film/tilrettelegging-av-demensvennlige-omgivelser)
 
 ### Kilder:
 - [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/)

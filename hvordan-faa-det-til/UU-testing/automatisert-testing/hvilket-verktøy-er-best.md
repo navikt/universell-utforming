@@ -757,3 +757,21 @@ ONKEY handlers on static elements like DIV and SPAN cannot be triggered unless T
 </table>
 
 ### Det verktøyene ikke tester på skjema
+Notat: Det er litt uklart hva som testes og ikke testes. Det er noe repeterende info. Denne tabellen trenger bearbeidelse (p004)
+
+- Om label beskriver formålet med skjemafeltet 2.4.6
+- Når et skjemaelement får fokus: Skjer det en kontekstendring?3.2.1
+- Ved utfyllelse av skjema: Skjer det en automatisk konmtekstendring? (unntak: ok, dersom brukeren blir varslet om det før bruk av komponenten) 3.2.2
+- Hvis en inndatafeil blir oppdaget automatisk. Får brukeren en tekstlig beskrivelse av feilen og hvor feilen oppstår? 3.3.1
+- Hvis skjemafeltet krever spesielt format: Er formatete spesifisert?3.3.2
+- Hvis bruker fyller ut skjemaet feil: Får brukeren en feilmelding med konkrete forslag til øsning? 3.3.3
+- Får brukerne mulighet til å bekrefte, kontrollere og/eller endre sine data iskjema med viktige formål? 3.3.4
+- Fungerer tastaturnavigasjonen slik den skal på skjemaelementene? Bl.a:
+  - Tekstfelt
+  - Radioknapper
+  - Nedtrekklister
+  - Knapper
+  - Datovelger
+- Får alle skjema elementet synlig fokus? Husk å test datovelgeren, modalvindu og nedtrekkslister
+- Fungerer skemaelemntet som de skal
+- Nav ønsker ikke å å bruke inaktive knapper/funksjoner. SaaS testser ikke om denne typen funksjoner har blitt brukt.

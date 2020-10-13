@@ -1,11 +1,11 @@
 # Lær mer om funksjonsnedsettelser
-- [Kognisjon](../#kognitve-utfordringer)
-- [Syn](../#Syn)
+- [Kognisjon](#kognitve-utfordringer)
+- [Syn](#Syn)
 - [Hørsel](#Hørsel)
-- [Tale](../#Tale)
-- [Mobilitet](../#Hørsel)
-- [Psykologisk/Psykiatrisk](../#Psykologisk/Psykiatrisk)
-- [Anfall](../#Anfall)
+- [Tale](#Tale)
+- [Mobilitet](#Hørsel)
+- [Psykologisk/Psykiatrisk](#psyk)
+- [Anfall](#Anfall)
 
 ## Kognitive utfordringer
 ### Tall og fakta
@@ -105,23 +105,23 @@ bilde Retintis pigmentosa
 - bildetekster for videoer
 - transkripsjoner for video eller lyd
 - tolkning i form av tegnspråk
-## Døvblind
+## Døvblind <span id="døvblind"></span>
 ### Kort om døvblinde
 - Ca 7.500 personer i Norge er både døve og blinde.
 **Hjelpemidler og metoder**
 - Transkripsjoner for video eller lyd konvertert til punktskrift
 - Taktil tegnspråktolkning
 
-## Tale
+## Tale <span id="tale"></span>
 ### Tall og fakta
 
-## Mobilitet
+## Mobilitet <span id="mobilitet"></span>
 ### Tall og fakta
 
-## Psykologisk/Psykiatrisk
+## Psykologisk/Psykiatrisk <span id="Psyk"></span>
 ### Tall og fakta
 
-## Anfall
+## Anfall <span id="anfall"></span>
 ### Tall og fakta
 
 #### Definisjon

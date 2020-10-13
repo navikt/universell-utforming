@@ -1,13 +1,13 @@
 # Lær mer om funksjonsnedsettelser
-- [Kognisjon](#kognitve-utfordringer)
+- [Kognisjon](#kognitivt)
 - [Syn](#Syn)
-- [Hørsel](#Hørsel)
+- [Hørsel](#Horsel)
 - [Tale](#Tale)
 - [Mobilitet](#mobilitet)
 - [Psykologisk/Psykiatrisk](#psyk)
 - [Anfall](#Anfall)
 
-## Kognitive utfordringer
+## Kognitive utfordringer <span id="kognitivt"></span>
 ### Tall og fakta
 - Intellektuelle funksjonsnedsettelser (ca 75.000)
 - Lesing og dysleksi (ca 700.000)
@@ -91,7 +91,7 @@ Kilde: https://www.blindeforbundet.no/oyehelse-og-synshemninger/retinitis-pigmen
 bilde Retintis pigmentosa
 
 
-## Hørsel <span id="hørsel"></span>
+## Hørsel <span id="horsel"></span>
 ### Tall og fakta
 #### Sterkt nedsatt hørsel/døv**
 - Antall personer som er døve i Norge er ca 5000.

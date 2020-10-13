@@ -1,11 +1,11 @@
 # Lær mer om funksjonsnedsettelser
-- [Kognisjon](../lære-mer/#kognitve-utfordringer)
-- [Syn](../lære-mer/#Syn)
-- [Hørsel](../lære-mer/#Hørsel)
-- [Tale](../lære-mer/#Tale)
-- [Mobilitet](../lære-mer/#Hørsel)
-- [Psykologisk/Psykiatrisk](../lære-mer/#Psykologisk/Psykiatrisk)
-- [Anfall](../lære-mer/#Anfall)
+- [Kognisjon](../#kognitve-utfordringer)
+- [Syn](../#Syn)
+- [Hørsel](#Hørsel)
+- [Tale](../#Tale)
+- [Mobilitet](../#Hørsel)
+- [Psykologisk/Psykiatrisk](../#Psykologisk/Psykiatrisk)
+- [Anfall](../#Anfall)
 
 ## Kognitive utfordringer
 ### Tall og fakta
@@ -21,8 +21,8 @@ NB! Ofte har en og samme person flere kognitive utfordringer.
 **Om å leve med demens**
 [Filmer om universell utforming - tilrettelegging av demensvennlige omgivelser](https://www.uufilm.no/film/tilrettelegging-av-demensvennlige-omgivelser)
 
-## Syn
-### Macular degeneration
+## Syn <span id="syn"></span>
+### Macular degeneration 
 #### Egenskaper
 Aldersrelatert maculadegenerasjon (AMD) er en øyesykdom der den gule flekken (macula) sentralt i netthinnen er svekket. Sykdommen omtales ofte som svekkelse av skarpsynet. AMD er også omtalt som forkalkning på øyet – men dette er misvisende, siden øyesykdommen ikke har noen ting med forkalkninger å gjøre.
 #### Symptomer og kjennetegn
@@ -91,7 +91,7 @@ Kilde: https://www.blindeforbundet.no/oyehelse-og-synshemninger/retinitis-pigmen
 bilde Retintis pigmentosa
 
 
-## Hørsel
+## Hørsel <span id="hørsel"></span>
 ### Tall og fakta
 #### Sterkt nedsatt hørsel/døv**
 - Antall personer som er døve i Norge er ca 5000.
@@ -143,7 +143,7 @@ bilde Retintis pigmentosa
 
 #### Kilder:
 - [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/)
-- [IAAP](https://www.accessibilityassociation.org/)
+- [International Association of Accessaibility Professionals - IAAP](https://www.accessibilityassociation.org/)
 - https://www.blindeforbundet.no/
 - https://www.memira.no/
 - https://helsenorge.no/

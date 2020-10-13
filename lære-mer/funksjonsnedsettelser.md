@@ -1,11 +1,11 @@
 # Lær mer om funksjonsnedsettelser
 - [Kognisjon](#kognitivt)
-- [Syn](#Syn)
-- [Hørsel](#Horsel)
-- [Tale](#Tale)
+- [Syn](#syn)
+- [Hørsel](#horsel)
+- [Tale](#tale)
 - [Mobilitet](#mobilitet)
 - [Psykologisk/Psykiatrisk](#psyk)
-- [Anfall](#Anfall)
+- [Anfall](#anfall)
 
 ## Kognitive utfordringer <span id="kognitivt"></span>
 ### Tall og fakta
@@ -118,7 +118,7 @@ bilde Retintis pigmentosa
 ## Mobilitet <span id="mobilitet"></span>
 ### Tall og fakta
 
-## Psykologisk/Psykiatrisk <span id="Psyk"></span>
+## Psykologisk/Psykiatrisk <span id="psyk"></span>
 ### Tall og fakta
 
 ## Anfall <span id="anfall"></span>

@@ -3,7 +3,7 @@
 - [Syn](#Syn)
 - [Hørsel](#Hørsel)
 - [Tale](#Tale)
-- [Mobilitet](#Hørsel)
+- [Mobilitet](#mobilitet)
 - [Psykologisk/Psykiatrisk](#psyk)
 - [Anfall](#Anfall)
 

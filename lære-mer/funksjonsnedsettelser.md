@@ -1,5 +1,5 @@
 # Forskjellige funksjonsnedsettelser
-- [Anfall](../anfall.md)
+- [Anfall](../funksjonsnedsettelser/anfall.md)
 - [Hørsel](horsel.md)
 - [Kognisjon](kognisjon.md)
 - [Mobilitet](mobilitet.md)

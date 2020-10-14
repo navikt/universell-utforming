@@ -1,9 +1,9 @@
 # Hørsel
 ## Tall og fakta
-### Sterkt nedsatt hørsel/døv**
+### Sterkt nedsatt hørsel/døv
 - Antall personer som er døve i Norge er ca 5000.
 
-### Nedsatt hørsel**
+### Nedsatt hørsel
 - Antall med sterk hørselsnedsettelse er ca 750.000
 
 ### Hjelpemidler og metoder
@@ -13,7 +13,7 @@
 - transkripsjoner for video eller lyd
 - tolkning i form av tegnspråk
 
-## Døvblind <span id="døvblind"></span>
+## Døvblind
 ### Kort om døvblinde
 - Ca 7.500 personer i Norge er både døve og blinde.
 ### Hjelpemidler og metoder

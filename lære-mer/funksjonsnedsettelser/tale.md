@@ -1,2 +1,2 @@
-## Tale
-### Tall og fakta
+# Tale
+## Tall og fakta

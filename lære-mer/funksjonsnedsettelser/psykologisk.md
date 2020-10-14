@@ -1,2 +1,2 @@
-## Psykologisk/Psykiatrisk
-### Tall og fakta
+# Psykologisk/Psykiatrisk
+## Tall og fakta

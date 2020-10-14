@@ -6,4 +6,3 @@
 - [Mobilitet](../funksjonsnedsettelser/mobilitet.md)
 - [Psykologisk/Psykiatrisk](../funksjonsnedsettelser/psykologisk.md)
 - [Anfall](../funksjonsnedsettelser/anfall.md)
-

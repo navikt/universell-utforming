@@ -1,8 +1,8 @@
 # Forskjellige funksjonsnedsettelser
-- [Anfall](../funksjonsnedsettelser/anfall.md)
-- [Hørsel](funksjonsnedsettelser/horsel.md)
+- [Anfall](anfall.md)
+- [Hørsel](horsel.md)
 - [Kognisjon](kognisjon.md)
-- [Mobilitet](../funksjonsnedsettelser/mobilitet.md)
+- [Mobilitet](mobilitet.md)
 - [Syn](syn.md)
-- [Tale](../funksjonsnedsettelser/tale.md)
-- [Psykologisk/Psykiatrisk](../funksjonsnedsettelser/psykologisk.md)
+- [Tale](tale.md)
+- [Psykologisk/Psykiatrisk](psykologisk.md)

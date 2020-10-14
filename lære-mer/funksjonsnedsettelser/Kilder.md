@@ -1,4 +1,4 @@
-# Kilder:
+# Kilder
 - [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/)
 - [International Association of Accessaibility Professionals - IAAP](https://www.accessibilityassociation.org/)
 - https://www.blindeforbundet.no/

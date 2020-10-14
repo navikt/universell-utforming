@@ -20,7 +20,7 @@ NB! Ofte har en og samme person flere kognitive utfordringer.
 #### Verdt å se eller høre:
 **Om å leve med demens**
 [Filmer om universell utforming - tilrettelegging av demensvennlige omgivelser](https://www.uufilm.no/film/tilrettelegging-av-demensvennlige-omgivelser)
-
+<!--kommentar -->
 ## Syn <span id="syn"></span>
 ### Macular degeneration 
 #### Egenskaper

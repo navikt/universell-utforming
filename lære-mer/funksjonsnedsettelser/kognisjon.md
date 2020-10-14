@@ -1,4 +1,4 @@
-# Kognitive utfordringer
+# Kognisjon
 ## Tall og fakta
 - Intellektuelle funksjonsnedsettelser (ca 75.000)
 - Lesing og dysleksi (ca 700.000)

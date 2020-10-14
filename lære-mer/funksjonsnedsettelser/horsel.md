@@ -1,4 +1,4 @@
-## Hørsel <span id="horsel"></span>
+## Hørsel
 ### Tall og fakta
 #### Sterkt nedsatt hørsel/døv**
 - Antall personer som er døve i Norge er ca 5000.

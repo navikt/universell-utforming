@@ -1,4 +1,4 @@
-## Anfall <span id="anfall"></span>
+## Anfall
 ### Tall og fakta
 
 #### Definisjon

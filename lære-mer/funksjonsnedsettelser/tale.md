@@ -1,2 +1,2 @@
-## Tale <span id="tale"></span>
+## Tale
 ### Tall og fakta

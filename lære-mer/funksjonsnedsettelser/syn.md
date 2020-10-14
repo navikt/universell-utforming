@@ -1,4 +1,4 @@
-## Syn <span id="syn"></span>
+## Syn
 ### Macular degeneration 
 #### Egenskaper
 Aldersrelatert maculadegenerasjon (AMD) er en øyesykdom der den gule flekken (macula) sentralt i netthinnen er svekket. Sykdommen omtales ofte som svekkelse av skarpsynet. AMD er også omtalt som forkalkning på øyet – men dette er misvisende, siden øyesykdommen ikke har noen ting med forkalkninger å gjøre.

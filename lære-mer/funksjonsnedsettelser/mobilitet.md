@@ -1,2 +1,2 @@
-## Mobilitet <span id="mobilitet"></span>
+## Mobilitet
 ### Tall og fakta

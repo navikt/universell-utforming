@@ -1,2 +1,2 @@
-## Psykologisk/Psykiatrisk <span id="psyk"></span>
+## Psykologisk/Psykiatrisk
 ### Tall og fakta

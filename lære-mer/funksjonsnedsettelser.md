@@ -1,4 +1,4 @@
-# Noen funksjonsnedsettelser
+# Om forskjellige funksjonsnedsettelser
 - [Kognisjon](kognitivt.md)
 - [Syn](syn.md)
 - [Hørsel](funksjonsnedsettelser/horsel.md)

@@ -1,5 +1,5 @@
-# Lær mer om funksjonsnedsettelser
-- [Kognisjon](../funksjonsnedsettelser/kognitivt.md)
+# Noen funksjonsnedsettelser
+- [Kognisjon](../kognitivt.md)
 - [Syn](../funksjonsnedsettelser/syn.md)
 - [Hørsel](../funksjonsnedsettelser/horsel.md)
 - [Tale](../funksjonsnedsettelser/tale.md)

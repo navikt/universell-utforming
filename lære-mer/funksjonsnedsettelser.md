@@ -6,16 +6,13 @@
 <lenkepanel href="../funksjonsnedsettelser/syn/" border>Syn</lenkepanel>
 <lenkepanel href="../funksjonsnedsettelser/tale/" border>Tale</lenkepanel>
 <lenkepanel href="../funksjonsnedsettelser/psykologisk/" border>Psykologisk</lenkepanel>
-<<<<<<< HEAD
 
 ##Kilder
-<Lesmerpanel> Informasjon og fakta om de forskjellige funksjonsnedsettelsene er hentet fra
+<lesmerpanel> Informasjon og fakta om de forskjellige funksjonsnedsettelsene er hentet fra
 - [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/)
 - [International Association of Accessaibility Professionals - IAAP](https://www.accessibilityassociation.org/)
 - https://www.blindeforbundet.no/
 - https://www.memira.no/
 - https://helsenorge.no/
 - https://en.wikipedia.org/wiki/Diabetic_retinopathy
-</Lesmerpanel>
-=======
->>>>>>> d6d3ac1154a5981c5ed995d11ffe189271d51565
+</lesmerpanel>

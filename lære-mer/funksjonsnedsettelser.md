@@ -6,6 +6,7 @@
 <lenkepanel href="../funksjonsnedsettelser/syn/" border>Syn</lenkepanel>
 <lenkepanel href="../funksjonsnedsettelser/tale/" border>Tale</lenkepanel>
 <lenkepanel href="../funksjonsnedsettelser/psykologisk/" border>Psykologisk</lenkepanel>
+<<<<<<< HEAD
 
 ##Kilder
 <Lesmerpanel> Informasjon og fakta om de forskjellige funksjonsnedsettelsene er hentet fra
@@ -16,3 +17,5 @@
 - https://helsenorge.no/
 - https://en.wikipedia.org/wiki/Diabetic_retinopathy
 </Lesmerpanel>
+=======
+>>>>>>> d6d3ac1154a5981c5ed995d11ffe189271d51565

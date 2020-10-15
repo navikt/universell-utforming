@@ -8,11 +8,27 @@
 <lenkepanel href="../funksjonsnedsettelser/psykologisk/" border>Psykologisk</lenkepanel>
 
 ##Kilder
-<lesmerpanel> Informasjon om de forskjellige funksjonsnedsettelsene er hentet fra
+<Lesmerpanel
+  intro={
+    <span>
+      Informasjon om de forskjellige funksjonsnedsettelsene er hentet fra er...
+    </span>
+  }
+  border
+>
+  <div>
+    <p style={{ marginTop: 0 }}>
 - [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/)
-- [International Association of Accessaibility Professionals - IAAP](https://www.accessibilityassociation.org/)
+- [International Association of Accessaibility Professionals 
+- IAAP](https://www.accessibilityassociation.org/)
 - https://www.blindeforbundet.no/
 - https://www.memira.no/
 - https://helsenorge.no/
 - https://en.wikipedia.org/wiki/Diabetic_retinopathy
-</lesmerpanel>
+    </p>
+  </div>
+</Lesmerpanel>
+
+
+
+

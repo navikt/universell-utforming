@@ -8,7 +8,7 @@
 <lenkepanel href="../funksjonsnedsettelser/psykologisk/" border>Psykologisk</lenkepanel>
 
 ##Kilder
-<lesmerpanel> Informasjon og fakta om de forskjellige funksjonsnedsettelsene er hentet fra
+<lesmerpanel> Informasjon om de forskjellige funksjonsnedsettelsene er hentet fra
 - [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/)
 - [International Association of Accessaibility Professionals - IAAP](https://www.accessibilityassociation.org/)
 - https://www.blindeforbundet.no/

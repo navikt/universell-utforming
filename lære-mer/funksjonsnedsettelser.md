@@ -1,6 +1,6 @@
 # Forskjellige funksjonsnedsettelser
 
-<lenkepanel href="../funksjonsnedsettelser/anfall/">Anfall</lenkepanel>
+<lenkepanel href="../funksjonsnedsettelser/anfall/" border>Anfall</lenkepanel>
 
 - [Hørsel](../funksjonsnedsettelser/horsel/)
 - [Kognisjon](../funksjonsnedsettelser/kognisjon/)

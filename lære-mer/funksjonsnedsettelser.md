@@ -1,5 +1,7 @@
 # Forskjellige funksjonsnedsettelser
-- [Anfall](../funksjonsnedsettelser/anfall/)
+
+<lenkepanel href="../funksjonsnedsettelser/anfall/">Anfall</lenkepanel>
+
 - [Hørsel](../funksjonsnedsettelser/horsel/)
 - [Kognisjon](../funksjonsnedsettelser/kognisjon/)
 - [Mobilitet](../funksjonsnedsettelser/mobilitet/)

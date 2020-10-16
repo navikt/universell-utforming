@@ -15,6 +15,9 @@ Nedsatt funksjonsevne eller funksjonsnedsettelse er individuelle forhold som bid
 - [Syn](../funksjonsnedsettelser/syn/)
 - [Psykisk](../funksjonsnedsettelser/psykologisk/)
 
+<Ekspanderbartpanel tittel="Klikk her for å åpne/lukke panelet">
+  Panelet vil da ekspandere og vise innholdet.
+</Ekspanderbartpanel>
 
 ### Kilder
 - [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/)

@@ -1,11 +1,13 @@
 # Forskjellige funksjonsnedsettelser
-<lenkepanel href="../funksjonsnedsettelser/anfall/" border>Anfall</lenkepanel> 
-<lenkepanel href="../funksjonsnedsettelser/horsel/" border>Hørsel</lenkepanel>
-<lenkepanel href="../funksjonsnedsettelser/kognisjon/" border>Kognisjon</lenkepanel>
-<lenkepanel href="../funksjonsnedsettelser/mobilitet/" border>Mobilitet</lenkepanel>
-<lenkepanel href="../funksjonsnedsettelser/syn/" border>Syn</lenkepanel>
-<lenkepanel href="../funksjonsnedsettelser/tale/" border>Tale</lenkepanel>
-<lenkepanel href="../funksjonsnedsettelser/psykologisk/" border>Psykologisk</lenkepanel>
+<Lenkepanel href="../funksjonsnedsettelser/anfall/" border>Anfall</Lenkepanel> 
+<Lenkepanel href="../funksjonsnedsettelser/horsel/" border>Hørsel</Lenkepanel>
+<Lenkepanel href="../funksjonsnedsettelser/kognisjon/" border>Kognisjon</Lenkepanel>
+<Lenkepanel href="../funksjonsnedsettelser/mobilitet/" border>Mobilitet</Lenkepanel>
+<Lenkepanel href="../funksjonsnedsettelser/syn/" border>Syn</Lenkepanel>
+<Lenkepanel href="../funksjonsnedsettelser/tale/" border>Tale</Lenkepanel>
+<Lenkepanel href="../funksjonsnedsettelser/psykologisk/" border>Psykologisk</Lenkepanel>
+
+<lenkepanelBase href="../funksjonsnedsettelser/anfall/" border>Anfall</Lenkepanel> 
 
 
 

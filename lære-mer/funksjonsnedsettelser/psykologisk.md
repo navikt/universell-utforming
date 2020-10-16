@@ -16,7 +16,7 @@ Psykiske vansker er utbredt i den norske befolkningen, og mellom 30 % og 50 % vi
 - Halvparten av personer med nedsatt funksjonsevne har betydelige psykiske vansker.
 
 ## Sinnsstemning
-En analyse utgitt av SSB i 2010 viste at det var klare forskjeller mellom befolkningen generelt og personer med nedsatt funksjonsevne i en rekke tilstander som kan knyttes til sinnsstemningen: 
+- En analyse utgitt av SSB i 2010 viste at det var klare forskjeller mellom befolkningen generelt og personer med nedsatt funksjonsevne i en rekke tilstander som kan knyttes til sinnsstemningen: 
 - I overkant av 70 % i befolkningen og 40 % blant personer med nedsatt funksjonsevne oppgir at de har følt seg glade mye av tiden i en fireukersperiode. Det er liten forskjell mellom menn og kvinner.
 - Følelse av rastløshet og nervøsitet er langt mer utbredt blant personer med nedsatt funksjonsevne enn blant befolkningen generelt.
 - I overkant av 1 % av befolkningen oppga å ha vært ganske mye eller veldig plaget av tanker om å ta sitt eget liv. Blant personer med nedsatt funksjonsevne hadde hele 6 % vært plaget med tilsvarende tanker.

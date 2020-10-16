@@ -9,3 +9,15 @@ Nedsatt funksjonsevne innebærer tap av, skade på eller avvik i en kroppsdel el
 - [Syn](../funksjonsnedsettelser/syn/)
 - [Tale](../funksjonsnedsettelser/tale/)
 - [Psykisk](../funksjonsnedsettelser/psykologisk/)
+
+
+### Kilder
+<Ekspanderbartpanel tittel="Klikk her for å se kildene vi har brukt">
+- [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/)
+- [International Association of Accessaibility Professionals - IAAP](https://www.accessibilityassociation.org/)
+- [Blindeforbundet](https://www.blindeforbundet.no/)
+- [Memira](https://www.memira.no/)
+- [Helsenorge.no](https://helsenorge.no/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Diabetic_retinopathy)
+- [Bufdir](https://bufdir.no/)
+</Ekspanderbartpanel>

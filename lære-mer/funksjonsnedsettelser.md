@@ -7,7 +7,7 @@ Nedsatt funksjonsevne eller funksjonsnedsettelse er individuelle forhold som bid
 ## Vurdering av funksjonsevne
 - Funksjonsevne er gjerne statistisk definert; «Er personens funksjonsevne over eller under det som kan forventes av en person i den alder i dette samfunnet?»
 - For eksempel vil en 50 år gammel person med mildt redusert gangfunksjon regnes som en person med funksjonsnedsettelse, mens en 90 år gammel person med identisk gangfunksjon neppe vil regnes som en person med funksjonsnedsettelse.
-
+## Mer om forskjellige funksjonsnedsettelser
 - [Anfall](../funksjonsnedsettelser/anfall/)
 - [Hørsel](../funksjonsnedsettelser/horsel/)
 - [Kognisjon](../funksjonsnedsettelser/kognisjon/)

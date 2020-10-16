@@ -7,9 +7,5 @@
 <Lenkepanel href="../funksjonsnedsettelser/tale/" border>Tale</Lenkepanel>
 <Lenkepanel href="../funksjonsnedsettelser/psykologisk/" border>Psykologisk</Lenkepanel>
 
-<lenkepanelBase href="../funksjonsnedsettelser/anfall/" border>Anfall</Lenkepanel> 
-
-
-
 
 

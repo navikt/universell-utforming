@@ -14,9 +14,6 @@ Nedsatt funksjonsevne eller funksjonsnedsettelse er individuelle forhold som bid
 - [Bevegelse](../funksjonsnedsettelser/mobilitet/)
 - [Syn](../funksjonsnedsettelser/syn/)
 - [Psykisk](../funksjonsnedsettelser/psykologisk/)
-
-<Etikett type="info">Eksterne lenker</Etikett>
-
 ### Kilder
 - [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/)
 - [Norges Handikapforbund](https://nhf.no/)

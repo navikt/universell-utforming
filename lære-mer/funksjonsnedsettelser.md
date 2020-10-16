@@ -13,7 +13,6 @@ Nedsatt funksjonsevne eller funksjonsnedsettelse er individuelle forhold som bid
 - [Kognisjon](../funksjonsnedsettelser/kognisjon/)
 - [Bevegelse](../funksjonsnedsettelser/mobilitet/)
 - [Syn](../funksjonsnedsettelser/syn/)
-- [Tale](../funksjonsnedsettelser/tale/)
 - [Psykisk](../funksjonsnedsettelser/psykologisk/)
 
 

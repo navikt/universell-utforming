@@ -1,4 +1,4 @@
-# Bevegelse/Mobilitet
+# Bevegelse
 Bevegelseshemning, forflytningshemning, er en nedsatt evne til bevegelse og forflytning, en form for funksjonshemning. Bevegelseshemning har som oftest fysiske årsaker (for eksempel sykdom eller skade), men kan også ha psykiske årsaker (for eksempel angst).
 
 Bevegelseshemning kan være forbigående (for eksempel etter skade eller operasjon) eller varig (for eksempel ved medfødte misdannelser).
@@ -16,6 +16,6 @@ Bevegelseshemning kan være forbigående (for eksempel etter skade eller operasj
 - 18 % av personer med nedsatt funksjonsevne synes det er vanskelig økonomisk å få endene til å møtes.
 - 1 av 4 personer med nedsatt funksjonsevne har ytelser fra folketrygden som hovedinntektskilde.
 
-Tallene over er hentet fra [Barne- ungdoms- og familiedirektotatet statistikkbank][https://bufdir.no/Statistikk_og_analyse/Nedsatt_funksjonsevne/] på nett. Her kan du finne mye nyttig informasjon, både forskning og tall, om blant annet helse, økonomi, fritid og deltakelse, innvandrere med nedsatt funksjonsevne og mye, mye mer. Sjekk ut: https://bufdir.no.
+Tallene over er hentet fra [Barne- ungdoms- og familiedirektotatet statistikkbank](https://bufdir.no/Statistikk_og_analyse/Nedsatt_funksjonsevne/) på nett. Her kan du finne mye nyttig informasjon, både forskning og tall, om blant annet helse, økonomi, fritid og deltakelse, innvandrere med nedsatt funksjonsevne og mye, mye mer. Sjekk ut: https://bufdir.no.
 
 Kilde: [Norges Handikapforbund](https://nhf.no/for-tillitsvalgte/abc-om-nhf/tall-og-fakta/) 

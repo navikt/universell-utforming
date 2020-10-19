@@ -1,8 +1,7 @@
 # Forskjellige funksjonsnedsettelser
 ## Hva er nedsatt funksjonsevne? 
 Nedsatt funksjonsevne eller funksjonsnedsettelse er individuelle forhold som bidrar til at funksjonshemning kan oppstå. Nedsatt funksjonsevne kan være tap av, eller skade på, en kroppsdel eller en sansefunksjon, for eksempel syn.
-- Et vanlig anslag er at 15 prosent av befolkningen har en eller annen funksjonsnedsettelse, det være seg bevegelseshemming, nedsatt syn eller hørsel eller psykososiale funksjonsnedsettelser. 
-- NB! Det er viktig å presisere at tallene avhenger av hvordan man definerer funksjonsnedsettelse.
+- Et vanlig anslag er at 20 prosent av befolkningen har en eller annen funksjonsnedsettelse, det være seg bevegelseshemming, nedsatt syn eller hørsel eller psykososiale funksjonsnedsettelser. Det er viktig å presisere at tallene avhenger av hvordan man definerer funksjonsnedsettelse.
 
 ## Vurdering av funksjonsevne
 - Funksjonsevne er gjerne statistisk definert; «Er personens funksjonsevne over eller under det som kan forventes av en person i den alder i dette samfunnet?»

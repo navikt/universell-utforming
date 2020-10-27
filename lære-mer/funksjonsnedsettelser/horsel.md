@@ -7,8 +7,10 @@ Hørselshemming er en fellesbetegnelse som omfatter alle grader og arter av hør
 ## Tall og fakta
 ### Tunghørt - sterkt nedsatt hørsel
 - Antall med sterk hørselsnedsettelse er ca 750.000
+
 ### Døve
 - Antall personer som er døve i Norge er ca 5000.
+
 ### Hjelpemidler og metoder
 - høreapparater
 - implantater

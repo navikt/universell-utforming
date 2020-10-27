@@ -20,14 +20,14 @@ Nedsatt funksjonsevne eller funksjonsnedsettelse er individuelle forhold som bid
 
 ### Kilder
 <Ekspanderbartpanel tittel="Se kilder">
-- [Tilsynet for universell utforming av IKT (Digitaliseringsdirektoratet)](https://uu.difi.no)
-- [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/)
-- [Norges Handikapforbund](https://nhf.no/)
-- [International Association of Accessaibility Professionals - IAAP](https://www.accessibilityassociation.org/)
-- [Blindeforbundet](https://www.blindeforbundet.no/)
-- [Memira](https://www.memira.no/)
-- [Helsenorge.no](https://helsenorge.no/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Diabetic_retinopathy)
-- [Bufdir](https://bufdir.no/)
-- [Store norske leksikon](https://snl.no/)
+- [Tilsynet for universell utforming av IKT (Digitaliseringsdirektoratet)](https://uu.difi.no) (ekstern lenke)
+- [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/) (ekstern lenke)
+- [Norges Handikapforbund](https://nhf.no/) (ekstern lenke)
+- [International Association of Accessaibility Professionals - IAAP](https://www.accessibilityassociation.org/) (ekstern lenke)
+- [Blindeforbundet](https://www.blindeforbundet.no/) (ekstern lenke)
+- [Memira](https://www.memira.no/) (ekstern lenke)
+- [Helsenorge.no](https://helsenorge.no/) (ekstern lenke)
+- [Wikipedia](https://en.wikipedia.org/wiki/Diabetic_retinopathy) (ekstern lenke)
+- [Bufdir](https://bufdir.no/) (ekstern lenke)
+- [Store norske leksikon](https://snl.no/) (ekstern lenke)
 </Ekspanderbartpanel>

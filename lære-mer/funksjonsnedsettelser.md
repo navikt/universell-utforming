@@ -1,4 +1,4 @@
-# Forskjellige funksjonsnedsettelser
+# Litt om forskjellige funksjonsnedsettelser
 ## Hva er nedsatt funksjonsevne? 
 Nedsatt funksjonsevne eller funksjonsnedsettelse er individuelle forhold som bidrar til at funksjonshemning kan oppstå. Nedsatt funksjonsevne kan være tap av, eller skade på, en kroppsdel eller en sansefunksjon, for eksempel syn.
 - Nær 1 av 5 nordmenn mellom 16 og 66 år har nedsatt funksjonsevne. 

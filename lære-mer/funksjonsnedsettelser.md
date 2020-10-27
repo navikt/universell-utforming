@@ -19,6 +19,7 @@ Nedsatt funksjonsevne eller funksjonsnedsettelse er individuelle forhold som bid
 - [Psykisk](../funksjonsnedsettelser/psykologisk/)
 
 ### Kilder
+<Ekspanderbartpanel tittel="Se kilder">
 - [Tilsynet for universell utforming av IKT (Digitaliseringsdirektoratet)](https://uu.difi.no)
 - [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/)
 - [Norges Handikapforbund](https://nhf.no/)
@@ -29,3 +30,4 @@ Nedsatt funksjonsevne eller funksjonsnedsettelse er individuelle forhold som bid
 - [Wikipedia](https://en.wikipedia.org/wiki/Diabetic_retinopathy)
 - [Bufdir](https://bufdir.no/)
 - [Store norske leksikon](https://snl.no/)
+</Ekspanderbartpanel>

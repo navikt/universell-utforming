@@ -13,5 +13,6 @@ Disse sidene er hovedsakelig tenkt for utviklingsteam i NAV. Målet er å gi der
    - [UU-testing](/hvordan-faa-det-til/UU-testing/), inkludert automatisert testing, manuell testing etter tema som bilder eller tastaturnavigasjon og brukertesting
    - [Tips etter rolle](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/README.md#tips-etter-rolle-i-team)
 * [Hva er egentlig universell utforming?](/hva-er-uu/)
+* [Lær mer om universell utforming](https://navikt.github.io/uu/l%C3%A6re-mer/)
 
 <alertstripe type="advarsel">Se gjerne også [Digitaliseringsdirektoratets informasjon om universell utforming](https://uu.difi.no/kva-er-universell-utforming) for mer informasjon om temaet.</alertstripe>

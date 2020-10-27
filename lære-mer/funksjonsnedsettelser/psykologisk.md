@@ -22,4 +22,4 @@ Psykiske vansker er utbredt i den norske befolkningen, og mellom 30 % og 50 % vi
 - I overkant av 1 % av befolkningen oppga å ha vært ganske mye eller veldig plaget av tanker om å ta sitt eget liv. Blant personer med nedsatt funksjonsevne hadde hele 6 % vært plaget med tilsvarende tanker.
 - 15 % av personer med nedsatt funksjonsevne sa de benyttet depresjonsmedisiner daglig, mens tilsvarende i befolkningen var ca. 4 %. 
 
-Kilde: [Bufdir](https://bufdir.no/Statistikk_og_analyse/Nedsatt_funksjonsevne/Helse/Psykisk_helse/) - her finner du mer utdypende og god informasjon om dette temaet.
+Kilde: [Bufdir](https://bufdir.no/Statistikk_og_analyse/Nedsatt_funksjonsevne/Helse/Psykisk_helse/) (ekstern lenke) - her finner du mer utdypende og god informasjon om dette temaet.

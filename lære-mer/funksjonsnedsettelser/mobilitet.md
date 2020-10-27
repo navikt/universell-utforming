@@ -16,6 +16,6 @@ Bevegelseshemning kan være forbigående (for eksempel etter skade eller operasj
 - 18 % av personer med nedsatt funksjonsevne synes det er vanskelig økonomisk å få endene til å møtes.
 - 1 av 4 personer med nedsatt funksjonsevne har ytelser fra folketrygden som hovedinntektskilde.
 
-Tallene over er hentet fra [Barne- ungdoms- og familiedirektotatet statistikkbank](https://bufdir.no/Statistikk_og_analyse/Nedsatt_funksjonsevne/) på nett. Her kan du finne mye nyttig informasjon, både forskning og tall, om blant annet helse, økonomi, fritid og deltakelse, innvandrere med nedsatt funksjonsevne og mye, mye mer. Sjekk ut: https://bufdir.no.
+Tallene over er hentet fra [Barne- ungdoms- og familiedirektotatet statistikkbank](https://bufdir.no/Statistikk_og_analyse/Nedsatt_funksjonsevne/) (ekstern lenke) på nett. Her kan du finne mye nyttig informasjon, både forskning og tall, om blant annet helse, økonomi, fritid og deltakelse, innvandrere med nedsatt funksjonsevne og mye, mye mer. Sjekk ut: https://bufdir.no (ekstern lenke).
 
-Kilde: [Norges Handikapforbund](https://nhf.no/for-tillitsvalgte/abc-om-nhf/tall-og-fakta/) 
+Kilde: [Norges Handikapforbund](https://nhf.no/for-tillitsvalgte/abc-om-nhf/tall-og-fakta/) (ekstern lenke)

@@ -27,7 +27,7 @@ De er suksessfaktorene for å oppnå god universell utforming (UU):
 <!-- helst ønsker jeg dette:
 <ekspanderbartpanel tittel="Hva må vi gjøre for å være i tråd med minimumskrav?"> innholdet under (minus tittelen) </ekspanderbartpanel> -->
 Her er minimums to-do for å nå kravene fra lovverket:
-- Løsningen testes fortløpende opp mot WCAG-krav. Fra 2021 er dette [WCAG 2.1](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21). Dette krever en kombinasjon av [automatisert test](/hvordan-faa-det-til/UU-testing/automatisert-testing/) og [manuell test](/hvordan-faa-det-til/UU-testing/manuell-testing/). 
+- Løsningen testes fortløpende opp mot WCAG-krav. Fra 2021 er dette [WCAG 2.1](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21). Dette krever en kombinasjon av [automatisert test](/hvordan-faa-det-til/UU-testing/automatisert-testing/) og [manuell test](/hvordan-faa-det-til/UU-testing/manuell-testing/). På siden om manuell test finner du informasjon samlet etter tema, som bilder, tastaturnavigasjon eller lenker.
 - WCAG-Feil på nivå A og AA blir fortløpende rettet.
 - Eventuelle varige avvik fra WCAG-kravene begrunnes skriftlig.
 

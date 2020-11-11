@@ -6,15 +6,13 @@ Del gjerne egne erfaringer på uu@nav.no eller NAV-intern slack-kanal #nav-uu.
 Sjekklisten under utgjør universell-utformings-delen av [NAVs risikovurdering for team (NAV-intern lenke)](https://navno.sharepoint.com/sites/intranett-it/SitePages/Risikovurderinger.aspx). 
 De er suksessfaktorene for å oppnå god universell utforming (UU):
 
-1. Dere bruker NAV Frontend og [Designsystemet](https://design.nav.no/).
-2. Dere har en felles forståelse av hva UU er, og prioriterer å levere løsninger med god brukskvalitet for alle.
-3. Alle i teamet kjenner sitt __faglige UU-ansvar__ og har tilstrekkelig erfaring her (se gjerne [tips etter rolle i team](/hvordan-faa-det-til/tips-etter-rolle/)).
-4. Dere har minst én person som er ekstra __pådriver__ for universell utforming (bli med i #nav-uu på Slack!) 
-5. Dere har tilgang til nødvendige __ressurser__ for å få på plass UU (tid, mandat, budsjett, testbrukere, hjelpemidler, verktøy, kompetansestøtte og kursing).
-6. Dere sikrer at "design for alle»-perspektiver tas med __inn i alle aktiviteter__ (brukerinnsikt, prioriteringer, koding og UX-arbeid), og dere har god oversikt over «stress-caser» og «kant-brukere» for deres løsning (f.eks. skjermleserbrukere, kode 6/7 behov eller situasjoner som er særlig kognitivt eller følelsesmessig belastende).
-7. Dere jobber sammen om å løse UU-spørsmål, med __tverrfaglige diskusjoner__ og åpen dialog. Føles det trygt?
-8. Dere har tidlig og hyppige __sjekkpunkter på UU-kvaliteten__ - f.eks. med automatiserte verktøy, manuelle tester og brukertester.
-9. Dere har satt opp rutiner for å lage __tilgjengelighetserklæring__ og for å ta inn __brukertilbakemeldinger__ (innbyggere eller ansatte).
+1. Dere bruker __NAV Frontend og [Designsystemet](https://design.nav.no/)__.
+2. Dere har en __felles forståelse av hva UU er__, og har har god oversikt over «stress-caser» og «kant-brukere» for deres løsning (f.eks. skjermleserbrukere, kode 6/7 behov eller situasjoner som er særlig kognitivt eller følelsesmessig belastende).
+3. Dere har tilgang til nødvendige __ressurser__ for å prioritere og sikre UU på ønsket nivå (tid, mandat, budsjett, testbrukere, hjelpemidler, verktøy, kompetansestøtte og kursing).
+4. Alle i teamet kjenner sitt __faglige UU-ansvar__ og har tilstrekkelig kunnskap (se gjerne [tips etter rolle i team](/hvordan-faa-det-til/tips-etter-rolle/)).
+5. Dere har minst én person som er ekstra __pådriver__ for universell utforming (bli med i #nav-uu på Slack!), men jobber sammen om å løse UU-spørsmål, med __tverrfaglige diskusjoner__. 
+6. Dere er bevisst på at man ikke kan sikre UU i slutten av en prosess. Dere tar istedenfor UU med __inn i alle aktiviteter__ (brukerinnsikt, prioriteringer, koding og UX-arbeid) og har tidlige og hyppige __sjekkpunkter på UU-kvaliteten__ - f.eks. med automatiserte verktøy, manuelle tester og brukertester.
+7. Dere har satt opp rutiner for å lage __tilgjengelighetserklæring__ og for å ta inn __brukertilbakemeldinger__ (innbyggere eller ansatte).
 
 
 ### I anskaffelser gjelder også:
@@ -29,7 +27,7 @@ De er suksessfaktorene for å oppnå god universell utforming (UU):
 <!-- helst ønsker jeg dette:
 <ekspanderbartpanel tittel="Hva må vi gjøre for å være i tråd med minimumskrav?"> innholdet under (minus tittelen) </ekspanderbartpanel> -->
 Her er minimums to-do for å nå kravene fra lovverket:
-- Løsningen testes fortløpende opp mot WCAG-krav. Fra 2021 er dette [WCAG 2.1](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21). Dette krever en kombinasjon av [automatisert test](/hvordan-faa-det-til/UU-testing/automatisert-testing/) og [manuell test](/hvordan-faa-det-til/UU-testing/manuell-testing/). 
+- Løsningen testes fortløpende opp mot WCAG-krav. Fra 2021 er dette [WCAG 2.1](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21). Dette krever en kombinasjon av [automatisert test](/hvordan-faa-det-til/UU-testing/automatisert-testing/) og [manuell test](/hvordan-faa-det-til/UU-testing/manuell-testing/). På siden om manuell test finner du informasjon samlet etter tema, som bilder, tastaturnavigasjon eller lenker.
 - WCAG-Feil på nivå A og AA blir fortløpende rettet.
 - Eventuelle varige avvik fra WCAG-kravene begrunnes skriftlig.
 

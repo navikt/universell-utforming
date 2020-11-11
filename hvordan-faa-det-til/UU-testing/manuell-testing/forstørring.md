@@ -6,9 +6,23 @@ For brukere med moderat nedsatt syn, er nettleserforstørring en enkel metode fo
 ## Teststeg
 Automatiserte testverktøy kan simulere forskjellige skjermstørrelser og forstørret innhold på sider. Det kreves likevel alltid en manuell sjekk for å se om alt innhold er synlig og kan betjenes med tastatur:
 
+### Vanlig nettleserzoom
 1. Sett nettleseren i fullskjerm på den største skjermen du har tilgang til, deretter bruk nettleserens zoomfunksjon (Ctrl og +/- eller Cmd og +/-) stegvis til minst 200 prosent, gjerne opp til 400 prosent. Sjekk at alt innhold og funksjonalitet er tilgjengelig og forståelig. Det skal også være tilgjengelig når du bruker kun tastatur. Horisontalt skrolling bør unngås.
 2. Sett forstørringen til 100 prosent, og endre vindusbredden på din nettleser gradvis fra fullskjerm og ned til det smaleste du får til. Se om rekkefølge, gruppering og generell layout fungerer godt i hele spekteret.
 3. På mobil eller nettbrett, sjekk at du kan forstørre også på sider med responsivt oppsett.
+
+### Endring av skriftstørrelse
+Dette er enklest å teste ved å endre skriftstørrelsen i CSS. Innsillingene i for eksempel Chrome forstørrer skriften ikke nok.
+- Velg kodesnutten <html lang="nb-NO" data-hj-suppress="" class="vngage-csstransforms vngage-csstransitions"...>
+- Se i panelet "Styles". Klikk i boksen element.style. 
+- Skriv font-size: 200% 
+
+### Test på mobil
+WCAG er ikke tydelig på om / hvordan forstørring skal testes på mobile flater. Med tanke på hvor mange som bruker våre sider på mobil, s
+På iPhone: 
+- Gå til innstillinger 
+- Safari
+- Sidezoom og sett det på minst 200%
 
 ## Verktøy du kan bruke
 Bruk gjerne nettsiden [My viewport size (ekstern lenke, engelsk)](https://viewportsizes.com/mine/) for å sette vindusstørrelsen til spesifikke størrelser eller sjekke vindusstørrelsen når du oppdager problemer.

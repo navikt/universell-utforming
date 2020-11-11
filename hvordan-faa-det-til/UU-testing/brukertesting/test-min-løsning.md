@@ -1,21 +1,21 @@
 # Test min løsning
 
 ## Inkluderer du mennesker med nedsatt funksjonsevne?
-<p class="typo-ingress">"Test min løsning" er et tilbud til alle teamene i NAV IT fra UU-Teamet. Vi stiller NAVs Testlab i Fyrstikkaleen til disposisjon for teamene som er rigget og klar. Vi henter inn testdeltakere og sørger for det praktiske. Dere lager oppgaver og gjennomfører testen selv mens vi er tilstede for å bistå med det tekniske etc.</p>
+<p class="typo-ingress">"Test min løsning" er et tilbud til alle teamene i NAV IT fra UU-Teamet. Vi stiller NAVs Testlab i Fyrstikkallèen til disposisjon for teamene som er rigget og klar. Vi henter inn testdeltakere og sørger for det praktiske. Dere lager oppgaver og gjennomfører testen selv mens vi er tilstede for å bistå med det tekniske etc.</p>
 
 Det som skiller "Test min løsning" fra andre brukertester og tilgjengelighetstester, er at brukerne er såkalte VIP-brukere eller også kalt "edge-users". Det vil si at noen av de trenger f.eks. litt flere og mer avanserte tekniske hjelpemidler for fungere i hverdagen. De kan også ha litt mer sammensatte utfordringer enn andre.
 
 VIP-brukerne må bruke mye energi for å gjennomføre testene, så vi har begrenset til maks 90 minutter per testdeltaker med pause. Derfor henter vi inn to om gangen slik at vi vanligvis gjennomfører tester slik:
 
 * kl 10 til 11.30 VIP-bruker 1
-* kl 12 til 13.30 VIP-bruker 2
+* kl 13 til 14.30 VIP-bruker 2
 
 <alertstripe type="advarsel">
-  På grunn av korona-situasjonen er vi dessverre nødt å avlyse test min løsning ut 2020. Vi starter opp igjen når smittesituasjonen tillater det.
+  På grunn av korona-situasjonen er vi dessverre nødt å avlyse test min løsning ut 2020. Vi starter opp igjen når smittesituasjonen tillater det. Samtidig ser vi etter muligheter for å gjennomføre dette på en god måte som fjerntester.
 </alertstripe>
 
 ## Eksterne testdeltakere med forskjellige funksjonsnedsettelser og utfordringer
-UU-Teamet har inngått samarbeid med Digjobb-ressurser (se http://www.digjobb.no) som har litt forskjellige utfordringer/funksjonsnedsettelser og som bruker mye spennende og avanserte, tekniske hjelpemidler. Det jobbes også med å etablere samarbeid med interesseorganisasjoner m.m. som Norges Handikapforbund og Norges Blindeforbund. Dette regner vi med å ha på plass på nyåret.
+UU-Teamet har inngått samarbeid med blant annet Digjobb-ressurser (se http://www.digjobb.no) som har litt forskjellige utfordringer/funksjonsnedsettelser og som bruker mye spennende og avanserte, tekniske hjelpemidler. Det jobbes også med å etablere samarbeid med interesseorganisasjoner m.m. som Norges Handikapforbund og Norges Blindeforbund. Dette regner vi med å ha på plass på nyåret.
 
 Noen eksempler fra dagens "VIP-brukere":
 * Kvinne, ca 20 år, har ikke språk og liten bevegelse i kroppen, rullestolbruker, bruker blikket til å styre alt i hverdagen. Har blant annet skrevet barnebok.
@@ -44,5 +44,7 @@ Resten fikser vi.
 ## Vil det ta mye ressurser?
 **Nei.** Dere bestemmer selv omfanget og hva dere ønsker å teste. Dere kan benytte dere av kun en eller eventuelt begge testdeltakere, men vi setter stor pris på om dere får med de "rette" observatørene i naborommet. Det er plass til mange.
 
-## Ønsker dere å delta?
-Kontakt oss på uu@nav.no eller Ståle Kjone direkte på NAV-intern slack.
+## Ønsker dere å bruke denne tjenesten?
+Kontakt UU-Teamet på 
+* uu@nav.no
+* #nav-uu (NAV-intern Slack-kanal)

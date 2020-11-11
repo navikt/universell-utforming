@@ -47,4 +47,4 @@ Resten fikser vi.
 ## Ønsker dere å bruke denne tjenesten?
 Kontakt UU-Teamet på 
 * uu@nav.no
-* #nav-uu (NAV-intern Slack-kanal)
+* NAV-intern Slack-kanal: #nav-uu 

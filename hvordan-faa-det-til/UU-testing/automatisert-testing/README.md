@@ -5,7 +5,7 @@ Automatisert testing er en god basis for en WCAG-sjekk. Men husk at det fleste W
 Automatiserte verktøy kan likevel luke ut mange tunge feil og sikre et absolutt minimumsnivå av teknisk tilgjengelighet.
 
 Vi anbefaler verktøyene:  
-- SiteImprove (Single-sign-on med NAV-login, ta kontakt med uu-teamet for å få tilgang til webområdet du jobber med)
+- SiteImprove ([Single-sign-on med NAV-login](https://my2.siteimprove.com/Auth/Saml2/6274809), ta kontakt med uu-teamet for å få tilgang til webområdet du jobber med)
 - SortSite 
 - ARC Toolkit  
 - [Linting som del av byggeprosessen](https://github.com/navikt/uu-testing)

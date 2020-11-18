@@ -13,7 +13,28 @@ Automatiserte testverktøy kan ofte identifisere det som er kodet som tabeller.
 1. Er alle tabeller kodet med &lt;table&gt;? 
 2. Er rad- og/eller -kolonneoverskriftene er kodet med &lt;th&gt;?
 3. Er tabeller som har både rad- og kolonneoverskrifter kodet med &lt;th scope="row"&gt; / &lt;th scope="col"&gt;?
-4. Er tabellens tittel kodet med <caption>?
+  - Sjekk at tabellen innehar tilsvarende oppbygning slik som markert med uthevet tekst nedenfor:
+    ```
+    <table>
+  <caption>Åpningstider</caption>
+  <thead>
+   <tr>
+    <td></td>
+    <th scope=”col”>September-April</th>
+    <th scope=”col”>Mai-August</th>
+   </tr>
+<thead>
+<tbody>
+  <tr>
+    <th scope=”row”>Mandag</th>
+    <td>10-17</td>
+    <td>09-19</td>
+  </tr>
+…
+</tbody>
+</table>
+```
+4. Er tabellens tittel kodet med &lt;caption&gt;?
   - Sjekk at koden bygger på en lignende struktur som dette:
   ```
   <table>

@@ -17,12 +17,12 @@ Automatiserte testverktøy kan ofte identifisere det som er kodet som tabeller.
 
   Sjekk at koden bygger på en lignende struktur som dette:
   ```
-  &lt;table&gt;
-  &lt;caption&gt;Mobilnummer hos NAV IT&lt;/caption&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-    ...
-  &lt;/table&gt;
+<table>
+<caption>Mobilnummer hos NAV IT</caption>
+<thead>
+  <tr>
+...
+</table>
   ```
 
 ## Verktøy du kan bruke

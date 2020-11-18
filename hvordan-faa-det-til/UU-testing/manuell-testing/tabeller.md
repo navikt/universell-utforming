@@ -37,13 +37,13 @@ Automatiserte testverktøy kan ofte identifisere det som er kodet som tabeller.
 
 4. Er tabellens tittel kodet med &lt;caption&gt;?
   - Sjekk at koden bygger på en lignende struktur som dette:
-  ```
-  <table>
-  <caption>Mobilnummer hos NAV IT</caption>
-  <thead>
-   <tr>
-   ...
-  </table>
+   ```
+    <table>
+    <caption>Mobilnummer hos NAV IT</caption>
+    <thead>
+    <tr>
+    ...
+    </table>
   ```
 
 ## Verktøy du kan bruke

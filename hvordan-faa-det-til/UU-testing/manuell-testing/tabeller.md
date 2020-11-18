@@ -12,17 +12,16 @@ Automatiserte testverktøy kan ofte identifisere det som er kodet som tabeller.
 
 1. Er alle tabeller kodet med &lt;table&gt;? 
 2. Er rad- og/eller -kolonneoverskriftene er kodet med &lt;th&gt;?
-3. Er tabeller som har både rad- og kolonneoverskrifter kodet med &lt;th scope="row"&gt; / &lt;th scope=«col"&gt;?
+3. Er tabeller som har både rad- og kolonneoverskrifter kodet med &lt;th scope="row"&gt; / &lt;th scope="col"&gt;?
 4. Er tabellens tittel kodet med <caption>?
-
-  Sjekk at koden bygger på en lignende struktur som dette:
+  - Sjekk at koden bygger på en lignende struktur som dette:
   ```
-<table>
-<caption>Mobilnummer hos NAV IT</caption>
-<thead>
-  <tr>
-...
-</table>
+  <table>
+  <caption>Mobilnummer hos NAV IT</caption>
+  <thead>
+   <tr>
+   ...
+  </table>
   ```
 
 ## Verktøy du kan bruke

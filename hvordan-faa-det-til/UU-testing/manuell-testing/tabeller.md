@@ -13,7 +13,7 @@ Automatiserte testverktøy kan ofte identifisere det som er kodet som tabeller.
 1. Er alle tabeller kodet med &lt;table&gt;? 
 2. Er rad- og/eller -kolonneoverskriftene er kodet med &lt;th&gt;?
 3. Er tabeller som har både rad- og kolonneoverskrifter kodet med &lt;th scope="row"&gt; / &lt;th scope="col"&gt;?
-  - Sjekk at tabellen innehar tilsvarende oppbygning slik som markert med uthevet tekst nedenfor:
+  - Sjekk at tabellen innehar tilsvarende oppbygning som tabellen her:
     ```
     <table>
     <caption>Åpningstider</caption>

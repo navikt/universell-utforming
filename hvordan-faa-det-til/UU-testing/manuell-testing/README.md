@@ -22,6 +22,7 @@ Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig m
 - [Skjema](/hvordan-faa-det-til/UU-testing/manuell-testing/skjema.md)
 - [Sidetitler](/hvordan-faa-det-til/UU-testing/manuell-testing/sidetitler.md)
 - [Språk i koden](/hvordan-faa-det-til/UU-testing/manuell-testing/språk.md)
+- [Tabeller](/hvordan-faa-det-til/UU-testing/manuell-testing/tabeller.md)
 - [Kodevalidering](/hvordan-faa-det-til/UU-testing/manuell-testing/Kodevalidering.md)
 
 

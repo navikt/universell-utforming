@@ -16,19 +16,14 @@ Automatiserte testverktøy kan ofte identifisere det som er kodet som tabeller.
 4. Er tabellens tittel kodet med <caption>?
 
   Sjekk at koden bygger på en lignende struktur som dette:
-  
+  ```
   &lt;table&gt;
-  
   &lt;caption&gt;Mobilnummer hos NAV IT&lt;/caption&gt;
-  
   &lt;thead&gt;
-  
     &lt;tr&gt;
-    
     ...
-    
   &lt;/table&gt;
-  
+  ```
 
 ## Verktøy du kan bruke
 Verktøy som ARC toolkit kan fremheve tabeller og hvordan kolonner og rader er kodet:

@@ -17,7 +17,7 @@ Det er manger måter å sjekke av disse spørsmålene på. Vi foreslår denne me
 * Sjekk av kontaktpunktene med tanke på et bredt spekter av funksjonstap og situasjoner, inkludert 
   - Nedsatt syn, Blind, Førerhund, Rullestol, Krykker, Gåstol, Barnevogn, Lesevansker, Døv og Hørselshemmet.
   - Redusert finmotorikk, kognisjon, oppmerksomhet, språkforståelse.
-  - Ikke norskspråklig, kun D-nummer (ikke personnummer), avhengig av bil, på kode 6 og 7, formell/uformell hjelper til noen som ikke selv kan bruke tjenesten.
+  - Ikke norskspråklig, kun D-nummer (ikke personnummer), avhengig av bil, på kode 6 og 7, kan eller ønsker ikke å bruke digitale løsninger, formell/uformell hjelper til noen som ikke selv kan bruke tjenesten.
 
 #### Anbefalt tilnærming til inkluderende innsiktsarbeid
 

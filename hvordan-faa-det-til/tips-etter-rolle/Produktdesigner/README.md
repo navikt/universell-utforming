@@ -25,6 +25,7 @@ UU-tipset vårt til deg som Produktdesigner er:
 * Forstå hjelpemidlene skjermleser, bryterstyring og skjermforstørrer – slik at du kan designe navigering/veifinning som passer disse.
 * Bruk Designsystemet. Dette kan forebygge ca. 70 % av vanlige UU-feil.
 * Ta ansvar for WCAG-sjekk (både [automatisk](/hvordan-faa-det-til/UU-testing/automatisert-testing/) og [manuell](hvordan-faa-det-til/UU-testing/manuell-testing/) av det du har ansvar for. Se [hva som gjelder per i dag filtrert på din rolle som designer](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden), og [hva som kommer av nye WCAG krav i 2021](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21/wcag-21-standarden). Fra 2021 må du forvente å redegjøre for designvalg og evalueringsmetoder (ekspertsjekker og brukertester) i [Tilgjengelighetserklæringen](/hva-gjelder/tilgjengelighetserklæring.md).
+* Husk å tilby samsvarende informasjon og service for brukere som ikke kan eller ønsker å bruke digitale løsninger.
 
 Del gjerne egne erfaringer og tips vi kan legge på siden - eller motta veiledning - ved å kontakte uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.
 

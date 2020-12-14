@@ -42,7 +42,7 @@ Løsninger NAV kjøper skal være i tråd med forskriften, se [Kravliste for bru
 ### Produktteam (Utviklingsteam)
 Det er teamene som lager og forvalter løsninger som internt står ansvarlige for å sikre universell utforming og tilgjengelighet i «sin» løsning. Teamene skal sikre universell utforming på et så høyt nivå som mulig, ut fra sine vurderinger. En eventuell nedprioritering har konsekvenser både juridisk og for brukere. 
 
-Teamene må veie UU mot andre hensyn og krav, og for å støtte teamene i disse vurderingene er det laget en Risikovurdering for UU, som du finner på [Hvordan få det til?](/hvordan-faa-det-til/README.md).
+Teamene må veie UU mot andre hensyn og krav, og for å støtte teamene i disse vurderingene er det laget en Risikovurdering for UU, som du finner på [Hvordan få det til?](/hvordan-faa-det-til/).
 
 ### Anskaffelsesteam
 Anskaffelsesteam gjennomfører anskaffelser til NAV. På samme måte som utviklingsteam står ansvarlig internt, er anskaffelsesteamene ansvarlige for å ha vurdert UU og sikret at løsninger er i tråd med lovverket og standarden i NAV, og at avtaler og andre relevante dokumenter ivaretar dette. Det er laget en egen Risikovurdering for UU i anskaffelser.

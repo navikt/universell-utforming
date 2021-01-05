@@ -6,6 +6,8 @@ Hver løsning skal ha en tilgjengelighetserklæring, som viser hvor godt løsnin
 
 Tilsynet i Digitaliseringsdirektoratet jobber med en sentral løsning for tilgjengelighetserklæringen.
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mg-XtLTqhHg" title="Video på ett minutt om tilgjengelighetserklæring" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Tilgjengelighetserklæringen skal ha:
 - Informasjon om innhold som ikke er universelt utformet og begrunnelse for at det aktuelle innholdet ikke er i tråd med kravene.
 - Informasjon om universelt utformede alternativer, dersom det finnes.

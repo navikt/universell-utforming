@@ -31,7 +31,7 @@ Her er minimums to-do for å nå kravene fra lovverket:
 - WCAG-Feil på nivå A og AA blir fortløpende rettet.
 - Eventuelle varige avvik fra WCAG-kravene begrunnes skriftlig.
 
-#### Fra 2021:
+### Fra 2021 / Web Accessibility Directive
 - [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet. Avjørelser om avvik fra lovpålagte WCAG-krav skal inn her. Dere skal også beskrive hvordan dere har testet - automatiske sjekker, manuell ekspertsjekk, eksperttesting med hjelpeteknologi og/eller type brukertesting.
 - [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert.
 

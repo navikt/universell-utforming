@@ -16,9 +16,9 @@ Her skal vi legge ut en sammenlikning mellom hva som testes med SortSite, ARC to
   <tr>
     <th scope="col">Test</th>
     <th scope="col">SortSite</th>
-    <th scope="col">ARCToolkit</th>
-    <th scope="col">W3Cs kodesjekker</th>
-    <th scope="col">Siteimprove (ikke testet enda)</th>
+    <th scope="col">ARC</th>
+    <th scope="col">W3C</th>
+    <th scope="col">Site-improve*</th>
     <th scope="col">TECH</th>
     <th scope="col">WCAG</th>
   </tr>
@@ -104,6 +104,7 @@ Her skal vi legge ut en sammenlikning mellom hva som testes med SortSite, ARC to
     <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html">1.1.1</a></td>
   </tr>
 </table>
+* ikke testet enda
 
 ### Det verktøyene ikke tester på bilder
 

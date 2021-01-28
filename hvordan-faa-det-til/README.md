@@ -2,9 +2,8 @@
 <p class="typo-ingress">Det finnes mange måter å sikre universell utforming på. Vi ønsker å gi dere én mulig vei å gå, og dele det vi ser skaper suksess.</p>
 Del gjerne egne erfaringer på uu@nav.no eller NAV-intern slack-kanal #nav-uu.
 
-## Risikovurdering og suksessfaktorer
-Sjekklisten under utgjør universell-utformings-delen av [NAVs risikovurdering for team (NAV-intern lenke)](https://navno.sharepoint.com/sites/intranett-it/SitePages/Risikovurderinger.aspx). 
-De er suksessfaktorene for å oppnå god universell utforming (UU):
+## Suksessfaktorer og risikovurdering
+Sjekklisten under er en oppsummering av suksessfaktorene for å oppnå god universell utforming (UU): 
 
 1. Dere bruker __NAV Frontend og [Designsystemet](https://design.nav.no/)__.
 2. Dere har en __felles forståelse av hva UU er__, og har har god oversikt over «stress-caser» og «kant-brukere» for deres løsning (f.eks. skjermleserbrukere, kode 6/7 behov eller situasjoner som er særlig kognitivt eller følelsesmessig belastende).
@@ -14,6 +13,9 @@ De er suksessfaktorene for å oppnå god universell utforming (UU):
 6. Dere er bevisst på at man ikke kan sikre UU i slutten av en prosess. Dere tar istedenfor UU med __inn i alle aktiviteter__ (brukerinnsikt, prioriteringer, koding og UX-arbeid) og har tidlige og hyppige __sjekkpunkter på UU-kvaliteten__ - f.eks. med automatiserte verktøy, manuelle tester og brukertester.
 7. Dere har satt opp rutiner for å lage __tilgjengelighetserklæring__ og for å ta inn __brukertilbakemeldinger__ (innbyggere eller ansatte).
 
+De utgjør universell-utformings-delen av [NAVs risikovurdering for team (NAV-intern lenke)](https://navno.sharepoint.com/sites/intranett-it/SitePages/Risikovurderinger.aspx). 
+
+Vi har også laget en selvtest for team, der dere kan [sjekke om dere har de rette rammene for å lykkes med universell utforming i teamet (NAV-intern lenke)](https://forms.office.com/Pages/ResponsePage.aspx?id=NGU2YsMeYkmIaZtVNSedCwAsE8lDRltFj18QMj6idgBUOVdPNVNRRFEyV1JVQlFBOE5CRDZSQU00SC4u).
 
 ### I anskaffelser gjelder også:
 - Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelseer.md) i tråd med til en hver tid gjeldende lovverk. Eventuelle brudd blir fulgt opp.

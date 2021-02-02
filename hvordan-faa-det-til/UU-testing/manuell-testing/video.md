@@ -1,7 +1,7 @@
 # Video
 
 ## Hvorfor det er viktig
-Mange brukere synes det er lettere å ta til seg informasjon fra video i stedet for å lese en lang tekst. Dersom videoen er tekstet er det mulig å oppfatte innholdet for brukere som ikke kan høre eller som ikke har tilgang til lyden (kilde [uu.difi.no](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/video)).
+Mange brukere synes det er lettere å ta til seg informasjon fra video i stedet for å lese en lang tekst. Dersom videoen er tekstet er det mulig å oppfatte innholdet for brukere som ikke kan høre eller som ikke har tilgang til lyden (kilde [uu.difi.no](https://www.uutilsynet.no/wcag-standarden/video-og-lydopptak/232)).
 
 ## Teststeg
 1. Hvis videoen har lyd: Er videoen tekstet og samsvarer teksten med lyden?
@@ -23,4 +23,4 @@ Mange brukere synes det er lettere å ta til seg informasjon fra video i stedet 
 
 ## Andre ressurser
 - Universell har laget en omfattende [veileder for universelt utformet video](https://www.universell.no/fagomraader/universell-utforming/veileder-for-universelt-utformet-video/)
-- Tilsynets [Løsningsforslag for video](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/video)
+- Tilsynets [Løsningsforslag for video](https://www.uutilsynet.no/wcag-standarden/video-og-lydopptak/232)

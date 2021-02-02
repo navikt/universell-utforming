@@ -1,7 +1,7 @@
 # Skjema
 
 ## Hvorfor det er viktig
-Tilgjengelige skjema gir økt brukervennlighet for alle, men er spesielt viktig for brukere som benytter skjermlesere eller tastaturnavigasjon, og brukere med motoriske eller kognitive funksjonsnedsettelser (kilde: [uu.difi.no](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/skjema)).
+Tilgjengelige skjema gir økt brukervennlighet for alle, men er spesielt viktig for brukere som benytter skjermlesere eller tastaturnavigasjon, og brukere med motoriske eller kognitive funksjonsnedsettelser (kilde: [uu.difi.no](https://www.uutilsynet.no/wcag-standarden/skjema/38)).
 
 ## Teststeg
 Automatiserte testverktøy kan teste nokså mye når det kommer til skjema, se også [Hvilket verktøy er best?](/hvordan-faa-det-til/UU-testing/automatisert-testing/hvilket-verktøy-er-best.md). Det er fortsatt endel ting du må alltid teste manuelt:
@@ -27,8 +27,8 @@ Kjør gjerne automatiserte test først. Utover det kan for eksempel ARC toolkit 
 ![skjemavisning i ARC toolkit](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/skjema.png)
 
 ## Andre ressurser
-* Kontekstendringer - suksesskriterie [3.2.1 Fokus](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden/321-fokus-niva) og 
-[3.2.2 Inndata](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden/322-inndata-niva)
-* [Lær mer om hvordan teste skjema på Tilsynets veiledningssider.](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#skjema)
+* Kontekstendringer - suksesskriterie [3.2.1 Fokus](https://www.uutilsynet.no/wcag-standarden/321-fokus-niva/112) og 
+[3.2.2 Inndata](https://www.uutilsynet.no/wcag-standarden/322-inndata-niva/114)
+* [Lær mer om hvordan teste skjema på Tilsynets veiledningssider.](https://www.uutilsynet.no/regelverk/sjekk-nettstedet-ditt-selv/708#7_skjema)
 * [Retningslinjer for disabled-attributet på design.nav.no](https://design.nav.no/accessibility/disabled)
 * [Retningslinjer for placeholder på design.nav.no](https://design.nav.no/accessibility/placeholders)

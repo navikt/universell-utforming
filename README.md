@@ -15,4 +15,4 @@ Disse sidene er hovedsakelig tenkt for utviklingsteam i NAV. Målet er å gi der
 * [Hva er egentlig universell utforming?](/hva-er-uu/)
 * [Lær mer om universell utforming](/l%C3%A6re-mer/)
 
-<alertstripe type="advarsel">Se gjerne også [Digitaliseringsdirektoratets informasjon om universell utforming](https://uu.difi.no/kva-er-universell-utforming) (ekstern lenke) for mer informasjon om temaet.</alertstripe>
+<alertstripe type="advarsel">Se gjerne også [Digitaliseringsdirektoratets informasjon om universell utforming](https://www.uutilsynet.no/veiledning/intro-til-universell-utforming/238) (ekstern lenke) for mer informasjon om temaet.</alertstripe>

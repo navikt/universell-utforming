@@ -7,8 +7,8 @@ Kjør gjerne en [automatisert WCAG-test](/hvordan-faa-det-til/UU-testing/automat
 ## Uerfaren?  
 
 Vi anbefaler på det sterkeste Tilsynets veiledningside. Her finner du utrolig mye bra. Blant annet: 
-- [E-læringskurs om universell utforming av nettinnhold](https://uu.difi.no/krav-og-regelverk/kom-i-gang/e-laeringskurs-om-universell-utforming-av-nettinnhold)
-- [Hvordan teste universell utforming av ditt nettsted](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted)
+- [E-læringskurs om universell utforming av nettinnhold](https://www.uutilsynet.no/veiledning/e-laeringskurs-om-universell-utforming-av-nettinnhold/199)
+- [Hvordan teste universell utforming av ditt nettsted](https://www.uutilsynet.no/regelverk/sjekk-nettstedet-ditt-selv/708)
 
 
 ## Dette må du alltid teste manuelt
@@ -40,5 +40,4 @@ Du kan også prøve en rekke simuleringsverktøy og fysiske modelleringer (både
 ## Ønsker du å lære mer og hvordan Tilsynet tester?
 Tilsynets testprosedyrer for evaluering av nettløsninger er anerkjent i EU, og er en god kilde om du ønsker å vite hvordan Tilsynet tolker kravene.  Lenkene fører deg til Tilsynets veiledningssider.
 
-- [Om testprosedyrene og indikatorer for universell utforming av nettsteder](https://uu.difi.no/krav-og-regelverk/testprosedyrar-nettstader/om-testprosedyrar-og-indikatorar-universell-utforming-av-nettstader)
-- [Laste ned tilsynets testindikatorer.](https://uu.difi.no/krav-og-regelverk/testprosedyrar-nettstader)
+- [Om testprosedyrene og indikatorer for universell utforming av nettsteder](https://www.uutilsynet.no/regelverk/testprosedyrar-nettstader/709)

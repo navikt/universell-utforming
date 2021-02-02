@@ -2,7 +2,7 @@
 
 ## Hvorfor det er viktig
 Tabeller skal utelukkende brukes til å presentere data, og ikke for å styre layout og utseende. 
-Riktig bruk av tabeller er avgjørende for at informasjonen blir tolket riktig av hjelpemiddel og brukeren klarer å tolke kompleks informasjon. [uu.difi.no](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/tabeller)
+Riktig bruk av tabeller er avgjørende for at informasjonen blir tolket riktig av hjelpemiddel og brukeren klarer å tolke kompleks informasjon. [uu.difi.no](https://www.uutilsynet.no/wcag-standarden/tabeller/225)
 
 
 Ha gjerne tekst, bilder illustrasjoner og/eller diagrammer i tillegg til tabellen for å gjøre komplekst innhold mer forståelig.
@@ -52,6 +52,6 @@ Verktøy som ARC toolkit kan fremheve tabeller og hvordan kolonner og rader er k
 ![test med ARCtoolkit på tabeller](hvordan-faa-det-til/UU-testing/manuell-testing/tabeller-arc.png)
 
 ## Andre ressurser
-* Mange gode eksempler på [tilsynets veiledningsider for tabeller](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/tabeller)
+* Mange gode eksempler på [tilsynets veiledningsider for tabeller](https://www.uutilsynet.no/wcag-standarden/tabeller/225)
 * W3Cs [web accessibility tutorial om tabeller](https://www.w3.org/WAI/tutorials/tables/)
 

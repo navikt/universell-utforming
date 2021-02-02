@@ -17,7 +17,7 @@ UU-tipset til deg i lederrolle er derfor:
 * Sett deg inn i beste-praksis for å sikre UU i [utvikling](/hvordan-faa-det-til)/[anskaffelser](/hva-gjelder/krav-til-anskaffelser.md) før dere setter i gang arbeidet deres.
 * Legg inn sjekkpunkter på UU-kvalitet tidlig og jevnlig (gjerne som del av hver Sprint, testprosedyre, release og Kan-Ban/Scrum-board). Når UU-feil prioriteres, så velg de som har som har [størst påvirkning på brukeren](https://usability.com.au/2013/01/accessibility-priority-tool/)
 * Ta ansvar for at teamet har en oppdatert [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) og en funksjonell [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md). 
-* Meld fra til overordnede leder hvis dere strever med å nå lovkrav. __Løsninger som ikke rekker å være i tråd med kravene innen 2021, må [søke om dispensasjon](https://uu.difi.no/krav-og-regelverk/kva-seier-forskrifta/sokje-om-dispensasjon).__ 
+* Meld fra til overordnede leder hvis dere strever med å nå lovkrav. __Løsninger som ikke rekker å være i tråd med kravene innen 2021, må [søke om dispensasjon](https://www.uutilsynet.no/regelverk/soke-om-dispensasjon/154).__ 
 
 Del gjerne egne erfaringer - eller motta råd og veiledning - på uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.
 

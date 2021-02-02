@@ -56,7 +56,7 @@ Vi anbefaler verktøyene SortSite, ARC Toolkit, Axe Tools (Deque) og SiteImprove
     - Se video: [*Testing Shadow DOM with aXe Coconut - A11ycasts #26*](https://www.youtube.com/watch?v=1uyQdC3LqLo)
 - [**SortSite**](https://www.powermapper.com/products/sortsite/) - godt verktøy for validering av grensesnittkode opp mot W3C-standarder som WCAG 2.0/2.1, HTML5, CSS3, etc. Gir en god oversikt sammen med en god beskrivelse av hva som er feil, hvor feilen er og hvordan den kan fikses. Pris ca NOK 8000,- per lisens. 
 - [**SiteImprove**](https://siteimprove.com/nb-no/) - godt verktøy som gir deg en lettfattelig og god oversikt over problemer og forbedringsområder. Som f.eks. dårlig kodekvalitet og kvalitetsfeil som brutte lenker og stavefeil, kontrastforhold som er for dårlig, m.m. Verktøy tester opp mot W3Cs standarder som f.eks. HTML5 og WCAG 2.0/2.1 og man kan filtrere funnene på roller (utvikler, redaktør, etc). God beskrivelse for hva som er feil og hvordan det kan fikses. Har blitt brukt i tilsyn.
-- [**Total Validator Pro**](http://www.totalvalidator.com/) - et av de bedre verktøyene til validering av kildekode og støtte for universell utforming. Pro-versjonen til kr 250,- (NAV har 30 lisenser).
+- [**Total Validator Pro**](http://www.totalvalidator.com/) - dette var et av de bedre verktøyene til validering av kildekode og støtte for universell utforming. Pro-versjonen koster noen få hundrelapper, men er verdt pengene.
 - [**Adobe Acrobat DC (PDF)**](https://helpx.adobe.com/no/acrobat/user-guide.html?topic=/no/no/acrobat/morehelp/accessibility_tags_and_reflow.ug.js) - validering av PDF-skjema opp mot W3C standarder som WCAG 2.0/2.1 (Verktøy>Tilgjengelighet>Tilgjengelighetskontroll eller Full kontroll. NAV har lisenser på dette.
 
 #### Linting

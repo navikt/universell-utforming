@@ -17,4 +17,4 @@ Trenger du bistand til å fortstå og følge opp kravene før, underveis og ette
 
 [^1] https://www.w3.org/TR/wai-aria/ og https://www.w3.org/TR/wai-aria-practices/, [^2]  http://www.w3.org/TR/ATAG20/
 
- **Henvisninger til standarder skal forstås som standarden eller tilsvarende.**
+ **NB! Henvisninger til standarder skal forstås som standarden eller tilsvarende.**

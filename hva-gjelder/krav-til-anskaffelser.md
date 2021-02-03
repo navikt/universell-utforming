@@ -3,7 +3,7 @@
 Disse kravene til universell utforming av IKT (UU) skal stilles ved anskaffelse av både interne og eksterne løsninger i NAV.
 Trenger du bistand til å fortstå og følge opp kravene før, underveis og etter en anskaffelse, så ta kontakt med UU-Teamet på uu@nav.no eller på NAV-intern slack-kanal #nav-uu.
 
- Nummer | Beskrivelse av kravet | Prioritet (A= Absolutt krav, V = Viktig krav) | Utdypende kommentar
+ Nummer | Beskrivelse av kravet | Prioritet (A)bsolutt, (V)iktig | Utdypende kommentar
 ------------ | ------------- | ------------ | -------------
 1 | **WCAG 2.1 nivå A og AA** </br> Løsningen bør være i tråd med WCAG 2.1 nivå A og AA, og fremtidige lovpålagte versjoner av denne standarden, slik at flest mulig, uansett funksjonsnedsettelse, skal kunne bruke den.| V | X
 2 | **Sjekkliste** </br> Leverandøren bes bruke sjekklisten fra W3C for å dokumentere støtten for WCAG 2.1 nivå A og AA , se https://www.w3.org/WAI/eval/report-tool/#/  . Alternativt kan Voluntary Product Accessibility Template (VPAT) brukes. | V | X
@@ -15,8 +15,6 @@ Trenger du bistand til å fortstå og følge opp kravene før, underveis og ette
 8 | **Avvik** </br> Avvik fra WCAG 2.1 nivå, A, AA og AAA bør ha en tydelig prioritering og tilhørende framdriftsplan for når de utbedres og implementeres i tilbudt løsning. Leverandør bes legge ved sin plan. | V | X
 9 | **Kompetanse på universell utforming** </br> Leverandøren bes dokumentere hvilken kompetanse de har på universell utforming av IKT og hvordan denne er brukt eller skal brukes i tilbudt løsning. | V | X
 
-[^1] https://www.w3.org/TR/wai-aria/ og https://www.w3.org/TR/wai-aria-practices/
-
-[^2]  http://www.w3.org/TR/ATAG20/
+[^1] https://www.w3.org/TR/wai-aria/ og https://www.w3.org/TR/wai-aria-practices/, [^2]  http://www.w3.org/TR/ATAG20/
 
  **Henvisninger til standarder skal forstås som standarden eller tilsvarende.**

@@ -32,5 +32,5 @@ ARC toolkit tilbyr også en zoomfunksjon til 400%:
 ![zoom med ARC på nav.no](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/zoom-arc.png)
 
 ## Andre ressurser
-- [Tilsynets veilednignssider om forstørring og zoom](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#forstoerring)
+- [Tilsynets veilednignssider om forstørring og zoom](https://www.uutilsynet.no/regelverk/sjekk-nettstedet-ditt-selv/708#2_forstorring_og_responsiv_design)
 - [W3C - Unerstanding success criterion Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)

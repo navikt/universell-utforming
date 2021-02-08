@@ -24,6 +24,6 @@ Et eksempel på hvordan ARC toolkit kan vise hva som er kodet som lenke:
 ![Lenkemarkering i ARC toolkit](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/arc-lenke.png)
 
 ## Andre ressurser
-* [Lær mer om hvordan teste lenker på Tilsynets veiledningssider.](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#lenker)
+* [Lær mer om hvordan teste lenker på Tilsynets veiledningssider.](https://www.uutilsynet.no/regelverk/sjekk-nettstedet-ditt-selv/708#5_lenker)
 
 

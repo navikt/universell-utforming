@@ -853,7 +853,7 @@ kommer
     <td>❌</td>
     <td>?</td>
     <td><a href="https://www.w3.org/TR/WCAG20-TECHS/F23.html">F23</a></td>
-    <td><a href="https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21/wcag-21-standarden">1.4.2</a></td>
+    <td><a href="https://www.uutilsynet.no/webdirektivet-wad/wcag-21-standarden/140">1.4.2</a></td>
   </tr>
 </table>
 

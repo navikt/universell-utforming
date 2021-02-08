@@ -22,5 +22,5 @@ Her som eksempel hvordan ARC toolkit viser tab-rekkefølgen:
 ![Tabrekkefølge med ARC toolkit](/hvordan-faa-det-til/UU-testing/manuell-testing/tabrekkefolge.png)
 
 ## Andre ressurser
-* [Lær mer om hvordan teste tastaturnavigasjon på Tilsynets veiledningssider](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/tastaturnavigasjon)
+* [Lær mer om hvordan teste tastaturnavigasjon på Tilsynets veiledningssider](https://www.uutilsynet.no/wcag-standarden/tastaturnavigasjon/37)
 * [WebAIMs veileder for tastatur](https://webaim.org/techniques/keyboard/)

@@ -53,7 +53,8 @@ Bruk alt-tekst som beskriver motivet i bildet OG en tekst med detaljert informas
 * ARC toolkit kan vise hvilke bilder som er kodet med &lt;img&gt;
 
 ## Andre ressurser
-* [Lær mer om hvordan teste bilder på Tilsynets veiledningssider.](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#bilder)
+* [Lær mer om hvordan teste bilder på Tilsynets veiledningssider.](https://www.uutilsynet.no/regelverk/sjekk-nettstedet-ditt-selv/708#6_bilder)
+* [Tilsynets veiledning for bilder og grafikk](https://www.uutilsynet.no/regelverk/bilder-og-grafikk/205)
 * [Informasjonsside om alternative tekster på Designsystem-sidene](https://design.nav.no/accessibility/alt-text)
 
 

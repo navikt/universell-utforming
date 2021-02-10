@@ -32,5 +32,5 @@ Hvis du bare ønsker å se hva som er en overkrift på siden og med hvilket niv�
 ![ARC overskrifter](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/headings-arc.png)
 
 ## Andre ressurser
-* [Lær mer om hvordan teste overskrifter på Tilsynets veiledningssider.](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#overskrifter)
+* [Lær mer om hvordan teste overskrifter på Tilsynets veiledningssider.](https://www.uutilsynet.no/regelverk/sjekk-nettstedet-ditt-selv/708#4_overskrifter)
 

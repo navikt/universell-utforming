@@ -1,7 +1,7 @@
 # Språk i koden
 
 ## Hvorfor det er viktig
-Du må angi innholdets språk i koden for at opplesende hjelpemidler skal kunne velge riktig stemme for opplesing. Søkemotorer benytter dessuten språkangivelsen i koden for å avgjøre relevante treff (kilde: [uu.difi.no](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/sprak-i-koden)).
+Du må angi innholdets språk i koden for at opplesende hjelpemidler skal kunne velge riktig stemme for opplesing. Søkemotorer benytter dessuten språkangivelsen i koden for å avgjøre relevante treff (kilde: [uutilsynet.no](https://www.uutilsynet.no/wcag-standarden/sprak-i-koden/223)).
 
 ## Teststeg
 [Automatiserte testverktøy](/hvordan-faa-det-til/UU-testing/automatisert-testing/) kan teste om siden mangler lang attribute . (lang=....), men de sjekker ikke om det er korrekt språk som er angitt.
@@ -19,4 +19,4 @@ Her et eksempel der enkelte ord har et annet språk, uten at det ble markert i k
 ![Norsk ord i engelsk tekst uten passende lang-tag i koden](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/spraak.png)
 
 ## Andre ressurser
-* [Tilsynets veileder for Språk i koden](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/sprak-i-koden)
+* [Tilsynets veileder for Språk i koden](https://www.uutilsynet.no/wcag-standarden/sprak-i-koden/223)

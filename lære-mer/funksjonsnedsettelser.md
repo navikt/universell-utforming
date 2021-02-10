@@ -19,7 +19,7 @@ Nedsatt funksjonsevne eller funksjonsnedsettelse er individuelle forhold som bid
 - [Psykisk](../funksjonsnedsettelser/psykologisk/)
 
 ### Kilder
-- [Tilsynet for universell utforming av IKT (Digitaliseringsdirektoratet)](https://uu.difi.no) (ekstern lenke)
+- [Tilsynet for universell utforming av IKT (Digitaliseringsdirektoratet)](https://uutilsynet.no) (ekstern lenke)
 - [Kunnskapsbanken.net](https://www.kunnskapsbanken.net/kategori/kognisjon/) (ekstern lenke)
 - [Norges Handikapforbund](https://nhf.no/) (ekstern lenke)
 - [International Association of Accessaibility Professionals - IAAP](https://www.accessibilityassociation.org/) (ekstern lenke)

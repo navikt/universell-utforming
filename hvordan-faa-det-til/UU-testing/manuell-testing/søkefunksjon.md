@@ -6,7 +6,7 @@ Mange bruker søkefunksjon for å raskt finne frem til ønsket informasjon. Det 
 ## Teststeg
 Automatiserte testverktøy tester mest om søket er korret kodet.
 
-I tillegg bør du teste (teststeg fra [uu.difi.no](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#soek)):
+I tillegg bør du teste (teststeg fra [uutilsynet.no](https://www.uutilsynet.no/regelverk/sjekk-nettstedet-ditt-selv/708#8_sokefunksjonen)):
 * Test de vanligste søkefrasene og se om resultatvisningen viser det brukeren burde få presentert.
 * Se gjennom søkestatistikken, og se om det finnes noen trender, for eksempel samme type informasjon som blir søkt etter på forskjellig måte. Gir slike søk gode treff?
 * Søk på ord som du vet det finnes dedikerte sider for på ditt nettsted. Kommer hovedsiden for dette ordet øverst i resultatvisningen?
@@ -18,4 +18,4 @@ I tillegg bør du teste (teststeg fra [uu.difi.no](https://uu.difi.no/krav-og-re
 kommer
 
 ## Andre ressurser
-* [Tilsynetsveiledningssider om søk](https://uu.difi.no/krav-og-regelverk/kom-i-gang/hvordan-teste-universell-utforming-av-ditt-nettsted#soek)
+* [Tilsynetsveiledningssider om søk](https://www.uutilsynet.no/regelverk/sjekk-nettstedet-ditt-selv/708#8_sokefunksjonen)

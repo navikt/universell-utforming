@@ -1,9 +1,7 @@
 # Tilgjengelige dokumenter
 <p class="typo-ingress">Selv om vi aller helst ønsker at alt innhold publiseres som HTML, er det fortsatt en del Word-filer, PDF-er, Powerpoint-presentasjoner, Excel-ark, med mer som lages. Heldigvis finnes det en del gode veiledninger der ute for hvordan man da skal gå fram for å få dette best mulig.</p>
 
-__Målet er å gjøre "gamle format" tilgjengelige for alle og passe på at all informasjon er tilgjengelig for alle.__
-
-Det store UU-spørsmålet til deg som Innholdsprodusent - uansett type -  er derfor:
+Målet er å gjøre "gamle format" tilgjengelige for alle og passe på at all informasjon er tilgjengelig for alle.
 
 ## PDF (Portable Document Format)
 

@@ -6,7 +6,7 @@ For offentlige virksomheter er det obligatorisk å publisere tekstdokumenter som
 Målet er å lage dokumenter og presentasjoner etc. som er tilgjengelige for alle.
 
 ## IT-standarder i offentlig sektor (inkl. dokumenter)
-* [Forskrift om IT-standarder i offentlig sektor](https://lovdata.no/dokument/LTI/forskrift/2013-03-15-285) (ekstern lenke)
+* [Forskrift om IT-standarder i offentlig sektor](https://lovdata.no/dokument/LTI/forskrift/2013-03-15-285) (Ekstern lenke)
 * [Referansekatalog for IT-standarder](https://www.digdir.no/digitalisering-og-samordning/referansekatalogen-it-standardar/1480) (Ekstern lenke)
 ## PDF (Portable Document Format)
 Noen av de bedre veiledningene for tilgjengelige PDF-er finner du her:

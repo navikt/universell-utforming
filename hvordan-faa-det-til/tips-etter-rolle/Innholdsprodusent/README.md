@@ -18,7 +18,8 @@ For å kunne svare _ja_ på dette spørsmålet over må du:
 
 Skal vi designe for mennesker, må vi akseptere variasjon. Uansett hva du lager, må du som innholdsprodusent ta et faglig ansvar for å vurdere det innholdet du produserer opp mot lovkrav og brukerbehov. Du kommer langt med empati. 
 
-*[Tilgjengelige dokumenter (PDF, Word, Powerpoint, Excel)](tips-etter-rolle/innholdsprodusent/Dokumenter.md) gir deg tips og triks for å lage dokumenter som er tilgjengelige for alle.
+* [Tilgjengelige dokumenter (PDF, Word, Powerpoint, Excel)](tips-etter-rolle/innholdsprodusent/Dokumenter.md) gir deg tips og triks for å lage dokumenter som er tilgjengelige for alle.
+
 * [Funkify](https://www.funkify.org/?v=f003c44deab6) er et verktøy som kan hjelpe deg å forstå utfordringer for personas med bl.a. dysleksi, ADHD, Parksinsons og ulike synsnedsettelser. 
 
 * Tekst er kanskje det aller viktigste å for innholdsprodusenter i NAV. Her er det kjempeviktig å jobbe med det som kalles [*klarspråk*](https://www.difi.no/fagomrader-og-tjenester/klart-sprak-og-brukerinvolvering/klart-sprak) og handler om å si ting enkelt. [Språkrådet definerer _klarspråk_ ](https://www.sprakradet.no/globalassets/vi-og-vart/publikasjoner/2013-klarsprak-bm.pdf) som korrekt, klart og mottakertilpasset språk. [KS har laget en egen veileder om klarspråk i digitale løsninger](https://www.ks.no/fagomrader/digitalisering/klart-sprak-i-digitale-selvbetjeningslosninger/). Du finner [NAVs retningslinjer for språk](https://design.nav.no/resources/language) på Designsystemsidene.

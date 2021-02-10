@@ -1,7 +1,9 @@
 # Tilgjengelige dokumenter
-<p class="typo-ingress">Selv om vi ønsker at alt innhold publiseres som HTML, er det fortsatt en del Word-filer, PDF-er, Powerpoint-presentasjoner, Excel-ark, med mer som lages. Heldigvis finnes det gode veiledninger for hvordan man da skal gå fram - for disse skal også være universelt utformet.</p>
+<p class="typo-ingress">Når du publiserer innhold på for eksempel nettsidene dine, bør du publisere innholdet i HTML-format, med mindre presentasjonen er avhengig av at innholdet er laget i et nedlastbart dokument.
 
-Målet er å legge til rette for at dokumenter og presentasjoner med mer er tilgjengelige for alle.
+For offentlige virksomheter er det obligatorisk å publisere tekstdokumenter som legges ut på offentlige nettsider (se [Digdir.no](https://www.digdir.no/digitale-felleslosninger/publisering-av-tekstdokument/1494), ekstern lenke) i HTML og CSS. Dersom det er behov for å ivareta formatering utover det som er mulig med CSS, er det obligatorisk å utforme dokumentene i PDF. Du kan gjerne publisere dokumentene i andre formater i tillegg.</p>
+
+Målet er å lage dokumenter og presentasjoner etc. som er tilgjengelige for alle.
 
 ## IT-standarder i offentlig sektor (inkl. dokumenter)
 * [Forskrift om IT-standarder i offentlig sektor](https://lovdata.no/dokument/LTI/forskrift/2013-03-15-285) (ekstern lenke)

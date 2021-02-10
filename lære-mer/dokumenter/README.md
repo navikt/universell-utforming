@@ -1,7 +1,7 @@
 # Tilgjengelige dokumenter
-<p class="typo-ingress">Når du publiserer innhold på for eksempel nettsidene dine, bør du publisere innholdet i HTML-format, med mindre presentasjonen er avhengig av at innholdet er laget i et nedlastbart dokument.
+<p class="typo-ingress">Når du publiserer innhold på for eksempel nettsidene dine, bør du publisere innholdet i HTML-format, med mindre presentasjonen er avhengig av at innholdet er laget i et nedlastbart dokument.</p>
 
-For offentlige virksomheter er det obligatorisk å publisere tekstdokumenter som legges ut på offentlige nettsider (se [Digdir.no](https://www.digdir.no/digitale-felleslosninger/publisering-av-tekstdokument/1494), ekstern lenke) i HTML og CSS. Dersom det er behov for å ivareta formatering utover det som er mulig med CSS, er det obligatorisk å utforme dokumentene i PDF. Du kan gjerne publisere dokumentene i andre formater i tillegg.</p>
+For offentlige virksomheter er det obligatorisk å publisere tekstdokumenter som legges ut på offentlige nettsider (se [Digdir.no](https://www.digdir.no/digitale-felleslosninger/publisering-av-tekstdokument/1494), ekstern lenke) i HTML og CSS. Dersom det er behov for å ivareta formatering utover det som er mulig med CSS, er det obligatorisk å utforme dokumentene i PDF. Du kan gjerne publisere dokumentene i andre formater i tillegg.
 
 Målet er å lage dokumenter og presentasjoner etc. som er tilgjengelige for alle.
 

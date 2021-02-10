@@ -14,4 +14,4 @@ Du kan sjekke dette direkte i koden, ved å høyreklikke på siden og velg "insp
 ![Viser hvor man finner title-tag i koden](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/title.png)
 
 ## Andre ressurser
-* [Lær mer om hvordan teste sidetitler på Tilsynets veiledningssider.](https://uu.difi.no/krav-og-regelverk/losningsforslag-web/sidetittel-navigasjon)
+* [Lær mer om hvordan teste sidetitler på Tilsynets veiledningssider.](https://www.uutilsynet.no/regelverk/navigasjonsmetoder/217)

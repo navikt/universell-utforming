@@ -31,7 +31,3 @@ Noen aktuelle framgangsmåter finner du her:
 
 ## Regler for tilgjengelighetskontroll
 * [Microsoft sine regler for hvordan de sjekker tilgjengelighet i diverse filformat](https://support.microsoft.com/nb-no/office/regler-for-tilgjengelighetskontroll-651e08f2-0fc3-4e10-aaca-74b4a67101c1) (Ekstern lenke)
-
-## Andre tips for innholdsprodusenter
-
-[![UU-tips for Content Makers fra abc](/hvordan-faa-det-til/tips-etter-rolle/contentmaker-abc.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/a11y_Tips4Teams-contentmakers_47667.pdf)

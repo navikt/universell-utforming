@@ -19,7 +19,7 @@ Noen aktuelle framgangsmåter finner du her:
 ## Powerpoint-presentasjoner
 
 Noen aktuelle framgangsmåter finner du her:
-* [Gjøre PowerPoint-presentasjoner tilgjengelige for personer med funksjonshemninger](https://support.microsoft.com/nb-no/office/gj%C3%B8re-powerpoint-presentasjoner-tilgjengelige-for-personer-med-funksjonshemninger-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25#picktab=windows) (Ekstern lenke)
+* [Microsoft: Gjøre PowerPoint-presentasjoner tilgjengelige for personer med funksjonshemninger](https://support.microsoft.com/nb-no/office/gj%C3%B8re-powerpoint-presentasjoner-tilgjengelige-for-personer-med-funksjonshemninger-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25#picktab=windows) (Ekstern lenke)
 
 ## Excel-ark
 

@@ -5,6 +5,7 @@ Her kommer det relevant informasjon relatert til universell utforming.
 Foreløpig noen lenker:
 - [UU-coaching i NAV (NAV-intern lenke)](https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/Moduler.aspx)
 - [Om forskjellige funksjonsnedsettelser](https://navikt.github.io/uu/l%C3%A6re-mer/funksjonsnedsettelser/)
+- [Tilgjengelige dokumenter (PDF, Word, Excel, Powerpoint)](https://navikt.github.io/uu/l%C3%A6re-mer/dokumenter/)
 - [Tilsynets veiledningssider om universell utforming av IKT](http://uutilsynet.no)
 - [Inclusive Design Toolkit](http://www.inclusivedesigntoolkit.com/whatis/whatis.html)
 - NAV-ansatte kan gjennom UU-teamet bli medlem i bransjeorganisasjonen [IAAP (International Accessibility of Accessibility Professionals)](http://www.iaapnordic.org/)

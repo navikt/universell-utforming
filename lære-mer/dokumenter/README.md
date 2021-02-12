@@ -31,5 +31,9 @@ Aktuell framgangsmåte finner du her:
 Aktuell framgangsmåte finner du her:
 - [Microsoft: Gjør Outlook-e-posten din tilgjengelig for personer med funksjonshemninger](https://support.microsoft.com/nb-no/office/gj%C3%B8r-outlook-e-posten-din-tilgjengelig-for-personer-med-funksjonshemninger-71ce71f4-7b15-4b7a-a2e3-cf91721bbacb#picktab=windows) (Ekstern lenke)
 
+### Tilgjengelig utformede Microsoft Office-maler
+Her finner du diverse Office-maler som har et godt utgangspunkt når det kommer til universell utforming:
+- [Tilgjengelige maler for Office](https://support.microsoft.com/nb-no/office/f%c3%a5-tilgjengelige-maler-for-office-ca086caa-2bd2-4ac8-8c12-4cd495bd4d76?ui=nb-no&rs=nb-no&ad=no) (Ekstern lenke)
+
 ### Regler for tilgjengelighetskontroll
 - [Microsoft sine regler for hvordan de sjekker tilgjengelighet i diverse filformat](https://support.microsoft.com/nb-no/office/regler-for-tilgjengelighetskontroll-651e08f2-0fc3-4e10-aaca-74b4a67101c1) (Ekstern lenke)

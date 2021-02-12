@@ -8,7 +8,7 @@ Vi har testutstyr som simulerer hørselstap og tinnitus, og skjelving. Vi har og
 
 Og dersom du ikke har hatt behov for rullestol tidligere, så kan du få kjenne på kroppen hvor "lett" det er å hente seg en kaffekopp ved automaten på vei til neste møte, eller ta en tur ned i kantina for å spise lunsj.
 
-Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
+Kom og opplev vår Empati-lab! Du finner den i NAVs lokaler i Fyrstikkallèen 1.
 
 -----
-beskrivelsene fra https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/NAV-Empatilab-(rom-5006-i-Sannergata-2).aspx
+NAV-internt: Mer om dette kommer også her, men se inntil videre https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/NAV-Empatilab-(rom-5006-i-Sannergata-2).aspx.

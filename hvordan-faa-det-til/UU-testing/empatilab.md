@@ -25,7 +25,7 @@ Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
 
 <figure>
     <img src="hvordan-faa-det-til/UU-testing/23886-tinnitus.jpg" alt="tinnitus-simulator"/>
-    <figcaption>Opplev hvordan det er å ha hørselstap eller tinnitus. Kilde: [Produkt + Projekt Wolfgang Moll](http://www.age-simulation-suit.com/tinnitus.html).
+    <figcaption>Opplev hvordan det er å ha hørselstap eller tinnitus. Kilde: <a href="http://www.age-simulation-suit.com/tinnitus.html">Produkt + Projekt Wolfgang Moll></a>.
  </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
 
 <figure>
     <img src="hvordan-faa-det-til/UU-testing/51367-tremor-simulator.jpg" alt="tremor-simulator"/>
-    <figcaption>Opplev hvordan det er å ha uønsket skjelving. Kilde: [Produkt + Projekt Wolfgang Moll](http://www.age-simulation-suit.com/tremor-simulator.html).
+    <figcaption>Opplev hvordan det er å ha uønsket skjelving. Kilde: <a href="http://www.age-simulation-suit.com/tremor-simulator.html">Produkt + Projekt Wolfgang Moll></a>.
  </figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
 
 <figure>
     <img src="hvordan-faa-det-til/UU-testing/84438-chromebook.png" alt="chromebook"/>
-    <figcaption>Opplev internett ved å bruke personas med diverse funksjonsnedsettelser. Kilde: [gov.uk](https://accessibility.blog.gov.uk/2019/02/11/using-persona-profiles-to-test-accessibility/).
+    <figcaption>Opplev internett ved å bruke personas med diverse funksjonsnedsettelser. Kilde: <a href="https://accessibility.blog.gov.uk/2019/02/11/using-persona-profiles-to-test-accessibility/">gov.uk</a>.
  </figcaption>
 </figure>
 

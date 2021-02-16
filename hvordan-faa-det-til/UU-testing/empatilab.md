@@ -25,7 +25,7 @@ Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
 
 <figure>
     <img src="hvordan-faa-det-til/UU-testing/23886-tinnitus.jpg" alt="tinnitus-simulator"/>
-    <figcaption>Opplev hvordan det er å ha hørselstap eller tinnitus. Kilde: <a href="http://www.age-simulation-suit.com/tinnitus.html">Produkt + Projekt Wolfgang Moll></a>.
+    <figcaption>Opplev hvordan det er å ha hørselstap eller tinnitus. Kilde: <a href="http://www.age-simulation-suit.com/tinnitus.html">Produkt + Projekt Wolfgang Moll</a>.
  </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
 
 <figure>
     <img src="hvordan-faa-det-til/UU-testing/51367-tremor-simulator.jpg" alt="tremor-simulator"/>
-    <figcaption>Opplev hvordan det er å ha uønsket skjelving. Kilde: <a href="http://www.age-simulation-suit.com/tremor-simulator.html">Produkt + Projekt Wolfgang Moll></a>.
+    <figcaption>Opplev hvordan det er å ha uønsket skjelving. Kilde: <a href="http://www.age-simulation-suit.com/tremor-simulator.html">Produkt + Projekt Wolfgang Moll</a>.
  </figcaption>
 </figure>
 

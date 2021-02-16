@@ -47,7 +47,7 @@ Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
 
 ## Simulering av øyesykdommer
 
-Brillene simulerer typiske aldersrelaterte øyesykdommer. Settet med briller består av 6 simuleringsbriller. Brillene er merket med relevante øyesykdommer. Kilde: [Produkt + Projekt Wolfgang Moll](http://www.age-simulation-suit.com/simulation-glasses.html).
+Brillene simulerer typiske aldersrelaterte øyesykdommer. Settet med briller består av 6 simuleringsbriller. Brillene er merket med relevante øyesykdommer. Vi har 2 set. Kilde: [Produkt + Projekt Wolfgang Moll](http://www.age-simulation-suit.com/simulation-glasses.html).
 
 <figure>
     <img src="hvordan-faa-det-til/UU-testing/893510515macular degeneration.jpeg" alt="macular degeneration"/>
@@ -55,6 +55,32 @@ Brillene simulerer typiske aldersrelaterte øyesykdommer. Settet med briller bes
  </figcaption>
 </figure>
 
+<figure>
+    <img src="hvordan-faa-det-til/UU-testing/1043520950Cataract.jpeg" alt="Cataract"/>
+    <figcaption>Briller som simulerer grå stær (Cataract)
+ </figcaption>
+</figure>
 
------
-beskrivelsene fra https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/NAV-Empatilab-(rom-5006-i-Sannergata-2).aspx
+<figure>
+    <img src="hvordan-faa-det-til/UU-testing/279691648Galucoma.jpeg" alt="glaucoma"/>
+    <figcaption>Briller som simulerer grønn stær (Glaucoma)
+ </figcaption>
+</figure>
+
+<figure>
+    <img src="hvordan-faa-det-til/UU-testing/229367076Unilateral retinal detachment.jpeg" alt="utilateral retina detachment"/>
+    <figcaption>Briller som simulerer netthinner som løsner
+ </figcaption>
+</figure>
+
+<figure>
+    <img src="hvordan-faa-det-til/UU-testing/481753407Diabetic retinoipathy.jpeg" alt="diabetic retinoipathy"/>
+    <figcaption>Briller som simulerer diabetisk øyesykdom
+ </figcaption>
+</figure>
+
+<figure>
+    <img src="hvordan-faa-det-til/UU-testing/62825-Retinitis-pigmentosa.jpeg" alt="retinitis pigmentosa"/>
+    <figcaption>Briller som simulerer innsnevret synsfelt (kikkertsyn)
+ </figcaption>
+</figure>

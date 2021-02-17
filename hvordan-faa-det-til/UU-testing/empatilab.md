@@ -1,14 +1,50 @@
-# Empati-lab
+Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
 
-Lurer du på hvordan en skjermleser funker? Eller hvordan det er å ikke kunne bruke mus eller tastatur? Har du lyst til å snakke med Google Home og Alexa?
- 
-I vår Empati-lab gir vi deg muligheten til bedre å forstå hvilke muligheter og utfordringer som følger med det å ha forskjellige funksjonsnedsettelser. Vi har f.eks. to Chromebooks som du kan logge deg på med seks ulike profiler; alt fra svaksynt til blind, og med motoriske nedsettelser til dysleksi. 
+<figure>
+    <img src="hvordan-faa-det-til/UU-testing/88179-SanseLab_2.jpg" alt="Sanselab"/>
+    <figcaption>Bildet fra Empati-laben i Sannergata viser noen av veggplakatene med hva du bør gjøre og hva du ikke bør gjøre som designer og utvikler.</figcaption>
+</figure>
 
-Vi har testutstyr som simulerer hørselstap og tinnitus, og skjelving. Vi har også en koffert med briller som simulerer ulike øyesykdommer. I tillegg kan du teste hvordan dybdesyn og fokus fungerer med «drunk busters». Disse brillene simulerer hvordan det er å slite med f.eks. senvirkninger etter kreftbehandling og/eller hvis du går på sterke smertestillende, eller «bare» mangler søvn pga småbarn. Du kan også teste hvordan det er å være blind og bruke blindestokk. 
+<figure>
+    <img src="hvordan-faa-det-til/UU-testing/rullestol.jpeg" alt="rullestol"/>
+    <figcaption>Utfordring: Tør du ta lunsjen nede i kantina sittende i rullestol? 
+ </figcaption>
+</figure>
 
-Og dersom du ikke har hatt behov for rullestol tidligere, så kan du få kjenne på kroppen hvor "lett" det er å hente seg en kaffekopp ved automaten på vei til neste møte, eller ta en tur ned i kantina for å spise lunsj.
+## Simulering av hørselstap og tinnitus
 
-Kom og opplev vår Empati-lab! Du finner den i NAVs lokaler i Fyrstikkallèen 1.
+<figure>
+    <img src="hvordan-faa-det-til/UU-testing/23886-tinnitus.jpg" alt="tinnitus-simulator"/>
+    <figcaption>Opplev hvordan det er å ha hørselstap eller tinnitus. Kilde: [Produkt + Projekt Wolfgang Moll](http://www.age-simulation-suit.com/tinnitus.html).
+ </figcaption>
+</figure>
+
+## Simulering av senil tremor (skjelving)
+
+<figure>
+    <img src="hvordan-faa-det-til/UU-testing/51367-tremor-simulator.jpg" alt="tremor-simulator"/>
+    <figcaption>Opplev hvordan det er å ha uønsket skjelving. Kilde: [Produkt + Projekt Wolfgang Moll](http://www.age-simulation-suit.com/tremor-simulator.html).
+ </figcaption>
+</figure>
+
+## Chromebook
+
+<figure>
+    <img src="hvordan-faa-det-til/UU-testing/84438-chromebook.png" alt="chromebook"/>
+    <figcaption>Opplev internett ved å bruke personas med diverse funksjonsnedsettelser. Kilde: [gov.uk](https://accessibility.blog.gov.uk/2019/02/11/using-persona-profiles-to-test-accessibility/).
+ </figcaption>
+</figure>
+
+## Simulering av øyesykdommer
+
+Brillene simulerer typiske aldersrelaterte øyesykdommer. Settet med briller består av 6 simuleringsbriller. Brillene er merket med relevante øyesykdommer. Kilde: [Produkt + Projekt Wolfgang Moll](http://www.age-simulation-suit.com/simulation-glasses.html).
+
+<figure>
+    <img src="hvordan-faa-det-til/UU-testing/893510515macular degeneration.jpeg" alt="macular degeneration"/>
+    <figcaption>Briller som simulerer aldersrelatert maculadegenerasjon (AMD)
+ </figcaption>
+</figure>
+
 
 -----
-NAV-internt: Mer om dette kommer også her, men se inntil videre https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/NAV-Empatilab-(rom-5006-i-Sannergata-2).aspx.
+beskrivelsene fra https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/NAV-Empatilab-(rom-5006-i-Sannergata-2).aspx

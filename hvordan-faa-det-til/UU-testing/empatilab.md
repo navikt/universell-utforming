@@ -11,23 +11,21 @@ Kom og opplev vår Empati-lab! Du finner den ved kantina i Fyrstikkallèen 1 på
     <figcaption>Utfordring: Tør du ta lunsjen nede i kantina sittende i rullestol? 
  </figcaption>
 </figure>
-@ -24,7 +24,7 @@ Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
-## Simulering av hørselstap og tinnitus
 
+## Simulering av hørselstap og tinnitus
 <figure>
     <img src="/hvordan-faa-det-til/UU-testing/23886-tinnitus.jpg" alt="tinnitus-simulator"/>
     <figcaption>Opplev hvordan det er å ha hørselstap eller tinnitus. Kilde: <a href="http://www.age-simulation-suit.com/tinnitus.html">Produkt + Projekt Wolfgang Moll</a>.
  </figcaption>
 </figure>
-@ -32,7 +32,7 @@ Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
-## Simulering av senil tremor (skjelving)
 
+## Simulering av senil tremor (skjelving)
 <figure>
     <img src="/hvordan-faa-det-til/UU-testing/51367-tremor-simulator.jpg" alt="tremor-simulator"/>
     <figcaption>Opplev hvordan det er å ha uønsket skjelving. Kilde: <a href="http://www.age-simulation-suit.com/tremor-simulator.html">Produkt + Projekt Wolfgang Moll</a>.
  </figcaption>
 </figure>
-@ -40,7 +40,7 @@ Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
+
 ## Chromebook
 
 <figure>
@@ -35,7 +33,6 @@ Kom og opplev vår Empati-lab! Du finner den ved kantina i Fyrstikkallèen 1 på
     <figcaption>Opplev internett ved å bruke personas med diverse funksjonsnedsettelser. Kilde: <a href="https://accessibility.blog.gov.uk/2019/02/11/using-persona-profiles-to-test-accessibility/">gov.uk</a>.
  </figcaption>
 </figure>
-@ -50,37 +50,37 @@ Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
 Brillene simulerer typiske aldersrelaterte øyesykdommer. Settet med briller består av 6 simuleringsbriller. Brillene er merket med relevante øyesykdommer. Vi har 2 set. Kilde: [Produkt + Projekt Wolfgang Moll](http://www.age-simulation-suit.com/simulation-glasses.html).
 
 <figure>

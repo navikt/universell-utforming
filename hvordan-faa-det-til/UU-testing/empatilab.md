@@ -1,5 +1,5 @@
 ## Empatilab
-Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkallèen 1.
+Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkallèen 1 på Helsfyr.
 
 <figure>
     <img src="/hvordan-faa-det-til/UU-testing/88179-SanseLab_2.jpg" alt="Sanselab"/>

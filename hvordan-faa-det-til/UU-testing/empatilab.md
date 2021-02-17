@@ -1,4 +1,4 @@
-## Empatilab
+# Empatilab
 Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkallèen 1 på Helsfyr.
 
 <figure>

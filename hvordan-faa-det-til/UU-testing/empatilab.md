@@ -1,8 +1,7 @@
 ## Empatilab
-Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkalleen.
+Kom og opplev vår Empati-lab! Du finner den i 1 UG i Fyrstikkallèen 1.
 
 <figure>
-    <img src="https://raw.github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/88179-SanseLab_2.jpg" alt="Sanselab"/>
     <img src="/hvordan-faa-det-til/UU-testing/88179-SanseLab_2.jpg" alt="Sanselab"/>
     <figcaption>Bildet fra Empati-laben i Sannergata viser noen av veggplakatene med hva du bør gjøre og hva du ikke bør gjøre som designer og utvikler.</figcaption>
 </figure>

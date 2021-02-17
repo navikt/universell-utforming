@@ -1,4 +1,4 @@
-# Empatilab
+# Empati-lab
 Kom og opplev vår Empati-lab! Du finner den ved kantina i Fyrstikkallèen 1 på Helsfyr.
 
 <figure>

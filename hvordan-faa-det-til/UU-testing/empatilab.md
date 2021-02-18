@@ -33,6 +33,9 @@ Kom og opplev vår Empati-lab! Du finner den ved kantina i Fyrstikkallèen 1 på
     <figcaption>Opplev internett ved å bruke personas med diverse funksjonsnedsettelser. Kilde: <a href="https://accessibility.blog.gov.uk/2019/02/11/using-persona-profiles-to-test-accessibility/">gov.uk</a>.
  </figcaption>
 </figure>
+
+## Simulering av øyesykdommer
+
 Brillene simulerer typiske aldersrelaterte øyesykdommer. Settet med briller består av 6 simuleringsbriller. Brillene er merket med relevante øyesykdommer. Vi har 2 set. Kilde: [Produkt + Projekt Wolfgang Moll](http://www.age-simulation-suit.com/simulation-glasses.html).
 
 <figure>

@@ -6,6 +6,8 @@ Kom og opplev vår Empati-lab! Du finner den ved kantina i Fyrstikkallèen 1 på
     <figcaption>Bildet fra Empati-laben i Sannergata viser noen av veggplakatene med hva du bør gjøre og hva du ikke bør gjøre som designer og utvikler.</figcaption>
 </figure>
 
+
+
 Lurer du på hvordan en skjermleser funker? Eller hvordan det er å ikke kunne bruke mus eller tastatur? Har du lyst til å snakke med Google Home og Alexa?
 
  

@@ -19,7 +19,7 @@ Automatiserte testverktøy kan simulere forskjellige skjermstørrelser og forst�
 1. Forstørr fonten til 200 % (du kan [endre det i innstilingene på iPhone](https://support.apple.com/en-us/HT202828) eller direkte i safari)
 2. Sjekk at alt innhold og funksjonalitet er tilgjengelig og forståelig.
 
-![zoom i safari](/hvordan-faa-det-til/UU-testing/manuell-testing/zoom.jpeg)
+<img src="/hvordan-faa-det-til/UU-testing/manuell-testing/zoom.jpeg" alt="zoom i safari i oppe venstre hjørne" style="max-width:50% />
 
 ## Text-spacing
 1. Slå på text-spacing, for eksempel i ARC-toolkig (se under) eller med en [bookmarklet](http://www.html5accessibility.com/tests/tsbookmarklet.html).

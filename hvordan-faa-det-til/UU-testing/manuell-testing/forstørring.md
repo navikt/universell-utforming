@@ -7,27 +7,28 @@ For brukere med moderat nedsatt syn, er nettleserforstørring en enkel metode fo
 Automatiserte testverktøy kan simulere forskjellige skjermstørrelser og forstørret innhold på sider. Det kreves likevel alltid en manuell sjekk for å se om alt innhold er synlig og kan betjenes med tastatur:
 
 ### Vanlig nettleserzoom
-1. Sett nettleseren i fullskjerm på den største skjermen du har tilgang til, deretter bruk nettleserens zoomfunksjon (Ctrl og +/- eller Cmd og +/-) stegvis til minst 200 prosent, gjerne opp til 400 prosent. Sjekk at alt innhold og funksjonalitet er tilgjengelig og forståelig. Det skal også være tilgjengelig når du bruker kun tastatur. Horisontalt skrolling bør unngås.
-2. Sett forstørringen til 100 prosent, og endre vindusbredden på din nettleser gradvis fra fullskjerm og ned til det smaleste du får til. Se om rekkefølge, gruppering og generell layout fungerer godt i hele spekteret.
-3. På mobil eller nettbrett, sjekk at du kan forstørre også på sider med responsivt oppsett.
+1. Sett nettleseren til 1280px bredde, deretter bruk nettleserens zoomfunksjon (Ctrl og +/- eller Cmd og +/-) stegvis til 400 prosent. 
+2. Sjekk at alt innhold og funksjonalitet er tilgjengelig og forståelig, i alle media-queries mellom 100 og 400 %. Det skal også være tilgjengelig når du bruker kun tastatur. Horisontalt skrolling bør unngås.
+3. Sett forstørringen til 100 prosent, og endre vindusbredden på din nettleser gradvis fra fullskjerm og ned til det smaleste du får til. Se om rekkefølge, gruppering og generell layout fungerer godt i hele spekteret.
 
-### Endring av skriftstørrelse
-Dette er enklest å teste ved å endre skriftstørrelsen i CSS. Innsillingene i for eksempel Chrome forstørrer skriften ikke nok.
-- Velg kodesnutten <html lang="nb-NO" data-hj-suppress="" class="vngage-csstransforms vngage-csstransitions"...>
-- Se i panelet "Styles". Klikk i boksen element.style. 
-- Skriv font-size: 200% 
+### Endring av skriftstørrelse på pc/mac
+1. Forstørr fonten til 200 % (for eksempel i firefox med text-only zoom: view --> zoom --> text-only zoom)
+2. Sjekk at alt innhold og funksjonalitet er tilgjengelig og forståelig. Det skal også være tilgjengelig når du bruker kun tastatur. Horisontalt skrolling bør unngås.
 
-### Test på mobil
-WCAG er ikke tydelig på om / hvordan forstørring skal testes på mobile flater. Med tanke på hvor mange som bruker våre sider på mobil, s
-På iPhone: 
-- Gå til innstillinger 
-- Safari
-- Sidezoom og sett det på minst 200%
+## Zoom på mobil
+1. Forstørr fonten til 200 % (du kan [endre det i innstilingene på iPhone](https://support.apple.com/en-us/HT202828) eller direkte i safari)
+2. Sjekk at alt innhold og funksjonalitet er tilgjengelig og forståelig.
+
+![zoom i safari](/hvordan-faa-det-til/UU-testing/manuell-testing/zoom.jpeg)
+
+## Text-spacing
+1. Slå på text-spacing, for eksempel i ARC-toolkig (se under) eller med en [bookmarklet](http://www.html5accessibility.com/tests/tsbookmarklet.html).
+2. Sjekk at alt innhold og funksjonalitet er tilgjengelig og forståelig, i alle media-queries mellom 100 og 400 %. Det skal også være tilgjengelig når du bruker kun tastatur. Horisontalt skrolling bør unngås.
 
 ## Verktøy du kan bruke
 Bruk gjerne nettsiden [My viewport size (ekstern lenke, engelsk)](https://viewportsizes.com/mine/) for å sette vindusstørrelsen til spesifikke størrelser eller sjekke vindusstørrelsen når du oppdager problemer.
 
-ARC toolkit tilbyr også en zoomfunksjon til 400%:
+ARC toolkit tilbyr også en zoomfunksjon til 400%:, og det kan simulere text-spacing.
 
 ![zoom med ARC på nav.no](https://github.com/navikt/universell-utforming/blob/master/hvordan-faa-det-til/UU-testing/manuell-testing/zoom-arc.png)
 

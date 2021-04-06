@@ -1,13 +1,13 @@
 # Hva gjelder?
-<div><alertstripe type="advarsel">OBS! Fra 1. januar 2021 er alle våre innbyggertjenester omfattet av gjeldende lovverk, også eldre løsninger og PDF-er. Det føres tilsyn på området, som kan føre til dårlig medieomtale og høye dagbøter. Løsninger som ikke rekker å være i tråd med kravene innen 2021, må søke om dispensasjon.</alertstripe></div>
+<div><alertstripe type="advarsel">OBS! Siden 1. januar 2021 er alle våre innbyggertjenester omfattet av gjeldende lovverk, også eldre løsninger og PDF-er. Det føres tilsyn på området, som kan føre til dårlig medieomtale og høye dagbøter. Men viktigst av alt: Vi må sikre universell utforming slik at alle kan bruke løsningene våre.</alertstripe></div>
 
 ## Fra 2014-2020
-Nå gjelder [Forskriften om universell utforming av IKT](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732), med hjemmel i [Likestillings- og Diskrimineringsloven](https://lovdata.no/dokument/NL/lov/2017-06-16-51?q=likestilling). Den sier at nettløsninger som retter seg mot befolkningen, inkludert dokumenter og apps, må møte kravene i [WCAG 2.0](https://www.w3.org/TR/WCAG20/), på nivå A og AA. 
+[Forskriften om universell utforming av IKT](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732) har vært i kraft siden 1. juli 2014. Den har sin hjemmel i [Likestillings- og Diskrimineringsloven](https://lovdata.no/dokument/NL/lov/2017-06-16-51?q=likestilling). Den sier at nettløsninger som retter seg mot befolkningen, inkludert dokumenter og apps, må møte kravene i [WCAG 2.0](https://www.w3.org/TR/WCAG20/), på nivå A og AA. 
 
-Forskriften har vært i kraft siden 1. juli 2014, og gjelder for alle løsninger som ble utviklet, kjøpt eller betydelig oppdatert etter 1. juli 2014. 
+I en første overgangsperiode gjald kravene bare "ny IKT", altså løsninger som ble utviklet, kjøpt eller betydelig oppdatert etter 1. juli 2014. 
 
 ## Fra 2021
-Fra __1. januar 2021__ må *alle* NAVs digitale løsninger rettet mot befolkningen følge [Forskriften om universell utforming av IKT](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732) - også de som ble laget *før* 1. juli 2014. Dette gjelder også alle PDF-er, skjemaer eller artikler som er deler av en digital brukerreise eller som NAV legger ut på nettet. __Løsningene som ikke rekker å oppdateres i tråd med kravene innen 1. januar 2021, må [søke Digitaliseringsdirektoratet om dispensasjon](https://www.uutilsynet.no/regelverk/soke-om-dispensasjon/154).__
+Siden __1. januar 2021__ må *alle* NAVs digitale løsninger rettet mot befolkningen følge [Forskriften om universell utforming av IKT](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732) - også de som ble laget *før* 1. juli 2014. Dette gjelder også alle PDF-er, skjemaer eller artikler som er deler av en digital brukerreise eller som NAV legger ut på nettet. 
 
 I tillegg vil [Web Accessibility Direktivet] fra EU om universell utforming av offentlige nettsteder og mobilapplikasjoner bli en del av norsk lov i løpet av 2021, og dette vil føle til __ytterligere skjerpinger__, blant annet:
 1. Vi går fra [WCAG 2.0](https://www.uutilsynet.no/wcag-standarden/wcag-20-standarden/86) nivå AA krav til [WCAG 2.1](https://www.uutilsynet.no/webdirektivet-wad/wcag-21-standarden/140) nivå AA krav, og vi får flere nye krav.

@@ -1,10 +1,12 @@
 # Lær mer om universell utforming
 
-Her kommer det relevant informasjon relatert til universell utforming.
+## Online-kurs
 Alle med NAV-e-post-adresse har tilgang til [Siteimprove-akademiet](https://siteimprove.litmos.com/home/library) med en del forskjellige kurs gjennom [Single-sign-on](https://my2.siteimprove.com/Auth/Saml2/6274809).
 
-Foreløpig noen lenker:
-- [UU-coaching i NAV (NAV-intern lenke)](https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/Moduler.aspx)
+## UU-coaching
+[UU-coaching i NAV (NAV-intern lenke)](https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/Moduler.aspx) er et tilbud til NAVs team. De kan booke forskjellige moduler hos UU-teamet etter behov.
+
+## Andre ressurser
 - [Om forskjellige funksjonsnedsettelser](https://navikt.github.io/uu/l%C3%A6re-mer/funksjonsnedsettelser/)
 - [Tilgjengelige dokumenter (PDF, Word, Excel, Powerpoint)](https://navikt.github.io/uu/l%C3%A6re-mer/dokumenter/)
 - [Tilsynets veiledningssider om universell utforming av IKT](http://uutilsynet.no)

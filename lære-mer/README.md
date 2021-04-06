@@ -13,6 +13,6 @@
 - [Tilgjengelige dokumenter (PDF, Word, Excel, Powerpoint)](https://navikt.github.io/uu/l%C3%A6re-mer/dokumenter/)
 - [Tilsynets veiledningssider om universell utforming av IKT](http://uutilsynet.no)
 - [Inclusive Design Toolkit](http://www.inclusivedesigntoolkit.com/whatis/whatis.html)
-- NAV-ansatte kan gjennom UU-teamet bli medlem i bransjeorganisasjonen [IAAP (International Accessibility of Accessibility Professionals)](http://www.iaapnordic.org/)
+- NAV-ansatte kan gjennom UU-teamet bli medlem i bransjeorganisasjonen [IAAP (International Accessibility of Accessibility Professionals)](http://www.iaapnordic.org/) - her finnes det også [mange webinarer](https://www.accessibilityassociation.org/archivedwebinardirectory) som er inkludert i medlemskapet, og man kan ta [sertifiseringer](https://www.accessibilityassociation.org/certification).
 - [W3Cs Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/)
 - [Podcasts og videoer om universell utforming (NAV-intern side)](https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/Podcast%20og%20video.aspx)

@@ -10,11 +10,11 @@ Målet er å lage dokumenter og presentasjoner etc. som er tilgjengelige for all
 * [Referansekatalog for IT-standarder](https://www.digdir.no/digitalisering-og-samordning/referansekatalogen-it-standardar/1480) (Ekstern lenke)
 
 ## Tips og triks for å lage universelt utformede dokumenter
+- [UU-Tilsynets anbefalinger om universell utforming av dokumenter](https://www.uutilsynet.no/regelverk/dokumenter-pa-nettsider/208).
 ### PDF (Portable Document Format)
 Noen av de bedre veiledningene for tilgjengelige PDF-er finner du her:
 - [Universell.no: Universell utforming av PDF](https://www.universell.no/uupdf/) (ekstern lenke).
 - [Adobe: Opprette og bekrefte PDF-tilgjengelighet (Acrobat Pro)](https://helpx.adobe.com/no/acrobat/using/create-verify-pdf-accessibility.html) (ekstern lenke).
-- [UU-Tilsynets anbefalinger om universell utforming av dokumenter](https://www.uutilsynet.no/regelverk/dokumenter-pa-nettsider/208).
 
 
 ### Word-filer

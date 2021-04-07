@@ -2,7 +2,7 @@
 
 Hver løsning skal ha en tilgjengelighetserklæring, som viser hvor godt løsningen møter WCAG-kravene. Brukerne skal lett kunne få en oversikt over hva som eventuelt ikke fungerer, hvorfor og hvilke alternativer de har. [Mer informasjon på Tilsynets sider](https://www.uutilsynet.no/webdirektivet-wad/tilgjengelegheitserklaering/267).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qz8MxUovp9I" title="Tilsynets video om tilgjengeighetserklæring" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mg-XtLTqhHg" title="Tilsynets video om tilgjengeighetserklæring" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Tilsynet i Digitaliseringsdirektoratet jobber med en sentral løsning for tilgjengelighetserklæringen.
 

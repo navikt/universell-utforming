@@ -7,7 +7,7 @@ Automatiserte verktøy kan likevel luke ut mange tunge feil og sikre et absolutt
 Vi anbefaler verktøyene:  
 - SiteImprove ([Single-sign-on med NAV-login](https://my2.siteimprove.com/Auth/Saml2/6274809), ta kontakt med uu-teamet for å få tilgang til webområdet du jobber med)
 - SortSite 
-- ARC Toolkit  
+- [ARC Toolkit](https://chrome.google.com/webstore/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce)
 - [Linting som del av byggeprosessen](https://github.com/navikt/uu-testing)
 - Axe Tools (Deque)  
 

@@ -1,13 +1,18 @@
 # Lær mer om universell utforming
 
-Her kommer det relevant informasjon relatert til universell utforming.
+## Online-kurs
+- Alle med NAV-e-post-adresse har tilgang til [Siteimprove-akademiet](https://siteimprove.litmos.com/home/library) med en del forskjellige kurs gjennom [Single-sign-on](https://my2.siteimprove.com/Auth/Saml2/6274809).
+- [Digital Accessibility Foundations - Free Online Course (W3C)](https://www.w3.org/WAI/fundamentals/foundations-course/) (med mulighet for sertifikat)
+- Tilsynets [online-kurs for skribenter](https://www.uutilsynet.no/veiledning/e-laeringskurs-om-universell-utforming-av-nettinnhold/199), ligger også inne i NAVs læringsportal
 
-Foreløpig noen lenker:
-- [UU-coaching i NAV (NAV-intern lenke)](https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/Moduler.aspx)
+## UU-coaching
+[UU-coaching i NAV (NAV-intern lenke)](https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/Moduler.aspx) er et tilbud til NAVs team. De kan booke forskjellige moduler hos UU-teamet etter behov.
+
+## Andre ressurser
 - [Om forskjellige funksjonsnedsettelser](https://navikt.github.io/uu/l%C3%A6re-mer/funksjonsnedsettelser/)
 - [Tilgjengelige dokumenter (PDF, Word, Excel, Powerpoint)](https://navikt.github.io/uu/l%C3%A6re-mer/dokumenter/)
 - [Tilsynets veiledningssider om universell utforming av IKT](http://uutilsynet.no)
 - [Inclusive Design Toolkit](http://www.inclusivedesigntoolkit.com/whatis/whatis.html)
-- NAV-ansatte kan gjennom UU-teamet bli medlem i bransjeorganisasjonen [IAAP (International Accessibility of Accessibility Professionals)](http://www.iaapnordic.org/)
+- NAV-ansatte kan gjennom UU-teamet bli medlem i bransjeorganisasjonen [IAAP (International Accessibility of Accessibility Professionals)](http://www.iaapnordic.org/) - her finnes det også [mange webinarer](https://www.accessibilityassociation.org/archivedwebinardirectory) som er inkludert i medlemskapet, og man kan ta [sertifiseringer](https://www.accessibilityassociation.org/certification).
 - [W3Cs Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/)
 - [Podcasts og videoer om universell utforming (NAV-intern side)](https://navno.sharepoint.com/sites/universellutformingavikt/SitePages/Podcast%20og%20video.aspx)

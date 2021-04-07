@@ -22,7 +22,8 @@ Noen av de bedre veiledningene for tilgjengelige PDF-er finner du her:
 - [Opprette tilgjengelige PDF-filer fra Word](https://support.microsoft.com/nb-no/office/opprette-tilgjengelige-pdf-filer-064625e0-56ea-4e16-ad71-3aa33bb4b7ed#PickTab=Windows) (ekstern lenke).
 
 ### Powerpoint-presentasjoner
-[Gjør PowerPoint-presentasjoner tilgjengelige for personer med nedsatt funksjonsevne](https://support.microsoft.com/nb-no/office/gj%C3%B8re-powerpoint-presentasjoner-tilgjengelige-for-personer-med-funksjonshemninger-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25#picktab=windows) (ekstern lenke).
+- [Gjør PowerPoint-presentasjoner tilgjengelige for personer med nedsatt funksjonsevne](https://support.microsoft.com/nb-no/office/gj%C3%B8re-powerpoint-presentasjoner-tilgjengelige-for-personer-med-funksjonshemninger-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25#picktab=windows) (ekstern lenke).
+- [NAVs ppt-maler](https://identitet.nav.no/d/n49NiiediAKF/verktoy-og-maler#/maler/powerpoint)(ekstern lenke).
 
 ### Excel-ark
 [Gjør Excel-dokumenter tilgjengelige for personer med nedsatt funksjonsevne](https://support.microsoft.com/nb-no/office/gj%C3%B8re-excel-dokumenter-tilgjengelige-for-personer-med-funksjonshemninger-6cc05fc5-1314-48b5-8eb3-683e49b3e593#picktab=windows) (ekstern lenke).
@@ -34,7 +35,8 @@ Noen av de bedre veiledningene for tilgjengelige PDF-er finner du her:
 Forbedre tilgengeligheten ved å bruke [Microsoft tilgjengelighetskontroll](https://support.microsoft.com/nb-no/office/forbedre-tilgjengelighet-med-tilgjengelighetskontroll-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f#picktab=windows) (ekstern lenke) for å sikre at innholdet i Office-dokumenter er enkle å lese og redigere for alle.
 
 ### Tilgjengelig utformede Microsoft Office-maler
-Her finner du diverse Office-maler som har et godt utgangspunkt når det kommer til universell utforming: <br> [Tilgjengelige maler for Office](https://support.microsoft.com/nb-no/office/f%c3%a5-tilgjengelige-maler-for-office-ca086caa-2bd2-4ac8-8c12-4cd495bd4d76?ui=nb-no&rs=nb-no&ad=no) (ekstern lenke).
+- Her finner du diverse Office-maler som har et godt utgangspunkt når det kommer til universell utforming: <br> [Tilgjengelige maler for Office](https://support.microsoft.com/nb-no/office/f%c3%a5-tilgjengelige-maler-for-office-ca086caa-2bd2-4ac8-8c12-4cd495bd4d76?ui=nb-no&rs=nb-no&ad=no) (ekstern lenke).
+- [NAVs ppt-maler](https://identitet.nav.no/d/n49NiiediAKF/verktoy-og-maler#/maler/powerpoint)(ekstern lenke).
 
 ### Regler for tilgjengelighetskontroll
 [Microsoft sine regler for hvordan de sjekker tilgjengelighet i diverse filformat](https://support.microsoft.com/nb-no/office/regler-for-tilgjengelighetskontroll-651e08f2-0fc3-4e10-aaca-74b4a67101c1) (ekstern lenke).

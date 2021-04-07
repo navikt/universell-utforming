@@ -27,10 +27,10 @@ Noen av de bedre veiledningene for tilgjengelige PDF-er finner du her:
 - [NAVs ppt-maler](https://identitet.nav.no/d/n49NiiediAKF/verktoy-og-maler#/maler/powerpoint)(ekstern lenke).
 
 ### Excel-ark
-[Gjør Excel-dokumenter tilgjengelige for personer med nedsatt funksjonsevne](https://support.microsoft.com/nb-no/office/gj%C3%B8re-excel-dokumenter-tilgjengelige-for-personer-med-funksjonshemninger-6cc05fc5-1314-48b5-8eb3-683e49b3e593#picktab=windows) (ekstern lenke).
+- [Gjør Excel-dokumenter tilgjengelige for personer med nedsatt funksjonsevne](https://support.microsoft.com/nb-no/office/gj%C3%B8re-excel-dokumenter-tilgjengelige-for-personer-med-funksjonshemninger-6cc05fc5-1314-48b5-8eb3-683e49b3e593#picktab=windows) (ekstern lenke).
 
 ### Outlook - tilgjengelige eposter
-[Gjør Outlook-e-posten din tilgjengelig for personer med nedsatt funksjonsevne](https://support.microsoft.com/nb-no/office/gj%C3%B8r-outlook-e-posten-din-tilgjengelig-for-personer-med-funksjonshemninger-71ce71f4-7b15-4b7a-a2e3-cf91721bbacb#picktab=windows) (ekstern lenke).
+- [Gjør Outlook-e-posten din tilgjengelig for personer med nedsatt funksjonsevne](https://support.microsoft.com/nb-no/office/gj%C3%B8r-outlook-e-posten-din-tilgjengelig-for-personer-med-funksjonshemninger-71ce71f4-7b15-4b7a-a2e3-cf91721bbacb#picktab=windows) (ekstern lenke).
 
 ## Microsoft tilgjengelighetskontroll
 Forbedre tilgengeligheten ved å bruke [Microsoft tilgjengelighetskontroll](https://support.microsoft.com/nb-no/office/forbedre-tilgjengelighet-med-tilgjengelighetskontroll-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f#picktab=windows) (ekstern lenke) for å sikre at innholdet i Office-dokumenter er enkle å lese og redigere for alle.

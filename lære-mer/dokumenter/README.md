@@ -11,6 +11,7 @@ Målet er å lage dokumenter og presentasjoner etc. som er tilgjengelige for all
 
 ## Tips og triks for å lage universelt utformede dokumenter
 - [UU-Tilsynets anbefalinger om universell utforming av dokumenter](https://www.uutilsynet.no/regelverk/dokumenter-pa-nettsider/208).
+
 ### PDF (Portable Document Format)
 Noen av de bedre veiledningene for tilgjengelige PDF-er finner du her:
 - [Universell.no: Universell utforming av PDF](https://www.universell.no/uupdf/) (ekstern lenke).

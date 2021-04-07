@@ -1,7 +1,7 @@
 # Tilgjengelige dokumenter
 <p class="typo-ingress">Når du publiserer innhold på for eksempel nettsidene dine, bør du publisere innholdet i HTML-format, med mindre presentasjonen er avhengig av at innholdet er laget i et nedlastbart dokument.</p>
 
-For offentlige virksomheter er det obligatorisk å publisere tekstdokumenter som legges ut på offentlige nettsider i HTML og CSS (se [Digdir.no](https://www.digdir.no/digitale-felleslosninger/publisering-av-tekstdokument/1494), ekstern lenke). Dersom det er behov for å ivareta formatering utover det som er mulig med CSS, er det obligatorisk å utforme dokumentene i PDF. Du kan gjerne publisere dokumentene i andre formater i tillegg.
+For offentlige virksomheter er det obligatorisk å publisere tekstdokumenter som legges ut på offentlige nettsider i HTML og CSS (se [Digdir.no](https://www.digdir.no/digitale-felleslosninger/publisering-av-tekstdokument/1494), ekstern lenke). Dersom det er behov for å ivareta formatering utover det som er mulig med CSS, er det obligatorisk å utforme dokumentene i PDF. Du kan gjerne publisere dokumentene i andre formater i tillegg. 
 
 Målet er å lage dokumenter og presentasjoner etc. som er tilgjengelige for alle.
 
@@ -14,6 +14,8 @@ Målet er å lage dokumenter og presentasjoner etc. som er tilgjengelige for all
 Noen av de bedre veiledningene for tilgjengelige PDF-er finner du her:
 - [Universell.no: Universell utforming av PDF](https://www.universell.no/uupdf/) (ekstern lenke).
 - [Adobe: Opprette og bekrefte PDF-tilgjengelighet (Acrobat Pro)](https://helpx.adobe.com/no/acrobat/using/create-verify-pdf-accessibility.html) (ekstern lenke).
+- [UU-Tilsynets anbefalinger om universell utforming av dokumenter](https://www.uutilsynet.no/regelverk/dokumenter-pa-nettsider/208).
+
 
 ### Word-filer
 - [Gjør Word-dokumenter tilgjengelige for personer med nedsatt funksjonsevne](https://support.microsoft.com/nb-no/office/gj%C3%B8re-word-dokumenter-tilgjengelige-for-personer-med-funksjonshemninger-d9bf3683-87ac-47ea-b91a-78dcacb3c66d#PickTab=Windows) (ekstern lenke).

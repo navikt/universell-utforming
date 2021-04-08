@@ -18,7 +18,7 @@ For å kunne svare _ja_ på dette spørsmålet over må du:
 
 Skal vi designe for mennesker, må vi akseptere variasjon. Uansett hva du lager, må du som innholdsprodusent ta et faglig ansvar for å vurdere det innholdet du produserer opp mot lovkrav og brukerbehov. Du kommer langt med empati. 
 
-* [Tilgjengelige dokumenter (PDF, Word, Powerpoint, Excel)](../dokumenter/) gir deg tips og triks for å lage dokumenter som er tilgjengelige for alle.
+* [Tilgjengelige dokumenter (PDF, Word, Powerpoint, Excel)](/Innholdsprodusent/dokumenter.md/) gir deg tips og triks for å lage dokumenter som er tilgjengelige for alle.
 
 * [Funkify](https://www.funkify.org/?v=f003c44deab6) er et verktøy som kan hjelpe deg å forstå utfordringer for personas med bl.a. dysleksi, ADHD, Parksinsons og ulike synsnedsettelser. 
 

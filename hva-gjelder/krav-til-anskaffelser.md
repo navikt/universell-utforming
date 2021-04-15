@@ -14,4 +14,9 @@ Trenger du bistand til å fortstå og følge opp kravene før, underveis og ette
 7 | **Tilgang til tilbudt løsning** </br> Leverandør bes gi NAV tilgang til et testmiljø med relevant testdata for tilbudt løsning. Dette vil være gjenstand for ekspertvurderinger av universell utforming av IKT og eventuelt gjennomføring av brukervennlighets- og tilgjengelighetstester med reelle brukere/NAV-ansatte. | V | X
 8 | **Avvik** </br> Avvik fra WCAG 2.1 nivå, A, AA og AAA bør ha en tydelig prioritering og tilhørende framdriftsplan for når de utbedres og implementeres i tilbudt løsning. Leverandør bes legge ved sin plan. | V | X
 9 | **Kompetanse på universell utforming** </br> Leverandøren bes dokumentere hvilken kompetanse de har på universell utforming av IKT og hvordan denne er brukt eller skal brukes i tilbudt løsning. | V | X
-. | [^1]https://www.w3.org/TR/WCAG21/ <br> [^2]https://www.w3.org/TR/wai-aria/ og https://www.w3.org/TR/wai-aria-practices/ </br>[^3]http://www.w3.org/TR/ATAG20/<br>**NB! Henvisninger til standarder skal forstås som standarden eller tilsvarende.**
+
+- [1]https://www.w3.org/TR/WCAG21/
+- [2]https://www.w3.org/TR/wai-aria/ og https://www.w3.org/TR/wai-aria-practices/
+- [3]http://www.w3.org/TR/ATAG20/
+
+**NB! Henvisninger til standarder skal forstås som standarden eller tilsvarende.**

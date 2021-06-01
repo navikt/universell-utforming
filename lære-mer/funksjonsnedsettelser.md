@@ -15,8 +15,8 @@ Nedsatt funksjonsevne, eller funksjonsnedsettelse, er individuelle forhold som b
 - [Bevegelse](../funksjonsnedsettelser/mobilitet/)
 - [Hørsel](../funksjonsnedsettelser/horsel/)
 - [Kognisjon](../funksjonsnedsettelser/kognisjon/)
-- [Anfall](../funksjonsnedsettelser/anfall/)
-- [Psykisk](../funksjonsnedsettelser/psykologisk/)
+  - [Anfall](../funksjonsnedsettelser/anfall/)
+  - [Psykisk](../funksjonsnedsettelser/psykologisk/)
 
 ### Kilder
 - [Tilsynet for universell utforming av IKT (Digitaliseringsdirektoratet)](https://uutilsynet.no) (ekstern lenke)

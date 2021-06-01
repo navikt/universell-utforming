@@ -1,6 +1,6 @@
-# Krav til universell utforming av IKT i NAV-anskaffelser
+# Krav til teknisk tilgjengelighet (universell utforming av IKT) i NAV-anskaffelser
 
-Disse kravene til universell utforming av IKT (UU) skal stilles ved anskaffelse av både **interne og eksterne løsninger** i NAV.
+Disse kravene til teknisk tilgjengelighet danner deler av fundamentet for universell utforming av IKT (UU), og skal stilles ved anskaffelse av både **interne og eksterne løsninger** i NAV.
 Trenger du bistand til å fortstå og følge opp kravene før, underveis og etter en anskaffelse, så ta kontakt med UU-Teamet på uu@nav.no eller på NAV-intern slack-kanal #nav-uu. Sist oppdatert: 31.5.2021
 
  Nummer | Beskrivelse av kravet | Prioritet (A)bsolutt, (V)iktig | Utdypende kommentar

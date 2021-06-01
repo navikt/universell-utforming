@@ -1,6 +1,6 @@
 # Litt om forskjellige funksjonsnedsettelser
 ## Hva er nedsatt funksjonsevne? 
-Nedsatt funksjonsevne eller funksjonsnedsettelse er individuelle forhold som bidrar til at funksjonshemning kan oppstå. Nedsatt funksjonsevne kan være tap av, eller skade på, en kroppsdel eller en sansefunksjon, for eksempel syn.
+Nedsatt funksjonsevne, eller funksjonsnedsettelse, er individuelle forhold som bidrar til at funksjonshemning kan oppstå. Nedsatt funksjonsevne kan være tap av, eller skade på, en kroppsdel eller en sansefunksjon, for eksempel syn.
 - Nær 1 av 5 nordmenn mellom 16 og 66 år har nedsatt funksjonsevne. 
 - I gruppa over 66 år kan man i tillegg oppleve ulike former for funksjonstap som følge av aldring.
 - Noen eksempler på funksjonsnedsettelse er bevegelseshemming, nedsatt syn/hørsel eller psykososiale funksjonsnedsettelser. 
@@ -11,11 +11,11 @@ Nedsatt funksjonsevne eller funksjonsnedsettelse er individuelle forhold som bid
 - For eksempel vil en 50 år gammel person med mildt redusert gangfunksjon regnes som en person med funksjonsnedsettelse, mens en 90 år gammel person med identisk gangfunksjon neppe vil regnes som en person med funksjonsnedsettelse.
 
 ## Mer om forskjellige funksjonsnedsettelser
-- [Anfall](../funksjonsnedsettelser/anfall/)
+- [Syn](../funksjonsnedsettelser/syn/)
+- [Bevegelse](../funksjonsnedsettelser/mobilitet/)
 - [Hørsel](../funksjonsnedsettelser/horsel/)
 - [Kognisjon](../funksjonsnedsettelser/kognisjon/)
-- [Bevegelse](../funksjonsnedsettelser/mobilitet/)
-- [Syn](../funksjonsnedsettelser/syn/)
+- [Anfall](../funksjonsnedsettelser/anfall/)
 - [Psykisk](../funksjonsnedsettelser/psykologisk/)
 
 ### Kilder

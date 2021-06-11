@@ -4,7 +4,7 @@ Disse kravene til teknisk tilgjengelighet danner deler av fundamentet for univer
 
 Trenger du bistand til å fortstå og følge opp kravene før, underveis og etter en anskaffelse? Ta kontakt med UU-Teamet på uu@nav.no eller på NAV-intern slack-kanal #nav-uu. (Sist oppdatert: 11.6.2021)
 
- Nummer | Beskrivelse av kravet | Prioritet (A)bsolutt, (V)iktig | Utdypende kommentar
+ Nr | Beskrivelse av kravet | Prioritet (A)bsolutt, (V)iktig | Utdypende kommentar
 ------------ | ------------- | ------------ | -------------
 1 | **WCAG 2.1 nivå A og AA** </br> Løsningen bør være i tråd med WCAG 2.1 nivå A og AA<a href="#fn-1">[1]</a> , og fremtidige lovpålagte versjoner av denne standarden, slik at flest mulig, uansett funksjonsnedsettelse, skal kunne bruke den.| V | X
 2 | **Sjekkliste** </br> Leverandøren bes bruke sjekklisten fra W3C for å dokumentere støtten for WCAG 2.1 nivå A og AA , se https://www.w3.org/WAI/eval/report-tool/#/  . Alternativt kan oppdatert Accessibility Conformance Report (ACR) med bl.a. Voluntary Product Accessibility Template (VPAT) brukes. | V | X

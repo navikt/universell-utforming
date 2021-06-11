@@ -1,7 +1,7 @@
 # Egenutvikling - krav til teknisk tilgjengelighet (UU)
 Disse kravene til teknisk tilgjengelighet danner deler av fundamentet for universell utforming av IKT (UU), og skal støttes ved utvikling av både **interne og eksterne løsninger** i NAV.
 
-Det jobbes smidig og godt ute i teamene, så tilnærmingen til etterlevelse av disse kravene, er opp til dere. Likevel anbefaler vi f.eks. noen former for dokumentasjon.
+Det jobbes smidig og godt ute i teamene, så tilnærmingen til etterlevelse av disse kravene, er opp til dere. Likevel anbefaler vi f.eks. noen former for dokumentasjon. Se også sidene for [UU-testing og verktøy m.m.](../hvordan-faa-det-til/UU-testing/)
 
 Trenger du bistand til å fortstå og følge opp kravene underveis i utviklingen av løsninger? Ta kontakt med UU-Teamet på uu@nav.no eller på NAV-intern slack-kanal #nav-uu. (Sist oppdatert: 11.6.2021)
 

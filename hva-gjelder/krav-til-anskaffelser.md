@@ -1,6 +1,6 @@
 # Krav til teknisk tilgjengelighet (UU) 
 ## Anskaffelser og egenutvikling i NAV
-Disse kravene til teknisk tilgjengelighet danner deler av fundamentet for universell utforming av IKT (UU), og skal stilles ved anskaffelse og egenutvikling av både **interne og eksterne løsninger** i NAV.
+Disse kravene til teknisk tilgjengelighet danner deler av fundamentet for universell utforming av IKT (UU), og skal stilles ved anskaffelse, og støttes ved egenutvikling, av både **interne og eksterne løsninger** i NAV.
 
 Trenger du bistand til å fortstå og følge opp kravene før, underveis og etter en anskaffelse, eller underveis i utviklingen av løsninger? Ta kontakt med UU-Teamet på uu@nav.no eller på NAV-intern slack-kanal #nav-uu. (Sist oppdatert: 11.6.2021)
 

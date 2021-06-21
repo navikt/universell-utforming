@@ -3,7 +3,7 @@
 Disse kravene til teknisk tilgjengelighet danner deler av fundamentet for universell utforming av IKT (UU), og skal stilles ved anskaffelse av både **interne og eksterne løsninger** i NAV. 
 
 Trenger du bistand til å fortstå og følge opp kravene før, underveis og etter en anskaffelse? Ta kontakt med UU-Teamet på uu@nav.no eller på NAV-intern slack-kanal #nav-uu. (Sist oppdatert: 11.6.2021)
-
+## Krav
 1 | **WCAG 2.1 nivå A og AA** 
 
 Løsningen bør være i tråd med WCAG 2.1 nivå A og AA<a href="#fn-1">[1]</a> , og fremtidige lovpålagte versjoner av denne standarden, slik at flest mulig, uansett funksjonsnedsettelse, skal kunne bruke den.

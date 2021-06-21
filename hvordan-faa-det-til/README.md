@@ -18,7 +18,7 @@ De utgjør universell-utformings-delen av [NAVs risikovurdering for team (NAV-in
 Vi har også laget en selvtest for team, der dere kan [sjekke om dere har de rette rammene for å lykkes med universell utforming i teamet (NAV-intern lenke)](https://forms.office.com/Pages/ResponsePage.aspx?id=NGU2YsMeYkmIaZtVNSedCwAsE8lDRltFj18QMj6idgBUOVdPNVNRRFEyV1JVQlFBOE5CRDZSQU00SC4u).
 
 ### I anskaffelser gjelder også:
-- Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelseer.md) i tråd med til en hver tid gjeldende lovverk. Eventuelle brudd blir fulgt opp.
+- Det stilles [tydelige krav til leverandør](hva-gjelder/krav-til-anskaffelser.md) i tråd med til en hver tid gjeldende lovverk. Eventuelle brudd blir fulgt opp.
 - Dere har oversikt over «stress-caser» og «kant-brukere» for løsningen (inkl. hjelpemiddelteknologi), og har lagt opp rutiner for å sjekke kvaliteten i leveransen. Eventuelle mangler blir fulgt opp.
 
 

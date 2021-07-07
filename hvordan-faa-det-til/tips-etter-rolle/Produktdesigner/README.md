@@ -30,6 +30,6 @@ UU-tipset vårt til deg som Produktdesigner er:
 Del gjerne egne erfaringer og tips vi kan legge på siden - eller motta veiledning - ved å kontakte uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.
 
 
-[![Hvem skal inkluderes når? - tips fra abc](/hvordan-faa-det-til/tips-etter-rolle/researcher-govuk.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/researcher-govuk.png)
+[![Hvem skal inkluderes når? - tips fra abc, PDF](/hvordan-faa-det-til/tips-etter-rolle/researcher-govuk.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/researcher-govuk.png)
 
-[![UU-tips for Designer-rollen fra abc](/hvordan-faa-det-til/tips-etter-rolle/designer-abc.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/a11y_Tips4Teams-designer_4978.pdf)
+[![UU-tips for Designer-rollen fra abc, PDF](/hvordan-faa-det-til/tips-etter-rolle/designer-abc.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/a11y_Tips4Teams-designer_4978.pdf)

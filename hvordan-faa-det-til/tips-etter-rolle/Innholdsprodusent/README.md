@@ -37,4 +37,4 @@ Skal vi designe for mennesker, må vi akseptere variasjon. Uansett hva du lager,
 Del gjerne egne erfaringer og hjelp oss å gjøre rådene til innholdsprodusenter enda bedre på uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.
 
 
-[![UU-tips for Content Makers fra abc](/hvordan-faa-det-til/tips-etter-rolle/contentmaker-abc.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/a11y_Tips4Teams-contentmakers_47667.pdf)
+[![UU-tips for Content Makers fra abc, PDF](/hvordan-faa-det-til/tips-etter-rolle/contentmaker-abc.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/a11y_Tips4Teams-contentmakers_47667.pdf)

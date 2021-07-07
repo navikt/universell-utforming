@@ -21,4 +21,4 @@ UU-tipset til deg i lederrolle er derfor:
 
 Del gjerne egne erfaringer - eller motta råd og veiledning - på uu@nav.no eller (NAV-intern) slack-kanal #nav-uu.
 
-[![UU-tips for Produkteier-rollen fra abc](/hvordan-faa-det-til/tips-etter-rolle/productowners-abc.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/a11y_Tips4Teams-productowner_52522.pdf)
+[![UU-tips for Produkteier-rollen fra abc, PDF](/hvordan-faa-det-til/tips-etter-rolle/productowners-abc.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/a11y_Tips4Teams-productowner_52522.pdf)

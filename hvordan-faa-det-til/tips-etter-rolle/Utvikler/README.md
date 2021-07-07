@@ -23,4 +23,4 @@ UU-tipset til deg som Utvikler er:
 Del gjerne egne erfaringer - eller motta råd og veiledning - på uu@nav.no eller (NAV-intern) slack-kanal #nav-uu. Ingen systemer er feilfrie, og vi setter særlig pris på [tilbakemeldinger om du oppdager feil i Designsystemet](https://github.com/navikt/designsystemet/issues) - eller om du har forslag til forbedringer. 
 Vi er også interessert i å få kjennskap til alle nye komponenter som ikke finnes i Designsystemet.
 
-[![UU--tips for Utvikler-rollen fra abc](/hvordan-faa-det-til/tips-etter-rolle/developers-abc.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/a11y_Tips4Teams-developers_24882.pdf)
+[![UU--tips for Utvikler-rollen fra abc, PDF](/hvordan-faa-det-til/tips-etter-rolle/developers-abc.png)](https://github.com/navikt/universell-utforming/raw/master/hvordan-faa-det-til/tips-etter-rolle/a11y_Tips4Teams-developers_24882.pdf)

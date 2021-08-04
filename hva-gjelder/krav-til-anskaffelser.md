@@ -69,7 +69,8 @@ Leverandøren bes bruke sjekklisten fra W3C for å dokumentere støtten for WCAG
 **Prioritet:** Viktig<br>
 **Utdypende kommentar:** Ja
 _______
-- <span id="fn-1">1</span>: https://www.w3.org/TR/WCAG21/
+- <span id="fn-1">1</span>: https://www.w3.org/TR/WCAG21/ <br>
+([Lenke til WCAG 2.1 på norsk](https://www.w3.org/Translations/WCAG21-no/))
 - <span id="fn-2">2</span>: https://www.w3.org/TR/wai-aria/ og https://www.w3.org/TR/wai-aria-practices/
 - <span id="fn-3">3</span>: http://www.w3.org/TR/ATAG20/
 

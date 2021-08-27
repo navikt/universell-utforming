@@ -8,4 +8,4 @@ Alle brukere har behov for at tjenestene våre er enkle, forståelige og kan bet
  
 Vi vil minne om at alle dere som jobber i NAV-team er ansvarlige for at løsningene deres følger lovpålagte krav for universell utforming. Det er dere som skal finne ut av brukernes behov, og redegjøre for hvordan dere har sikret at alle kan bruke løsningene dere lager. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=KSLx3yPwGGY" title="Tilsynets video om Universell utforming av ikt - 24 konkrete tips" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=KSLx3yPwGGY" title="Tilsynets video om Universell utforming av ikt, 24 konkrete tips" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

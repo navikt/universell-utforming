@@ -7,11 +7,9 @@ Trenger du bistand til å fortstå og følge opp kravene før, underveis og ette
 
 ## EUs webdirektiv (WAD) trer i kraft 1. januar 2022
 
-EUs webdirektiv (WAD) og WCAG 2.1<a href="#fn-1">[1]</a> er nå del av norsk rett. Regelverket trer i kraft 1. januar 2022, og gjelder for virksomheter i offentlig sektor. Det blir en innføringstid på 1 år, og nye krav skal følges fra og med 1. januar 2023. 
-- **NB!** I NAV har vi stilt disse kravene en god stund allerede (både internt og eksternt), så det blir ingen endringer slik sett.
+EUs webdirektiv (WAD) og WCAG 2.1<a href="#fn-1">[1]</a> er nå del av norsk rett. Regelverket trer i kraft 1. januar 2022, og gjelder for virksomheter i offentlig sektor. Det blir en innføringstid på 1 år, og nye krav skal følges fra og med 1. januar 2023. **NB!** I NAV har vi stilt disse kravene en god stund allerede (både internt og eksternt), så det blir ingen endringer slik sett.
 
-Både **EN 301 549**<a href="#fn-4">[4]</a> og **WCAG 2.1**<a href="#fn-1">[1]</a> blir nå sentrale dokument for å definere de tekniske kravene. Standardane er klare også på norsk, og er dermed mer tilgjengelige for brukere, pliktsubjekt, utviklere og andre. 
-- **NB! Viktig å få med dette i kontrakter og avtaler.**
+Både **EN 301 549**<a href="#fn-4">[4]</a> og **WCAG 2.1**<a href="#fn-1">[1]</a> blir nå sentrale dokument for å definere de tekniske kravene. Standardane er klare også på norsk, og er dermed mer tilgjengelige for brukere, pliktsubjekt, utviklere og andre. **NB! Viktig å få med dette i kontrakter og avtaler.**
 
 
 ## Krav

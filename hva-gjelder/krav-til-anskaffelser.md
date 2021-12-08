@@ -2,7 +2,7 @@
 
 Disse kravene til teknisk tilgjengelighet danner deler av fundamentet for universell utforming av IKT (UU), og skal stilles ved anskaffelse av både **interne og eksterne løsninger** i NAV. 
 
-Trenger du bistand til å fortstå og følge opp kravene før, underveis og etter en anskaffelse? Ta kontakt med UU-Teamet på uu@nav.no eller på NAV-intern slack-kanal #nav-uu. (Sist oppdatert: 11.6.2021)
+Trenger du bistand til å fortstå og følge opp kravene før, underveis og etter en anskaffelse? Ta kontakt med UU-Teamet på uu@nav.no eller på NAV-intern slack-kanal #nav-uu. (Sist oppdatert: 7.12.2021)
 
 
 ## EUs webdirektiv (WAD) trer i kraft 1. januar 2022

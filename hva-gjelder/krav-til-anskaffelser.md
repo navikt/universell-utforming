@@ -9,7 +9,7 @@ Trenger du bistand til å fortstå og følge opp kravene før, underveis og ette
 
 EUs webdirektiv (WAD) og WCAG 2.1<a href="#fn-1">[1]</a> er nå del av norsk rett. Regelverket trer i kraft 1. januar 2022, og gjelder for virksomheter i offentlig sektor. Det blir en innføringstid på 1 år, og nye krav skal følges fra og med 1. januar 2023.
 
-Med dette blir EN 301 549 og WCAG 2.1<a href="#fn-1">[1]</a> sentrale dokument for å definere de tekniske kravene. Nå er standardane klare også på norsk, og kravene er dermed mer tilgjengelige for brukere, pliktsubjekt, utviklere og andre.
+Med dette blir EN 301 549<a href="#fn-4">[4]</a> og WCAG 2.1<a href="#fn-1">[1]</a> sentrale dokument for å definere de tekniske kravene. Nå er standardane klare også på norsk, og kravene er dermed mer tilgjengelige for brukere, pliktsubjekt, utviklere og andre.
 
 
 ## Krav

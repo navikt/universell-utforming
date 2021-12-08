@@ -92,6 +92,9 @@ _______
 ([Lenke til WCAG 2.1 på norsk](https://www.w3.org/Translations/WCAG21-no/))
 - <span id="fn-2">2</span>: https://www.w3.org/TR/wai-aria/ og https://www.w3.org/TR/wai-aria-practices/
 - <span id="fn-3">3</span>: http://www.w3.org/TR/ATAG20/
-- <span id="fn-4">4</span>: https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf/ ) (PDF, 2Mb), https://www.uutilsynet.no/webdirektivet-wad/viktige-standardar-er-no-pa-norsk/925 og https://www.nkom.no/aktuelt/standarden-en-301-549-er-na-tilgjengelig-pa-norsk.
+- <span id="fn-4">4</span>: Aktuelle lenker:
+    - https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf/ (PDF, 2Mb)
+    - https://www.uutilsynet.no/webdirektivet-wad/viktige-standardar-er-no-pa-norsk/925
+    - https://www.nkom.no/aktuelt/standarden-en-301-549-er-na-tilgjengelig-pa-norsk.
 
 **NB! Henvisninger til standarder skal forstås som standarden eller tilsvarende.**

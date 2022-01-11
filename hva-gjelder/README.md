@@ -9,7 +9,7 @@ I en første overgangsperiode gjald kravene bare "ny IKT", altså løsninger som
 ## Fra 2021
 Siden __1. januar 2021__ må *alle* NAVs digitale løsninger rettet mot befolkningen følge [Forskriften om universell utforming av IKT](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732) - også de som ble laget *før* 1. juli 2014. Dette gjelder også alle PDF-er, skjemaer eller artikler som er deler av en digital brukerreise eller som NAV legger ut på nettet. 
 
-Fra 1. februar 2022 er [Web Accessibility Direktivet] fra EU om universell utforming av offentlige nettsteder og mobilapplikasjoner en del av norsk lov (gjelder fra 1. februar 2023). Dette fører til __ytterligere skjerpinger__, blant annet:
+Fra __1. februar 2022__ er [Web Accessibility Direktivet] fra EU om universell utforming av offentlige nettsteder og mobilapplikasjoner en del av norsk lov (gjelder fra 1. februar 2023). Dette fører til __ytterligere skjerpinger__, blant annet:
 1. Vi går fra [WCAG 2.0](https://www.uutilsynet.no/wcag-standarden/wcag-20-standarden/86) nivå AA krav til [WCAG 2.1](https://www.uutilsynet.no/webdirektivet-wad/wcag-21-standarden/140) nivå AA krav, og vi får flere nye krav.
 2. Alle digitale tjenester (og kontaktpunkter) skal ha en offentlig [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md). Denne må teamene eller produktområdene lage. [Tilsynet for universell utforming](https://www.uutilsynet.no/webdirektivet-wad/tilgjengelegheitserklaering/267) samarbeider med NAV og andre offentlige etater om en felles løsning for å lage slike tilgjengelighetserklæringer.
 3. Det skal være på plass en [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) for brukere å kunne rapportere inn UU-feil.

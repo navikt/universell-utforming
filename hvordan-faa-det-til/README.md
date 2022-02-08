@@ -35,7 +35,7 @@ Her er minimums to-do for å nå kravene fra lovverket:
 
 ### Fra 2021 / Web Accessibility Directive
 - [Tilgjengelighetserklæring](/hvordan-faa-det-til/tilgjengelighetserklæring.md) er skrevet. Avjørelser om avvik fra lovpålagte WCAG-krav skal inn her. Dere skal også beskrive hvordan dere har testet - automatiske sjekker, manuell ekspertsjekk, eksperttesting med hjelpeteknologi og/eller type brukertesting.
-- [Tilbakemeldingsfunksjon](/hvordan-faa-det-til/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert.
+- [Tilbakemeldingsfunksjon](/hva-gjelder/tilbakemeldingsfunksjon.md) fungerer og endringsrutiner er etablert. 
 
 ## Tips etter rolle i team
 For å lage virkelig inkluderende løsninger, kreves det mer enn bare WCAG-testing. Det er viktig å se hvor forskjellig brukerbehovene er hele veien, og ha med UU-tankegangen i innsiktsarbeid, involvere brukerne hele veien og teste aktivt med burkere, også de som bruker hjelpemidler. Her tilbyr UU-teamet [test min løsning](/hvordan-faa-det-til/UU-testing/brukertesting/test-min-løsning.md), der teamet rekrutterer innbyggere som bruker delvis avansert hjelpemiddelteknologi og teamene kan booke tider for å teste sin løsning. Test gjerne også selv med forskjellige hjelpemidler før du tester med brukerne.
